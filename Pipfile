@@ -1,0 +1,42 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+# Formatting
+flake8 = "*"
+pylint = "*"
+black = "==21.8b0"
+isort = "*"
+# Testing
+tox = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-xdist = "*"
+pytest-sugar = "*"
+pyfakefs = "*"
+mypy = "*"
+types-requests = "*"
+# Coverage
+coverage = "*"
+# Tools
+pre-commit = "*"
+twine = "*"
+invoke = "*"
+m2r = "*"
+bump2version = "*"
+pytest-subtests = "*"
+types-setuptools = "*"
+
+[packages]
+numpy = "*"
+torch = "*"
+scikit-learn = "*"
+click = "*"
+matplotlib = "*"
+pandas = "*"
+jupyterlab = "*"
+seaborn = "*"
+tqdm = "*"
+pyspark = "*"
