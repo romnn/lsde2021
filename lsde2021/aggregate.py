@@ -8,7 +8,6 @@ from pyspark.sql.types import IntegerType, LongType, StringType, StructField, St
 
 import lsde2021.download as dl
 from lsde2021.types import PathLike
-from typing import Optional
 
 
 def aggregate_daily_pageviews(
@@ -16,7 +15,6 @@ def aggregate_daily_pageviews(
     date: datetime.date,
     src: PathLike,
     dest: PathLike,
-    strip_dbfs_prefix: Optional[PathLike] = None,
 ) -> PathLike:
     """
     see https://stackoverflow.com/questions/51217168/wikipedia-pageviews-analysis
@@ -38,16 +36,12 @@ def aggregate_daily_pageviews(
 
     daily = None
     daily_out = dest / Path("/".join(dl.wikimedia_daily_local_file(date)))
-    if strip_dbfs_prefix:
-        daily_out = daily_out.relative_to(strip_dbfs_prefix)
 
     for hour in range(24):
         current = datetime.datetime.combine(
             date, datetime.time.min
         ) + datetime.timedelta(hours=hour)
         hourly_file = src / Path("/".join(dl.wikimedia_local_file(current)))
-        if strip_dbfs_prefix:
-            hourly_file = hourly_file.relative_to(strip_dbfs_prefix)
 
         try:
             df = csv_loader.load(str(hourly_file), schema=schema)
