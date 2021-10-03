@@ -11,10 +11,11 @@ from lsde2021.types import PathLike
 
 
 def aggregate_daily_pageviews(
-    spark: pyspark.sql.session.SparkSession,
     date: datetime.date,
+    spark: pyspark.sql.session.SparkSession,
     src: PathLike,
     dest: PathLike,
+    force: bool = False,
 ) -> PathLike:
     """
     see https://stackoverflow.com/questions/51217168/wikipedia-pageviews-analysis
@@ -23,6 +24,7 @@ def aggregate_daily_pageviews(
         count_views
         total_response_size (no longer maintained)
     """
+
     schema = StructType(
         [
             StructField("domain_code", StringType(), True),
@@ -36,6 +38,9 @@ def aggregate_daily_pageviews(
 
     daily = None
     daily_out = dest / Path("/".join(dl.wikimedia_daily_local_file(date)))
+    if not force and daily_out.exists():
+        print(f"using existing {daily_out} ...")
+        return daily_out
 
     for hour in range(24):
         current = datetime.datetime.combine(
