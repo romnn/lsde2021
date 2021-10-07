@@ -5,7 +5,7 @@ import sys
 import time
 import traceback
 from pathlib import Path, PurePosixPath
-from typing import Iterable, Optional, Tuple
+from typing import Iterable, Optional, Tuple, Callable
 from urllib.parse import unquote, urlparse
 
 import requests
@@ -52,7 +52,7 @@ def wikimedia_files(
     return zip(dates, map(wikimedia_url, dates))
 
 
-def can_decompress(file: PathLike, chunk_size: int = 1024) -> bool:
+def can_decompress(file: PathLike) -> bool:
     try:
         with gzip.open(file, "rb") as f:
             _ = f.read()
@@ -62,11 +62,18 @@ def can_decompress(file: PathLike, chunk_size: int = 1024) -> bool:
     return False
 
 
-def download_wikimedia_file(
-    url: str, destination: PathLike, force: bool = False
+def download_file(
+    url: str,
+    destination: PathLike,
+    force: bool = False,
+    max_retries: int = 10,
+    validate_file_func: Optional[Callable[[PathLike], bool]] = None,
+    # pre_download_func: Optional[Callable[[str, PathLike], None]] = None,
 ) -> PathLike:
+    # if pre_download_func:
+    # pre_download_func(url, destination
     if not force and Path(destination).exists():
-        if can_decompress(destination):
+        if not validate_file_func or validate_file_func(destination):
             print(f"using existing file {destination} ...")
             # skip download
             return destination
@@ -102,13 +109,15 @@ def download_wikimedia_file(
                             if chunk:
                                 f.write(chunk)
                 # check if the file is fine
-                if not can_decompress(destination):
+                if validate_file_func and not validate_file_func(destination):
+                    raise Value
                     raise IOError("cannot decompress file")
                 break
-            except (requests.exceptions.HTTPError, IOError) as e:
-                if isinstance(e, requests.exceptions.HTTPError) and not (
-                    500 <= e.response.status_code < 600
-                ):
+            except (requests.exceptions.RequestException, IOError) as e:
+                if isinstance(e, requests.exceptions.HTTPError):
+                    if not (500 <= e.response.status_code < 600):
+                        raise e
+                else:
                     raise e
                 last_error = e
                 wait_time = retries * 20
@@ -116,7 +125,7 @@ def download_wikimedia_file(
                 sys.stdout.flush()
                 time.sleep(wait_time)
                 retries += 1
-            if retries >= 10:
+            if retries >= max_retries:
                 raise ValueError(
                     f"failed to download after {retries} attempts: {last_error}"
                 )
@@ -126,11 +135,13 @@ def download_wikimedia_file(
     return destination
 
 
-def download_handler(
+def download_wikipedia_pageviews_handler(
     item: Tuple[datetime.datetime, str], dest: PathLike, force: bool = False
 ) -> Tuple[datetime.datetime, PathLike]:
     date, url = item
     filename = Path("/".join(wikimedia_local_file(date)))
     destination = dest / filename
     print(f"downloading {destination}")
-    return date, download_wikimedia_file(url, destination=destination, force=force)
+    return date, download_file(
+        url, destination=destination, force=force, validate_file_func=can_decompress
+    )

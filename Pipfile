@@ -28,6 +28,7 @@ m2r = "*"
 bump2version = "*"
 pytest-subtests = "*"
 types-setuptools = "*"
+databricks-cli = "*"
 
 [packages]
 numpy = "*"
