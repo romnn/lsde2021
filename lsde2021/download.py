@@ -1,44 +1,92 @@
 import datetime
-import gzip
 import random
 import sys
+import bz2
 import time
 import traceback
+import itertools
+from functools import partial
 from pathlib import Path, PurePosixPath
-from typing import Iterable, Optional, Tuple
+from typing import Iterable, Union, Optional, Tuple, Callable, Literal, List
 from urllib.parse import unquote, urlparse
+from dateutil.relativedelta import relativedelta
 
 import requests
 
 from lsde2021.types import PathLike
 
 
-def wikimedia_url(date: datetime.datetime) -> str:
+class ValidationException(Exception):
+    def __init__(self, message: str):
+        self.message = message
+        super().__init__(self.message)
+
+
+class CorruptFile(ValidationException):
+    def __init__(self, path: PathLike):
+        self.message = f"file {path} is corrupt and could not be decompressed"
+        super().__init__(self.message)
+
+
+def wikimedia_pageview_complete_url(
+    date: datetime.date,
+    monthly: bool = False,
+    kind: str = "user",
+) -> str:
     year = str(date.year)
     month = str(date.month).zfill(2)
     day = str(date.day).zfill(2)
-    hour = str(date.hour).zfill(2)
-    file = f"{year}/{year}-{month}/pageviews-{year}{month}{day}-{hour}0000.gz"
-    return f"https://dumps.wikimedia.org/other/pageviews/{file}"
+    base = "monthly" if monthly else ""
+    datestr = f"{year}{month}" if monthly else f"{year}{month}{day}"
+    loc = f"{year}/{year}-{month}/pageviews-{datestr}-{kind}.bz2"
+    return f"https://dumps.wikimedia.org/other/pageview_complete/{base}/{loc}"
 
 
-def wikimedia_local_file(date: datetime.datetime) -> Tuple[str, ...]:
-    parsed_url = urlparse(wikimedia_url(date))
+WIKIMEDIA_TABLES = Literal["langlinks", "page", "category", "categorylinks"]
+
+
+def wikimedia_sql_dump_url(
+    date: datetime.date,
+    wiki: str,
+    table: WIKIMEDIA_TABLES,
+) -> str:
+    year = str(date.year)
+    month = str(date.month).zfill(2)
+    day = str(date.day).zfill(2)
+    datestr = f"{year}{month}{day}"
+    return (
+        f"https://dumps.wikimedia.org/{wiki}/{datestr}/{wiki}-{datestr}-{table}.sql.gz"
+    )
+
+
+def wikimedia_sql_dump_local_file(
+    date: datetime.date,
+    wiki: str,
+    table: WIKIMEDIA_TABLES,
+) -> Tuple[str, ...]:
+    parsed_url = urlparse(wikimedia_sql_dump_url(date, wiki=wiki, table=table))
     parsed_path = PurePosixPath(unquote(parsed_url.path))
-    filename_parts = parsed_path.parts[-3:]
+    filename_parts = parsed_path.parts[1:]
     return filename_parts
 
 
-def wikimedia_daily_local_file(date: datetime.date) -> Tuple[str, ...]:
-    return (f"{date.year}", f"{date.year}-{date.month}-{date.day}.parquet")
+def wikimedia_pageview_complete_local_file(
+    date: datetime.date, monthly: bool = False, kind: str = "user"
+) -> Tuple[str, ...]:
+    parsed_url = urlparse(
+        wikimedia_pageview_complete_url(date, monthly=monthly, kind=kind)
+    )
+    parsed_path = PurePosixPath(unquote(parsed_url.path))
+    filename_parts = parsed_path.parts[3:]
+    return filename_parts
 
 
-def datetime_range(
-    start: datetime.datetime,
-    end: datetime.datetime,
-    interval: Optional[datetime.timedelta] = None,
-) -> Iterable[datetime.datetime]:
-    iv = interval or datetime.timedelta(hours=1)
+def date_range(
+    start: datetime.date,
+    end: datetime.date,
+    interval: Optional[Union[datetime.timedelta, relativedelta]] = None,
+) -> Iterable[datetime.date]:
+    iv = interval or relativedelta(days=+1)
     current = start
     yield current
     while current < end:
@@ -46,27 +94,63 @@ def datetime_range(
         yield current
 
 
-def wikimedia_files(
-    dates: Iterable[datetime.datetime],
-) -> Iterable[Tuple[datetime.datetime, str]]:
-    return zip(dates, map(wikimedia_url, dates))
+def datetime_range(
+    start: datetime.datetime,
+    end: datetime.datetime,
+    interval: Optional[Union[datetime.timedelta, relativedelta]] = None,
+) -> Iterable[datetime.datetime]:
+    iv = interval or relativedelta(days=+1)
+    current = start
+    yield current
+    while current < end:
+        current += iv
+        yield current
 
 
-def can_decompress(file: PathLike, chunk_size: int = 1024) -> bool:
+def wikimedia_pageview_complete_urls(
+    dates: Iterable[datetime.date], monthly: bool = False, kind: str = "user"
+) -> Iterable[Tuple[datetime.date, str]]:
+    return list(
+        zip(
+            dates,
+            map(
+                partial(wikimedia_pageview_complete_url, monthly=monthly, kind=kind),
+                dates,
+            ),
+        )
+    )
+
+
+def wikimedia_sql_dump_urls(
+    dates: Iterable[datetime.date],
+    wikis: List[str],
+    tables: List[WIKIMEDIA_TABLES],
+) -> Iterable[Tuple[Tuple[datetime.date, str, str], str]]:
+    params = list(itertools.product(dates, wikis, tables))
+    return list(zip(params, itertools.starmap(wikimedia_sql_dump_url, params)))
+
+
+def can_decompress_bz2(path: PathLike) -> bool:
     try:
-        with gzip.open(file, "rb") as f:
-            _ = f.read()
+        with open(path, "rb") as f:
+            decompressor = bz2.BZ2Decompressor()
+            for data in iter(lambda: f.read(100 * 1024), b""):
+                _ = decompressor.decompress(data)
         return True
     except Exception as e:
-        print(e)
+        raise e
     return False
 
 
-def download_wikimedia_file(
-    url: str, destination: PathLike, force: bool = False
+def download_file(
+    url: str,
+    destination: PathLike,
+    force: bool = False,
+    max_retries: int = 20,
+    validate_file_func: Optional[Callable[[PathLike], bool]] = None,
 ) -> PathLike:
     if not force and Path(destination).exists():
-        if can_decompress(destination):
+        if not validate_file_func or validate_file_func(destination):
             print(f"using existing file {destination} ...")
             # skip download
             return destination
@@ -87,6 +171,8 @@ def download_wikimedia_file(
     # use unsuspiscious user agent header
     headers = {"User-Agent": random.choice(user_agents)}
 
+    print(f"downloading file {destination} ...")
+
     # download the file
     try:
         last_error = None
@@ -102,13 +188,18 @@ def download_wikimedia_file(
                             if chunk:
                                 f.write(chunk)
                 # check if the file is fine
-                if not can_decompress(destination):
-                    raise IOError("cannot decompress file")
+                if validate_file_func and not validate_file_func(destination):
+                    raise ValidationException(
+                        f"failed to validate downloaded file from {url}"
+                    )
                 break
-            except (requests.exceptions.HTTPError, IOError) as e:
-                if isinstance(e, requests.exceptions.HTTPError) and not (
-                    500 <= e.response.status_code < 600
-                ):
+            except (requests.exceptions.RequestException, ValidationException) as e:
+                if isinstance(e, requests.exceptions.HTTPError):
+                    if not (500 <= e.response.status_code < 600):
+                        raise e
+                elif isinstance(e, ValidationException):
+                    pass
+                else:
                     raise e
                 last_error = e
                 wait_time = retries * 20
@@ -116,7 +207,7 @@ def download_wikimedia_file(
                 sys.stdout.flush()
                 time.sleep(wait_time)
                 retries += 1
-            if retries >= 10:
+            if retries >= max_retries:
                 raise ValueError(
                     f"failed to download after {retries} attempts: {last_error}"
                 )
@@ -124,13 +215,3 @@ def download_wikimedia_file(
         print(f"failed to download {url}: {e}")
         print(traceback.format_exc())
     return destination
-
-
-def download_handler(
-    item: Tuple[datetime.datetime, str], dest: PathLike, force: bool = False
-) -> Tuple[datetime.datetime, PathLike]:
-    date, url = item
-    filename = Path("/".join(wikimedia_local_file(date)))
-    destination = dest / filename
-    print(f"downloading {destination}")
-    return date, download_wikimedia_file(url, destination=destination, force=force)

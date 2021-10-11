@@ -28,6 +28,8 @@ m2r = "*"
 bump2version = "*"
 pytest-subtests = "*"
 types-setuptools = "*"
+databricks-cli = "*"
+types-python-dateutil = "*"
 
 [packages]
 numpy = "*"
@@ -42,3 +44,4 @@ tqdm = "*"
 pyspark = "*"
 pywikibot = "*"
 mwparserfromhell = "*"
+python-dateutil = "*"

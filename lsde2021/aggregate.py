@@ -37,7 +37,7 @@ def aggregate_daily_pageviews(
     csv_loader = spark.read.format("csv").option("sep", " ")
 
     daily = None
-    daily_out = dest / Path("/".join(dl.wikimedia_daily_local_file(date)))
+    daily_out = dest / Path("/".join(dl.wikimedia_pageview_complete_local_file(date)))
     if not force and daily_out.exists():
         print(f"using existing {daily_out} ...")
         return daily_out
@@ -46,7 +46,9 @@ def aggregate_daily_pageviews(
         current = datetime.datetime.combine(
             date, datetime.time.min
         ) + datetime.timedelta(hours=hour)
-        hourly_file = src / Path("/".join(dl.wikimedia_local_file(current)))
+        hourly_file = src / Path(
+            "/".join(dl.wikimedia_pageview_complete_local_file(current))
+        )
 
         try:
             df = csv_loader.load(str(hourly_file), schema=schema)

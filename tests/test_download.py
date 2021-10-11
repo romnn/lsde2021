@@ -6,6 +6,7 @@
 import datetime
 import os
 import tempfile
+from dateutil.relativedelta import relativedelta
 from typing import List, Tuple
 
 import pytest
@@ -18,16 +19,16 @@ import lsde2021.download as dl
     "start, end, count",
     [
         (
-            datetime.datetime(2021, 1, 1, hour=8),
-            datetime.datetime(2021, 1, 1, hour=12),
+            datetime.date(2021, 1, 1),
+            datetime.date(2021, 1, 2),
             5,
         )
     ],
 )
-def test_datetime_range(
-    subtests: SubTests, start: datetime.datetime, end: datetime.datetime, count: int
+def test_date_range(
+    subtests: SubTests, start: datetime.date, end: datetime.date, count: int
 ) -> None:
-    date_range = dl.datetime_range(start, end)
+    date_range = dl.date_range(start, end)
     assert len(list(date_range)) == count
 
 
@@ -35,30 +36,49 @@ def test_datetime_range(
     "date, url, path",
     [
         (
-            datetime.datetime(2021, 1, 1, hour=8),
-            "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210101-080000.gz",
+            datetime.date(2021, 1, 1),
+            (
+                "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210101-080000.gz",
+                False,
+            ),
             ("2021", "2021-01", "pageviews-20210101-080000.gz"),
         ),
         (
-            datetime.datetime(2021, 1, 16, hour=14),
-            "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210116-140000.gz",
+            datetime.date(2021, 1, 16),
+            (
+                "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210116-140000.gz",
+                False,
+            ),
+            ("2021", "2021-01", "pageviews-20210116-140000.gz"),
+        ),
+        (
+            datetime.date(2021, 1, 16),
+            (
+                "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210116-140000.gz",
+                True,
+            ),
             ("2021", "2021-01", "pageviews-20210116-140000.gz"),
         ),
     ],
 )
 def test_wikimedia_downloads(
-    subtests: SubTests, date: datetime.datetime, url: str, path: Tuple[str, ...]
+    subtests: SubTests,
+    params: Tuple[datetime.date, bool],
+    url: str,
+    path: Tuple[str, ...],
 ) -> None:
-    assert dl.wikimedia_url(date) == url
-    assert dl.wikimedia_local_file(date) == path
+    date, monthly = params
+    assert dl.wikimedia_pageview_complete_url(date, monthly=monthly) == url
+    assert dl.wikimedia_pageview_complete_local_file(date, monthly=monthly) == path
 
 
 @pytest.mark.parametrize(
     "start, end, urls",
     [
         (
-            datetime.datetime(2021, 1, 1, hour=8),
-            datetime.datetime(2021, 1, 1, hour=10),
+            datetime.date(2021, 1, 1),
+            datetime.date(2021, 1, 1),
+            False,
             [
                 "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210101-080000.gz",
                 "https://dumps.wikimedia.org/other/pageviews/2021/2021-01/pageviews-20210101-090000.gz",
@@ -69,11 +89,20 @@ def test_wikimedia_downloads(
 )
 def test_wikimedia_files(
     subtests: SubTests,
-    start: datetime.datetime,
-    end: datetime.datetime,
+    start: datetime.date,
+    end: datetime.date,
+    monthly: bool,
     urls: List[str],
 ) -> None:
-    date_range = list(dl.datetime_range(start, end))
-    assert list(sorted([url for _, url in dl.wikimedia_files(date_range)])) == sorted(
-        urls
-    )
+    iv = relativedelta(months=+1) if monthly else relativedelta(days=+1)
+    date_range = list(dl.date_range(start, end, interval=iv))
+    assert list(
+        sorted(
+            [
+                url
+                for _, url in dl.wikimedia_pageview_complete_urls(
+                    date_range, monthly=monthly
+                )
+            ]
+        )
+    ) == sorted(urls)
