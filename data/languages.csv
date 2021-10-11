@@ -1,0 +1,52 @@
+code,name,dbname,group
+ar,Arabic,arwiki,ar
+ary,Moroccan Arabic,arywiki,ar
+arz,Egyptian Arabic,arzwiki,ar
+az,Azerbaijani,azwiki,az
+azb,South Azerbaijani,azbwiki,az
+bg,Bulgarian,bgwiki,bg
+bs,Bosnian,bswiki,bs
+ca,Catalan,cawiki,ca
+cs,Czech,cswiki,cs
+da,Danish,dawiki,da
+de,German,dewiki,de
+el,Greek,elwiki,el
+en,English,enwiki,en
+es,Spanish,eswiki,es
+et,Estonian,etwiki,et
+fi,Finnish,fiwiki,fi
+fr,French,frwiki,fr
+ga,Irish,gawiki,ga
+hi,Hindi,hiwiki,hi
+he,Hebrew,hewiki,he
+hu,Hungarian,huwiki,hu
+hy,Armenian,hywiki,hy
+hyw,Western Armenian,hywwiki,hy
+id,Indonesian,idwiki,id
+is,Icelandic,iswiki,is
+it,Italian,itwiki,it
+ja,Japanese,jawiki,ja
+ko,Korean,kowiki,ko
+ku,Kurdish,kuwiki,ku
+lb,Luxembourgish,lbwiki,lb
+lt,Lithuanian,ltwiki,lt
+nl,Dutch,nlwiki,nl
+no,Norwegian,nowiki,no
+pl,Polish,plwiki,pl
+pt,Portuguese,ptwiki,pt
+ro,Romanian,rowiki,ro
+ru,Russian,ruwiki,ru
+be,Belarusian,bewiki,ru
+bxr,Russia Buriat,bxrwiki,ru
+sl,Slovenian,slwiki,sl
+sq,Albanian,sqwiki,sq
+sr,Serbian,srwiki,sr
+sv,Swedish,svwiki,sv
+tr,Turkish,trwiki,tr
+uk,Ukrainian,ukwiki,uk
+vi,Vietnamese,viwiki,vi
+zh,Chinese,zhwiki,zh
+gan,Gan Chinese,ganwiki,zh
+cdo,Min Dong Chinese,cdowiki,zh
+zh-classical,Classical Chinese,zh_classicalwiki,zh
+zh-min-nan,Chinese (Min Nan),zh_min_nanwiki,zh

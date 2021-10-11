@@ -1,0 +1,10 @@
+[package]
+name = "sql-extractor"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+parse-mediawiki-sql = { version = "0.6.0", features = ["utils"] }
+anyhow = "1.0"
+csv = "1.1.6"
+clap = "3.0.0-beta.2"

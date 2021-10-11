@@ -29,6 +29,7 @@ bump2version = "*"
 pytest-subtests = "*"
 types-setuptools = "*"
 databricks-cli = "*"
+types-python-dateutil = "*"
 
 [packages]
 numpy = "*"
@@ -41,3 +42,4 @@ jupyterlab = "*"
 seaborn = "*"
 tqdm = "*"
 pyspark = "*"
+python-dateutil = "*"
