@@ -6,6 +6,17 @@ docker build -t spark .
 docker run -p 9000:8888 -v /media/roman/BIGBIGDATA/lsde2021:/home/jovyan/hdd -v /media/roman/WICKEDFAST/lsde2021:/home/jovyan/nvme -v $PWD:/home/jovyan/work spark
 ```
 
+#### Setup ORES
+```bash
+PIPENV_PIPFILE=./Pipfile.ores pipenv install --dev
+PIPENV_PIPFILE=./Pipfile.ores pipenv shell
+```
+
+#### Monitor disk usage
+```bash
+watch iostat nvme0n1 sdc
+```
+
 #### Configuring the databricks CLI
 ```bash
 databricks configure
