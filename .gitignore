@@ -2,6 +2,9 @@
 wikimedia_data/
 .ipynb_checkpoints/
 .coverage
+pywikibot.lwp
+throttle.ctrl
+apicache-py3/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
