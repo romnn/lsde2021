@@ -22,25 +22,131 @@ import sweden from "../images/sweden.png";
 import italy from "../images/italy.png";
 import languagesregression from "../images/languagesregression.png";
 import ScrollButton from "../components/scrollButton.jsx";
-import eventDict from "../data/eventList.json";
+import eventDictWorld from "../data/eventListWorld.json";
+import eventDictGermany from "../data/eventListGermany.json"
+import eventDictFrance from "../data/eventListFrance.json";
+import eventDictSpain from "../data/eventListSpain.json"
+import eventDictNetherlands from "../data/eventListNetherlands.json";
+import eventDictSweden from "../data/eventListSweden.json"
+import eventDictItaly from "../data/eventListItaly.json"
+
+
 export default function PlotChart() {
   var dotStyle;
-  const [showVac, setShowVac] = useState(true);
-  const [showStringency, setShowStringency] = useState(true);
+
+  const [showWorld, setShowWorld] = useState(true);
+  const [showGermany, setShowGermany] = useState(false);
+  const [showFrance, setShowFrance] = useState(false);
+  const [showSpain, setShowSpain] = useState(false);
+  const [showItaly, setShowItaly] = useState(false);
+  const [showSweden, setShowSweden] = useState(false);
+  const [showNetherlands, setShowNetherlands] = useState(false);
+
+
+
   const [event, setEvent] = useState(null);
   const [hover, setHover] = useState(false);
   const [eventName, setEventName] = useState(false);
   const [eventDate, setEventDate] = useState(false);
+
+  const [eventDict, setEventDict] = useState(eventDictWorld)
+
+
   hover
     ? (dotStyle = { color: "#ed1212", cursor: "pointer" })
     : (dotStyle = {});
-  function handleChangeStringency() {
-    setShowStringency(!showStringency);
+
+
+  function handleChangeWorld() {
+    setShowFrance(false);
+    setShowGermany(false);
+    setShowSpain(false);
+    setShowSweden(false);
+    setShowItaly(false);
+    setShowNetherlands(false);
+
+    setShowWorld(!showWorld);
+
+
+    setEventDict(eventDictWorld);
   }
 
-  function handleChangeVac() {
-    setShowVac(!showVac);
+  function handleChangeGermany() {
+    setShowWorld(false);
+    setShowFrance(false);
+    setShowSpain(false);
+    setShowSweden(false);
+    setShowItaly(false);
+    setShowNetherlands(false);
+
+    setShowGermany(!showGermany);
+
+    setEventDict(eventDictGermany);
   }
+
+  function handleChangeFrance(){
+    setShowWorld(false);
+    setShowSpain(false);
+    setShowSweden(false);
+    setShowItaly(false);
+    setShowNetherlands(false);
+    setShowGermany(false);
+    setShowFrance(!showFrance);
+   
+    
+    setEventDict(eventDictFrance);
+  }
+
+  function handleChangeSpain(){
+    setShowWorld(false);
+    setShowFrance(false);
+    setShowSweden(false);
+    setShowItaly(false);
+    setShowNetherlands(false);
+    setShowGermany(false);
+    setShowSpain(!showSpain);
+ 
+    setEventDict(eventDictSpain);
+  }
+
+  function handleChangeSweden(){
+    setShowWorld(false);
+    setShowFrance(false);
+    setShowSpain(false);
+    setShowItaly(false);
+    setShowNetherlands(false);
+    setShowGermany(false);
+    setShowSweden(!showSweden)
+    
+    setEventDict(eventDictSweden);
+  }
+
+  function handleChangeItaly(){
+
+    setShowWorld(false);
+    setShowFrance(false);
+    setShowSpain(false);
+    setShowNetherlands(false);
+    setShowGermany(false);
+    setShowSweden(false);
+    setShowItaly(!showItaly)
+    setEventDict(eventDictItaly);
+  }
+
+  function handleChangeNetherlands(){
+   
+    setShowWorld(false);
+    setShowItaly(false);
+    setShowFrance(false);
+    setShowSpain(false);
+    setShowSweden(false);
+    setShowGermany(false);
+    setShowNetherlands(!showNetherlands);
+   
+    setEventDict(eventDictNetherlands);
+  }
+
+  
 
   function handleClick(e) {
     console.log("e", e)
@@ -64,21 +170,23 @@ export default function PlotChart() {
             <YAxis dataKey="stringencyGermany" />
             <CartesianGrid stroke="#f5f5f5" />
          
-                
+              {(showWorld || showGermany) &&
               <Line
                 type="natural"
                 dot={false}
                 dataKey="stringencyGermany"
                 stroke="#ff7300"
                 yAxisId={0}
-              />
+              /> } 
+              {(showWorld || showFrance) && 
               <Line
                 type="natural"
                 dot={false}
                 dataKey="stringencyFrance"
                 stroke="red"
                 yAxisId={0}
-              />
+              /> }
+              {(showWorld || showNetherlands) &&  
               
               <Line
                 type="natural"
@@ -86,28 +194,34 @@ export default function PlotChart() {
                 dataKey="stringencyNetherlands"
                 stroke="#green"
                 yAxisId={0}
-              />
+              /> }
+              {(showWorld || showItaly) && 
+
               <Line
                 type="natural"
                 dot={false}
                 dataKey="stringencyItaly"
                 stroke="blue"
                 yAxisId={0}
-              />
+              /> }
+              {(showWorld || showSpain) && 
+
               <Line
                 type="natural"
                 dot={false}
                 dataKey="stringencySpain"
                 stroke="black"
                 yAxisId={0}
-              />
+              /> }
+              {(showWorld || showSweden) && 
+
               <Line
                 type="natural"
                 dot={false}
                 dataKey="stringencySweden"
                 stroke="purple"
                 yAxisId={0}
-              />
+              /> }
               
             
             {/* {showVac && (
@@ -132,24 +246,68 @@ export default function PlotChart() {
                 // label={key.name}
               />
             ))} 
+
+           
+          
           </LineChart>
         </ResponsiveContainer>
 
         <div>
           <div class="flex flex-col ... text-center py-10">
+          <label>
+              <span>World</span>
+
+              <Switch onChange={handleChangeWorld} checked={showWorld} />
+            </label>
             <label>
               <span>Germany</span>
 
               <Switch
-                onChange={handleChangeStringency}
-                checked={showStringency}
+                onChange={handleChangeGermany}
+                checked={showGermany}
               />
             </label>
             <label>
               <span>France</span>
 
-              <Switch onChange={handleChangeVac} checked={showVac} />
+              <Switch
+                onChange={handleChangeFrance}
+                checked={showFrance}
+              />
             </label>
+            <label>
+              <span>Spain</span>
+
+              <Switch
+                onChange={handleChangeSpain}
+                checked={showSpain}
+              />
+            </label>
+            <label>
+              <span>Italy</span>
+
+              <Switch
+                onChange={handleChangeItaly}
+                checked={showItaly}
+              />
+            </label>
+            <label>
+              <span>Netherlands</span>
+
+              <Switch
+                onChange={handleChangeNetherlands}
+                checked={showNetherlands}
+              />
+            </label>
+            <label>
+              <span>Sweden</span>
+
+              <Switch
+                onChange={handleChangeSweden}
+                checked={showSweden}
+              />
+            </label>
+          
           </div>
         </div>
       </div>
