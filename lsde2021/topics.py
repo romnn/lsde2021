@@ -1,10 +1,12 @@
 import re
-from typing import List, Dict
+import networkx as nx
+from typing import Set, List, Dict, Tuple, Pattern, Any, Optional
 from pprint import pprint
+import lsde2021.lang as lang
 
 numeric = re.compile(r"^([\s\d]+)$")
 
-patterns = [
+patterns: List[Tuple[Pattern[str], List[str]]] = [
     (re.compile(r"^\d+th-century_(\w+)_in_the_(\w+)$"), []),
     (re.compile(r"^\d+th-century_(\w+)_in_(\w+)$"), []),
     (re.compile(r"^\d+s_in_the_(\w+)$"), []),
@@ -108,21 +110,21 @@ EXCLUDE = set(stopwords).union(
 )
 
 
-def flatten(seq):
+def flatten(seq: List[List[Any]]) -> List[Any]:
     return [item for sublist in seq for item in sublist]
 
 
-def unique(seq, key):
-    seen = set()
+def unique(seq: List[Any], key: Any) -> List[Any]:
+    seen: Set[Any] = set()
     seen_add = seen.add
     return [x for x in seq if not (key(x) in seen or seen_add(key(x)))]
 
 
-def is_uppercase(s: str):
+def is_uppercase(s: str) -> bool:
     return s[0].isupper()
 
 
-def split_by_pattern(s: str) -> List[str]:
+def split_by_pattern(s: str) -> Tuple[List[str], bool]:
     for pattern, extra_words in patterns:
         match = re.fullmatch(pattern, s)
         if match:
@@ -131,8 +133,12 @@ def split_by_pattern(s: str) -> List[str]:
 
 
 def split(
-    s: str, split_unmatched=False, singularize=False, pluralize=False, recursive=False
-):
+    s: str,
+    split_unmatched: bool = False,
+    singularize: bool = False,
+    pluralize: bool = False,
+    recursive: bool = False,
+) -> Set[str]:
     # first, test for common patterns
     splitted, matched = split_by_pattern(s)
     # print(splitted)
@@ -152,28 +158,30 @@ def split(
         else:
             splitted = [s]
 
-    splitted = set(
+    splitted_set = set(
         [sp.replace("_", " ") for sp in splitted if numeric.match(sp) is None]
     )
     # print(s, splitted, matched)
 
     if singularize and pluralize:
-        splitted = set([singularize(sp) for sp in splitted]).union(
-            set([pluralize(sp) for sp in splitted])
+        splitted_set = set([lang.singularize(sp) for sp in splitted_set]).union(
+            set([lang.pluralize(sp) for sp in splitted_set])
         )
     elif singularize:
-        splitted = set([singularize(sp) for sp in splitted])
+        splitted_set = set([lang.singularize(sp) for sp in splitted_set])
     elif pluralize:
-        splitted = set([pluralize(sp) for sp in splitted])
-    splitted = splitted - EXCLUDE
-    return splitted
+        splitted_set = set([lang.pluralize(sp) for sp in splitted_set])
+    splitted_set = splitted_set - EXCLUDE
+    return splitted_set
 
 
-def freq_bfs_tree(g, node, depth_limit=None):
+def freq_bfs_tree(
+    g: nx.DiGraph, node: int, depth_limit: Optional[int] = None
+) -> Dict[int, List[Tuple[int, int]]]:
     ans = []
     counts = dict()
     visited = set()
-    level = [(node, 0)]
+    level: List[Tuple[int, int]] = [(node, 0)]
     while len(level) > 0:
         for v, depth in level:
             ans.append((v, depth))
@@ -186,9 +194,9 @@ def freq_bfs_tree(g, node, depth_limit=None):
                     counts[v] += 1
                 elif depth_limit is None or depth + 1 <= depth_limit:
                     next_level.add((w, depth + 1))
-        level = next_level
+        level = list(next_level)
 
-    levels = dict()
+    levels: Dict[int, List[Tuple[int, int]]] = dict()
     for n, depth in ans:
         if depth not in levels:
             levels[depth] = []
@@ -203,7 +211,7 @@ def freq_bfs_tree(g, node, depth_limit=None):
 
 
 def find_topics(
-    node, g, depth_limit: int = 4, max_categories: int = 5
+    node: int, g: nx.DiGraph, depth_limit: int = 4, max_categories: int = 5
 ) -> Dict[int, List[int]]:
     categories = freq_bfs_tree(g, node, depth_limit=depth_limit)
     if False:

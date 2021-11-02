@@ -1,10 +1,11 @@
 import bz2
 import gzip
 import chardet
+import numpy as np
 from pathlib import Path
 from contextlib import contextmanager
 import typing
-from typing import Dict, Union, Iterator
+from typing import Dict, Union, Iterator, List
 from lsde2021.types import PathLike
 
 
@@ -21,6 +22,13 @@ def fopen(path: PathLike, **options: Dict[str, int]) -> Iterator[None]:
         yield f
 
 
+def smoothing_window(
+    vals: Union[np.array, List[int], List[float]], radius: int = 50
+) -> np.array:
+    cumvals = np.array(vals).cumsum()
+    return (cumvals[radius:] - cumvals[:-radius]) / radius
+
+
 def detect_encoding(path: PathLike, n: int = 50_000) -> Dict[str, Union[str, int]]:
     with fopen(
         path,
@@ -34,7 +42,7 @@ def detect_encoding(path: PathLike, n: int = 50_000) -> Dict[str, Union[str, int
 
 
 def strip_extension(path: PathLike) -> PathLike:
-    path = path.with_suffix("")
+    path = Path(path).with_suffix("")
     while path.suffix != "":
-        path = path.with_suffix("")
+        path = Path(path).with_suffix("")
     return path
