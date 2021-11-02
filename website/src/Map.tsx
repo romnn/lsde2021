@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { csv } from "d3-fetch";
+import React from "react";
+// import { csv } from "d3-fetch";
 import { scaleLinear } from "d3-scale";
 import {
   ComposableMap,
