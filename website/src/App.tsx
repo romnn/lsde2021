@@ -1,15 +1,10 @@
 import React from "react";
-// import WorldMap from "./Map";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
+import Main from "./Main";
+import About from "./About";
+import covidLogo from "./images/covid19_2.jpg";
+import vuLogo from "./images/VU_2.png";
 import "./App.sass";
-
-// <header className="App-header">
-//         <input
-//           className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-10"
-//           type="text"
-//           aria-label="Filter projects"
-//           placeholder="Filter projects"
-//         />
-//       </header>
 
 type AppProps = {};
 type AppState = {};
@@ -20,73 +15,46 @@ export default class App extends React.Component<AppProps, AppState> {
   render() {
     return (
       <div className="App">
-        <nav className="flex items-center justify-between flex-wrap bg-green-500 p-6">
-          <div className="flex items-center flex-shrink-0 text-white mr-6">
-            <svg
-              className="fill-current h-8 w-8 mr-2"
-              width="54"
-              height="54"
-              viewBox="0 0 54 54"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z" />
-            </svg>
-            <span className="font-semibold text-xl tracking-tight">
-              Tailwind CSS
-            </span>
-          </div>
-          <div className="block lg:hidden">
-            <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
-              <svg
-                className="fill-current h-3 w-3"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <title>Menu</title>
-                <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
-              </svg>
-            </button>
-          </div>
-          <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-            <div className="text-sm lg:flex-grow">
-              <a
-                href="#responsive-header"
-                className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-              >
-                Docs
-              </a>
-              <a
-                href="#responsive-header"
-                className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-              >
-                Examples
-              </a>
-              <a
-                href="#responsive-header"
-                className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-              >
-                Blog
-              </a>
+        <Router>
+          <nav className="flex items-center justify-between flex-wrap bg-blue-300 p-2">
+            <Link to="/" className="flex items-center flex-shrink-0 text-white mr-6">
+              <img className="rounded-full max-h-6 p-0 mr-2" src={covidLogo} />
+              <span className="font-semibold text-l tracking-tight text-black">
+                COVID-19 Wikipedia Attention
+              </span>
+            </Link>
+            <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+              <div className="text-sm lg:flex-grow">
+                <Link
+                  className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
+                  to="/about"
+                >
+                  About
+                </Link>
+              </div>
+              <div className="my-1">
+                <a href="https://vu.nl">
+                  <img
+                    className="inline-block rounded-full max-h-6 p-0 bg-white px-2 mr-3"
+                    src={vuLogo}
+                  />
+                </a>
+              </div>
+              <div>
+                <a
+                  href="https://github.com/romnn/lsde2021"
+                  className="inline-block text-sm px-4 py-2 leading-none border rounded text-black border-transparent hover:border-white"
+                >
+                  GitHub
+                </a>
+              </div>
             </div>
-            <div>
-              <a
-                href="#responsive-header"
-                className="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0"
-              >
-                Download
-              </a>
-            </div>
-          </div>
-        </nav>
+          </nav>
 
-        <div className="flex mb-4">
-          <div className="w-3/4 bg-gray-400 h-12"></div>
-          <div className="w-1/4 bg-red-500 h-12"></div>
-        </div>
+          <Route exact path="/" component={Main} />
+          <Route exact path="/about" component={About} />
+        </Router>
       </div>
     );
   }
 }
-
-// <WorldMap />
-// export default App;

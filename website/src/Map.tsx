@@ -1,5 +1,5 @@
 import React from "react";
-// import { csv } from "d3-fetch";
+import * as d3 from "d3";
 import { scaleLinear } from "d3-scale";
 import {
   ComposableMap,
@@ -18,9 +18,35 @@ const colorScale = scaleLinear<string>()
 
 type WorldMapProps = {};
 
+type Cols =
+  | "ISO3"
+  | "Name"
+  | "1995"
+  | "1996"
+  | "1997"
+  | "1998"
+  | "1999"
+  | "2000"
+  | "2001"
+  | "2002"
+  | "2003"
+  | "2004"
+  | "2005"
+  | "2006"
+  | "2007"
+  | "2008"
+  | "2009"
+  | "2010"
+  | "2011"
+  | "2012"
+  | "2013"
+  | "2014"
+  | "2015"
+  | "2016"
+  | "2017";
+
 type WorldMapState = {
-  data: string[];
-  // data: DSVRowString<string> | undefined;
+  data: d3.DSVRowArray<Cols> | undefined;
 };
 
 export default class WorldMap extends React.Component<
@@ -28,22 +54,21 @@ export default class WorldMap extends React.Component<
   WorldMapState
 > {
   state: WorldMapState = {
-    data: [],
-  };
-
-  increment = (amt: number) => {
-    // this.setState((state) => ({
-    //   count: state.count + amt,
-    // }));
+    data: undefined,
   };
 
   loadData = () => {
-    // csv("vulnerability.csv").then((data) => {
-    //   this.setState({
-    //     data,
-    //   });
-    // });
+    d3.csv<Cols>("maptest.csv").then((data) => {
+      console.log(data);
+      this.setState({
+        data,
+      });
+    });
   };
+
+  componentDidMount() {
+    this.loadData();
+  }
 
   render() {
     return (
@@ -56,18 +81,20 @@ export default class WorldMap extends React.Component<
         >
           <Sphere id="test" fill="blue" stroke="#E4E5E6" strokeWidth={0.5} />
           <Graticule stroke="#E4E5E6" strokeWidth={0.5} />
-          {this.state.data.length > 0 && (
+          {(this.state.data?.length ?? 0) > 0 && (
             <Geographies geography={geoUrl}>
               {({ geographies }) =>
                 geographies.map((geo) => {
-                  // const d = this.state.data.find((s) => s.ISO3 === geo.properties.ISO_A3);
-                  // return (
-                  //   <Geography
-                  //     key={geo.rsmKey}
-                  //     geography={geo}
-                  //     fill={d ? colorScale(d["2017"]) : "#F5F4F6"}
-                  //   />
-                  // );
+                  const d = this.state.data?.find(
+                    (s) => s.ISO3 === geo.properties.ISO_A3
+                  );
+                  return (
+                    <Geography
+                      key={geo.rsmKey}
+                      geography={geo}
+                      fill={d ? colorScale(Number(d["2017"])) : "#F5F4F6"}
+                    />
+                  );
                 })
               }
             </Geographies>
