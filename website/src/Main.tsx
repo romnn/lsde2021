@@ -3,7 +3,7 @@ import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
 import { connect, ConnectedProps } from "react-redux";
-import { TagType, Tag, } from "./store/reducers/todos";
+import { TagType, Tag } from "./store/reducers/todos";
 import { Action } from "./store/actions";
 import { RootState } from "./store";
 import "./App.sass";
@@ -32,6 +32,7 @@ type PropsFromRedux = ConnectedProps<typeof connector>;
 
 type MainState = {
   availableTags: Tag[];
+  searchText: string;
 };
 
 interface MainProps extends PropsFromRedux {}
@@ -88,8 +89,13 @@ class Main extends React.Component<MainProps, MainState> {
     });
     this.state = {
       availableTags,
+      searchText: "",
     };
   }
+
+  handleUpdateSearchText = (event: React.ChangeEvent<HTMLInputElement>) => {
+    this.setState({ searchText: event.target.value });
+  };
 
   componentDidMount() {
     this.state.availableTags
@@ -130,11 +136,75 @@ class Main extends React.Component<MainProps, MainState> {
       );
     });
 
-    const availableTags = this.state.availableTags
+    const longestPrefix = (words: string[]): number => {
+      // check border cases size 1 array and empty first word)
+
+      if (!words[0]) return 0;
+      if (words.length == 1) return words[0].length;
+      let i = 0;
+      while (words[0][i] && words.every((w) => w[i] === words[0][i])) i++;
+
+      return words[0].substr(0, i).length;
+    };
+
+    const searchMatchScorer = (query: string[], tag: string[]): number => {
+      let totalScore = 0;
+      while (query.length > 0 && tag.length > 0) {
+        let maxScore = 0;
+        let maxQi = 0;
+        let maxTi = 0;
+        for (let ti in tag) {
+          for (let qi in query) {
+            let score = longestPrefix([query[qi], tag[ti]]);
+            if (score >= maxScore) {
+              maxScore = score;
+              maxQi = Number(qi);
+              maxTi = Number(ti);
+            }
+          }
+        }
+        totalScore += maxScore;
+        query.splice(maxQi, 1);
+        tag.splice(maxTi, 1);
+      }
+      return totalScore;
+    };
+
+    const searchPrefixes = this.state.searchText
+      .toLowerCase()
+      .replace(":", " ")
+      .split(" ")
+      .filter((s) => s.length > 0);
+    // console.log(searchPrefixes);
+
+    const availableTags: [Tag, number][] = this.state.availableTags
       .filter((t) => {
         return !this.props.activeTags.map((tt) => tt.title).includes(t.title);
       })
-      .map((tag) => {
+      .map((t) => {
+        // const scored = [
+        //   t,
+        //   searchMatchScorer(
+        //     [...searchPrefixes],
+        //     t.title.toLowerCase().split(":")
+        //   ),
+        // ];
+        // console.log(scored);
+        return [
+          t,
+          searchMatchScorer(
+            [...searchPrefixes],
+            t.title.toLowerCase().split(":")
+          ),
+        ];
+      });
+
+    const scoredAvailableTags = availableTags
+      .sort(([a, scoreA], [b, scoreB]) => {
+        return scoreB - scoreA;
+      })
+      .slice(0, 10)
+      .map(([tag, _]) => {
         return (
           <div
             key={tag.title}
@@ -174,15 +244,17 @@ class Main extends React.Component<MainProps, MainState> {
             <WorldMap />
             <TopicBarPlot />
           </div>
-          <div className="w-1/4 inline-block">
+          <div className="w-1/4 inline-block p-2">
             <input
               className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-1"
               type="text"
+              value={this.state.searchText}
+              onChange={this.handleUpdateSearchText}
               aria-label="Search"
               placeholder="Search"
             />
             <div>
-              <div className="tags">{availableTags}</div>
+              <div className="tags">{scoredAvailableTags}</div>
             </div>
           </div>
         </div>
