@@ -1,14 +1,8 @@
 import React from "react";
 import * as d3 from "d3";
-// import DSVRowArray from
-
-type TimelineProps = {};
-
-type TimelineState = {
-  loading: boolean;
-  data: string[];
-  notes: string[];
-};
+import { connect, ConnectedProps } from "react-redux";
+import { Action } from "./store/actions";
+import { RootState } from "./store";
 
 type Stringency = {
   Date: string;
@@ -22,29 +16,64 @@ type Country = {
   name: string;
 };
 
-type Changepoints = {
-  changepoints: string[];
+type Changepoints = string[];
+
+type CountryStringency = {
+  changepoints: Changepoints;
   country: Country;
   stringency: Stringency[];
 };
 
-type TestCols = "date" | "value";
-type Data = d3.DSVRowString<TestCols>;
+type CountryTopicAttention = {
+  // todo
+};
 
-export default class Timeline extends React.Component<
-  TimelineProps,
-  TimelineState
-> {
+const mapState = (state: RootState) => ({
+  currentChangepoint: state.changepoints?.changepoint,
+});
+
+const mapDispatch = {
+  selectChangepoint: (changepoint: string | undefined) => ({
+    type: Action.SelectChangepoint,
+    payload: {
+      changepoint,
+    },
+  }),
+};
+
+const connector = connect(mapState, mapDispatch);
+type PropsFromRedux = ConnectedProps<typeof connector>;
+
+interface TimelineProps extends PropsFromRedux {}
+
+type TimelineState = {
+  loading: boolean;
+  stringencies: { [key: Tag]: CountryStringency };
+  topics: { [key: Tag]: CountryTopicAttention };
+  notes: string[];
+};
+
+const sameDate = (d1: Date | null, d2: Date | null): boolean => {
+  if (d1 === null || d2 === null) return false;
+  return (
+    d1.getFullYear() === d2.getFullYear() &&
+    d1.getMonth() === d2.getMonth() &&
+    d1.getDate() === d2.getDate()
+  );
+};
+
+class Timeline extends React.Component<TimelineProps, TimelineState> {
   container!: d3.Selection<HTMLDivElement, any, HTMLElement, any>;
   svg!: d3.Selection<SVGSVGElement, any, HTMLElement, any>;
   bounds!: d3.Selection<SVGGElement, any, HTMLElement, any>;
   listeningRect!: d3.Selection<SVGRectElement, any, HTMLElement, any>;
   xAxis!: d3.Selection<SVGGElement, any, HTMLElement, any>;
   yAxis!: d3.Selection<SVGGElement, any, HTMLElement, any>;
-  // xScale!: d3.ScaleTime<Date, Date>;
   xScale!: d3.ScaleTime<number, number>;
   yScale!: d3.ScaleLinear<number, number>;
   hoverLine!: d3.Selection<SVGRectElement, any, HTMLElement, any>;
+  hoverLabel!: d3.Selection<SVGTextElement, any, HTMLElement, any>;
+  hoverEnabled: boolean = true;
 
   constructor(props: TimelineProps) {
     super(props);
@@ -55,10 +84,10 @@ export default class Timeline extends React.Component<
     };
   }
 
-  update = (data: Changepoints) => {
-    const margin = { top: 20, right: 30, bottom: 40, left: 90 };
-    const width = 460; //  - margin.left - margin.right;
-    const height = 400; // - margin.top - margin.bottom;
+  update = (data: CountryStringency) => {
+    // const margin = { top: 10, right: 10, bottom: 10, left: 30 };
+    // const width = 460;
+    // const height = 300;
     // ("%Y-%m-%d")
     const xAccessor = (d: Stringency): Date | null => {
       // console.log(d?.Date);
@@ -136,44 +165,48 @@ export default class Timeline extends React.Component<
     const changepointLines = this.bounds
       .selectAll(".changepoint")
       .data(data.changepoints)
-      .enter()
-      .append("g")
-      .classed("changepoint", true);
+      .enter();
 
     changepointLines
-      // .append("path")
-      // .style("stroke-dasharray", ("3, 3"))
-      // .attr(
-      //   "d",
-      //   d3
-      //     .line<Changepoint>()
-      //     .x((d) => {
-      //       return this.xScale(xAccessor(d) ?? new Date(2020, 1, 1));
-      //     })
-      //     .y((d) => {
-      //       return this.yScale(yAccessor(d) ?? 0);
-      //     })
-      // );
       .append("rect")
       .attr("class", "changepoint")
       .attr("width", "5px")
       .attr("cursor", "pointer")
       .attr("fill", "black")
       .attr("opacity", "0.1")
-      .attr("height", height - margin.top - margin.bottom)
-      // .attr("height", (d) => this.yScale(height - margin.top - margin.bottom)
+      // .attr("height", 1000)
+      // .attr("height", height - margin.top - margin.bottom)
+      // .attr("y", (d) => {
+      //   const cpStringency = data.stringency.filter((s) =>
+      //     sameDate(new Date(d), xAccessor(s))
+      //   );
+      //   return this.yScale(yAccessor(cpStringency[0]));
+      // })
       .attr("x", (d) => {
         return this.xScale(new Date(d));
       })
+      .on("click", (event, d: string) => {
+        const current = d3.select(event.currentTarget);
+        if (
+          this.props.currentChangepoint != undefined &&
+          d !== this.props.currentChangepoint
+        ) {
+          // must deselect old one
+          changepointLines.selectAll("rect").attr("opacity", "0.1");
+        }
+        const alreadySelected = d === this.props.currentChangepoint;
+        current
+          .classed("selected", !alreadySelected)
+          .attr("opacity", (d) => (alreadySelected ? 0.1 : 0.5));
+        this.props.selectChangepoint(alreadySelected ? undefined : d);
+      })
       .on("mouseover", (event, d) => {
-        d3.select(event.currentTarget)
-          .attr("fill", "orange")
-          .attr("opacity", "0.8");
+        d3.select(event.currentTarget).attr("opacity", 0.5);
       })
       .on("mouseout", (event, d) => {
-        d3.select(event.currentTarget)
-          .attr("fill", "black")
-          .attr("opacity", "0.1");
+        d3.select(event.currentTarget).attr("opacity", (d) =>
+          d === this.props.currentChangepoint ? 0.5 : 0.1
+        );
       });
 
     // setup interactions
@@ -183,9 +216,17 @@ export default class Timeline extends React.Component<
     //   .attr("width", width - margin.left - margin.right)
     //   .attr("height", height - margin.top - margin.bottom)
     //   .attr("fill", "transparent")
+
+    this.listeningRect.on("click", (event, d) => {
+      // toggle hovering to be able to read about restrictions
+      this.hoverEnabled = !this.hoverEnabled;
+    });
+
     this.listeningRect.on("mousemove", (event, d) => {
+      if (!this.hoverEnabled) return;
       const [mouseX, mouseY] = d3.pointer(event);
       const hoveredDate: Date = this.xScale.invert(mouseX);
+      this.hoverLabel.text(d3.timeFormat("%B %d, %Y")(hoveredDate));
 
       const getDistanceFromHoveredDate = (d: Stringency): number =>
         Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
@@ -234,9 +275,8 @@ export default class Timeline extends React.Component<
   };
 
   addTimeline = () => {
-    const margin = { top: 20, right: 30, bottom: 40, left: 90 };
-    // const width = 460; //  - margin.left - margin.right;
-    const height = 400; // - margin.top - margin.bottom;
+    const margin = { top: 10, right: 10, bottom: 10, left: 30 };
+    const height = 300;
 
     this.container = d3.select<HTMLDivElement, any>("#timeline-container");
     this.svg = this.container.append("svg").attr("x", 0).attr("y", 0);
@@ -297,6 +337,15 @@ export default class Timeline extends React.Component<
       .attr("stroke-width", "1px")
       .attr("width", ".5px");
 
+    this.hoverLabel = this.bounds.append("svg:text");
+
+    this.hoverLabel
+      .text("")
+      .style("text-anchor", "end")
+      .style("fill", "black")
+      .style("font-family", "Arial")
+      .style("font-size", 15);
+
     // .attr(
     //   "transform",
     //   `translate(0, ${height - margin.bottom - margin.top})`
@@ -322,10 +371,21 @@ export default class Timeline extends React.Component<
       this.xScale.range([0, width - margin.left - margin.right]);
       this.yScale.range([height - margin.top - margin.bottom, 0]);
 
+      // this.svg
+      // const test = this.bounds.selectAll(".changepoint");
+      const test = this.svg.selectAll(".changepoint");
+      console.log(test);
+      // .attr("height", height - margin.top - margin.bottom);
+      // .select("rect")
+      // console.log(test.length);
+
       this.listeningRect
         .attr("width", width - margin.left - margin.right)
         .attr("height", height - margin.top - margin.bottom);
 
+      this.hoverLabel
+        .attr("x", width - margin.top - margin.bottom - 50)
+        .attr("y", height - margin.top - margin.bottom - 50);
       this.hoverLine.attr("height", height - margin.top - margin.bottom);
     };
 
@@ -349,13 +409,15 @@ export default class Timeline extends React.Component<
   }
 
   render() {
-    // <div className="flex justify-center items-center bg-green-300">
-    //           </div>
     return (
       <div className="Timeline">
         <div className="" id="timeline-container"></div>
-        <div className="notes text-xs">{this.state.notes}</div>
+        <div className="notes h-20 px-2 overflow-y-scroll text-gray-500 text-xs">
+          {this.state.notes}
+        </div>
       </div>
     );
   }
 }
+
+export default connector(Timeline);

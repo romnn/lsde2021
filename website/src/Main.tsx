@@ -56,8 +56,14 @@ class Main extends React.Component<MainProps, MainState> {
   constructor(props: MainProps) {
     super(props);
     const availableTags: Tag[] = [];
-    const languages = { de: ["Germany"] };
-    const topics = ["Medicine", "Sports"];
+    const languages = { de: ["Germany"], nl: ["Netherlands"] };
+    const topics = [
+      "Medicine",
+      "Sports",
+      "Vaccination",
+      "Television",
+      "Do-it-yourself",
+    ];
 
     Object.entries(languages).forEach(([lang, countries]) => {
       availableTags.push(
@@ -203,14 +209,14 @@ class Main extends React.Component<MainProps, MainState> {
       .sort(([a, scoreA], [b, scoreB]) => {
         return scoreB - scoreA;
       })
-      .slice(0, 10)
+      .slice(0, 8)
       .map(([tag, _]) => {
         return (
           <div
             key={tag.title}
             onClick={() => this.props.addTag(tag)}
             className={
-              "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
+              "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-normal leading-sm max-w-full break-all uppercase pl-1 pr-2 py-1 m-1 rounded-full " +
               tagColor(tag.typ)
             }
           >
@@ -233,6 +239,40 @@ class Main extends React.Component<MainProps, MainState> {
         );
       });
 
+    const worldMapTab = (
+      <div className="flex">
+        <div className="w-3/4 inline-block">
+          <WorldMap />
+        </div>
+        <div className="w-1/4 inline-block px-2">
+          <button
+            type="button"
+            className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500"
+            id="menu-button"
+            aria-expanded="true"
+            aria-haspopup="true"
+          >
+            Options
+            <svg
+              className="-mr-1 ml-2 h-5 w-5"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              aria-hidden="true"
+            >
+              <path
+                fillRule="evenodd"
+                d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                clipRule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    );
+
+    const TopicAttentionTab = <TopicBarPlot />;
+
     return (
       <div className="Main">
         <div className="flex">
@@ -241,10 +281,8 @@ class Main extends React.Component<MainProps, MainState> {
         <div className="flex">
           <div className="w-3/4 inline-block">
             <Timeline />
-            <WorldMap />
-            <TopicBarPlot />
           </div>
-          <div className="w-1/4 inline-block p-2">
+          <div className="w-1/4 inline-block px-2 overflow-y-scroll">
             <input
               className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-1"
               type="text"
@@ -258,6 +296,26 @@ class Main extends React.Component<MainProps, MainState> {
             </div>
           </div>
         </div>
+
+        <ul className="flex border-b">
+          <li className="-mb-px ml-2">
+            <a
+              className="bg-white inline-block border-l border-t border-r rounded-t py-1 px-2 text-gray-700 font-semibold"
+              href="#"
+            >
+              Map
+            </a>
+          </li>
+          <li className="ml-2">
+            <a
+              className="bg-white inline-block py-1 px-2 text-gray-300 hover:text-gray-800 font-semibold"
+              href="#"
+            >
+              Attention Shifts
+            </a>
+          </li>
+        </ul>
+        <div className="tabContent"></div>
       </div>
     );
   }
