@@ -1,0 +1,466 @@
+[
+  {
+    "country": "United Arab Emirates",
+    "dbname": "arwiki",
+    "group": "ar",
+    "iso3": "ARE",
+    "name": "Arabic",
+    "population_size": 9770529
+  },
+  {
+    "country": "Saudi Arabia",
+    "dbname": "arwiki",
+    "group": "ar",
+    "iso3": "SAU",
+    "name": "Arabic",
+    "population_size": 34268528
+  },
+  {
+    "country": "United Arab Emirates",
+    "dbname": "arywiki",
+    "group": "ar",
+    "iso3": "ARE",
+    "name": "Moroccan Arabic",
+    "population_size": 9770529
+  },
+  {
+    "country": "Saudi Arabia",
+    "dbname": "arywiki",
+    "group": "ar",
+    "iso3": "SAU",
+    "name": "Moroccan Arabic",
+    "population_size": 34268528
+  },
+  {
+    "country": "United Arab Emirates",
+    "dbname": "arzwiki",
+    "group": "ar",
+    "iso3": "ARE",
+    "name": "Egyptian Arabic",
+    "population_size": 9770529
+  },
+  {
+    "country": "Saudi Arabia",
+    "dbname": "arzwiki",
+    "group": "ar",
+    "iso3": "SAU",
+    "name": "Egyptian Arabic",
+    "population_size": 34268528
+  },
+  {
+    "country": "Azerbaijan",
+    "dbname": "azwiki",
+    "group": "az",
+    "iso3": "AZE",
+    "name": "Azerbaijani",
+    "population_size": 10047718
+  },
+  {
+    "country": "Azerbaijan",
+    "dbname": "azbwiki",
+    "group": "az",
+    "iso3": "AZE",
+    "name": "South Azerbaijani",
+    "population_size": 10047718
+  },
+  {
+    "country": "Bulgaria",
+    "dbname": "bgwiki",
+    "group": "bg",
+    "iso3": "BGR",
+    "name": "Bulgarian",
+    "population_size": 7000119
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "dbname": "bswiki",
+    "group": "bs",
+    "iso3": "BIH",
+    "name": "Bosnian",
+    "population_size": 3301000
+  },
+  {
+    "country": "Czech Republic",
+    "dbname": "cswiki",
+    "group": "cs",
+    "iso3": "CZE",
+    "name": "Czech",
+    "population_size": 10689209
+  },
+  {
+    "country": "Denmark",
+    "dbname": "dawiki",
+    "group": "da",
+    "iso3": "DNK",
+    "name": "Danish",
+    "population_size": 5771876
+  },
+  {
+    "country": "Germany",
+    "dbname": "dewiki",
+    "group": "de",
+    "iso3": "DEU",
+    "name": "German",
+    "population_size": 83517048
+  },
+  {
+    "country": "Austria",
+    "dbname": "dewiki",
+    "group": "de",
+    "iso3": "AUT",
+    "name": "German",
+    "population_size": 8955102
+  },
+  {
+    "country": "Greece",
+    "dbname": "elwiki",
+    "group": "el",
+    "iso3": "GRC",
+    "name": "Greek",
+    "population_size": 10473455
+  },
+  {
+    "country": "Cyprus",
+    "dbname": "elwiki",
+    "group": "el",
+    "iso3": "CYP",
+    "name": "Greek",
+    "population_size": 1198575
+  },
+  {
+    "country": "United States",
+    "dbname": "enwiki",
+    "group": "en",
+    "iso3": "USA",
+    "name": "English",
+    "population_size": 329064896
+  },
+  {
+    "country": "United Kingdom",
+    "dbname": "enwiki",
+    "group": "en",
+    "iso3": "GBR",
+    "name": "English",
+    "population_size": 67530168
+  },
+  {
+    "country": "Spain",
+    "dbname": "eswiki",
+    "group": "es",
+    "iso3": "ESP",
+    "name": "Spanish",
+    "population_size": 46736776
+  },
+  {
+    "country": "Estonia",
+    "dbname": "etwiki",
+    "group": "et",
+    "iso3": "EST",
+    "name": "Estonian",
+    "population_size": 1325648
+  },
+  {
+    "country": "Finland",
+    "dbname": "fiwiki",
+    "group": "fi",
+    "iso3": "FIN",
+    "name": "Finnish",
+    "population_size": 5532156
+  },
+  {
+    "country": "France",
+    "dbname": "frwiki",
+    "group": "fr",
+    "iso3": "FRA",
+    "name": "French",
+    "population_size": 65129728
+  },
+  {
+    "country": "Ireland",
+    "dbname": "gawiki",
+    "group": "ga",
+    "iso3": "IRL",
+    "name": "Irish",
+    "population_size": 4882495
+  },
+  {
+    "country": "India",
+    "dbname": "hiwiki",
+    "group": "hi",
+    "iso3": "IND",
+    "name": "Hindi",
+    "population_size": 1366417792
+  },
+  {
+    "country": "Nepal",
+    "dbname": "hiwiki",
+    "group": "hi",
+    "iso3": "NPL",
+    "name": "Hindi",
+    "population_size": 28608710
+  },
+  {
+    "country": "Israel",
+    "dbname": "hewiki",
+    "group": "he",
+    "iso3": "ISR",
+    "name": "Hebrew",
+    "population_size": 8519377
+  },
+  {
+    "country": "Hungary",
+    "dbname": "huwiki",
+    "group": "hu",
+    "iso3": "HUN",
+    "name": "Hungarian",
+    "population_size": 9684679
+  },
+  {
+    "country": "Indonesia",
+    "dbname": "idwiki",
+    "group": "id",
+    "iso3": "IDN",
+    "name": "Indonesian",
+    "population_size": 270625568
+  },
+  {
+    "country": "Iceland",
+    "dbname": "iswiki",
+    "group": "is",
+    "iso3": "ISL",
+    "name": "Icelandic",
+    "population_size": 339031
+  },
+  {
+    "country": "Italy",
+    "dbname": "itwiki",
+    "group": "it",
+    "iso3": "ITA",
+    "name": "Italian",
+    "population_size": 60550076
+  },
+  {
+    "country": "Japan",
+    "dbname": "jawiki",
+    "group": "ja",
+    "iso3": "JPN",
+    "name": "Japanese",
+    "population_size": 126860304
+  },
+  {
+    "country": "South Korea",
+    "dbname": "kowiki",
+    "group": "ko",
+    "iso3": "KOR",
+    "name": "Korean",
+    "population_size": 51225308
+  },
+  {
+    "country": "Iran",
+    "dbname": "kuwiki",
+    "group": "ku",
+    "iso3": "IRN",
+    "name": "Kurdish",
+    "population_size": 82913904
+  },
+  {
+    "country": "Luxembourg",
+    "dbname": "lbwiki",
+    "group": "lb",
+    "iso3": "LUX",
+    "name": "Luxembourgish",
+    "population_size": 615729
+  },
+  {
+    "country": "Lithuania",
+    "dbname": "ltwiki",
+    "group": "lt",
+    "iso3": "LTU",
+    "name": "Lithuanian",
+    "population_size": 2759627
+  },
+  {
+    "country": "Netherlands",
+    "dbname": "nlwiki",
+    "group": "nl",
+    "iso3": "NLD",
+    "name": "Dutch",
+    "population_size": 17097130
+  },
+  {
+    "country": "Norway",
+    "dbname": "nowiki",
+    "group": "no",
+    "iso3": "NOR",
+    "name": "Norwegian",
+    "population_size": 5378857
+  },
+  {
+    "country": "Poland",
+    "dbname": "plwiki",
+    "group": "pl",
+    "iso3": "POL",
+    "name": "Polish",
+    "population_size": 37887768
+  },
+  {
+    "country": "Portugal",
+    "dbname": "ptwiki",
+    "group": "pt",
+    "iso3": "PRT",
+    "name": "Portuguese",
+    "population_size": 10226187
+  },
+  {
+    "country": "Romania",
+    "dbname": "rowiki",
+    "group": "ro",
+    "iso3": "ROU",
+    "name": "Romanian",
+    "population_size": 19364556
+  },
+  {
+    "country": "Russia",
+    "dbname": "ruwiki",
+    "group": "ru",
+    "iso3": "RUS",
+    "name": "Russian",
+    "population_size": 145872256
+  },
+  {
+    "country": "Belarus",
+    "dbname": "ruwiki",
+    "group": "ru",
+    "iso3": "BLR",
+    "name": "Russian",
+    "population_size": 9452411
+  },
+  {
+    "country": "Russia",
+    "dbname": "bewiki",
+    "group": "ru",
+    "iso3": "RUS",
+    "name": "Belarusian",
+    "population_size": 145872256
+  },
+  {
+    "country": "Belarus",
+    "dbname": "bewiki",
+    "group": "ru",
+    "iso3": "BLR",
+    "name": "Belarusian",
+    "population_size": 9452411
+  },
+  {
+    "country": "Russia",
+    "dbname": "bxrwiki",
+    "group": "ru",
+    "iso3": "RUS",
+    "name": "Russia Buriat",
+    "population_size": 145872256
+  },
+  {
+    "country": "Belarus",
+    "dbname": "bxrwiki",
+    "group": "ru",
+    "iso3": "BLR",
+    "name": "Russia Buriat",
+    "population_size": 9452411
+  },
+  {
+    "country": "Slovenia",
+    "dbname": "slwiki",
+    "group": "sl",
+    "iso3": "SVN",
+    "name": "Slovenian",
+    "population_size": 2078654
+  },
+  {
+    "country": "Albania",
+    "dbname": "sqwiki",
+    "group": "sq",
+    "iso3": "ALB",
+    "name": "Albanian",
+    "population_size": 2880917
+  },
+  {
+    "country": "Serbia",
+    "dbname": "srwiki",
+    "group": "sr",
+    "iso3": "SRB",
+    "name": "Serbian",
+    "population_size": 8772235
+  },
+  {
+    "country": "Sweden",
+    "dbname": "svwiki",
+    "group": "sv",
+    "iso3": "SWE",
+    "name": "Swedish",
+    "population_size": 10036379
+  },
+  {
+    "country": "Turkey",
+    "dbname": "trwiki",
+    "group": "tr",
+    "iso3": "TUR",
+    "name": "Turkish",
+    "population_size": 83429616
+  },
+  {
+    "country": "United Kingdom",
+    "dbname": "ukwiki",
+    "group": "uk",
+    "iso3": "GBR",
+    "name": "Ukrainian",
+    "population_size": 67530168
+  },
+  {
+    "country": "Vietnam",
+    "dbname": "viwiki",
+    "group": "vi",
+    "iso3": "VNM",
+    "name": "Vietnamese",
+    "population_size": 96462112
+  },
+  {
+    "country": "China",
+    "dbname": "zhwiki",
+    "group": "zh",
+    "iso3": "CHN",
+    "name": "Chinese",
+    "population_size": 1433783680
+  },
+  {
+    "country": "China",
+    "dbname": "ganwiki",
+    "group": "zh",
+    "iso3": "CHN",
+    "name": "Gan Chinese",
+    "population_size": 1433783680
+  },
+  {
+    "country": "China",
+    "dbname": "cdowiki",
+    "group": "zh",
+    "iso3": "CHN",
+    "name": "Min Dong Chinese",
+    "population_size": 1433783680
+  },
+  {
+    "country": "China",
+    "dbname": "zh_classicalwiki",
+    "group": "zh",
+    "iso3": "CHN",
+    "name": "Classical Chinese",
+    "population_size": 1433783680
+  },
+  {
+    "country": "China",
+    "dbname": "zh_min_nanwiki",
+    "group": "zh",
+    "iso3": "CHN",
+    "name": "Chinese (Min Nan)",
+    "population_size": 1433783680
+  }
+]
