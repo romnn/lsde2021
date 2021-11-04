@@ -9,6 +9,24 @@ type TimelineState = {
   data: string[];
 };
 
+type Stringency = {
+  Date: string;
+  StringencyIndex: number;
+  Notes: string[];
+};
+
+type Country = {
+  code: string;
+  group: string;
+  name: string;
+};
+
+type Changepoints = {
+  changepoints: string[];
+  country: Country;
+  stringency: Stringency[];
+};
+
 type TestCols = "date" | "value";
 type Data = d3.DSVRowString<TestCols>;
 
@@ -34,17 +52,23 @@ export default class Timeline extends React.Component<
     };
   }
 
-  update = (data: d3.DSVRowArray<TestCols>) => {
+  update = (data: Changepoints) => {
     const margin = { top: 20, right: 30, bottom: 40, left: 90 };
     const width = 460; //  - margin.left - margin.right;
     const height = 400; // - margin.top - margin.bottom;
+    // ("%Y-%m-%d")
+    const xAccessor = (d: Stringency): Date | null => {
+      console.log(d?.Date);
+      console.log(Object.keys(d[0]));
+      debugger;
+      return new Date(d?.Date);
+    };
+    const yAccessor = (d: Stringency) => Number(d.StringencyIndex);
 
-    const xAccessor = (d: Data) => d3.timeParse("%Y-%m-%d")(d?.date ?? "");
-    const yAccessor = (d: Data) => Number(d?.value) ?? 0;
-
-    const extent = d3.extent(data, (d) => {
+    const extent = d3.extent(data.stringency, (d) => {
       return xAccessor(d);
     }) as [Date, Date];
+    console.log(extent);
 
     // X axis
     // this.xScale = d3
@@ -67,7 +91,7 @@ export default class Timeline extends React.Component<
     // Y axis
     const yDomain = [
       0,
-      d3.max(data, (d) => {
+      d3.max(data.stringency, (d) => {
         return yAccessor(d);
       }) ?? 0,
     ];
@@ -81,14 +105,14 @@ export default class Timeline extends React.Component<
 
     const path = this.bounds
       .append("path")
-      .datum(data)
+      .datum(data.stringency)
       .attr("fill", "none")
       .attr("stroke", "steelblue")
       .attr("stroke-width", 2)
       .attr(
         "d",
         d3
-          .line<Data>()
+          .line<Stringency>()
           .x((d) => {
             return this.xScale(xAccessor(d) ?? new Date(2020, 1, 1));
           })
@@ -108,7 +132,7 @@ export default class Timeline extends React.Component<
 
     const changepointLines = this.bounds
       .selectAll(".changepoint")
-      .data(data.slice(0, 10))
+      .data(data.stringency.slice(0, 10))
       .enter()
       .append("g")
       .classed("changepoint", true);
@@ -136,16 +160,16 @@ export default class Timeline extends React.Component<
         const [mouseX, mouseY] = d3.pointer(event);
         const hoveredDate: Date = this.xScale.invert(mouseX);
 
-        const getDistanceFromHoveredDate = (d: Data): number =>
+        const getDistanceFromHoveredDate = (d: Stringency): number =>
           Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
 
         const closestIndex: number | undefined = d3.leastIndex(
-          data,
+          data.stringency,
           (a, b) =>
             getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
         );
         if (closestIndex !== undefined) {
-          const closestDataPoint = data[closestIndex];
+          const closestDataPoint = data.stringency[closestIndex];
           const closestXValue = xAccessor(closestDataPoint);
           if (closestXValue !== null) {
             this.hoverLine.attr("x", this.xScale(closestXValue));
@@ -220,11 +244,17 @@ export default class Timeline extends React.Component<
 
   componentDidMount() {
     this.addTimeline();
-    d3.csv<TestCols>(
-      "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/3_TwoNumOrdered_comma.csv"
-    ).then((data: d3.DSVRowArray<TestCols>) => {
-      this.update(data);
-    });
+    d3.json<Changepoints>("data/de/Germany/stringency_changepoints.json").then(
+      (data) => {
+        if (data === undefined) return;
+        this.update(data);
+      }
+    );
+    // d3.csv<TestCols>(
+    //   "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/3_TwoNumOrdered_comma.csv"
+    // ).then((data: d3.DSVRowArray<TestCols>) => {
+    //   this.update(data);
+    // });
   }
 
   render() {
