@@ -3,7 +3,7 @@ import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
 import { connect, ConnectedProps } from "react-redux";
-import { TagType, Tag } from "./store/reducers/todos";
+import { TagType, Tag } from "./store/reducers/tags";
 import { Action } from "./store/actions";
 import { RootState } from "./store";
 import "./App.sass";
@@ -70,6 +70,10 @@ class Main extends React.Component<MainProps, MainState> {
         ...countries.map((country) => {
           return {
             typ: TagType.CountryStringency,
+            country,
+            lang,
+            iso3: "todo",
+            url: "todo",
             title: `${country}:Stringency`,
           };
         })
@@ -78,6 +82,10 @@ class Main extends React.Component<MainProps, MainState> {
         ...countries.map((country) => {
           return {
             typ: TagType.CountryTotal,
+            country,
+            lang,
+            iso3: "todo",
+            url: "todo",
             title: `${country}:Total`,
           };
         })
@@ -87,6 +95,10 @@ class Main extends React.Component<MainProps, MainState> {
           ...topics.map((topic) => {
             return {
               typ: TagType.CountryTopicAttention,
+              country,
+              lang,
+              iso3: "todo",
+              url: "todo",
               title: `${country}:Topic:${topic}`,
             };
           })

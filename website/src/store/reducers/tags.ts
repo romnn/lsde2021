@@ -9,6 +9,10 @@ enum TagType {
 
 type Tag = {
   typ: TagType;
+  country: string;
+  lang: string;
+  iso3: string;
+  url: string;
   title: string;
 };
 

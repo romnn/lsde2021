@@ -2,6 +2,7 @@ import React from "react";
 import * as d3 from "d3";
 import { connect, ConnectedProps } from "react-redux";
 import { Action } from "./store/actions";
+import { Tag, TagType } from "./store/reducers/tags";
 import { RootState } from "./store";
 
 type Stringency = {
@@ -29,6 +30,7 @@ type CountryTopicAttention = {
 };
 
 const mapState = (state: RootState) => ({
+  activeTags: state.tags.activeTags,
   currentChangepoint: state.changepoints?.changepoint,
 });
 
@@ -39,6 +41,12 @@ const mapDispatch = {
       changepoint,
     },
   }),
+  incrementLoading: () => ({
+    type: Action.IncrementLoading,
+  }),
+  decrementLoading: () => ({
+    type: Action.DecrementLoading,
+  }),
 };
 
 const connector = connect(mapState, mapDispatch);
@@ -47,9 +55,8 @@ type PropsFromRedux = ConnectedProps<typeof connector>;
 interface TimelineProps extends PropsFromRedux {}
 
 type TimelineState = {
-  loading: boolean;
-  stringencies: { [key: Tag]: CountryStringency };
-  topics: { [key: Tag]: CountryTopicAttention };
+  stringencies: { [key: string]: CountryStringency };
+  topics: { [key: string]: CountryTopicAttention };
   notes: string[];
 };
 
@@ -78,21 +85,14 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
   constructor(props: TimelineProps) {
     super(props);
     this.state = {
-      loading: true,
-      data: [],
+      stringencies: {},
+      topics: {},
       notes: [],
     };
   }
 
   update = (data: CountryStringency) => {
-    // const margin = { top: 10, right: 10, bottom: 10, left: 30 };
-    // const width = 460;
-    // const height = 300;
-    // ("%Y-%m-%d")
     const xAccessor = (d: Stringency): Date | null => {
-      // console.log(d?.Date);
-      // console.log(Object.keys(d[0]));
-      // debugger;
       return new Date(d?.Date);
     };
     const yAccessor = (d: Stringency) => Number(d.StringencyIndex);
@@ -100,21 +100,10 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     const extent = d3.extent(data.stringency, (d) => {
       return xAccessor(d);
     }) as [Date, Date];
-    console.log(extent);
 
     // X axis
-    // this.xScale = d3
-    //   .scaleTime()
     this.xScale.domain(extent);
-    // .range([0, width - margin.left - margin.right]);
-
-    // const xAxis = this.bounds
-    //   .append("g")
     this.xAxis
-      // .attr(
-      //   "transform",
-      //   `translate(0, ${height - margin.bottom - margin.top})`
-      // )
       .call(d3.axisBottom(this.xScale))
       .selectAll("text")
       .attr("transform", "translate(-10,0)rotate(-45)")
@@ -127,12 +116,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         return yAccessor(d);
       }) ?? 0,
     ];
-    // const y = d3
-    //   .scaleLinear<number>()
-    //   .domain(yDomain)
-    //   .range([height - margin.top - margin.bottom, 0]);
     this.yScale.domain(yDomain);
-    // const yAxis = this.bounds.append("g").call(d3.axisLeft(y));
     this.yAxis.call(d3.axisLeft(this.yScale));
 
     const path = this.bounds
@@ -152,15 +136,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
             return this.yScale(yAccessor(d) ?? 0);
           })
       );
-
-    // this.hoverLine = this.bounds
-    //   .append("g")
-    //   .append("rect")
-    //   .attr("class", "dotted")
-    //   .attr("stroke-width", "1px")
-    //   .attr("width", ".5px");
-    // this.hoverLine
-    //   .attr("height", height - margin.top - margin.bottom);
 
     const changepointLines = this.bounds
       .selectAll(".changepoint")
@@ -209,14 +184,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         );
       });
 
-    // setup interactions
-    // const listeningRect = this.bounds
-    //   .append("rect")
-    //   .attr("class", "listening-rect")
-    //   .attr("width", width - margin.left - margin.right)
-    //   .attr("height", height - margin.top - margin.bottom)
-    //   .attr("fill", "transparent")
-
     this.listeningRect.on("click", (event, d) => {
       // toggle hovering to be able to read about restrictions
       this.hoverEnabled = !this.hoverEnabled;
@@ -230,9 +197,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
 
       const getDistanceFromHoveredDate = (d: Stringency): number =>
         Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
-
-      // const getDistanceFromHoveredDate = (d: Stringency): number =>
-      //   Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
 
       const closestIndex: number | undefined = d3.leastIndex(
         data.stringency,
@@ -263,8 +227,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
                   /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
                   " [...] "
                 );
-                // console.log(n);
-                // console.log(stripped);
                 return stripped;
               }) ?? []
             ),
@@ -280,55 +242,17 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
 
     this.container = d3.select<HTMLDivElement, any>("#timeline-container");
     this.svg = this.container.append("svg").attr("x", 0).attr("y", 0);
-    // this.svg = d3.select<SVGSVGElement, any>("#timeline").append("svg");
-    //
     this.bounds = this.svg.append("g");
 
     this.xScale = d3.scaleTime();
     this.xAxis = this.bounds.append("g");
-    // const yDomain = [
-    //   0,
-    //   d3.max(data, (d) => {
-    //     return yAccessor(d);
-    //   }) ?? 0,
-    // ];
     this.yScale = d3.scaleLinear<number>();
-    // .domain(yDomain)
-    // .range([height - margin.top - margin.bottom, 0]);
     this.yAxis = this.bounds.append("g");
-    // .call(d3.axisLeft(y));
 
     this.listeningRect = this.bounds
       .append("rect")
       .attr("class", "listening-rect")
       .attr("fill", "transparent");
-    // .on("mousemove", (event, d) => {
-    //   const [mouseX, mouseY] = d3.pointer(event);
-    //   const hoveredDate: Date = this.xScale.invert(mouseX);
-
-    //   const getDistanceFromHoveredDate = (d: Stringency): number =>
-    //     Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
-
-    //   const closestIndex: number | undefined = d3.leastIndex(
-    //     data.stringency,
-    //     (a, b) =>
-    //       getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
-    //   );
-    //   if (closestIndex !== undefined) {
-    //     const closestDataPoint = data.stringency[closestIndex];
-    //     const closestXValue = xAccessor(closestDataPoint);
-    //     if (closestXValue !== null) {
-    //       this.hoverLine.attr("x", this.xScale(closestXValue));
-    //     }
-    //   }
-    // });
-
-    // this.changepointLines = this.bounds
-    //   .append("g")
-    //   .append("rect")
-    //   .attr("class", "dotted")
-    //   .attr("stroke-width", "1px")
-    //   .attr("width", ".5px");
 
     this.hoverLine = this.bounds
       .append("g")
@@ -346,21 +270,10 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .style("font-family", "Arial")
       .style("font-size", 15);
 
-    // .attr(
-    //   "transform",
-    //   `translate(0, ${height - margin.bottom - margin.top})`
-    // )
-    // .call(d3.axisBottom(x))
-    // .selectAll("text")
-    // .attr("transform", "translate(-10,0)rotate(-45)")
-    // .style("text-anchor", "end");
-
     const resize = () => {
-      // d3 .select<HTMLDivElement, any>("#timeline-container")
       const bbox = this.container?.node()?.getBoundingClientRect();
 
       const width = bbox?.width ?? 0;
-      // const height = bbox?.height ?? 0;
       this.svg.attr("width", width).attr("height", height);
 
       this.bounds.attr("transform", `translate(${margin.left}, ${margin.top})`);
@@ -371,7 +284,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       this.xScale.range([0, width - margin.left - margin.right]);
       this.yScale.range([height - margin.top - margin.bottom, 0]);
 
-      // this.svg
       // const test = this.bounds.selectAll(".changepoint");
       const test = this.svg.selectAll(".changepoint");
       console.log(test);
@@ -393,19 +305,46 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     resize();
   };
 
-  componentDidMount() {
-    this.addTimeline();
-    d3.json<Changepoints>("data/de/Germany/stringency_changepoints.json").then(
-      (data) => {
+  loadData = (tag: Tag) => {
+    this.props.incrementLoading();
+    // todo: find the right url
+    d3.json<CountryStringency>("data/de/Germany/stringency_changepoints.json")
+      .then((data) => {
         if (data === undefined) return;
         this.update(data);
+      })
+      .finally(() => this.props.decrementLoading());
+  };
+
+  componentDidUpdate(prevProps: TimelineProps, prevState: TimelineState) {
+    if (this.props.activeTags !== prevProps.activeTags) {
+      console.log("must reload");
+      for (let tag of this.props.activeTags) {
+        switch (tag.typ) {
+          case TagType.CountryStringency:
+            if (!(tag.title in this.state.stringencies)) {
+              // load the stringency
+            }
+            break;
+          case TagType.CountryTotal:
+            if (!(tag.title in this.state.topics)) {
+              // load the total traffic
+            }
+            break;
+          case TagType.CountryTopicAttention:
+            if (!(tag.title in this.state.topics)) {
+              // load the topic attention
+            }
+            break;
+          default:
+            break;
+        }
       }
-    );
-    // d3.csv<TestCols>(
-    //   "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/3_TwoNumOrdered_comma.csv"
-    // ).then((data: d3.DSVRowArray<TestCols>) => {
-    //   this.update(data);
-    // });
+    }
+  }
+
+  componentDidMount() {
+    this.addTimeline();
   }
 
   render() {

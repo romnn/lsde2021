@@ -5,13 +5,23 @@ import About from "./About";
 import covidLogo from "./images/covid19_2.jpg";
 import vuLogo from "./images/VU_2.png";
 import "./App.sass";
+import { connect, ConnectedProps } from "react-redux";
+import { Action } from "./store/actions";
+import { RootState } from "./store";
 
-type AppProps = {};
-type AppState = {
-  loading: boolean;
-};
+const mapState = (state: RootState) => ({
+  loadingCount: state.loading?.loadingCount,
+});
 
-export default class App extends React.Component<AppProps, AppState> {
+const mapDispatch = {};
+
+const connector = connect(mapState, mapDispatch);
+type PropsFromRedux = ConnectedProps<typeof connector>;
+
+interface AppProps extends PropsFromRedux {}
+type AppState = {};
+
+class App extends React.Component<AppProps, AppState> {
   constructor(props: AppProps) {
     super(props);
     this.state = {
@@ -47,7 +57,7 @@ export default class App extends React.Component<AppProps, AppState> {
                 </Link>
               </div>
               <div className="mr-3">
-                {this.state.loading && (
+                {this.props.loadingCount > 0 && (
                   <div className="block animate-spin h-4 w-4 rounded-full border-b-2 border-gray-900"></div>
                 )}
               </div>
@@ -78,3 +88,5 @@ export default class App extends React.Component<AppProps, AppState> {
     );
   }
 }
+
+export default connector(App);
