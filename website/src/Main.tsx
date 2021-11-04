@@ -2,23 +2,35 @@ import React from "react";
 import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
+import { connect, ConnectedProps } from "react-redux";
+import { TagType, Tag } from "./store/actions";
+import { Action, RootState } from "./store/index";
+// import type { TagType, Tag } from "./store";
 import "./App.sass";
 
-enum TagType {
-  CountryStringency,
-  TopicAttention,
-  CountryTotal,
-}
+const mapState = (state: RootState) => ({
+  activeTags: state.activeTags,
+});
 
-type Tag = {
-  typ: TagType;
-  title: string;
+const mapDispatch = {
+  addTag: (tag: Tag) => ({
+    type: Action.AddTag,
+    payload: {
+      id: tag.title,
+    },
+  }),
 };
 
-type MainProps = {};
+const connector = connect(mapState, mapDispatch);
+type PropsFromRedux = ConnectedProps<typeof connector>;
 type MainState = {
   activeTags: Tag[];
+  availableTags: Tag[];
 };
+
+interface MainProps extends PropsFromRedux {
+  // backgroundColor: string
+}
 
 // <button
 //             type="button"
@@ -43,28 +55,83 @@ type MainState = {
 //             </svg>
 //           </button>
 
-export default class Main extends React.Component<MainProps, MainState> {
+const tagColor = (typ: TagType): string => {
+  let tagColor = "bg-red-200 text-red-700";
+  switch (typ) {
+    case TagType.CountryTotal:
+      tagColor = "bg-gray-200 text-gray-700";
+      break;
+    case TagType.CountryTopicAttention:
+      tagColor = "bg-blue-200 text-blue-700";
+      break;
+    default:
+      break;
+  }
+  return tagColor;
+};
+
+class Main extends React.Component<MainProps, MainState> {
   constructor(props: MainProps) {
     super(props);
+    const availableTags: Tag[] = [];
+    const languages = { de: ["Germany"] };
+    const topics = ["Medicine", "Sports"];
+
+    Object.entries(languages).forEach(([lang, countries]) => {
+      console.log(lang, countries);
+      availableTags.push(
+        ...countries.map((country) => {
+          return {
+            typ: TagType.CountryStringency,
+            title: `${country}:Stringency`,
+          };
+        })
+      );
+      availableTags.push(
+        ...countries.map((country) => {
+          return {
+            typ: TagType.CountryTotal,
+            title: `${country}:Total`,
+          };
+        })
+      );
+      countries.map((country) => {
+        availableTags.push(
+          ...topics.map((topic) => {
+            return {
+              typ: TagType.CountryTopicAttention,
+              title: `${country}:Topic:${topic}`,
+            };
+          })
+        );
+      });
+    });
     this.state = {
       activeTags: [
         { typ: TagType.CountryStringency, title: "Stringency:Germany" },
         { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        { typ: TagType.CountryStringency, title: "Stringency:UK" },
+        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
+        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
+        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
       ],
+      availableTags,
     };
   }
 
+  // handleSubmit = (e: MouseClickEvent) => {
+  //   e.preventDefault();
+  //   console.log('You clicked submit.');
+  // }
+
   render() {
-    const tags = this.state.activeTags.map((tag) => {
-      const tagColor = "bg-blue-200 text-blue-700";
+    const activeTags = this.state.activeTags.map((tag) => {
+      // const tagColor = "bg-blue-200 text-blue-700";
       return (
         <div
+          key={tag.title}
           className={
             "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
-            tagColor
+            tagColor(tag.typ)
           }
         >
           <svg
@@ -86,28 +153,72 @@ export default class Main extends React.Component<MainProps, MainState> {
       );
     });
 
-    // <WorldMap />
-    //           <TopicBarPlot />
+    const availableTags = this.state.availableTags.map((tag) => {
+      // let tagColor = "bg-red-200 text-red-700";
+      // switch (tag.typ) {
+      //   case TagType.CountryTotal:
+      //     tagColor = "bg-gray-200 text-gray-700";
+      //     break;
+      //   case TagType.CountryTopicAttention:
+      //     tagColor = "bg-blue-200 text-blue-700";
+      //     break;
+      //   default:
+      //     break;
+      // }
+      return (
+        <div
+          key={tag.title}
+          onClick={() => this.props.addTag(tag)}
+          className={
+            "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
+            tagColor(tag.typ)
+          }
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-3 w-3"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="M12 6v6m0 0v6m0-6h6m-6 0H6"
+            />
+          </svg>
+          {tag.title}
+        </div>
+      );
+    });
 
     return (
       <div className="Main">
         <div className="flex">
-          <div className="tags">{tags}</div>
+          <div className="tags">{activeTags}</div>
         </div>
         <div className="flex">
           <div className="w-3/4 inline-block">
             <Timeline />
+            <WorldMap />
+            <TopicBarPlot />
           </div>
           <div className="w-1/4 inline-block">
             <input
               className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-1"
               type="text"
-              aria-label="Filter projects"
-              placeholder="Filter projects"
+              aria-label="Search"
+              placeholder="Search"
             />
+            <div>
+              <div className="tags">{availableTags}</div>
+            </div>
           </div>
         </div>
       </div>
     );
   }
 }
+
+export default connector(Main);

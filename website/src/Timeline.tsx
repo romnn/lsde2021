@@ -7,6 +7,7 @@ type TimelineProps = {};
 type TimelineState = {
   loading: boolean;
   data: string[];
+  notes: string[];
 };
 
 type Stringency = {
@@ -37,6 +38,7 @@ export default class Timeline extends React.Component<
   container!: d3.Selection<HTMLDivElement, any, HTMLElement, any>;
   svg!: d3.Selection<SVGSVGElement, any, HTMLElement, any>;
   bounds!: d3.Selection<SVGGElement, any, HTMLElement, any>;
+  listeningRect!: d3.Selection<SVGRectElement, any, HTMLElement, any>;
   xAxis!: d3.Selection<SVGGElement, any, HTMLElement, any>;
   yAxis!: d3.Selection<SVGGElement, any, HTMLElement, any>;
   // xScale!: d3.ScaleTime<Date, Date>;
@@ -49,6 +51,7 @@ export default class Timeline extends React.Component<
     this.state = {
       loading: true,
       data: [],
+      notes: [],
     };
   }
 
@@ -58,9 +61,9 @@ export default class Timeline extends React.Component<
     const height = 400; // - margin.top - margin.bottom;
     // ("%Y-%m-%d")
     const xAccessor = (d: Stringency): Date | null => {
-      console.log(d?.Date);
-      console.log(Object.keys(d[0]));
-      debugger;
+      // console.log(d?.Date);
+      // console.log(Object.keys(d[0]));
+      // debugger;
       return new Date(d?.Date);
     };
     const yAccessor = (d: Stringency) => Number(d.StringencyIndex);
@@ -132,50 +135,102 @@ export default class Timeline extends React.Component<
 
     const changepointLines = this.bounds
       .selectAll(".changepoint")
-      .data(data.stringency.slice(0, 10))
+      .data(data.changepoints)
       .enter()
       .append("g")
       .classed("changepoint", true);
 
     changepointLines
+      // .append("path")
+      // .style("stroke-dasharray", ("3, 3"))
+      // .attr(
+      //   "d",
+      //   d3
+      //     .line<Changepoint>()
+      //     .x((d) => {
+      //       return this.xScale(xAccessor(d) ?? new Date(2020, 1, 1));
+      //     })
+      //     .y((d) => {
+      //       return this.yScale(yAccessor(d) ?? 0);
+      //     })
+      // );
       .append("rect")
       .attr("class", "changepoint")
-      .attr("stroke-width", "2px")
-      .attr("width", "1px")
-      .attr("fill", "red")
+      .attr("width", "5px")
+      .attr("cursor", "pointer")
+      .attr("fill", "black")
+      .attr("opacity", "0.1")
       .attr("height", height - margin.top - margin.bottom)
+      // .attr("height", (d) => this.yScale(height - margin.top - margin.bottom)
       .attr("x", (d) => {
-        // console.log(d);
-        return this.xScale(xAccessor(d) ?? new Date(2020, 1, 1));
+        return this.xScale(new Date(d));
+      })
+      .on("mouseover", (event, d) => {
+        d3.select(event.currentTarget)
+          .attr("fill", "orange")
+          .attr("opacity", "0.8");
+      })
+      .on("mouseout", (event, d) => {
+        d3.select(event.currentTarget)
+          .attr("fill", "black")
+          .attr("opacity", "0.1");
       });
 
     // setup interactions
-    const listeningRect = this.bounds
-      .append("rect")
-      .attr("class", "listening-rect")
-      .attr("width", width - margin.left - margin.right)
-      .attr("height", height - margin.top - margin.bottom)
-      .attr("fill", "transparent")
-      .on("mousemove", (event, d) => {
-        const [mouseX, mouseY] = d3.pointer(event);
-        const hoveredDate: Date = this.xScale.invert(mouseX);
+    // const listeningRect = this.bounds
+    //   .append("rect")
+    //   .attr("class", "listening-rect")
+    //   .attr("width", width - margin.left - margin.right)
+    //   .attr("height", height - margin.top - margin.bottom)
+    //   .attr("fill", "transparent")
+    this.listeningRect.on("mousemove", (event, d) => {
+      const [mouseX, mouseY] = d3.pointer(event);
+      const hoveredDate: Date = this.xScale.invert(mouseX);
 
-        const getDistanceFromHoveredDate = (d: Stringency): number =>
-          Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
+      const getDistanceFromHoveredDate = (d: Stringency): number =>
+        Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
 
-        const closestIndex: number | undefined = d3.leastIndex(
-          data.stringency,
-          (a, b) =>
-            getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
-        );
-        if (closestIndex !== undefined) {
-          const closestDataPoint = data.stringency[closestIndex];
-          const closestXValue = xAccessor(closestDataPoint);
-          if (closestXValue !== null) {
-            this.hoverLine.attr("x", this.xScale(closestXValue));
-          }
+      // const getDistanceFromHoveredDate = (d: Stringency): number =>
+      //   Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
+
+      const closestIndex: number | undefined = d3.leastIndex(
+        data.stringency,
+        (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+      );
+      if (closestIndex !== undefined) {
+        const closestDataPoint = data.stringency[closestIndex];
+        const closestXValue = xAccessor(closestDataPoint);
+        if (closestXValue !== null) {
+          this.hoverLine.attr("x", this.xScale(closestXValue));
         }
-      });
+      }
+
+      const stringencyWithNotes = data.stringency.filter(
+        (d) => d.Notes.length > 0
+      );
+      const closestIndexWithNotes: number | undefined = d3.leastIndex(
+        stringencyWithNotes,
+        (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+      );
+      if (closestIndexWithNotes !== undefined) {
+        const closestDataPoint = stringencyWithNotes[closestIndexWithNotes];
+        this.setState({
+          notes: [
+            ...new Set(
+              closestDataPoint?.Notes.map((n) => {
+                const stripped = n.replace(
+                  /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
+                  " [...] "
+                );
+                // console.log(n);
+                // console.log(stripped);
+                return stripped;
+              }) ?? []
+            ),
+          ],
+        });
+      }
+    });
   };
 
   addTimeline = () => {
@@ -202,6 +257,38 @@ export default class Timeline extends React.Component<
     // .range([height - margin.top - margin.bottom, 0]);
     this.yAxis = this.bounds.append("g");
     // .call(d3.axisLeft(y));
+
+    this.listeningRect = this.bounds
+      .append("rect")
+      .attr("class", "listening-rect")
+      .attr("fill", "transparent");
+    // .on("mousemove", (event, d) => {
+    //   const [mouseX, mouseY] = d3.pointer(event);
+    //   const hoveredDate: Date = this.xScale.invert(mouseX);
+
+    //   const getDistanceFromHoveredDate = (d: Stringency): number =>
+    //     Math.abs((xAccessor(d)?.getTime() ?? 0) - hoveredDate.getTime());
+
+    //   const closestIndex: number | undefined = d3.leastIndex(
+    //     data.stringency,
+    //     (a, b) =>
+    //       getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+    //   );
+    //   if (closestIndex !== undefined) {
+    //     const closestDataPoint = data.stringency[closestIndex];
+    //     const closestXValue = xAccessor(closestDataPoint);
+    //     if (closestXValue !== null) {
+    //       this.hoverLine.attr("x", this.xScale(closestXValue));
+    //     }
+    //   }
+    // });
+
+    // this.changepointLines = this.bounds
+    //   .append("g")
+    //   .append("rect")
+    //   .attr("class", "dotted")
+    //   .attr("stroke-width", "1px")
+    //   .attr("width", ".5px");
 
     this.hoverLine = this.bounds
       .append("g")
@@ -235,6 +322,10 @@ export default class Timeline extends React.Component<
       this.xScale.range([0, width - margin.left - margin.right]);
       this.yScale.range([height - margin.top - margin.bottom, 0]);
 
+      this.listeningRect
+        .attr("width", width - margin.left - margin.right)
+        .attr("height", height - margin.top - margin.bottom);
+
       this.hoverLine.attr("height", height - margin.top - margin.bottom);
     };
 
@@ -263,6 +354,7 @@ export default class Timeline extends React.Component<
     return (
       <div className="Timeline">
         <div className="" id="timeline-container"></div>
+        <div className="notes text-xs">{this.state.notes}</div>
       </div>
     );
   }
