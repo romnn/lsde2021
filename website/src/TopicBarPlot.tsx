@@ -86,7 +86,6 @@ export default class TopicBarPlot extends React.Component<
   render() {
     return (
       <div>
-        <div className="animate-spin h-5 w-5 mr-3 rounded-full border-b-2 border-gray-900"></div>
         <div id="barplot"></div>
       </div>
     );

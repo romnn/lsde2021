@@ -1,14 +1,11 @@
 import { createStore } from "redux";
 import rootReducer from "./reducers";
-export type { RootState } from "./reducers";
 
-export default createStore(rootReducer);
+const store = createStore(rootReducer);
 
-enum Action {
-  AddTag,
-}
+export type RootState = ReturnType<typeof store.getState>
 
-export { Action };
+export default store;
 // export { initialState, Action };
 // export type {  RootState };
 // import { createSlice, configureStore } from "@reduxjs/toolkit";

@@ -3,57 +3,38 @@ import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
 import { connect, ConnectedProps } from "react-redux";
-import { TagType, Tag } from "./store/actions";
-import { Action, RootState } from "./store/index";
-// import type { TagType, Tag } from "./store";
+import { TagType, Tag, } from "./store/reducers/todos";
+import { Action } from "./store/actions";
+import { RootState } from "./store";
 import "./App.sass";
 
 const mapState = (state: RootState) => ({
-  activeTags: state.activeTags,
+  activeTags: state.tags.activeTags,
 });
 
 const mapDispatch = {
   addTag: (tag: Tag) => ({
     type: Action.AddTag,
     payload: {
-      id: tag.title,
+      tag,
+    },
+  }),
+  removeTag: (tag: Tag) => ({
+    type: Action.RemoveTag,
+    payload: {
+      tag,
     },
   }),
 };
 
 const connector = connect(mapState, mapDispatch);
 type PropsFromRedux = ConnectedProps<typeof connector>;
+
 type MainState = {
-  activeTags: Tag[];
   availableTags: Tag[];
 };
 
-interface MainProps extends PropsFromRedux {
-  // backgroundColor: string
-}
-
-// <button
-//             type="button"
-//             className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500"
-//             id="menu-button"
-//             aria-expanded="true"
-//             aria-haspopup="true"
-//           >
-//             Options
-//             <svg
-//               className="-mr-1 ml-2 h-5 w-5"
-//               xmlns="http://www.w3.org/2000/svg"
-//               viewBox="0 0 20 20"
-//               fill="currentColor"
-//               aria-hidden="true"
-//             >
-//               <path
-//                 fill-rule="evenodd"
-//                 d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-//                 clip-rule="evenodd"
-//               />
-//             </svg>
-//           </button>
+interface MainProps extends PropsFromRedux {}
 
 const tagColor = (typ: TagType): string => {
   let tagColor = "bg-red-200 text-red-700";
@@ -78,7 +59,6 @@ class Main extends React.Component<MainProps, MainState> {
     const topics = ["Medicine", "Sports"];
 
     Object.entries(languages).forEach(([lang, countries]) => {
-      console.log(lang, countries);
       availableTags.push(
         ...countries.map((country) => {
           return {
@@ -95,7 +75,7 @@ class Main extends React.Component<MainProps, MainState> {
           };
         })
       );
-      countries.map((country) => {
+      countries.forEach((country) => {
         availableTags.push(
           ...topics.map((topic) => {
             return {
@@ -107,28 +87,25 @@ class Main extends React.Component<MainProps, MainState> {
       });
     });
     this.state = {
-      activeTags: [
-        { typ: TagType.CountryStringency, title: "Stringency:Germany" },
-        { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
-        // { typ: TagType.CountryStringency, title: "Stringency:UK" },
-      ],
       availableTags,
     };
   }
 
-  // handleSubmit = (e: MouseClickEvent) => {
-  //   e.preventDefault();
-  //   console.log('You clicked submit.');
-  // }
+  componentDidMount() {
+    this.state.availableTags
+      .filter((t) => t.title === "Germany:Stringency")
+      .forEach((t) => {
+        console.log("adding", t);
+        this.props.addTag(t);
+      });
+  }
 
   render() {
-    const activeTags = this.state.activeTags.map((tag) => {
-      // const tagColor = "bg-blue-200 text-blue-700";
+    const activeTags = this.props.activeTags.map((tag) => {
       return (
         <div
           key={tag.title}
+          onClick={() => this.props.removeTag(tag)}
           className={
             "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
             tagColor(tag.typ)
@@ -153,45 +130,38 @@ class Main extends React.Component<MainProps, MainState> {
       );
     });
 
-    const availableTags = this.state.availableTags.map((tag) => {
-      // let tagColor = "bg-red-200 text-red-700";
-      // switch (tag.typ) {
-      //   case TagType.CountryTotal:
-      //     tagColor = "bg-gray-200 text-gray-700";
-      //     break;
-      //   case TagType.CountryTopicAttention:
-      //     tagColor = "bg-blue-200 text-blue-700";
-      //     break;
-      //   default:
-      //     break;
-      // }
-      return (
-        <div
-          key={tag.title}
-          onClick={() => this.props.addTag(tag)}
-          className={
-            "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
-            tagColor(tag.typ)
-          }
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="h-3 w-3"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
+    const availableTags = this.state.availableTags
+      .filter((t) => {
+        return !this.props.activeTags.map((tt) => tt.title).includes(t.title);
+      })
+      .map((tag) => {
+        return (
+          <div
+            key={tag.title}
+            onClick={() => this.props.addTag(tag)}
+            className={
+              "text-xs inline-flex opacity-75 hover:opacity-100 cursor-pointer items-center font-bold leading-sm uppercase px-3 py-1 m-1 rounded-full " +
+              tagColor(tag.typ)
+            }
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              d="M12 6v6m0 0v6m0-6h6m-6 0H6"
-            />
-          </svg>
-          {tag.title}
-        </div>
-      );
-    });
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-3 w-3"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M12 6v6m0 0v6m0-6h6m-6 0H6"
+              />
+            </svg>
+            {tag.title}
+          </div>
+        );
+      });
 
     return (
       <div className="Main">

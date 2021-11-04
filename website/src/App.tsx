@@ -28,7 +28,11 @@ export default class App extends React.Component<AppProps, AppState> {
               to="/"
               className="flex items-center flex-shrink-1 text-white mr-4"
             >
-              <img className="rounded-full max-h-6 p-0 mr-2" src={covidLogo} />
+              <img
+                className="rounded-full max-h-6 p-0 mr-2"
+                alt="Covid-19 Logo"
+                src={covidLogo}
+              />
               <span className="font-semibold text-l tracking-tight text-black">
                 COVID-19 Wikipedia Attention
               </span>
@@ -51,6 +55,7 @@ export default class App extends React.Component<AppProps, AppState> {
                 <a href="https://vu.nl">
                   <img
                     className="inline-block rounded-full max-h-6 p-0 bg-white px-2"
+                    alt="VU University Logo"
                     src={vuLogo}
                   />
                 </a>

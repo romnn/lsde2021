@@ -1,85 +1,46 @@
-// import { ADD_TODO, TOGGLE_TODO } from "../actionTypes";
-// import { ADD_TODO, TOGGLE_TODO } from "../actionTypes";
 import { Action } from "../actions";
-// import { initialState } from "../index";
 import { AnyAction } from "redux";
 
-interface TagState {
-  activeTags: string[];
+enum TagType {
+  CountryStringency,
+  CountryTopicAttention,
+  CountryTotal,
 }
+
+type Tag = {
+  typ: TagType;
+  title: string;
+};
+
+type TagState = {
+  readonly activeTags: Tag[];
+};
 
 const initialState: TagState = {
   activeTags: [],
 };
 
-export type { TagState };
-// interface TagPayload {
-//   id: string;
-// }
+export { TagType };
+export type { TagState, Tag };
 
-// interface ActionBlob {
-//   type: Action;
-//   payload: TagPayload;
-// }
-
-export default function counterReducer(
-  state = initialState,
-  action: AnyAction
-) {
+export default function tagReducer(state = initialState, action: AnyAction) {
   switch (action.type) {
     case Action.AddTag: {
-      console.log(action);
-      const { id } = action.payload;
+      const { tag } = action.payload;
       return {
         ...state,
-        activeTags: [...state.activeTags, id],
-        // allIds: [...state.allIds, id],
-        // byIds: {
-        //   ...state.byIds,
-        //   [id]: {
-        //     content,
-        //     completed: false,
-        //   },
-        // },
+        activeTags: [...state.activeTags, tag],
       };
     }
+    case Action.RemoveTag: {
+      const { tag } = action.payload;
+      return {
+        ...state,
+        activeTags: state.activeTags.filter((t) => t.title != tag.title),
+      };
+    }
+
     default:
       return state;
   }
 }
-
-// export default function (state = initialState, action: ActionBlob) {
-//   switch (action.type) {
-//     case Action.AddTag: {
-//       console.log(action);
-//       const { id } = action.payload;
-//       return {
-//         ...state,
-//         activeTags: [...state.activeTags, id],
-//         // allIds: [...state.allIds, id],
-//         // byIds: {
-//         //   ...state.byIds,
-//         //   [id]: {
-//         //     content,
-//         //     completed: false,
-//         //   },
-//         // },
-//       };
-//     }
-//     // case TOGGLE_TODO: {
-//     //   const { id } = action.payload;
-//     //   return {
-//     //     ...state,
-//     //     byIds: {
-//     //       ...state.byIds,
-//     //       [id]: {
-//     //         ...state.byIds[id],
-//     //         completed: !state.byIds[id].completed,
-//     //       },
-//     //     },
-//     //   };
-//     // }
-//     default:
-//       return state;
-//   }
-// }
