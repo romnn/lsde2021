@@ -7,35 +7,50 @@ import vuLogo from "./images/VU_2.png";
 import "./App.sass";
 
 type AppProps = {};
-type AppState = {};
+type AppState = {
+  loading: boolean;
+};
 
 export default class App extends React.Component<AppProps, AppState> {
-  state: AppState = {};
+  constructor(props: AppProps) {
+    super(props);
+    this.state = {
+      loading: true,
+    };
+  }
 
   render() {
     return (
       <div className="App">
         <Router>
           <nav className="flex items-center justify-between flex-wrap bg-blue-300 p-2">
-            <Link to="/" className="flex items-center flex-shrink-0 text-white mr-6">
+            <Link
+              to="/"
+              className="flex items-center flex-shrink-1 text-white mr-4"
+            >
               <img className="rounded-full max-h-6 p-0 mr-2" src={covidLogo} />
               <span className="font-semibold text-l tracking-tight text-black">
                 COVID-19 Wikipedia Attention
               </span>
             </Link>
-            <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-              <div className="text-sm lg:flex-grow">
+            <div className="block flex-grow flex items-center place-items-start w-auto">
+              <div className="text-sm flex-grow">
                 <Link
-                  className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
+                  className="block inline-block mt-0 text-teal-200 hover:text-white mr-4"
                   to="/about"
                 >
                   About
                 </Link>
               </div>
-              <div className="my-1">
+              <div className="mr-3">
+                {this.state.loading && (
+                  <div className="block animate-spin h-4 w-4 rounded-full border-b-2 border-gray-900"></div>
+                )}
+              </div>
+              <div className="mr-1">
                 <a href="https://vu.nl">
                   <img
-                    className="inline-block rounded-full max-h-6 p-0 bg-white px-2 mr-3"
+                    className="inline-block rounded-full max-h-6 p-0 bg-white px-2"
                     src={vuLogo}
                   />
                 </a>

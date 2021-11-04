@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from typing import Tuple, List, Dict, Optional
 
-
 COUNTRIES: Dict[str, List[str]] = {
     "ar": ["United Arab Emirates", "Saudi Arabia"],
     "az": ["Azerbaijan"],
@@ -54,22 +53,32 @@ COUNTRIES: Dict[str, List[str]] = {
 
 
 def get_change_points(
-    s: pyspark.sql.DataFrame, country: str
+    s: pyspark.sql.DataFrame, country: str, min_size: int = 7, n: int = 10
 ) -> Tuple[pyspark.sql.DataFrame, List[datetime.datetime]]:
     country_stringency = s.filter(F.lower(F.col("CountryName")) == country.lower())
-    country_stringency = country_stringency.groupBy("Date", "CountryName").agg(
-        F.mean("StringencyIndex").alias("StringencyIndex")
+    country_stringency = country_stringency.withColumn(
+        "Notes", F.explode_outer("Notes")
     )
-    country_stringency = country_stringency.select("Date", "StringencyIndex")
+    country_stringency = country_stringency.groupBy(
+        "Date", "CountryName", "CountryCode"
+    ).agg(
+        F.mean("StringencyIndex").alias("StringencyIndex"),
+        F.collect_list("Notes").alias("Notes"),
+    )
     country_stringency = country_stringency.sort(F.col("Date").asc())
-    country_stringency_pd = country_stringency.toPandas().set_index("Date")
+    country_stringency_pd = (
+        country_stringency.select("Date", "StringencyIndex")
+        .toPandas()
+        .set_index("Date")
+    )
     # algo = rpt.Pelt(model="rbf").fit(country_stringency_pd)
-    algo = rpt.Dynp().fit(country_stringency_pd)
-    change_index = algo.predict(10)
+    algo = rpt.Dynp(min_size=min_size).fit(country_stringency_pd)
+    change_index = algo.predict(n)
     change_dates = [
-        country_stringency_pd.iloc[index - 1].name for index in change_index
+        country_stringency_pd.iloc[index - 1].name.to_pydatetime().date()
+        for index in change_index
     ]
-    return country_stringency, change_dates
+    return country_stringency, change_dates[:-1]
 
 
 def plot_changepoints(
