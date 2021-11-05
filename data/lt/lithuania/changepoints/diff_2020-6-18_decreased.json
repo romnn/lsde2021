@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -2877.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1873.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1812.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1614.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1612.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1591.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1527.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1514.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1460.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1396.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1381.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1311.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1249.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1028.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -980.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -971.0,
+      "topic": "Technology"
+    }
+  ]
+}

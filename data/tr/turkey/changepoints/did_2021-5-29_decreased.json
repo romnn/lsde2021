@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -9091.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -7017.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6689.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -6260.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -6241.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -5994.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5966.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -5872.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -5800.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": -5788.0,
+      "topic": "Altai people"
+    },
+    {
+      "diff": -5515.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -4955.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -4003.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3954.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3323.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -3162.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3121.0,
+      "topic": "City"
+    },
+    {
+      "diff": -3045.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": -3012.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2971.0,
+      "topic": "Asia"
+    }
+  ]
+}

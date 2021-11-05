@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 824.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 786.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 777.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 659.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 572.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 516.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 456.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 386.0,
+      "topic": "Transitional justice"
+    },
+    {
+      "diff": 381.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 349.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 311.0,
+      "topic": "Interdisciplinary subfields"
+    },
+    {
+      "diff": 284.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 266.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 261.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 241.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 207.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 180.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 172.0,
+      "topic": "Country"
+    }
+  ]
+}

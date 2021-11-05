@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 13049.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 9010.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": 7965.0,
+      "topic": "Western culture"
+    },
+    {
+      "diff": 7939.0,
+      "topic": "Language family"
+    },
+    {
+      "diff": 7891.0,
+      "topic": "Peoples"
+    },
+    {
+      "diff": 7887.0,
+      "topic": "Anthropological categories"
+    },
+    {
+      "diff": 6091.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": 6009.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": 6007.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": 5913.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 4411.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4035.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3791.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3667.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3027.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2899.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2625.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2616.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2544.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2522.0,
+      "topic": "Regions"
+    }
+  ]
+}

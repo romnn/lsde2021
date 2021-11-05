@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 4444.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4325.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3692.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3294.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2155.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 2092.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 2044.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1907.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 1850.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1782.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 1781.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 1763.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 1758.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1757.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 1753.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1656.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1594.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1592.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 1579.0,
+      "topic": "Israeli culture"
+    }
+  ]
+}

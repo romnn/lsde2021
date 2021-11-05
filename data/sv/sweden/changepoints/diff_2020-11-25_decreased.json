@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-25",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -4685.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2868.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2204.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1991.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1741.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1672.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1535.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -1479.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1442.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -1401.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1334.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -1276.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1241.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1204.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1188.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1169.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -1147.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": -1073.0,
+      "topic": "Biology"
+    }
+  ]
+}

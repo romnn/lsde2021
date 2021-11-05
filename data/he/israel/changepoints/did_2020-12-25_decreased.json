@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -7974.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -7592.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -5759.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": -5752.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": -5524.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3980.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3905.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -3891.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -2838.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -2195.0,
+      "topic": "Concerts"
+    },
+    {
+      "diff": -1605.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1285.0,
+      "topic": "Ancient jews"
+    },
+    {
+      "diff": -1152.0,
+      "topic": "Arab cuisine"
+    },
+    {
+      "diff": -1146.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1121.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -1090.0,
+      "topic": "Political entities"
+    },
+    {
+      "diff": -927.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -824.0,
+      "topic": "1940s establishments"
+    },
+    {
+      "diff": -766.0,
+      "topic": "Zionism"
+    }
+  ]
+}

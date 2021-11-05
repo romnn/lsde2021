@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -1044.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1010.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": -911.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -860.0,
+      "topic": "History"
+    },
+    {
+      "diff": -854.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -594.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": -485.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -290.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Transitional justice"
+    },
+    {
+      "diff": -200.0,
+      "topic": "People"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Human development"
+    },
+    {
+      "diff": -190.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -176.0,
+      "topic": "Oscillation"
+    },
+    {
+      "diff": -173.0,
+      "topic": "Tribes"
+    },
+    {
+      "diff": -170.0,
+      "topic": "Germany"
+    }
+  ]
+}

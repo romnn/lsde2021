@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1221.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -617.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -533.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -517.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -404.0,
+      "topic": "Population genetics"
+    },
+    {
+      "diff": -401.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -383.0,
+      "topic": "Sensory organs"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Human body parts"
+    },
+    {
+      "diff": -337.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -303.0,
+      "topic": "Ice hockey"
+    },
+    {
+      "diff": -287.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -272.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -268.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -254.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -2282.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -2271.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2157.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": -2144.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -2115.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -555.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -553.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -529.0,
+      "topic": "History"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -447.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -392.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -338.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -334.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -327.0,
+      "topic": "Health economics"
+    },
+    {
+      "diff": -327.0,
+      "topic": "Demographic"
+    },
+    {
+      "diff": -326.0,
+      "topic": "Medical specialties"
+    }
+  ]
+}

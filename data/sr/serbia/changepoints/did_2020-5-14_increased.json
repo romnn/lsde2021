@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 758.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 740.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 707.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 700.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 692.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 462.0,
+      "topic": "Geometry"
+    },
+    {
+      "diff": 418.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Polygons"
+    },
+    {
+      "diff": 360.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 282.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 264.0,
+      "topic": "Syntax"
+    },
+    {
+      "diff": 264.0,
+      "topic": "Thermodynamics"
+    },
+    {
+      "diff": 236.0,
+      "topic": "Angiosperms"
+    },
+    {
+      "diff": 233.0,
+      "topic": "Euclidean plane geometry"
+    },
+    {
+      "diff": 231.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": 224.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 212.0,
+      "topic": "Mechanical engineering"
+    },
+    {
+      "diff": 210.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 205.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Latino american"
+    }
+  ]
+}

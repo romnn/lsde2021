@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 671642.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 614788.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 614236.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": 610843.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 610839.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 48324.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 45033.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 43415.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 42065.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 26058.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 21765.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 19474.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 18044.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 17704.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 16778.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 16520.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 15901.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 15551.0,
+      "topic": "History"
+    },
+    {
+      "diff": 15441.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 15062.0,
+      "topic": "Recreation"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 12082.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 11276.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 10959.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9618.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 9324.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 9053.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8758.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7772.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 7249.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 7120.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 7028.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6216.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 6052.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 5867.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 5313.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 5301.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5254.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5154.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5087.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 5083.0,
+      "topic": "Environmental education"
+    }
+  ]
+}

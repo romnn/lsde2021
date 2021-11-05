@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1070.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -922.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -906.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -884.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -873.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -803.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -775.0,
+      "topic": "History"
+    },
+    {
+      "diff": -765.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -762.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -688.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -674.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -634.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -630.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -587.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -578.0,
+      "topic": "Politics"
+    }
+  ]
+}

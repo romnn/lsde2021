@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -41.0,
+      "topic": "France"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Astronomy"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -13.0,
+      "topic": "History"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Order"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Second hundred years' war"
+    },
+    {
+      "diff": -12.0,
+      "topic": "14th century"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Main topic classifications"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Style"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Types"
+    }
+  ]
+}

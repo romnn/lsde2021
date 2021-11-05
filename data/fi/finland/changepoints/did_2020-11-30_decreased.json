@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-30",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -3436.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -3392.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": -3366.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -3309.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -2670.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2563.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2419.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -2404.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -2353.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -2327.0,
+      "topic": "Personal development"
+    },
+    {
+      "diff": -2311.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -2255.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2150.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1863.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -1861.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -1727.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1692.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1554.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1522.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -1479.0,
+      "topic": "Asian culture"
+    }
+  ]
+}

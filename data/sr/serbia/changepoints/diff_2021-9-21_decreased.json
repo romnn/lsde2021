@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-21",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -1243.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -880.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -822.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -569.0,
+      "topic": "History"
+    },
+    {
+      "diff": -442.0,
+      "topic": "Montenegro"
+    },
+    {
+      "diff": -362.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": -352.0,
+      "topic": "15th-century beginnings"
+    },
+    {
+      "diff": -330.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -304.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -302.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -263.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -253.0,
+      "topic": "Dinaric karst formations"
+    },
+    {
+      "diff": -238.0,
+      "topic": "International relations"
+    }
+  ]
+}

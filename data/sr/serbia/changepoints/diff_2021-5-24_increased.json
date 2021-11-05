@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 575.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 541.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 524.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 491.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 366.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 248.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": 218.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 210.0,
+      "topic": "Phototrophic bacteria"
+    },
+    {
+      "diff": 185.0,
+      "topic": "Angiosperms"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Genera"
+    },
+    {
+      "diff": 165.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Denomination"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": 138.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 136.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 128.0,
+      "topic": "Castell\u00f3n"
+    },
+    {
+      "diff": 128.0,
+      "topic": "Biota"
+    },
+    {
+      "diff": 124.0,
+      "topic": "Spain"
+    }
+  ]
+}

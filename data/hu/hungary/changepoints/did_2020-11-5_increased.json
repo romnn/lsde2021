@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 9630.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 6955.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": 6845.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 6720.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5565.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 4826.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4663.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 4521.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4508.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 4470.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": 4433.0,
+      "topic": "Neoplasms"
+    },
+    {
+      "diff": 4430.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": 4410.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": 4274.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4254.0,
+      "topic": "Bohemia"
+    },
+    {
+      "diff": 4220.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4090.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4027.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3954.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3950.0,
+      "topic": "Physicians"
+    }
+  ]
+}

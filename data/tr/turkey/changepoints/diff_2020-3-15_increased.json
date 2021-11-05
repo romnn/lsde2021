@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 12080.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 10111.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 9805.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9276.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 8927.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8842.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 7889.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7677.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 7218.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 7023.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 6237.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6136.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 6015.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 5859.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 5184.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5078.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 4849.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4784.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": 4688.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 4660.0,
+      "topic": "World wide web"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -5591.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -5463.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -4515.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4392.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -4137.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -4034.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -3452.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -3054.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": -3050.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": -2468.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2399.0,
+      "topic": "Concerts"
+    },
+    {
+      "diff": -1387.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -1188.0,
+      "topic": "Arab cuisine"
+    },
+    {
+      "diff": -1159.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -919.0,
+      "topic": "Ancient jews"
+    },
+    {
+      "diff": -873.0,
+      "topic": "1940s establishments"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Behavior modification"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Power (social and political)"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Political entities"
+    }
+  ]
+}

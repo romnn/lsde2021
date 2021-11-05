@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -4907.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -4805.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -4803.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -4802.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -4610.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -2486.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -2317.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2270.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1947.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1815.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1565.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1407.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1125.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Parts"
+    },
+    {
+      "diff": -1022.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": -960.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -936.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -663.0,
+      "topic": "Signal transduction"
+    }
+  ]
+}

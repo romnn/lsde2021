@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 135.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 135.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 127.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 123.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 38.0,
+      "topic": "France"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 20.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Anti-communism"
+    }
+  ]
+}

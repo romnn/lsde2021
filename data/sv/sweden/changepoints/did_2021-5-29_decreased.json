@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -15940.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15533.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -14536.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -11431.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -10934.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10408.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -9853.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7850.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -7660.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7346.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6762.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -6212.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6157.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -6068.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5657.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -5547.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -5445.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -5409.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -5224.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5181.0,
+      "topic": "Women's rights"
+    }
+  ]
+}

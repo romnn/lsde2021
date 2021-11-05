@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -84.0,
+      "topic": "18th-century scientists"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Robotics"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Spanish language"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Discovery"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Astronomical objects"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Alphabets"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Latin language"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Writing systems derived from the phoenician"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Animal"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Behavior"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Extant gelasian first appearances"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Medicine"
+    }
+  ]
+}

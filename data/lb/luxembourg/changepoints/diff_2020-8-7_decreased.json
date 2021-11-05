@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -104.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -89.0,
+      "topic": "History"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Sun"
+    }
+  ]
+}

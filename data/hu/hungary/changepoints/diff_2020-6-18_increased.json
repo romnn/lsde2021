@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 595.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 532.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 357.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 137.0,
+      "topic": "Human evolution"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 120.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 100.0,
+      "topic": "Abnormal psychology"
+    },
+    {
+      "diff": 100.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Prehistoric arthropods"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Metropolitan cities"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Romance films"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Comedy films"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Arthropod families"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Motorcycle racing series"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Ethnic supremacy"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Earth science"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Sky"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Sociobiology"
+    }
+  ]
+}

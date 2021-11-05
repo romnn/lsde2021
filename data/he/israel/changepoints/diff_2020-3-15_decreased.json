@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -3234.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -2957.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": -2954.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": -2575.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": -2228.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": -1984.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": -1970.0,
+      "topic": "Social democratic parties"
+    },
+    {
+      "diff": -1867.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1542.0,
+      "topic": "Nationalist organizations"
+    },
+    {
+      "diff": -1406.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": -1283.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -1105.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -1046.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -1041.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": -836.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -558.0,
+      "topic": "Technical terminology"
+    },
+    {
+      "diff": -538.0,
+      "topic": "Asian kings"
+    },
+    {
+      "diff": -438.0,
+      "topic": "Environment of palestine (region)"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Social concepts"
+    },
+    {
+      "diff": -400.0,
+      "topic": "Christian bible"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 8926.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7766.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 7596.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 7595.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 7570.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 7457.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 7287.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 7113.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6921.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": 6902.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 6830.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 4143.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4020.0,
+      "topic": "City"
+    },
+    {
+      "diff": 3262.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3123.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3096.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 2983.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2914.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2803.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 2672.0,
+      "topic": "Organizations"
+    }
+  ]
+}

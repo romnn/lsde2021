@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 2782.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 2709.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": 2520.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 2471.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 1202.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1051.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 941.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": 867.0,
+      "topic": "Political concepts"
+    },
+    {
+      "diff": 819.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 795.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 790.0,
+      "topic": "Punk rock"
+    },
+    {
+      "diff": 729.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 593.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 570.0,
+      "topic": "Periodicals"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Newspapers"
+    },
+    {
+      "diff": 426.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": 419.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 419.0,
+      "topic": "Instrument"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -1357.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1212.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -979.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -979.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -958.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -932.0,
+      "topic": "Systems engineering"
+    },
+    {
+      "diff": -855.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -813.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -810.0,
+      "topic": "Ecosystems"
+    },
+    {
+      "diff": -793.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -745.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Intelligence"
+    },
+    {
+      "diff": -687.0,
+      "topic": "Control theory"
+    },
+    {
+      "diff": -654.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -614.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -607.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

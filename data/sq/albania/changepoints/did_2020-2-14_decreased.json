@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-14",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -887.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -462.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -456.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -406.0,
+      "topic": "Animal physiology"
+    },
+    {
+      "diff": -403.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -398.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -391.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -367.0,
+      "topic": "Notation"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -340.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -339.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -326.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -313.0,
+      "topic": "Mathematical science occupations"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Hydrography"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -291.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -271.0,
+      "topic": "Earth sciences"
+    }
+  ]
+}

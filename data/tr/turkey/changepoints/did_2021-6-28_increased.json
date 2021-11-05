@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 12655.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 12035.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 7881.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 7825.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 7484.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 7091.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 6937.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 6568.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 6234.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 6101.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 5986.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 5702.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 5628.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 5326.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 5069.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": 4231.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": 3732.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 3661.0,
+      "topic": "Scientific problems"
+    },
+    {
+      "diff": 3636.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": 3594.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

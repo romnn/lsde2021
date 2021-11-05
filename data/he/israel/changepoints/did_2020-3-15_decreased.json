@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -3849.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -2983.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": -2981.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": -2815.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": -2008.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": -1947.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": -1756.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1639.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -1554.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": -1545.0,
+      "topic": "Nationalist organizations"
+    },
+    {
+      "diff": -1147.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Conservative liberal parties"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -835.0,
+      "topic": "Weapons"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Jihadist groups"
+    },
+    {
+      "diff": -757.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -571.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": -536.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -518.0,
+      "topic": "Social concepts"
+    },
+    {
+      "diff": -494.0,
+      "topic": "Technical terminology"
+    }
+  ]
+}

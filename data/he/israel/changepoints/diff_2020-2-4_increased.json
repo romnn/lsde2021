@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 713.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": 540.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 508.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 448.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 437.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 433.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 430.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": 426.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Hebrew words"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Shacharit"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 361.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Mincha"
+    },
+    {
+      "diff": 326.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 322.0,
+      "topic": "People"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Signal transduction"
+    }
+  ]
+}

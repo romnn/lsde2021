@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -149.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -145.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -116.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -110.0,
+      "topic": "History"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -81.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -54.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Microsoft windows"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -29686.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -20437.0,
+      "topic": "Transport companies"
+    },
+    {
+      "diff": -18822.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -17966.0,
+      "topic": "People"
+    },
+    {
+      "diff": -17440.0,
+      "topic": "Arts occupations"
+    },
+    {
+      "diff": -17057.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -15854.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -15801.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -15653.0,
+      "topic": "Leisure"
+    },
+    {
+      "diff": -14893.0,
+      "topic": "Japanese music"
+    },
+    {
+      "diff": -13173.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -12740.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -12646.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -11549.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -11060.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -10600.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -10320.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -10118.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": -9738.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9252.0,
+      "topic": "Geography"
+    }
+  ]
+}

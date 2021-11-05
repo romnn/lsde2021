@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 127.0,
+      "topic": "Force"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Roman sites"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Families"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Anatolia"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Roman republic"
+    },
+    {
+      "diff": 63.0,
+      "topic": "1st-century rulers"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Cultural depictions"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Trojan war"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Visual arts genres"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Ancient egypt"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Quality management"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Iliad"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Drawing"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Grammar"
+    }
+  ]
+}

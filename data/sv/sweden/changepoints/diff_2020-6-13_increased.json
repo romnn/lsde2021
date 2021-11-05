@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 6686.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 5385.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 5331.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 5313.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 5271.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 4720.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3690.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3629.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 2874.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 2128.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1898.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 1533.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 1482.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 1380.0,
+      "topic": "Dances"
+    },
+    {
+      "diff": 1379.0,
+      "topic": "British music history"
+    },
+    {
+      "diff": 1287.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 902.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 893.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 888.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": 872.0,
+      "topic": "County"
+    }
+  ]
+}

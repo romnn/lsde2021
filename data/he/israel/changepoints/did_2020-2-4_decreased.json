@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -1681.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1300.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1082.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -890.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -849.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -824.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -585.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -482.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -445.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -414.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -388.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -371.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": -346.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -346.0,
+      "topic": "Disorders"
+    }
+  ]
+}

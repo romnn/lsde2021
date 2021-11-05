@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 123.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 107.0,
+      "topic": "History"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 29.0,
+      "topic": "England"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 27.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Corporate law"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Nuts statistical regions"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Town"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Folk art"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Geomorphology"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Departments of bourgogne-franche-comt\u00e9"
+    }
+  ]
+}

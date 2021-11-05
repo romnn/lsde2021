@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 7771.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 7458.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7339.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 7089.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 6759.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 6356.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3193.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2735.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2382.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2364.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2320.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": 2315.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": 2307.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2282.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": 2156.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2121.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2019.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": 1964.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1767.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1760.0,
+      "topic": "Economy"
+    }
+  ]
+}

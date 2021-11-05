@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -3116.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2415.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -2379.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1030.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": -848.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": -848.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -705.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -701.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Defense policy"
+    },
+    {
+      "diff": -650.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": -644.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -578.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -568.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -522.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -486.0,
+      "topic": "Wars involving russia"
+    }
+  ]
+}

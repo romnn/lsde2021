@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -630.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -558.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Serbian society"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Albanian entertainers"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Kosovo"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Levant"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Ancient rome"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Comics"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Locations"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Fiction about technology"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Astrologers"
+    }
+  ]
+}

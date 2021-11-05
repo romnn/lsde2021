@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -16668.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -6649.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -6514.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -6244.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -6206.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -6008.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -5395.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -5035.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -4795.0,
+      "topic": "Prejudice"
+    },
+    {
+      "diff": -4653.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4412.0,
+      "topic": "Jordanian culture"
+    },
+    {
+      "diff": -4076.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4028.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -3291.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": -3209.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3196.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": -3121.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -3119.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -3081.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2823.0,
+      "topic": "Asia"
+    }
+  ]
+}

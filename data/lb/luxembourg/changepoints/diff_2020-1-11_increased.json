@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 355.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 355.0,
+      "topic": "History"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 346.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 322.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 254.0,
+      "topic": "France"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Departments of hauts-de-france"
+    }
+  ]
+}

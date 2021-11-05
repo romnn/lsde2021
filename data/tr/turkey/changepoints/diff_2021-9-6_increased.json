@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 8108.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6706.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5389.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 4671.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 4531.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3480.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2947.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2425.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 2381.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": 2343.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2323.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2227.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 2130.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 2092.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2060.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 2049.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1987.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 1907.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": 1889.0,
+      "topic": "Nature"
+    },
+    {
+      "diff": 1842.0,
+      "topic": "Culture"
+    }
+  ]
+}

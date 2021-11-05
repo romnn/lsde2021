@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 3022.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2956.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 2143.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2088.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 1909.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1768.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1542.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1383.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1353.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1319.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 1298.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 1297.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": 1213.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 1198.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 1194.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1160.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": 1119.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 1111.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1107.0,
+      "topic": "Maps"
+    },
+    {
+      "diff": 1011.0,
+      "topic": "Places"
+    }
+  ]
+}

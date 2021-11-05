@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 137.0,
+      "topic": "Force"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Roman sites"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Social institutions"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Families"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Visual arts genres"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Roman republic"
+    },
+    {
+      "diff": 63.0,
+      "topic": "1st-century rulers"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Human diseases"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Ancient egypt"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Mathematical modeling"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Evidence"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Physical quantities"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Video technology"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Quality management"
+    }
+  ]
+}

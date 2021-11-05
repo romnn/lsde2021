@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -6920.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3337.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3040.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3032.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2727.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -2726.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2720.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -2720.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -2720.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -2653.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2476.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1788.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1780.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1662.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1591.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1578.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1469.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1301.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1231.0,
+      "topic": "Italy"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -1738.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1695.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": -1612.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -1411.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1368.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": -742.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -600.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": -576.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -553.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -432.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": -351.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": -320.0,
+      "topic": "Tribes"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Historical ethnic groups"
+    },
+    {
+      "diff": -268.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": -261.0,
+      "topic": "People"
+    },
+    {
+      "diff": -259.0,
+      "topic": "Ethnology"
+    }
+  ]
+}

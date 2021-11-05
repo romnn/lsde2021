@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -2955.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -2730.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2150.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1829.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1311.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1086.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -1051.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1040.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -963.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -849.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -845.0,
+      "topic": "1980s works"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -744.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -740.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -680.0,
+      "topic": "Humour"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": -655.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Norse people"
+    }
+  ]
+}

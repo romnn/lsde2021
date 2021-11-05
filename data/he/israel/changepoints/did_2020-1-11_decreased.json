@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -2712.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1792.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1742.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1712.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1554.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -1546.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -1538.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1495.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -1470.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1315.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -1289.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1279.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": -1233.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1134.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -1094.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": -1076.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -982.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -899.0,
+      "topic": "History"
+    }
+  ]
+}

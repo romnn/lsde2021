@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -2286.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1999.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1663.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1535.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1477.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -1379.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1337.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Lakes"
+    },
+    {
+      "diff": -1274.0,
+      "topic": "Eastern europe"
+    },
+    {
+      "diff": -1239.0,
+      "topic": "Eurovision song contest"
+    },
+    {
+      "diff": -1216.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": -1172.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": -1155.0,
+      "topic": "Ports"
+    },
+    {
+      "diff": -1082.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Psychiatry"
+    },
+    {
+      "diff": -938.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -935.0,
+      "topic": "Intellectual disability"
+    }
+  ]
+}

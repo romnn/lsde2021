@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -705.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -674.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -631.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -623.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -621.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -570.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": -565.0,
+      "topic": "Group decision-making"
+    },
+    {
+      "diff": -564.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -532.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -395.0,
+      "topic": "Arab culture"
+    },
+    {
+      "diff": -334.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -291.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -275.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Geography of palestine (region)"
+    },
+    {
+      "diff": -252.0,
+      "topic": "Oxoacids"
+    },
+    {
+      "diff": -250.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -247.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -239.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -21029.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -18996.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -13575.0,
+      "topic": "France"
+    },
+    {
+      "diff": -6909.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5693.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4556.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -3507.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -3494.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3455.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3436.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -2966.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2798.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -2671.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -2662.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -2644.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -2558.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2530.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2511.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": -2404.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2402.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

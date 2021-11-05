@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -4722.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3298.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -3144.0,
+      "topic": "Mexican society"
+    },
+    {
+      "diff": -3091.0,
+      "topic": "Prehistory"
+    },
+    {
+      "diff": -2759.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -2218.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1854.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1786.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": -1645.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -1611.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1528.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -1515.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1512.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1417.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": -1290.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -1212.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1190.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": -1161.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1136.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Clinical psychology"
+    }
+  ]
+}

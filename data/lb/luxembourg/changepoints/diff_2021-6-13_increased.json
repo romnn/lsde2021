@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 62.0,
+      "topic": "History"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 26.0,
+      "topic": "France"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Corporate law"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Former federations"
+    }
+  ]
+}

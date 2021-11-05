@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -8661.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -8595.0,
+      "topic": "Western culture"
+    },
+    {
+      "diff": -8577.0,
+      "topic": "Peoples"
+    },
+    {
+      "diff": -8096.0,
+      "topic": "Anthropological categories"
+    },
+    {
+      "diff": -7977.0,
+      "topic": "Language family"
+    },
+    {
+      "diff": -7449.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7153.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -6660.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4899.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4758.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4613.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3572.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -3460.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3264.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3217.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3011.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -2825.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -2700.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2645.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2639.0,
+      "topic": "Century"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 495.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 388.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 297.0,
+      "topic": "France"
+    },
+    {
+      "diff": 268.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Homicide"
+    },
+    {
+      "diff": 87.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Poisons"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Cypriot culture"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Catholic liturgical law"
+    }
+  ]
+}

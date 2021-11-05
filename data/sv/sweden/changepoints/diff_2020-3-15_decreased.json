@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -4478.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -4438.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -3962.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -3807.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3597.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -3592.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3509.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -3340.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -2756.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -1870.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1767.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1742.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1588.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1315.0,
+      "topic": "Music mass media"
+    },
+    {
+      "diff": -1311.0,
+      "topic": "Nations at competitions"
+    },
+    {
+      "diff": -1207.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -1205.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1197.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1163.0,
+      "topic": "Calendars"
+    }
+  ]
+}

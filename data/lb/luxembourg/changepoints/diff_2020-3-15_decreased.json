@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -823.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -764.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -706.0,
+      "topic": "France"
+    },
+    {
+      "diff": -597.0,
+      "topic": "History"
+    },
+    {
+      "diff": -562.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -552.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -248.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -193.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -185.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -174.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -148.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -130.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": -108.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -96.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Top-level stub categories"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 2577.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": 2236.0,
+      "topic": "People from berlin"
+    },
+    {
+      "diff": 2182.0,
+      "topic": "Mass media regulation"
+    },
+    {
+      "diff": 1573.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 1376.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1206.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 1173.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 1164.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 1158.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1082.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1017.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 930.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": 901.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 886.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 847.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 845.0,
+      "topic": "Landscape ecology"
+    },
+    {
+      "diff": 831.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 805.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 789.0,
+      "topic": "Chemical compounds"
+    }
+  ]
+}

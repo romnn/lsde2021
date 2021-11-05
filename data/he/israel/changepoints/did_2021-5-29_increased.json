@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 1194.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": 1128.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": 1124.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 1012.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": 897.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": 866.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 735.0,
+      "topic": "Nationalist organizations"
+    },
+    {
+      "diff": 669.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 638.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 608.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 505.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 503.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 479.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 466.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 431.0,
+      "topic": "Biblical people"
+    },
+    {
+      "diff": 384.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Museology"
+    },
+    {
+      "diff": 379.0,
+      "topic": "Environment of palestine (region)"
+    },
+    {
+      "diff": 367.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 353.0,
+      "topic": "Canaanite people"
+    }
+  ]
+}

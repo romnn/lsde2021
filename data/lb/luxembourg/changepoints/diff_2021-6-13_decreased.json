@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -55.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Appalachia"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Business law"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Quantum mechanics"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Condensed matter physics"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Transparent materials"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Analytical chemistry"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Optical materials"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Molecular biophysics"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Sustainable building"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Old age"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Award winners"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Nuts 1 statistical regions"
+    }
+  ]
+}

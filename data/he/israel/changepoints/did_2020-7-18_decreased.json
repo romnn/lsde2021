@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -1044.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -678.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -636.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -626.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -625.0,
+      "topic": "Kingdoms (biology)"
+    },
+    {
+      "diff": -555.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": -551.0,
+      "topic": "Group decision-making"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -529.0,
+      "topic": "Cambrian geology"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -509.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -474.0,
+      "topic": "Adaptation"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Proterozoic events"
+    },
+    {
+      "diff": -471.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": -450.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -391.0,
+      "topic": "Neoproterozoic"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Geological periods"
+    },
+    {
+      "diff": -363.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -353.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

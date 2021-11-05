@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 1112.0,
+      "topic": "Lithuania"
+    },
+    {
+      "diff": 1082.0,
+      "topic": "Belarusian people"
+    },
+    {
+      "diff": 877.0,
+      "topic": "Medieval people"
+    },
+    {
+      "diff": 809.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 680.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 485.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 374.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 352.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 235.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 233.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 228.0,
+      "topic": "Late jurassic"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Muscomorpha"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Jurassic events"
+    },
+    {
+      "diff": 210.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 207.0,
+      "topic": "Works"
+    }
+  ]
+}

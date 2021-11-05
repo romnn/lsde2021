@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 903.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 891.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 832.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 832.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 832.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 831.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 815.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 735.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 714.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 712.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 706.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 666.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 646.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 610.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 597.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 591.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 517.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Subfields"
+    }
+  ]
+}

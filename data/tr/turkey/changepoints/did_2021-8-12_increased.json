@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 27005.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 26965.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 26016.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 25995.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 25105.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 19974.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 18078.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 15504.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 15364.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 15246.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 10412.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 9984.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6926.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5692.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5256.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4906.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 4602.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4443.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 4221.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 4012.0,
+      "topic": "Establishments"
+    }
+  ]
+}

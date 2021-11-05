@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -9813.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -6759.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": -6744.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": -6727.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": -5829.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -3924.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -3834.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3459.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3378.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3027.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2998.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2769.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2162.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -2082.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2031.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1964.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -1946.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -1891.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -1577.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1426.0,
+      "topic": "Fields"
+    }
+  ]
+}

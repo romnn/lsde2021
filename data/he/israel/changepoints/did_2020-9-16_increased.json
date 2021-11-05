@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 29431.0,
+      "topic": "Horticulture"
+    },
+    {
+      "diff": 29243.0,
+      "topic": "Gardening"
+    },
+    {
+      "diff": 28582.0,
+      "topic": "Molecular genetics"
+    },
+    {
+      "diff": 28564.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 28531.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 7870.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5067.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4939.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 4613.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 4434.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 4137.0,
+      "topic": "Temples"
+    },
+    {
+      "diff": 4129.0,
+      "topic": "Jerusalem"
+    },
+    {
+      "diff": 3364.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3069.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": 2824.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2591.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 2493.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2406.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": 2341.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2210.0,
+      "topic": "Right-wing parties by continent"
+    }
+  ]
+}

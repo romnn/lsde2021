@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 1696.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1456.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1161.0,
+      "topic": "African-american music"
+    },
+    {
+      "diff": 1153.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 1134.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1096.0,
+      "topic": "Use"
+    },
+    {
+      "diff": 1066.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1064.0,
+      "topic": "Products"
+    },
+    {
+      "diff": 1052.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1045.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1038.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1030.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 971.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 856.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Rivers"
+    },
+    {
+      "diff": 742.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 660.0,
+      "topic": "Zoology"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 600.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 574.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 532.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 490.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Classical liberalism"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 296.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 275.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": 256.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 223.0,
+      "topic": "Ammunition"
+    },
+    {
+      "diff": 222.0,
+      "topic": "World war ii military equipment"
+    },
+    {
+      "diff": 221.0,
+      "topic": "Military operations involving japan"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Soviet states"
+    },
+    {
+      "diff": 138.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 138.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 134.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Electrical equipment"
+    },
+    {
+      "diff": 128.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": 124.0,
+      "topic": "Voivodeship"
+    }
+  ]
+}

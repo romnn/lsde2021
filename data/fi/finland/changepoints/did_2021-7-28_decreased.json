@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -8233.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -6045.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5656.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -4830.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4392.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3925.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3176.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -2554.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -2158.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -2009.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2003.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1955.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1937.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1856.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1666.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1482.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -1437.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -1422.0,
+      "topic": "San francisco bay area"
+    },
+    {
+      "diff": -1384.0,
+      "topic": "Music"
+    }
+  ]
+}

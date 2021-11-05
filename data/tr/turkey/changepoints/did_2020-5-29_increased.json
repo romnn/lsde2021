@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 2135.0,
+      "topic": "Civil engineering"
+    },
+    {
+      "diff": 2130.0,
+      "topic": "Materials science"
+    },
+    {
+      "diff": 2116.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": 2094.0,
+      "topic": "Artificial objects"
+    },
+    {
+      "diff": 1864.0,
+      "topic": "Design"
+    },
+    {
+      "diff": 1271.0,
+      "topic": "Turkic literature"
+    },
+    {
+      "diff": 1154.0,
+      "topic": "Nomadic groups"
+    },
+    {
+      "diff": 1092.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 1080.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 1022.0,
+      "topic": "Integer sequences"
+    },
+    {
+      "diff": 1014.0,
+      "topic": "Algebraic number theory"
+    },
+    {
+      "diff": 1013.0,
+      "topic": "Elementary number theory"
+    },
+    {
+      "diff": 1004.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 1004.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 931.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 929.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 853.0,
+      "topic": "Middle eastern countries"
+    },
+    {
+      "diff": 825.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 809.0,
+      "topic": "Levantine mythology"
+    },
+    {
+      "diff": 808.0,
+      "topic": "Mesopotamia"
+    }
+  ]
+}

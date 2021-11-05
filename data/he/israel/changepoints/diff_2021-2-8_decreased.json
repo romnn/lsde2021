@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -3235.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3178.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2941.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2774.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2372.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2279.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2210.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2101.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2023.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1910.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": -1868.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -1810.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1662.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1653.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1463.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1456.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1434.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -1373.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1355.0,
+      "topic": "Israeli culture"
+    }
+  ]
+}

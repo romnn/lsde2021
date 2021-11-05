@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 1926.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1869.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1830.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1811.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1463.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 842.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 784.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 766.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 611.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 582.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 578.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 495.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 472.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 459.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 434.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 418.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 395.0,
+      "topic": "Lexical units"
+    }
+  ]
+}

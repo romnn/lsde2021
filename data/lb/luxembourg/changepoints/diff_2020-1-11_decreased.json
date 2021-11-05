@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -55.0,
+      "topic": "Spanish language"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Latin language"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Writing systems derived from the phoenician"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Alphabets"
+    },
+    {
+      "diff": -11.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Primary sector"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Organ systems"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Exercise physiology"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Angiology"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Aviation organizations"
+    }
+  ]
+}

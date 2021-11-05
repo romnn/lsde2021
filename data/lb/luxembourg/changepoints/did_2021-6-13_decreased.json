@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -180.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Uzbekistan"
+    },
+    {
+      "diff": -54.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Comparative politics"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Appalachia"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Occupation"
+    }
+  ]
+}

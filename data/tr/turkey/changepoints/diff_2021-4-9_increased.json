@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 3903.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 3538.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3476.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 3205.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 3080.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 2958.0,
+      "topic": "Banking technology"
+    },
+    {
+      "diff": 2459.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": 2353.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 2131.0,
+      "topic": "Suicide"
+    },
+    {
+      "diff": 2120.0,
+      "topic": "Critical emergency medicine"
+    },
+    {
+      "diff": 2066.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2052.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2043.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2027.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 1985.0,
+      "topic": "Internet architecture"
+    },
+    {
+      "diff": 1982.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1952.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": 1930.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1920.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 1802.0,
+      "topic": "Phrases"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -4705.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3736.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3530.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -3463.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3144.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2822.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2353.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -2303.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2301.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2249.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -2249.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2171.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2165.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -2104.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -2045.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1910.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1827.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1784.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1765.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1713.0,
+      "topic": "Matter"
+    }
+  ]
+}

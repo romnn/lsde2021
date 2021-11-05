@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 6428.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6359.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6274.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5805.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4905.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 4880.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 4672.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4605.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 4513.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 4034.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3622.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3577.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3376.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2716.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 2680.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 2611.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2405.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 2344.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2225.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2210.0,
+      "topic": "Cognitive science"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 904.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 903.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": 825.0,
+      "topic": "Mesozoic life"
+    },
+    {
+      "diff": 779.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 774.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 766.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 741.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 668.0,
+      "topic": "Body fluids"
+    },
+    {
+      "diff": 653.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 627.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 620.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 607.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 599.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 584.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 574.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 534.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 533.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 457.0,
+      "topic": "Infectious diseases"
+    }
+  ]
+}

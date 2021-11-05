@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -9963.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -9456.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -9227.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -8617.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -8491.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -6437.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -5301.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -5152.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -5106.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -4575.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -4360.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -3793.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -3671.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -3535.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3457.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -3333.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -3130.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -3075.0,
+      "topic": "City"
+    },
+    {
+      "diff": -3046.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2685.0,
+      "topic": "Music mass media"
+    }
+  ]
+}

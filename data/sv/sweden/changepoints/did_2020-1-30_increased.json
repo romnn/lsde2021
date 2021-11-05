@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 5149.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 4739.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 4671.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 3914.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 2116.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 1966.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1851.0,
+      "topic": "Music mass media"
+    },
+    {
+      "diff": 1849.0,
+      "topic": "Nations at competitions"
+    },
+    {
+      "diff": 1560.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1536.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "African-american music"
+    },
+    {
+      "diff": 1452.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1430.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 1419.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1317.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1224.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 1202.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 1079.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 1050.0,
+      "topic": "Former federations"
+    }
+  ]
+}

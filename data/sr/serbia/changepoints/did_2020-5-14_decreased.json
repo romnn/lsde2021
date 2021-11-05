@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -4765.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3382.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3299.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2769.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2183.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2053.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2020.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1724.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1630.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1486.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1418.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -1401.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1398.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1351.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1174.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -911.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -885.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -881.0,
+      "topic": "Ecosystems"
+    }
+  ]
+}

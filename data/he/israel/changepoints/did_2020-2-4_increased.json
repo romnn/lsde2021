@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 3824.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 3185.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 2938.0,
+      "topic": "Arab jews"
+    },
+    {
+      "diff": 2831.0,
+      "topic": "Land"
+    },
+    {
+      "diff": 1698.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": 1102.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 1090.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 1088.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 972.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 852.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": 810.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": 692.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": 688.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 632.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 549.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 530.0,
+      "topic": "People"
+    }
+  ]
+}

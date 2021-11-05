@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 692.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 692.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 691.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 686.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 635.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": 578.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": 545.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": 423.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": 420.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 328.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 305.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 269.0,
+      "topic": "Nationalist organizations"
+    },
+    {
+      "diff": 228.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": 211.0,
+      "topic": "Welsh people"
+    },
+    {
+      "diff": 208.0,
+      "topic": "British musicians"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Biological classification"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Holism"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Religious places"
+    }
+  ]
+}

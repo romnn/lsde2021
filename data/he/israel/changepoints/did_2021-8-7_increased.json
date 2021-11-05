@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 6401.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 6324.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 6192.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 5912.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 5904.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 5450.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4739.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 4438.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 4061.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 3256.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1973.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 1903.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1398.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1323.0,
+      "topic": "Mauritius"
+    },
+    {
+      "diff": 1222.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 831.0,
+      "topic": "Religious works"
+    },
+    {
+      "diff": 812.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 727.0,
+      "topic": "East coast"
+    },
+    {
+      "diff": 709.0,
+      "topic": "Popular music"
+    },
+    {
+      "diff": 693.0,
+      "topic": "Denmark"
+    }
+  ]
+}

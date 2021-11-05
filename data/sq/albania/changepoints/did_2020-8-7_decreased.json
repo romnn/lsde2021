@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -610.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -607.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -464.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -392.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -323.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -317.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -307.0,
+      "topic": "History"
+    },
+    {
+      "diff": -294.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -172.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -158.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -135.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -131.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Establishments"
+    }
+  ]
+}

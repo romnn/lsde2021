@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 53.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 21.0,
+      "topic": "French women scientists"
+    },
+    {
+      "diff": 20.0,
+      "topic": "20th-century french people by occupation"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Vertical superlatives"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Seeds"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Edible nuts"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Plant crops"
+    }
+  ]
+}

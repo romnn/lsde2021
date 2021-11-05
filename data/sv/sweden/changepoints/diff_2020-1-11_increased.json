@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 4907.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4438.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3359.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3025.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2432.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2343.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2332.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2250.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2106.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1967.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1962.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1931.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1894.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1713.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 1628.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 1627.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1627.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1618.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1615.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1607.0,
+      "topic": "Categories"
+    }
+  ]
+}

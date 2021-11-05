@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -14021.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -13820.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -13799.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": -13776.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": -13604.0,
+      "topic": "England"
+    },
+    {
+      "diff": -9959.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4842.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -4824.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4642.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3630.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3445.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -3277.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3049.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -2991.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -2976.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -2964.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -2916.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -2836.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -2719.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -2586.0,
+      "topic": "Government"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 1082.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 1078.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 1070.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 975.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 967.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 966.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 925.0,
+      "topic": "Music mass media"
+    },
+    {
+      "diff": 924.0,
+      "topic": "Nations at competitions"
+    },
+    {
+      "diff": 903.0,
+      "topic": "City"
+    },
+    {
+      "diff": 880.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 825.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 791.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 770.0,
+      "topic": "Colombian music"
+    },
+    {
+      "diff": 711.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 704.0,
+      "topic": "Transport phenomena"
+    },
+    {
+      "diff": 698.0,
+      "topic": "Swedish people"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 681.0,
+      "topic": "People"
+    },
+    {
+      "diff": 679.0,
+      "topic": "Former territorial entities"
+    }
+  ]
+}

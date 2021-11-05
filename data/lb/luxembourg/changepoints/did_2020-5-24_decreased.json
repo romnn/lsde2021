@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -221.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -215.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -148.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -145.0,
+      "topic": "History"
+    },
+    {
+      "diff": -108.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Paris"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Charities"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Philanthropic organizations"
+    },
+    {
+      "diff": -21.0,
+      "topic": "France"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Late antiquity"
+    }
+  ]
+}

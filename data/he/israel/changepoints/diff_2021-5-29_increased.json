@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 1017.0,
+      "topic": "Conservatism"
+    },
+    {
+      "diff": 1013.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 871.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 826.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 823.0,
+      "topic": "Jews and judaism in palestine (region)"
+    },
+    {
+      "diff": 729.0,
+      "topic": "Nationalist organizations"
+    },
+    {
+      "diff": 619.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 571.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": 533.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 447.0,
+      "topic": "Biblical people"
+    },
+    {
+      "diff": 427.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 407.0,
+      "topic": "Museology"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 393.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 355.0,
+      "topic": "Jewish groups"
+    },
+    {
+      "diff": 344.0,
+      "topic": "Domestic implements"
+    },
+    {
+      "diff": 341.0,
+      "topic": "Canaanite people"
+    },
+    {
+      "diff": 336.0,
+      "topic": "Environment of palestine (region)"
+    },
+    {
+      "diff": 335.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

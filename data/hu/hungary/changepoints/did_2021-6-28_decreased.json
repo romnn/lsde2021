@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -4405.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3513.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -3471.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -3330.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -3237.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -1516.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -1467.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1443.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1393.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -1293.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -1159.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -1142.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1119.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -1062.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": -1058.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": -926.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -916.0,
+      "topic": "Infectious diseases"
+    }
+  ]
+}

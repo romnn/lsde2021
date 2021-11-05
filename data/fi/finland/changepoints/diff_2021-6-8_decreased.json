@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -3125.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -2557.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2144.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1952.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -1556.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1414.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1320.0,
+      "topic": "City"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": -1259.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -1258.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1154.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -1111.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": -1087.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1076.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": -1072.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1032.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -1022.0,
+      "topic": "Culture"
+    }
+  ]
+}

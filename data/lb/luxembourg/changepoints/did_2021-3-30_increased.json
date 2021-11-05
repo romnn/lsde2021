@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 145.0,
+      "topic": "Television technology"
+    },
+    {
+      "diff": 116.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Product introduction"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Fruits originating"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Gould belt"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Internet standard organizations"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 7.0,
+      "topic": "1980s"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Anthropomorphism"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Publications"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Packaging"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-25",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 5205.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 5202.0,
+      "topic": "Works about the future"
+    },
+    {
+      "diff": 5171.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 5150.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 4828.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 1289.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1102.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1041.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1038.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 999.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": 923.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": 891.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": 889.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Welsh people"
+    },
+    {
+      "diff": 827.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 827.0,
+      "topic": "British musicians"
+    },
+    {
+      "diff": 815.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 795.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": 636.0,
+      "topic": "Main ingredient"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Prepared foods"
+    }
+  ]
+}

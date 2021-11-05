@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -877.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -192.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -181.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -128.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Phanerozoic first appearances"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Deuterostome zoology"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Cambrian geology"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Oils"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Greek deity"
+    }
+  ]
+}

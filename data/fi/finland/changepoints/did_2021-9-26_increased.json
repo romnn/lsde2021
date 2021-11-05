@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 2483.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2327.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2079.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1990.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1923.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1853.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1822.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 1743.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1740.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1658.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1643.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 1619.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 1474.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1451.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 1443.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 1442.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 1313.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 1266.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1265.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1250.0,
+      "topic": "South america"
+    }
+  ]
+}

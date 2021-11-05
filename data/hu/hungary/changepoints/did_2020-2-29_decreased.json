@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -5696.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5595.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -4535.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3492.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3254.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -3092.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3046.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3002.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -2919.0,
+      "topic": "Waste"
+    },
+    {
+      "diff": -2900.0,
+      "topic": "Recording"
+    },
+    {
+      "diff": -2634.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2543.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2090.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -2059.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -2026.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1966.0,
+      "topic": "Chad"
+    },
+    {
+      "diff": -1918.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -1858.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1822.0,
+      "topic": "Former countries"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1129.0,
+      "topic": "Baltic region"
+    },
+    {
+      "diff": -1069.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1028.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1008.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Parades"
+    },
+    {
+      "diff": -897.0,
+      "topic": "History"
+    },
+    {
+      "diff": -803.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -732.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -616.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -601.0,
+      "topic": "Lithuania"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -437.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -459.0,
+      "topic": "Telecommunications companies"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Speech"
+    },
+    {
+      "diff": -294.0,
+      "topic": "Weather"
+    },
+    {
+      "diff": -294.0,
+      "topic": "Synoptic meteorology"
+    },
+    {
+      "diff": -236.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -226.0,
+      "topic": "Former monarchies"
+    },
+    {
+      "diff": -220.0,
+      "topic": "Ethnic german people"
+    },
+    {
+      "diff": -220.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -156.0,
+      "topic": "Domestic life"
+    },
+    {
+      "diff": -154.0,
+      "topic": "Card games"
+    },
+    {
+      "diff": -148.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -145.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -141.0,
+      "topic": "Computer security"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": -130.0,
+      "topic": "Mechanism"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": -116.0,
+      "topic": "South american football"
+    }
+  ]
+}

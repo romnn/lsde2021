@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -710.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -697.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -636.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -625.0,
+      "topic": "History"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -565.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -560.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -477.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -469.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -469.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -439.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -396.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -388.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -381.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -380.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -369.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -362.0,
+      "topic": "Time"
+    }
+  ]
+}

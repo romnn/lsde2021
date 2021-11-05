@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -5885.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2591.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2462.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2387.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2350.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2264.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2013.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1949.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1902.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1901.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1881.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1855.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -1815.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1814.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1781.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1770.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": -1725.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -1697.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -1596.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1557.0,
+      "topic": "Artificial materials"
+    }
+  ]
+}

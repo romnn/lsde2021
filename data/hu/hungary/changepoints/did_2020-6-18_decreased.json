@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -11869.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11408.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7457.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -6918.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6865.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -6842.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -6683.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -6649.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -5773.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5689.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5116.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -5028.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4894.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4892.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -4682.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4592.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4563.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4434.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4403.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4184.0,
+      "topic": "Language"
+    }
+  ]
+}

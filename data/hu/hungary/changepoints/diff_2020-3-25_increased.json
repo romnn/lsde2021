@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 8469.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 8174.0,
+      "topic": "History"
+    },
+    {
+      "diff": 8087.0,
+      "topic": "Surnames"
+    },
+    {
+      "diff": 8087.0,
+      "topic": "Germanic-language surnames"
+    },
+    {
+      "diff": 7608.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 7096.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 6241.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 6102.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6039.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6016.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5619.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5253.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 4996.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4887.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4449.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4428.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 4315.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 4230.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 4033.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 3949.0,
+      "topic": "Politics"
+    }
+  ]
+}

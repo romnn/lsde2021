@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -36.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": -7.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Districts"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Crafts"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Ocean or sea"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Landforms"
+    }
+  ]
+}

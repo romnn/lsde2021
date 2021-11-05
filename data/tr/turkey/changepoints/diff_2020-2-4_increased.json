@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 2974.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2307.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1935.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1931.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1809.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1642.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1586.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1473.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1438.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1414.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 1300.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1286.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1282.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1280.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1234.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 1210.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1184.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 1163.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1161.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": 1136.0,
+      "topic": "Universe"
+    }
+  ]
+}

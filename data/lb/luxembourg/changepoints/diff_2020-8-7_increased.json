@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 131.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 121.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 114.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 9.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Communities"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Past"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Rugby football"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 5.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Principal area"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Governments"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Product introductions"
+    }
+  ]
+}

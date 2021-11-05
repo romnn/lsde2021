@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-11",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -3887.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3624.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -3615.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -2923.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -2283.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1948.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -1864.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1853.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -1660.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -1656.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1588.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1535.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1453.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -1388.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -1284.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1240.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1237.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1159.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1121.0,
+      "topic": "Turkish kurdistan"
+    }
+  ]
+}

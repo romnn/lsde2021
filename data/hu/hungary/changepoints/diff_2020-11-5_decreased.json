@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -3353.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -3325.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -3049.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -2823.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2617.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -2381.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1524.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -1274.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -708.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -600.0,
+      "topic": "Agaricomycotina"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Fungi"
+    },
+    {
+      "diff": -468.0,
+      "topic": "British isles"
+    },
+    {
+      "diff": -415.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -371.0,
+      "topic": "Ethnic supremacy"
+    },
+    {
+      "diff": -364.0,
+      "topic": "Basidiomycota taxa"
+    },
+    {
+      "diff": -359.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Topology"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -281.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Georgia (u.s. state)"
+    }
+  ]
+}

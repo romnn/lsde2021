@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -624.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -509.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Comics"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Astrologers"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Esotericists"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Human male reproductive system"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Fiction about technology"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Locations"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -12.0,
+      "topic": "European musicians"
+    }
+  ]
+}

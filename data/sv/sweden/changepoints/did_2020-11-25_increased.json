@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-25",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 5201.0,
+      "topic": "Works about the future"
+    },
+    {
+      "diff": 5197.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 5177.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 5118.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 4608.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 2865.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": 2855.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": 2844.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 2822.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": 2431.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 2270.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 1948.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 1943.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1841.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 1680.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": 1621.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 1613.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": 1562.0,
+      "topic": "Origin country"
+    },
+    {
+      "diff": 1557.0,
+      "topic": "Dutch music"
+    }
+  ]
+}

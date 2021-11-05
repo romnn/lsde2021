@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 3443.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 2981.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2693.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2508.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 2456.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2396.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2275.0,
+      "topic": "Thoroughbred racehorses"
+    },
+    {
+      "diff": 2275.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": 2275.0,
+      "topic": "Racehorse deaths"
+    },
+    {
+      "diff": 2274.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": 2072.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 2048.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Core eudicots"
+    },
+    {
+      "diff": 1902.0,
+      "topic": "Departments of bourgogne-franche-comt\u00e9"
+    },
+    {
+      "diff": 1860.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1696.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1595.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1550.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 1490.0,
+      "topic": "Human communication"
+    },
+    {
+      "diff": 1453.0,
+      "topic": "Communication"
+    }
+  ]
+}

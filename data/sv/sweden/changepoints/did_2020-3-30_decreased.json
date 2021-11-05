@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -12982.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -8607.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -8057.0,
+      "topic": "Anthropological categories"
+    },
+    {
+      "diff": -7990.0,
+      "topic": "Peoples"
+    },
+    {
+      "diff": -7838.0,
+      "topic": "Language family"
+    },
+    {
+      "diff": -7747.0,
+      "topic": "Western culture"
+    },
+    {
+      "diff": -6755.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": -6745.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": -6742.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6735.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": -6017.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -4481.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -4071.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3961.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3643.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3147.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -3079.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -3005.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2855.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2661.0,
+      "topic": "Period"
+    }
+  ]
+}

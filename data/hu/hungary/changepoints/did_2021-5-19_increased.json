@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 6045.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 5893.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 5867.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 5768.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 5543.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 2070.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 1715.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 1664.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 1640.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 1479.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 1172.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1098.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": 1078.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1048.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 954.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 880.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 759.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 690.0,
+      "topic": "Business services companies"
+    },
+    {
+      "diff": 662.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 626.0,
+      "topic": "Energy"
+    }
+  ]
+}

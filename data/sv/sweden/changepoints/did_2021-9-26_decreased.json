@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -4115.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -2480.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2118.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1597.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -1191.0,
+      "topic": "Romance"
+    },
+    {
+      "diff": -1188.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -1114.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -1039.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -991.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -970.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -941.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": -915.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -904.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -899.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -888.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -868.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Words"
+    }
+  ]
+}

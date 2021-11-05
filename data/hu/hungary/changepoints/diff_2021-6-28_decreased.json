@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -2272.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2048.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2001.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -1925.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -1800.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -604.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -557.0,
+      "topic": "Motion (physics)"
+    },
+    {
+      "diff": -538.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": -430.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -403.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -350.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -327.0,
+      "topic": "Music"
+    }
+  ]
+}

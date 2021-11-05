@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 131.0,
+      "topic": "Serbian society"
+    },
+    {
+      "diff": 127.0,
+      "topic": "Albanian entertainers"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Proteins"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Albanian people"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Cultural depictions"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Sequani"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Trojan war"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Plastic arts"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Unit processes"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Psychology"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Fallacies"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Iliad"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Mesozoic life"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Chemical reaction engineering"
+    }
+  ]
+}

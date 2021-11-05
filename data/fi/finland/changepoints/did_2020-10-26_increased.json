@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 4629.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3903.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 3836.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 3829.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3637.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 3380.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 3210.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 3200.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 3182.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 3087.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2566.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2479.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 2438.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2285.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2272.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2072.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2005.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1918.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1817.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1701.0,
+      "topic": "Religion"
+    }
+  ]
+}

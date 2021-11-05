@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 3573.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 3094.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 3086.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2628.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2490.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2165.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1812.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1788.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1774.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1719.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 1694.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 1532.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1513.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1487.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1469.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1426.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 1359.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 1263.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 1156.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1096.0,
+      "topic": "Century"
+    }
+  ]
+}

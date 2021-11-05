@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -3167.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -3071.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -3019.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2793.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1731.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1348.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1220.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1070.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Lunar calendars"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Solar calendars"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Prokaryotes"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Planet"
+    },
+    {
+      "diff": -403.0,
+      "topic": "Types"
+    },
+    {
+      "diff": -385.0,
+      "topic": "Housing organizations"
+    },
+    {
+      "diff": -355.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -314.0,
+      "topic": "Bacteriology"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Ancient jewish literature"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Astronomy"
+    },
+    {
+      "diff": -294.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Israeli culture"
+    }
+  ]
+}

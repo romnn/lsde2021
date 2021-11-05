@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -1759.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1698.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1696.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1577.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1415.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1349.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": -1053.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -993.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -993.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -991.0,
+      "topic": "San francisco bay area"
+    },
+    {
+      "diff": -933.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -840.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": -798.0,
+      "topic": "French language"
+    },
+    {
+      "diff": -778.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": -719.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": -688.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -657.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Gothenburg"
+    },
+    {
+      "diff": -594.0,
+      "topic": "Disorders"
+    }
+  ]
+}

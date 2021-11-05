@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1728.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -378.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -236.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -217.0,
+      "topic": "Christian religious leaders"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Roman catholic bishops"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Primates (bishops)"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Bishops"
+    },
+    {
+      "diff": -203.0,
+      "topic": "Late triassic geochronology"
+    },
+    {
+      "diff": -203.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Taxa"
+    },
+    {
+      "diff": -185.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": -185.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Prehistoric life"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Formal description"
+    },
+    {
+      "diff": -178.0,
+      "topic": "Computer systems"
+    }
+  ]
+}

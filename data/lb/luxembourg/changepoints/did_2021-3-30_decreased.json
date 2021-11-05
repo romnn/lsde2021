@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -1019.0,
+      "topic": "History"
+    },
+    {
+      "diff": -986.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -978.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -882.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -565.0,
+      "topic": "France"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -208.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -192.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -178.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -176.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -155.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    }
+  ]
+}

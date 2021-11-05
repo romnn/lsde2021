@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 3568.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2263.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2140.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2110.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1979.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1853.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1830.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 1778.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1764.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1757.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1680.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1579.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1563.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1548.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1537.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1527.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 1483.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1450.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1435.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 1399.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

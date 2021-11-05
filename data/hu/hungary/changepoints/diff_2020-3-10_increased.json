@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 8419.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7564.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7311.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 6897.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6529.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6042.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5824.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 5356.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5289.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4572.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 4148.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4145.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 3986.0,
+      "topic": "Echinacea (animals)"
+    },
+    {
+      "diff": 3960.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3809.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3599.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 3594.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 3569.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 3430.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3391.0,
+      "topic": "Time"
+    }
+  ]
+}

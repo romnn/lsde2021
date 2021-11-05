@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 1043.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 1003.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 934.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 907.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": 906.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 834.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 807.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 769.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 761.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 750.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 675.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 639.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 631.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 581.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 542.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 481.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

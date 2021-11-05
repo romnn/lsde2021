@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -192.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -127.0,
+      "topic": "History"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -30.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -30.0,
+      "topic": "People"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Culture"
+    }
+  ]
+}

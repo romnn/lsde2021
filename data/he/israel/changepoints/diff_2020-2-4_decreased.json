@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -968.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -847.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -799.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -701.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -696.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -689.0,
+      "topic": "History"
+    },
+    {
+      "diff": -519.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -497.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -479.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -471.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -382.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -371.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -369.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -367.0,
+      "topic": "Rhetoric"
+    },
+    {
+      "diff": -365.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -318.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -318.0,
+      "topic": "Time"
+    }
+  ]
+}

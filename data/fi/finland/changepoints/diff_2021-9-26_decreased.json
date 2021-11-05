@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1190.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1086.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Finnish musicians"
+    },
+    {
+      "diff": -985.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -985.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -978.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -829.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Agaricomycotina"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -486.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Basidiomycota taxa"
+    },
+    {
+      "diff": -432.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -421.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -414.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Landforms"
+    }
+  ]
+}

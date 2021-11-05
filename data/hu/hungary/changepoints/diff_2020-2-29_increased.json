@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 4519.0,
+      "topic": "Sub-ethnic groups"
+    },
+    {
+      "diff": 3686.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3591.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 3510.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2704.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2592.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 2375.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2315.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 2144.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 2100.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1935.0,
+      "topic": "Departments of bourgogne-franche-comt\u00e9"
+    },
+    {
+      "diff": 1839.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1820.0,
+      "topic": "Core eudicots"
+    },
+    {
+      "diff": 1817.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1619.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1569.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1541.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1481.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1345.0,
+      "topic": "Second-level administrative divisions by country"
+    },
+    {
+      "diff": 1301.0,
+      "topic": "Mediterranean sea"
+    }
+  ]
+}

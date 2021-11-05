@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 3374.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3261.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2597.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 2571.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2425.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 2049.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1951.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1943.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1842.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1778.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1746.0,
+      "topic": "Western macedonia"
+    },
+    {
+      "diff": 1703.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1541.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 1536.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1535.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 1494.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1480.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 1444.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1431.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1372.0,
+      "topic": "Former german states"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -64.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -31.0,
+      "topic": "American film studios"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Film distributors"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Power (social and political)"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Health research"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -15.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -13.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Federalism"
+    }
+  ]
+}

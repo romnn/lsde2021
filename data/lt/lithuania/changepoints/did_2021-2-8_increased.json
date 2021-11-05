@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 21210.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 20658.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 19907.0,
+      "topic": "History"
+    },
+    {
+      "diff": 17012.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 6886.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6555.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 4352.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 3756.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 3638.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 3227.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3145.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 2827.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2429.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 2252.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1927.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1880.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1636.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 1634.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1546.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1360.0,
+      "topic": "Country"
+    }
+  ]
+}

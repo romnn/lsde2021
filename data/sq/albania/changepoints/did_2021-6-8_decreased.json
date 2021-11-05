@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -4197.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2338.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1976.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1937.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1862.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1852.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1837.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1750.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -1641.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -1625.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1522.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1348.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1344.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -1342.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -1315.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1313.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1290.0,
+      "topic": "Molecules"
+    }
+  ]
+}

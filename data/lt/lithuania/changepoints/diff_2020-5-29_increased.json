@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 359.0,
+      "topic": "Classical liberalism"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 273.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 268.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 223.0,
+      "topic": "Ammunition"
+    },
+    {
+      "diff": 222.0,
+      "topic": "World war ii military equipment"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Military operations involving japan"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 164.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Electrical equipment"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Mammal taxa"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Mesozoic animals"
+    },
+    {
+      "diff": 37.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Heat transfer"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Prehistoric arthropods"
+    },
+    {
+      "diff": 31.0,
+      "topic": "County"
+    }
+  ]
+}

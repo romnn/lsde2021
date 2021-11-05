@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 793.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 746.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 680.0,
+      "topic": "France"
+    },
+    {
+      "diff": 523.0,
+      "topic": "History"
+    },
+    {
+      "diff": 463.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 456.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 455.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 149.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 142.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": 123.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 81.0,
+      "topic": "Countries"
+    }
+  ]
+}

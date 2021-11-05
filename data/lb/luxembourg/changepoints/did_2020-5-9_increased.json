@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 31.0,
+      "topic": "Paris"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Charities"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Philanthropic organizations"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Departments of \u00eele-de-france"
+    },
+    {
+      "diff": 20.0,
+      "topic": "People"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Human biology"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Extant gelasian first appearances"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": 14.0,
+      "topic": "French language"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Works about astronomy"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Animal"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Italic culture"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 12.0,
+      "topic": "City"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Behavior"
+    }
+  ]
+}

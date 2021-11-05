@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-14",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 506.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Human development"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 466.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 463.0,
+      "topic": "Transitional justice"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 367.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": 332.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 291.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 182.0,
+      "topic": "16th century"
+    },
+    {
+      "diff": 171.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 161.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 161.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Tribes"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": 154.0,
+      "topic": "Historical ethnic groups"
+    },
+    {
+      "diff": 133.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": 103.0,
+      "topic": "Asia"
+    }
+  ]
+}

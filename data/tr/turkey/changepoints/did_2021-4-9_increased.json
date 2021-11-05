@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 4067.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3968.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 3692.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 3294.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3264.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 3137.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 2959.0,
+      "topic": "Banking technology"
+    },
+    {
+      "diff": 2907.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2894.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2841.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2487.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": 2485.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 2415.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 2325.0,
+      "topic": "Turkish culture"
+    },
+    {
+      "diff": 2312.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2265.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 2261.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2219.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 2216.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 2129.0,
+      "topic": "Suicide"
+    }
+  ]
+}

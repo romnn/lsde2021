@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -409.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -131.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Plant families"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Campanian"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Late cretaceous life"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Extant mesozoic first appearances"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Third-level administrative divisions by country"
+    }
+  ]
+}

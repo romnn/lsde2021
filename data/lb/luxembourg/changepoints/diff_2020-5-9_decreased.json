@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -113.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -102.0,
+      "topic": "History"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -86.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -15.0,
+      "topic": "American law"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Publicly traded companies"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -12.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Eating behaviors"
+    }
+  ]
+}

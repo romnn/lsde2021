@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 16368.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 15766.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 15260.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 12954.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6062.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 4652.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 4543.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 4532.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": 4327.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": 3296.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 2877.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": 2841.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 2530.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 2278.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2258.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2054.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 1732.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1653.0,
+      "topic": "Arab jews"
+    },
+    {
+      "diff": 1644.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 1600.0,
+      "topic": "Iranian people"
+    }
+  ]
+}

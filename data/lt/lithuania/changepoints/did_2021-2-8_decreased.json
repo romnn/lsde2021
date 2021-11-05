@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1533.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1419.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1317.0,
+      "topic": "Dance"
+    },
+    {
+      "diff": -1213.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -983.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -964.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -901.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -799.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -754.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": -740.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -720.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -687.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -679.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": -641.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

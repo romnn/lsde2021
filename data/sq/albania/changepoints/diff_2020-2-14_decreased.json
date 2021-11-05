@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-14",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -1161.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -521.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -398.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -358.0,
+      "topic": "Animal physiology"
+    },
+    {
+      "diff": -320.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -286.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -249.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -241.0,
+      "topic": "History"
+    },
+    {
+      "diff": -241.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -239.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -224.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Hydrography"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -207.0,
+      "topic": "Lexical units"
+    }
+  ]
+}

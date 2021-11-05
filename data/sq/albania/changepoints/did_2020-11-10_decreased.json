@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -870.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -816.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -814.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -715.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -625.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": -449.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Property law"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Slovenia"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Ancient history"
+    },
+    {
+      "diff": -404.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -397.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -340.0,
+      "topic": "Greek society"
+    },
+    {
+      "diff": -333.0,
+      "topic": "Classical literature"
+    },
+    {
+      "diff": -320.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -282.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -275.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Religion"
+    }
+  ]
+}

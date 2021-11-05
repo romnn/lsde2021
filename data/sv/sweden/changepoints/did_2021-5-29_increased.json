@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 2787.0,
+      "topic": "People from stockholm"
+    },
+    {
+      "diff": 1052.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 967.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 838.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 820.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 780.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 720.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 669.0,
+      "topic": "Arthropod families"
+    },
+    {
+      "diff": 595.0,
+      "topic": "Arthropod taxa"
+    },
+    {
+      "diff": 578.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 558.0,
+      "topic": "Mythological creatures"
+    },
+    {
+      "diff": 537.0,
+      "topic": "Recurrent elements"
+    },
+    {
+      "diff": 525.0,
+      "topic": "Insects"
+    },
+    {
+      "diff": 512.0,
+      "topic": "Palearctic realm"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Miocene geochronology"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Cenozoic extinctions"
+    },
+    {
+      "diff": 497.0,
+      "topic": "European deities"
+    },
+    {
+      "diff": 494.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 481.0,
+      "topic": "Geographic history"
+    }
+  ]
+}

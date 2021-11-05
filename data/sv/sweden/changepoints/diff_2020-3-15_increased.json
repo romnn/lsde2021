@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 11591.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6173.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 6093.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": 6035.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": 6007.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": 4206.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3545.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3196.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3031.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2864.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2587.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2559.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2536.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2393.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2392.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2342.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2236.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 2050.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2005.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 1915.0,
+      "topic": "Biology"
+    }
+  ]
+}

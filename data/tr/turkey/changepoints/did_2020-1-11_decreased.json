@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -224.0,
+      "topic": "Reference"
+    },
+    {
+      "diff": -218.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -193.0,
+      "topic": "Media sharing"
+    },
+    {
+      "diff": -187.0,
+      "topic": "Online content distribution"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Automotive technologies"
+    },
+    {
+      "diff": -165.0,
+      "topic": "1930s economic history"
+    },
+    {
+      "diff": -151.0,
+      "topic": "Vehicles introduced"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Motor vehicle manufacturers"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Physical fitness"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Government agencies"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Sharia"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Clergy"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Energy infrastructure"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Fossil fuels"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    }
+  ]
+}

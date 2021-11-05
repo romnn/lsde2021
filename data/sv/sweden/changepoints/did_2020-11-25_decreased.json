@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-25",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -11600.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5839.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5023.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4877.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4381.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3845.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -3518.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3357.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3293.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3166.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3110.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3017.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2931.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -2903.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -2595.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -2573.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2315.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2291.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2193.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -2122.0,
+      "topic": "Places"
+    }
+  ]
+}

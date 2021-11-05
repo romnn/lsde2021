@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -2707.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2573.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2121.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1503.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -740.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Ice hockey"
+    },
+    {
+      "diff": -592.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -564.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -511.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -507.0,
+      "topic": "Television series debuts"
+    },
+    {
+      "diff": -413.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -383.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -366.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": -366.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -359.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -346.0,
+      "topic": "Winter sports competitions"
+    },
+    {
+      "diff": -346.0,
+      "topic": "Sports leagues"
+    },
+    {
+      "diff": -329.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -314.0,
+      "topic": "Subdivisions"
+    }
+  ]
+}

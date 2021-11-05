@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -1852.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -1852.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -1852.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -1852.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -1846.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -554.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -533.0,
+      "topic": "World wars"
+    },
+    {
+      "diff": -514.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -499.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -484.0,
+      "topic": "Populated waterside places"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -482.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -480.0,
+      "topic": "18th century"
+    },
+    {
+      "diff": -436.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": -392.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -247.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -235.0,
+      "topic": "Montenegro"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Geographic history"
+    }
+  ]
+}

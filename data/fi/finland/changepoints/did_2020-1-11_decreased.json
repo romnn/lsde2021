@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1512.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1064.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Political divisions"
+    },
+    {
+      "diff": -793.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -762.0,
+      "topic": "Lands inhabited"
+    },
+    {
+      "diff": -752.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -709.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -692.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -671.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": -632.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": -617.0,
+      "topic": "States"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Norwegian culture"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Arab jews"
+    },
+    {
+      "diff": -565.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": -494.0,
+      "topic": "Music people"
+    }
+  ]
+}

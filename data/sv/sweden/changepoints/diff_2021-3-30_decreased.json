@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -5647.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3984.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3296.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3080.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2661.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2583.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2455.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2191.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2067.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1962.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1734.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -1673.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1634.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1609.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1593.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1578.0,
+      "topic": "Dutch music"
+    },
+    {
+      "diff": -1575.0,
+      "topic": "Origin country"
+    },
+    {
+      "diff": -1569.0,
+      "topic": "Emigrants"
+    }
+  ]
+}

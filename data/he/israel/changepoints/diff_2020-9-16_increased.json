@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 7771.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4631.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4534.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 4217.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 3853.0,
+      "topic": "Temples"
+    },
+    {
+      "diff": 3841.0,
+      "topic": "Jerusalem"
+    },
+    {
+      "diff": 2820.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2720.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2703.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 2367.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 2333.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2326.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 1932.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 1782.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1684.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1675.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1494.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1459.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 1454.0,
+      "topic": "Europe"
+    }
+  ]
+}

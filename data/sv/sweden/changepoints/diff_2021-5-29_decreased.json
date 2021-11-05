@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -9982.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8963.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8074.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7651.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6098.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -5795.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -5113.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4611.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4513.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -4071.0,
+      "topic": "Dutch music"
+    },
+    {
+      "diff": -4013.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -3990.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -3469.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3433.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3203.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -3154.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -3121.0,
+      "topic": "Emigrants"
+    },
+    {
+      "diff": -3119.0,
+      "topic": "Origin country"
+    },
+    {
+      "diff": -3103.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -3103.0,
+      "topic": "Places"
+    }
+  ]
+}

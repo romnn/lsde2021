@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 4397.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 3066.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 2987.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2489.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2157.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2109.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 1939.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1873.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 1798.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 1720.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1686.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1666.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 1628.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 1613.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1603.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1585.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1558.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1504.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 1496.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": 1490.0,
+      "topic": "Science"
+    }
+  ]
+}
