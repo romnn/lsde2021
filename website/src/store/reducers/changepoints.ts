@@ -2,7 +2,7 @@ import { Action } from "../actions";
 import { AnyAction } from "redux";
 
 type ChangepointState = {
-  readonly changepoint: string | undefined;
+  readonly changepoint: Date | undefined;
 };
 
 const initialState: ChangepointState = {

@@ -6,6 +6,7 @@ import { connect, ConnectedProps } from "react-redux";
 import { TagType, Tag } from "./store/reducers/tags";
 import { Action } from "./store/actions";
 import { RootState } from "./store";
+import LANGUAGE_COUNTRIES from "./data/languages_countries.json";
 import "./App.sass";
 
 const mapState = (state: RootState) => ({
@@ -56,7 +57,6 @@ class Main extends React.Component<MainProps, MainState> {
   constructor(props: MainProps) {
     super(props);
     const availableTags: Tag[] = [];
-    const languages = { de: ["Germany"], nl: ["Netherlands"] };
     const topics = [
       "Medicine",
       "Sports",
@@ -65,44 +65,46 @@ class Main extends React.Component<MainProps, MainState> {
       "Do-it-yourself",
     ];
 
-    Object.entries(languages).forEach(([lang, countries]) => {
-      availableTags.push(
-        ...countries.map((country) => {
-          return {
-            typ: TagType.CountryStringency,
-            country,
-            lang,
-            iso3: "todo",
-            url: "todo",
-            title: `${country}:Stringency`,
-          };
-        })
-      );
-      availableTags.push(
-        ...countries.map((country) => {
-          return {
-            typ: TagType.CountryTotal,
-            country,
-            lang,
-            iso3: "todo",
-            url: "todo",
-            title: `${country}:Total`,
-          };
-        })
-      );
-      countries.forEach((country) => {
-        availableTags.push(
-          ...topics.map((topic) => {
-            return {
-              typ: TagType.CountryTopicAttention,
-              country,
-              lang,
-              iso3: "todo",
-              url: "todo",
-              title: `${country}:Topic:${topic}`,
-            };
-          })
-        );
+    const map = new Map();
+    LANGUAGE_COUNTRIES.forEach((lc) => {
+      let title = `${lc.country.replaceAll(" ", "-")}:Stringency`;
+      if (!map.has(title)) {
+        availableTags.push({
+          typ: TagType.CountryStringency,
+          country: lc.country,
+          lang: lc.group,
+          iso3: lc.iso3,
+          url: `data/${lc.group}/${lc.country}/stringency_changepoints.json`,
+          title,
+          // id: `${lc.country.replaceAll(" ", "-")}-stringency`,
+        });
+        map.set(title, true);
+      }
+      title = `${lc.country.replaceAll(" ", "-")}:Total`;
+      if (!map.has(title)) {
+        availableTags.push({
+          typ: TagType.CountryTotal,
+          country: lc.country,
+          lang: lc.group,
+          iso3: lc.iso3,
+          url: `data/${lc.group}/${lc.country}/total.json`,
+          title,
+        });
+        map.set(title, true);
+      }
+      topics.forEach((topic) => {
+        title = `${lc.country.replaceAll(" ", "-")}:Topic:${topic}`;
+        if (!map.has(title)) {
+          availableTags.push({
+            typ: TagType.CountryTopicAttention,
+            country: lc.country,
+            lang: lc.group,
+            iso3: lc.iso3,
+            url: `data/${lc.group}/${lc.country}/topic_${topic}.json`,
+            title,
+          });
+          map.set(title, true);
+        }
       });
     });
     this.state = {
@@ -190,7 +192,7 @@ class Main extends React.Component<MainProps, MainState> {
 
     const searchPrefixes = this.state.searchText
       .toLowerCase()
-      .replace(":", " ")
+      .replaceAll(":", " ")
       .split(" ")
       .filter((s) => s.length > 0);
     // console.log(searchPrefixes);
@@ -294,7 +296,7 @@ class Main extends React.Component<MainProps, MainState> {
           <div className="w-3/4 inline-block">
             <Timeline />
           </div>
-          <div className="w-1/4 inline-block px-2 overflow-y-scroll">
+          <div className="w-1/4 inline-block px-2 py-1 overflow-y-scroll">
             <input
               className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-1"
               type="text"
