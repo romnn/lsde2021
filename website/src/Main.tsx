@@ -1,4 +1,5 @@
 import React from "react";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
@@ -287,6 +288,14 @@ class Main extends React.Component<MainProps, MainState> {
 
     const TopicAttentionTab = <TopicBarPlot />;
 
+    const tabStyle =
+      "cursor-pointer font-semibold bg-white inline-block py-1 px-2 ";
+    const selectedTabStyle =
+      tabStyle + "text-gray-800 border-l border-t border-r rounded-t";
+    const unselectedTabStyle = tabStyle + "text-gray-300 hover:text-gray-800";
+    const disabledTabStyle =
+      tabStyle + " text-gray-200 cursor-default hover:text-gray-200";
+
     return (
       <div className="Main">
         <div className="flex">
@@ -296,7 +305,7 @@ class Main extends React.Component<MainProps, MainState> {
           <div className="w-3/4 inline-block">
             <Timeline />
           </div>
-          <div className="w-1/4 inline-block px-2 py-1 overflow-y-scroll">
+          <div className="w-1/4 inline-block px-2 py-1">
             <input
               className="focus:border-light-blue-500 focus:ring-1 focus:ring-light-blue-500 focus:outline-none w-full text-sm text-black placeholder-gray-500 border border-gray-200 rounded-md py-2 pl-1"
               type="text"
@@ -306,30 +315,41 @@ class Main extends React.Component<MainProps, MainState> {
               placeholder="Search"
             />
             <div>
-              <div className="tags">{scoredAvailableTags}</div>
+              <div className="tags overflow-y-scroll">
+                {scoredAvailableTags}
+              </div>
             </div>
           </div>
         </div>
 
         <ul className="flex border-b">
           <li className="-mb-px ml-2">
-            <a
-              className="bg-white inline-block border-l border-t border-r rounded-t py-1 px-2 text-gray-700 font-semibold"
-              href="#"
-            >
-              Map
-            </a>
-          </li>
-          <li className="ml-2">
-            <a
-              className="bg-white inline-block py-1 px-2 text-gray-300 hover:text-gray-800 font-semibold"
-              href="#"
+            <Link
+              className={
+                window.location.pathname === "/"
+                  ? selectedTabStyle
+                  : unselectedTabStyle
+              }
+              to="/"
             >
               Attention Shifts
-            </a>
+            </Link>
+          </li>
+
+          <li className="ml-2">
+            <Link
+              onClick={(event) => event.preventDefault()}
+              className={disabledTabStyle}
+              to="/map"
+            >
+              Map
+            </Link>
           </li>
         </ul>
-        <div className="tabContent"></div>
+        <div className="tabContent mb-5">
+          <Route exact path="/map" component={WorldMap} />
+          <Route exact path="/" component={TopicBarPlot} />
+        </div>
       </div>
     );
   }

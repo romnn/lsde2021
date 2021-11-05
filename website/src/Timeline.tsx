@@ -102,6 +102,18 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       "transform",
       `translate(${this.margin.left}, ${this.margin.top})`
     );
+    this.listeningRect
+      .attr("width", width - this.margin.left - this.margin.right)
+      .attr("height", this.height - this.margin.top - this.margin.bottom);
+
+    this.hoverLabel
+      .attr("x", width - this.margin.top - this.margin.bottom - 50)
+      .attr("y", this.height - this.margin.top - this.margin.bottom - 50);
+
+    this.hoverLine.attr(
+      "height",
+      this.height - this.margin.top - this.margin.bottom
+    );
 
     type ChangepointGraph = { date: Date; id: string };
     type StringencyGraph = {
@@ -109,6 +121,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       stringency: {
         date: Date;
         value: number;
+        notes: string[];
       }[];
       changepoints: ChangepointGraph[];
     };
@@ -122,6 +135,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
           return {
             date: new Date(d?.Date),
             value: Number(d.StringencyIndex),
+            notes: d.Notes,
           };
         }),
         changepoints: s.changepoints.map((d) => {
@@ -175,8 +189,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .selectAll("text")
       .style("text-anchor", "end");
 
-    // console.log(stringencies.map((s) => s.id));
-
     const stringenciesProj = this.bounds
       .selectAll<SVGGElement, StringencyGraph>(".stringency")
       .data(stringencies, (s) => s.id);
@@ -226,12 +238,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .attr("fill", (d) => color(d.id))
       .attr("opacity", "0.1")
       .attr("height", this.height - this.margin.top - this.margin.bottom)
-      // .attr("y", (d) => {
-      //   const cpStringency = data.stringency.filter((s) =>
-      //     sameDate(new Date(d), xAccessor(s))
-      //   );
-      //   return this.yScale(yAccessor(cpStringency[0]));
-      // })
       .attr("x", (d) => {
         return xScale(d.date);
       })
@@ -283,215 +289,263 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         .attr("stroke-dashoffset", 0);
     });
 
+    this.listeningRect
+      .on("click", (event, d) => {
+        // toggle hovering to be able to read about restrictions
+        this.hoverEnabled = !this.hoverEnabled;
+      })
+      .on("mousemove", (event, d) => {
+        if (!this.hoverEnabled) return;
+        const [mouseX, mouseY] = d3.pointer(event);
+        const hoveredDate: Date = xScale.invert(mouseX);
+        this.hoverLabel.text(d3.timeFormat("%B %d, %Y")(hoveredDate));
+        this.hoverLine.attr("x", xScale(hoveredDate));
+
+        // only show detailed stringency events if one is plotted
+        if (stringencies.length !== 1) {
+          this.setState({
+            notes: [],
+          });
+          return;
+        }
+
+        const dist = (d: { date: Date }): number =>
+          Math.abs((d.date?.getTime() ?? 0) - hoveredDate.getTime());
+        const firstStringency: StringencyGraph = stringencies[0];
+        const stringencyWithNotes = firstStringency.stringency.filter(
+          (s) => s.notes.length > 0
+        );
+        const closestIndexWithNotes: number | undefined = d3.leastIndex(
+          stringencyWithNotes,
+          (a, b) => dist(a) - dist(b)
+        );
+        if (closestIndexWithNotes !== undefined) {
+          const closestDataPoint = stringencyWithNotes[closestIndexWithNotes];
+          this.setState({
+            notes: [
+              ...new Set(
+                closestDataPoint?.notes.map((n) => {
+                  const stripped = n.replace(
+                    /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
+                    " [...] "
+                  );
+                  return stripped;
+                }) ?? []
+              ),
+            ],
+          });
+        }
+      });
+
     return;
 
-    const flatX: Date[] = [];
-    const flatStringencyY: number[] = [];
+    //const flatX: Date[] = [];
+    //const flatStringencyY: number[] = [];
 
-    // define accessors
-    const xAccessorStringency = (d: Stringency): Date | null => {
-      return new Date(d?.Date);
-    };
-    const yAccessorStringency = (d: Stringency) => Number(d.StringencyIndex);
+    //// define accessors
+    //const xAccessorStringency = (d: Stringency): Date | null => {
+    //  return new Date(d?.Date);
+    //};
+    //const yAccessorStringency = (d: Stringency) => Number(d.StringencyIndex);
 
-    for (let [tag, s] of this.state.stringencies.entries()) {
-      flatX.push(
-        ...s.stringency.map(
-          (d) => xAccessorStringency(d) ?? new Date(2020, 1, 1)
-        )
-      );
+    //for (let [tag, s] of this.state.stringencies.entries()) {
+    //  flatX.push(
+    //    ...s.stringency.map(
+    //      (d) => xAccessorStringency(d) ?? new Date(2020, 1, 1)
+    //    )
+    //  );
 
-      flatStringencyY.push(...s.stringency.map((d) => yAccessorStringency(d)));
-    }
+    //  flatStringencyY.push(...s.stringency.map((d) => yAccessorStringency(d)));
+    //}
 
-    // compute the extents for x and y
-    const extentX = d3.extent(flatX) as [Date, Date];
-    this.xScale.domain(extentX);
+    //// compute the extents for x and y
+    //const extentX = d3.extent(flatX) as [Date, Date];
+    //this.xScale.domain(extentX);
 
-    this.svg
-      .selectAll<SVGGElement, any>(".xAxis")
-      .transition()
-      .duration(100)
-      .call(d3.axisBottom(this.xScale))
-      .selectAll("text")
-      .attr("transform", "translate(-10,0)rotate(-45)")
-      .style("text-anchor", "end");
+    //this.svg
+    //  .selectAll<SVGGElement, any>(".xAxis")
+    //  .transition()
+    //  .duration(100)
+    //  .call(d3.axisBottom(this.xScale))
+    //  .selectAll("text")
+    //  .attr("transform", "translate(-10,0)rotate(-45)")
+    //  .style("text-anchor", "end");
 
-    const yDomainStringency = [0, d3.max(flatStringencyY) ?? 0];
-    this.yScaleStringency.domain(yDomainStringency);
-    this.yAxisStringency.call(d3.axisLeft(this.yScaleStringency));
+    //const yDomainStringency = [0, d3.max(flatStringencyY) ?? 0];
+    //this.yScaleStringency.domain(yDomainStringency);
+    //this.yAxisStringency.call(d3.axisLeft(this.yScaleStringency));
 
-    // set the colour scale
-    // var color = d3.scaleOrdinal(d3.schemeCategory10);
+    //// set the colour scale
+    //// var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    for (let [tag, s] of this.state.stringencies.entries()) {
-      // update the stringency
-      const line = d3
-        .line<Stringency>()
-        .curve(d3.curveBasis)
-        // .x(0).y(0);
-        .x((d) => {
-          return this.xScale(xAccessorStringency(d) ?? new Date(2020, 1, 1));
-        })
-        .y((d) => {
-          return this.yScaleStringency(yAccessorStringency(d) ?? 0);
-        });
+    //for (let [tag, s] of this.state.stringencies.entries()) {
+    //  // update the stringency
+    //  const line = d3
+    //    .line<Stringency>()
+    //    .curve(d3.curveBasis)
+    //    // .x(0).y(0);
+    //    .x((d) => {
+    //      return this.xScale(xAccessorStringency(d) ?? new Date(2020, 1, 1));
+    //    })
+    //    .y((d) => {
+    //      return this.yScaleStringency(yAccessorStringency(d) ?? 0);
+    //    });
 
-      const path = this.bounds
-        .append("path")
-        .attr("class", "line")
-        .datum(s.stringency)
-        .attr("id", tag)
-        .attr("fill", "none")
-        .attr("stroke", color(tag))
-        .attr("stroke-width", 2)
-        .attr("stroke-dasharray", "3, 3")
-        .attr("data-legend", tag)
-        .attr("d", line);
+    //  const path = this.bounds
+    //    .append("path")
+    //    .attr("class", "line")
+    //    .datum(s.stringency)
+    //    .attr("id", tag)
+    //    .attr("fill", "none")
+    //    .attr("stroke", color(tag))
+    //    .attr("stroke-width", 2)
+    //    .attr("stroke-dasharray", "3, 3")
+    //    .attr("data-legend", tag)
+    //    .attr("d", line);
 
-      this.bounds
-        .selectAll(".line")
-        .transition()
-        .duration(4000)
-        .ease(d3.easeLinear)
-        .attr("stroke-dashoffset", 0);
+    //  this.bounds
+    //    .selectAll(".line")
+    //    .transition()
+    //    .duration(4000)
+    //    .ease(d3.easeLinear)
+    //    .attr("stroke-dashoffset", 0);
 
-      // add a legend
-      this.bounds
-        .append("text")
-        // .attr("x", (legendSpace/2)+i*legendSpace)  // space legend
-        // .attr("y", height + (margin.bottom/2)+ 5)
-        .attr("class", "legend")
-        .style("fill", color(tag))
-        .text(tag);
+    //  // add a legend
+    //  this.bounds
+    //    .append("text")
+    //    // .attr("x", (legendSpace/2)+i*legendSpace)  // space legend
+    //    // .attr("y", height + (margin.bottom/2)+ 5)
+    //    .attr("class", "legend")
+    //    .style("fill", color(tag))
+    //    .text(tag);
 
-      // update the changepoints
-      const changepointLines = this.bounds
-        .selectAll<SVGRectElement, any>(".changepoint")
-        .data<string>(s.changepoints)
-        .enter();
+    //  // update the changepoints
+    //  const changepointLines = this.bounds
+    //    .selectAll<SVGRectElement, any>(".changepoint")
+    //    .data<string>(s.changepoints)
+    //    .enter();
 
-      changepointLines
-        .append("rect")
-        .attr("class", "changepoint")
-        .attr("width", "5px")
-        .attr("cursor", "pointer")
-        .attr("fill", "black")
-        .attr("opacity", "0.1")
-        // .attr("height", 1000)
-        // .attr("height", height - margin.top - margin.bottom)
-        // .attr("y", (d) => {
-        //   const cpStringency = data.stringency.filter((s) =>
-        //     sameDate(new Date(d), xAccessor(s))
-        //   );
-        //   return this.yScale(yAccessor(cpStringency[0]));
-        // })
-        .attr("x", (d) => {
-          return this.xScale(new Date(d ?? ""));
-        })
-        .on("click", (event, d: string) => {
-          const current = d3.select(event.currentTarget);
-          if (
-            this.props.currentChangepoint != undefined &&
-            d !== this.props.currentChangepoint
-          ) {
-            // must deselect old one
-            changepointLines.selectAll("rect").attr("opacity", "0.1");
-          }
-          const alreadySelected = d === this.props.currentChangepoint;
-          current
-            .classed("selected", !alreadySelected)
-            .attr("opacity", (d) => (alreadySelected ? 0.1 : 0.5));
-          // this.props.selectChangepoint(alreadySelected ? undefined : d);
-        })
-        .on("mouseover", (event, d) => {
-          d3.select(event.currentTarget).attr("opacity", 0.5);
-        })
-        .on("mouseout", (event, d) => {
-          d3.select(event.currentTarget).attr("opacity", (d) =>
-            d === this.props.currentChangepoint ? 0.5 : 0.1
-          );
-        });
+    //  changepointLines
+    //    .append("rect")
+    //    .attr("class", "changepoint")
+    //    .attr("width", "5px")
+    //    .attr("cursor", "pointer")
+    //    .attr("fill", "black")
+    //    .attr("opacity", "0.1")
+    //    // .attr("height", 1000)
+    //    // .attr("height", height - margin.top - margin.bottom)
+    //    // .attr("y", (d) => {
+    //    //   const cpStringency = data.stringency.filter((s) =>
+    //    //     sameDate(new Date(d), xAccessor(s))
+    //    //   );
+    //    //   return this.yScale(yAccessor(cpStringency[0]));
+    //    // })
+    //    .attr("x", (d) => {
+    //      return this.xScale(new Date(d ?? ""));
+    //    })
+    //    .on("click", (event, d: string) => {
+    //      const current = d3.select(event.currentTarget);
+    //      if (
+    //        this.props.currentChangepoint != undefined &&
+    //        d !== this.props.currentChangepoint
+    //      ) {
+    //        // must deselect old one
+    //        changepointLines.selectAll("rect").attr("opacity", "0.1");
+    //      }
+    //      const alreadySelected = d === this.props.currentChangepoint;
+    //      current
+    //        .classed("selected", !alreadySelected)
+    //        .attr("opacity", (d) => (alreadySelected ? 0.1 : 0.5));
+    //      // this.props.selectChangepoint(alreadySelected ? undefined : d);
+    //    })
+    //    .on("mouseover", (event, d) => {
+    //      d3.select(event.currentTarget).attr("opacity", 0.5);
+    //    })
+    //    .on("mouseout", (event, d) => {
+    //      d3.select(event.currentTarget).attr("opacity", (d) =>
+    //        d === this.props.currentChangepoint ? 0.5 : 0.1
+    //      );
+    //    });
 
-      //
-      // const yDomain = [
-      // 0,
-      // d3.max(data.stringency, (d) => {
-      //   return yAccessor(d);
-      // }) ?? 0,
-      // ];
-    }
+    //  //
+    //  // const yDomain = [
+    //  // 0,
+    //  // d3.max(data.stringency, (d) => {
+    //  //   return yAccessor(d);
+    //  // }) ?? 0,
+    //  // ];
+    //}
 
-    // const legend = svg
-    //   .append("g")
-    //   .attr("class", "legend")
-    //   .attr("transform", "translate(50,30)")
-    //   .style("font-size", "12px")
-    //   .call(d3.legend);
+    //// const legend = svg
+    ////   .append("g")
+    ////   .attr("class", "legend")
+    ////   .attr("transform", "translate(50,30)")
+    ////   .style("font-size", "12px")
+    ////   .call(d3.legend);
 
-    // const extent = d3.extent(flatX) as [Date, Date];
-    // const extent = d3.extent(s.stringency, (d) => {
-    //   return xAccessor(d);
-    // }) as [Date, Date];
+    //// const extent = d3.extent(flatX) as [Date, Date];
+    //// const extent = d3.extent(s.stringency, (d) => {
+    ////   return xAccessor(d);
+    //// }) as [Date, Date];
 
-    this.listeningRect.on("click", (event, d) => {
-      // toggle hovering to be able to read about restrictions
-      this.hoverEnabled = !this.hoverEnabled;
-    });
+    //this.listeningRect.on("click", (event, d) => {
+    //  // toggle hovering to be able to read about restrictions
+    //  this.hoverEnabled = !this.hoverEnabled;
+    //});
 
-    this.listeningRect.on("mousemove", (event, d) => {
-      if (!this.hoverEnabled) return;
-      const [mouseX, mouseY] = d3.pointer(event);
-      const hoveredDate: Date = this.xScale.invert(mouseX);
-      this.hoverLabel.text(d3.timeFormat("%B %d, %Y")(hoveredDate));
+    //this.listeningRect.on("mousemove", (event, d) => {
+    //  if (!this.hoverEnabled) return;
+    //  const [mouseX, mouseY] = d3.pointer(event);
+    //  const hoveredDate: Date = this.xScale.invert(mouseX);
+    //  this.hoverLabel.text(d3.timeFormat("%B %d, %Y")(hoveredDate));
 
-      if (this.state.stringencies.size !== 1) return;
+    //  if (this.state.stringencies.size !== 1) return;
 
-      const getDistanceFromHoveredDate = (d: Stringency): number =>
-        Math.abs(
-          (xAccessorStringency(d)?.getTime() ?? 0) - hoveredDate.getTime()
-        );
+    //  const getDistanceFromHoveredDate = (d: Stringency): number =>
+    //    Math.abs(
+    //      (xAccessorStringency(d)?.getTime() ?? 0) - hoveredDate.getTime()
+    //    );
 
-      // we choose the first one
-      const firstStringency: Stringency[] = this.state.stringencies
-        .values()
-        .next().value.stringency;
-      const closestIndex: number | undefined = d3.leastIndex<Stringency>(
-        firstStringency,
-        (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
-      );
-      if (closestIndex !== undefined) {
-        const closestDataPoint = firstStringency[closestIndex];
-        const closestXValue = xAccessorStringency(closestDataPoint);
-        if (closestXValue !== null) {
-          this.hoverLine.attr("x", this.xScale(closestXValue));
-        }
-      }
+    //  // we choose the first one
+    //  const firstStringency: Stringency[] = this.state.stringencies
+    //    .values()
+    //    .next().value.stringency;
+    //  const closestIndex: number | undefined = d3.leastIndex<Stringency>(
+    //    firstStringency,
+    //    (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+    //  );
+    //  if (closestIndex !== undefined) {
+    //    const closestDataPoint = firstStringency[closestIndex];
+    //    const closestXValue = xAccessorStringency(closestDataPoint);
+    //    if (closestXValue !== null) {
+    //      this.hoverLine.attr("x", this.xScale(closestXValue));
+    //    }
+    //  }
 
-      const stringencyWithNotes = firstStringency.filter(
-        (d) => d.Notes.length > 0
-      );
-      const closestIndexWithNotes: number | undefined = d3.leastIndex(
-        stringencyWithNotes,
-        (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
-      );
-      if (closestIndexWithNotes !== undefined) {
-        const closestDataPoint = stringencyWithNotes[closestIndexWithNotes];
-        this.setState({
-          notes: [
-            ...new Set(
-              closestDataPoint?.Notes.map((n) => {
-                const stripped = n.replace(
-                  /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
-                  " [...] "
-                );
-                return stripped;
-              }) ?? []
-            ),
-          ],
-        });
-      }
-    });
+    //  const stringencyWithNotes = firstStringency.filter(
+    //    (d) => d.Notes.length > 0
+    //  );
+    //  const closestIndexWithNotes: number | undefined = d3.leastIndex(
+    //    stringencyWithNotes,
+    //    (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+    //  );
+    //  if (closestIndexWithNotes !== undefined) {
+    //    const closestDataPoint = stringencyWithNotes[closestIndexWithNotes];
+    //    this.setState({
+    //      notes: [
+    //        ...new Set(
+    //          closestDataPoint?.Notes.map((n) => {
+    //            const stripped = n.replace(
+    //              /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
+    //              " [...] "
+    //            );
+    //            return stripped;
+    //          }) ?? []
+    //        ),
+    //      ],
+    //    });
+    //  }
+    //});
   };
 
   addTimeline = () => {
@@ -499,15 +553,18 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     this.svg = this.container.append("svg").attr("x", 0).attr("y", 0);
     this.bounds = this.svg.append("g");
 
-    this.xScale = d3.scaleTime();
-    this.xAxis = this.bounds.append("g").attr("class", "xAxis");
+    // this.xScale = d3.scaleTime();
+    // this.xAxis = this.bounds.append("g").attr("class", "xAxis");
+    this.bounds.append("g").attr("class", "xAxis");
 
-    this.yScaleStringency = d3.scaleLinear<number>();
-    this.yScalePageViews = d3.scaleLinear<number>();
-    this.yAxisStringency = this.bounds
+    // this.yScaleStringency = d3.scaleLinear<number>();
+    // this.yScalePageViews = d3.scaleLinear<number>();
+    // this.yAxisStringency = this.bounds
+    this.bounds
       .append("g")
       .attr("class", "yAxisStringency");
-    this.yAxisPageViews = this.bounds
+    // this.yAxisPageViews = this.bounds
+    this.bounds
       .append("g")
       .attr("class", "yAxisPageViews");
 
@@ -528,7 +585,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     this.hoverLine = this.bounds
       .append("g")
       .append("rect")
-      .attr("class", "dotted")
+      .attr("class", "hoverline")
       .attr("stroke-width", "1px")
       .attr("width", ".5px");
 
@@ -544,47 +601,47 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     const resize = () => {
       this.update();
       return;
-      const bbox = this.container?.node()?.getBoundingClientRect();
+      // const bbox = this.container?.node()?.getBoundingClientRect();
 
-      const width = bbox?.width ?? 0;
-      this.svg.attr("width", width).attr("height", this.height);
+      // const width = bbox?.width ?? 0;
+      // this.svg.attr("width", width).attr("height", this.height);
 
-      this.bounds.attr(
-        "transform",
-        `translate(${this.margin.left}, ${this.margin.top})`
-      );
-      this.xAxis.attr(
-        "transform",
-        `translate(0, ${this.height - this.margin.bottom - this.margin.top})`
-      );
-      this.xScale.range([0, width - this.margin.left - this.margin.right]);
-      this.yScaleStringency.range([
-        this.height - this.margin.top - this.margin.bottom,
-        0,
-      ]);
-      this.yScalePageViews.range([
-        this.height - this.margin.top - this.margin.bottom,
-        0,
-      ]);
+      // this.bounds.attr(
+      //   "transform",
+      //   `translate(${this.margin.left}, ${this.margin.top})`
+      // );
+      // this.xAxis.attr(
+      //   "transform",
+      //   `translate(0, ${this.height - this.margin.bottom - this.margin.top})`
+      // );
+      // this.xScale.range([0, width - this.margin.left - this.margin.right]);
+      // this.yScaleStringency.range([
+      //   this.height - this.margin.top - this.margin.bottom,
+      //   0,
+      // ]);
+      // this.yScalePageViews.range([
+      //   this.height - this.margin.top - this.margin.bottom,
+      //   0,
+      // ]);
 
-      // const test = this.bounds.selectAll(".changepoint");
-      const test = this.svg.selectAll(".changepoint");
-      console.log(test);
-      // .attr("height", height - margin.top - margin.bottom);
-      // .select("rect")
-      // console.log(test.length);
+      // // const test = this.bounds.selectAll(".changepoint");
+      // const test = this.svg.selectAll(".changepoint");
+      // console.log(test);
+      // // .attr("height", height - margin.top - margin.bottom);
+      // // .select("rect")
+      // // console.log(test.length);
 
-      this.listeningRect
-        .attr("width", width - this.margin.left - this.margin.right)
-        .attr("height", this.height - this.margin.top - this.margin.bottom);
+      // this.listeningRect
+      //   .attr("width", width - this.margin.left - this.margin.right)
+      //   .attr("height", this.height - this.margin.top - this.margin.bottom);
 
-      this.hoverLabel
-        .attr("x", width - this.margin.top - this.margin.bottom - 50)
-        .attr("y", this.height - this.margin.top - this.margin.bottom - 50);
-      this.hoverLine.attr(
-        "height",
-        this.height - this.margin.top - this.margin.bottom
-      );
+      // this.hoverLabel
+      //   .attr("x", width - this.margin.top - this.margin.bottom - 50)
+      //   .attr("y", this.height - this.margin.top - this.margin.bottom - 50);
+      // this.hoverLine.attr(
+      //   "height",
+      //   this.height - this.margin.top - this.margin.bottom
+      // );
     };
 
     d3.select(window).on("resize", resize);
