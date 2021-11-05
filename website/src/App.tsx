@@ -48,12 +48,12 @@ class App extends React.Component<AppProps, AppState> {
             </Link>
             <div className="block flex-grow flex items-center place-items-start w-auto">
               <div className="text-sm flex-grow">
-                <Link
+                {/* <Link
                   className="block inline-block mt-0 text-teal-200 hover:text-white mr-4"
                   to="/about"
                 >
                   About
-                </Link>
+                </Link> */}
               </div>
               <div className="mr-3">
                 {this.props.loadingCount > 0 && (

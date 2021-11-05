@@ -268,11 +268,12 @@ class Main extends React.Component<MainProps, MainState> {
         );
       });
 
-    const tabStyle =
-      "cursor-pointer font-semibold bg-white inline-block py-1 px-2 ";
+    const tabStyle = "font-semibold bg-white inline-block py-1 px-2 ";
     const selectedTabStyle =
-      tabStyle + "text-gray-800 border-l border-t border-r rounded-t";
-    const unselectedTabStyle = tabStyle + "text-gray-300 hover:text-gray-800";
+      tabStyle +
+      "cursor-pointer text-gray-800 border-l border-t border-r rounded-t";
+    // const unselectedTabStyle =
+    //   tabStyle + "cursor-pointer text-gray-300 hover:text-gray-800";
     const disabledTabStyle =
       tabStyle + " text-gray-200 cursor-default hover:text-gray-200";
 
@@ -304,14 +305,7 @@ class Main extends React.Component<MainProps, MainState> {
 
         <ul className="flex border-b">
           <li className="-mb-px ml-2">
-            <Link
-              className={
-                window.location.pathname === "/"
-                  ? selectedTabStyle
-                  : unselectedTabStyle
-              }
-              to="/"
-            >
+            <Link className={selectedTabStyle} to="/">
               Attention Shift
             </Link>
           </li>
