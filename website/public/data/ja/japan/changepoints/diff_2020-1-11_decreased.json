@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -35073.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -29924.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -24094.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -19569.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -17803.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -16374.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -14935.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -14170.0,
+      "topic": "Organized events"
+    },
+    {
+      "diff": -13821.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -12579.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -11708.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": -11149.0,
+      "topic": "Sulfur"
+    },
+    {
+      "diff": -10375.0,
+      "topic": "Chemistry"
+    },
+    {
+      "diff": -10304.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -10088.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -9772.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9692.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -9638.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -8729.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": -8695.0,
+      "topic": "Space warfare"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -4521.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -4402.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2949.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -2561.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -2353.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1379.0,
+      "topic": "Television soap operas"
+    },
+    {
+      "diff": -1353.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1344.0,
+      "topic": "2000s television series"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -1221.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -1220.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -1126.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -1125.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1103.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Military locations"
+    },
+    {
+      "diff": -987.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -980.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -871.0,
+      "topic": "Herodian dynasty"
+    }
+  ]
+}

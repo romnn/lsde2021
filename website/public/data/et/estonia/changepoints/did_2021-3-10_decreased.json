@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -3296.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2010.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1943.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1887.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1858.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1810.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1781.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1759.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1675.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -1657.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1602.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -1435.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -1424.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1406.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1375.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1175.0,
+      "topic": "County"
+    },
+    {
+      "diff": -575.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -470.0,
+      "topic": "Earth sciences"
+    }
+  ]
+}

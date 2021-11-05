@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 4872.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 4868.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 4813.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 4724.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 4686.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 2700.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2697.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2532.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 2467.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 1474.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1449.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1262.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1144.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1010.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 998.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 846.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 754.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 681.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 668.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 660.0,
+      "topic": "History"
+    }
+  ]
+}

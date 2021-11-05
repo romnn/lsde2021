@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 17084.0,
+      "topic": "History"
+    },
+    {
+      "diff": 12737.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 12370.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10640.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 9878.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 9830.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8371.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 8044.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 7944.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 7816.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 6587.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 5785.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": 5538.0,
+      "topic": "Classical mythology"
+    },
+    {
+      "diff": 5528.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5489.0,
+      "topic": "Sex crimes"
+    },
+    {
+      "diff": 5031.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 4903.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 4900.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 4537.0,
+      "topic": "Demigods"
+    },
+    {
+      "diff": 4511.0,
+      "topic": "Language"
+    }
+  ]
+}

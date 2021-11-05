@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-28",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -7406.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -6017.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4761.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4756.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4674.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4282.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4045.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3071.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2925.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2863.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2857.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2834.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2819.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -2771.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2736.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -2669.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2481.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -2450.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2400.0,
+      "topic": "Medicine"
+    }
+  ]
+}

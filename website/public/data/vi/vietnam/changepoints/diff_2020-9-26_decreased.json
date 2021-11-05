@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -1174.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1012.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -951.0,
+      "topic": "Dimensionless numbers"
+    },
+    {
+      "diff": -830.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -810.0,
+      "topic": "Socialist states"
+    },
+    {
+      "diff": -801.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -792.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": -758.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Fractions (mathematics)"
+    },
+    {
+      "diff": -687.0,
+      "topic": "Mathematical structures"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Algebra"
+    },
+    {
+      "diff": -632.0,
+      "topic": "Nature"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -575.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -551.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": -517.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -507.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": -462.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -431.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -427.0,
+      "topic": "Theoretical physics"
+    }
+  ]
+}

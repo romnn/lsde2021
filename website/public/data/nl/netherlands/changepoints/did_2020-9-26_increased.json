@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 6148.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5449.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5379.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5359.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4226.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 3917.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3691.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 3494.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 3492.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3402.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3361.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 3321.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 3281.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 3161.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 3153.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3063.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 3024.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 2579.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 2563.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 2495.0,
+      "topic": "21st-century works"
+    }
+  ]
+}

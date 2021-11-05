@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -1209.0,
+      "topic": "Ascomycota genera"
+    },
+    {
+      "diff": -592.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -515.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -484.0,
+      "topic": "Villages"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -403.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -398.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -387.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -372.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -333.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": -308.0,
+      "topic": "Former county"
+    },
+    {
+      "diff": -307.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -302.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -282.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -279.0,
+      "topic": "Languages"
+    }
+  ]
+}

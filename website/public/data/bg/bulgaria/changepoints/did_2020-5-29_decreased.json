@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1158.0,
+      "topic": "Services sector"
+    },
+    {
+      "diff": -987.0,
+      "topic": "Imaging"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Multidimensional signal processing"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Visual system"
+    },
+    {
+      "diff": -924.0,
+      "topic": "Perception"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Royalty"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": -758.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -708.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -696.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -618.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -611.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -561.0,
+      "topic": "Censorship"
+    },
+    {
+      "diff": -560.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -549.0,
+      "topic": "Surveillance"
+    },
+    {
+      "diff": -548.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Indonesia"
+    }
+  ]
+}

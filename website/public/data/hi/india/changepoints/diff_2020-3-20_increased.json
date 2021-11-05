@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": 32490.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 25594.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": 19475.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 14310.0,
+      "topic": "History"
+    },
+    {
+      "diff": 9669.0,
+      "topic": "Narrative poems"
+    },
+    {
+      "diff": 9654.0,
+      "topic": "Poetry"
+    },
+    {
+      "diff": 9533.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 9193.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 8742.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8730.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 8723.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 7688.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 6551.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": 6211.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 6155.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 6093.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5919.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 5756.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 5747.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 5715.0,
+      "topic": "1st-millennium bc literature"
+    }
+  ]
+}

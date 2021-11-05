@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 2274.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 2231.0,
+      "topic": "Services sector"
+    },
+    {
+      "diff": 2154.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 1969.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 1931.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 880.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 831.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 807.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 796.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 733.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 710.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 643.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 588.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 555.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 547.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 475.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": 474.0,
+      "topic": "Vertical position"
+    }
+  ]
+}

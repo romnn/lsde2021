@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -12283.0,
+      "topic": "Medical aspects"
+    },
+    {
+      "diff": -11705.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -10891.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -9547.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -9264.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -9239.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -8751.0,
+      "topic": "Disability"
+    },
+    {
+      "diff": -8692.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": -7358.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -6992.0,
+      "topic": "Western european descent"
+    },
+    {
+      "diff": -4590.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -4556.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -4466.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": -4356.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -4284.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -4191.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -3974.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": -3882.0,
+      "topic": "European people"
+    },
+    {
+      "diff": -3804.0,
+      "topic": "North american descent"
+    },
+    {
+      "diff": -3664.0,
+      "topic": "6th century"
+    }
+  ]
+}

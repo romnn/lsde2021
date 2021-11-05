@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -768.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -738.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -731.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": -731.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -684.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Republics"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Indo-european culture"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -83.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Living dinosaurs"
+    },
+    {
+      "diff": -53.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": -53.0,
+      "topic": "French language"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -15710.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": -13111.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -12140.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": -11952.0,
+      "topic": "India"
+    },
+    {
+      "diff": -10203.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -9348.0,
+      "topic": "History"
+    },
+    {
+      "diff": -8674.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -8032.0,
+      "topic": "Poetry"
+    },
+    {
+      "diff": -6826.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -6674.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -6613.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6172.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -6058.0,
+      "topic": "Narrative poems"
+    },
+    {
+      "diff": -5332.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -4932.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -4810.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4707.0,
+      "topic": "1st-millennium bc literature"
+    },
+    {
+      "diff": -4393.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4156.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -3910.0,
+      "topic": "Sexuality"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -14313.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -11342.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9049.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8298.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -8088.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -6895.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6771.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6149.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -5952.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -5879.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -5869.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -5495.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5000.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -4900.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -4896.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4801.0,
+      "topic": "Time"
+    }
+  ]
+}

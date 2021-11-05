@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -63783.0,
+      "topic": "History"
+    },
+    {
+      "diff": -49724.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -43967.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -42133.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -41717.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -36161.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -34895.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -31811.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -30418.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -27518.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -27137.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -25769.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -24512.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -24285.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -24274.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -23428.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": -23311.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -22196.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": -22181.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": -22156.0,
+      "topic": "Century"
+    }
+  ]
+}

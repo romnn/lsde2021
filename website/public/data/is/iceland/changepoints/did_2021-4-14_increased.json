@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 86.0,
+      "topic": "Flora"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Australasia"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Trees"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": 35.0,
+      "topic": "18th century"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Physiology"
+    }
+  ]
+}

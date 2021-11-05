@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 532.0,
+      "topic": "History"
+    },
+    {
+      "diff": 431.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 391.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 330.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 275.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 259.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 211.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 189.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 173.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 164.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 160.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 153.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 127.0,
+      "topic": "Vocabulary"
+    }
+  ]
+}

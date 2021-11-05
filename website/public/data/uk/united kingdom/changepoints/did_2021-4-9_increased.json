@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 7360.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6440.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6129.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5465.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5465.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4999.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4661.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4617.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3928.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 3695.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3630.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3387.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3252.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 3195.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 2933.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2849.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2776.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2733.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 2684.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": 2620.0,
+      "topic": "Units"
+    }
+  ]
+}

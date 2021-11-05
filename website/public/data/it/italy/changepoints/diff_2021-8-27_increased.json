@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-27",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 17394.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 10905.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 10213.0,
+      "topic": "Men's health"
+    },
+    {
+      "diff": 10139.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": 10062.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": 10041.0,
+      "topic": "Human female reproductive system"
+    },
+    {
+      "diff": 9903.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 9553.0,
+      "topic": "People"
+    },
+    {
+      "diff": 8081.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 7325.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 7203.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 7189.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 6677.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 4696.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 4645.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": 4634.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": 4615.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": 4607.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 4514.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 4024.0,
+      "topic": "Public health"
+    }
+  ]
+}

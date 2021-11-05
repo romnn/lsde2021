@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -225.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -205.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -143.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -141.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": -136.0,
+      "topic": "German scientists"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -111.0,
+      "topic": "History"
+    },
+    {
+      "diff": -105.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -90.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -77.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Establishments"
+    }
+  ]
+}

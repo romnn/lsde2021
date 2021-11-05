@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 45186.0,
+      "topic": "History"
+    },
+    {
+      "diff": 30814.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 30101.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 29628.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 28293.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 28167.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 26839.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 26244.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 25059.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 24034.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 22419.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 21077.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 19731.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 17991.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 17386.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 17042.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 15897.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 12860.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 11028.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 10768.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

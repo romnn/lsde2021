@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -2795.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -2545.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": -1926.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1875.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -1572.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1544.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -1256.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -1230.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -1190.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1173.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1160.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1018.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -1001.0,
+      "topic": "Internet fraud"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Ukrainian culture"
+    },
+    {
+      "diff": -992.0,
+      "topic": "Dutch culture"
+    },
+    {
+      "diff": -913.0,
+      "topic": "Religious holidays"
+    },
+    {
+      "diff": -898.0,
+      "topic": "Cultural festivals"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Bali"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Public holidays"
+    }
+  ]
+}

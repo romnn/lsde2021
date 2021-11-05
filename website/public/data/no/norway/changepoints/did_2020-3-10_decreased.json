@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -3986.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -3066.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -3061.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -2899.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -1979.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1610.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": -1586.0,
+      "topic": "Warfare"
+    },
+    {
+      "diff": -1451.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -1368.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -1172.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1040.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -907.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -735.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -719.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Legal systems"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Norwegian people"
+    },
+    {
+      "diff": -577.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Issue"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -2512.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2467.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1516.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1170.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1094.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -1055.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -871.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -833.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -818.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -781.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -780.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": -597.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -572.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -569.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -555.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Mammals"
+    }
+  ]
+}

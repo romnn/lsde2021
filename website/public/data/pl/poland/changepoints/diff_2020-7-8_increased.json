@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-08",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 13423.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9295.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 8203.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 7004.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6877.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4861.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4440.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 4376.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 4159.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 4115.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4028.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2854.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 2815.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2443.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 2438.0,
+      "topic": "Second polish republic"
+    },
+    {
+      "diff": 2347.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 2338.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 2270.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 2234.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 1986.0,
+      "topic": "Ukraine"
+    }
+  ]
+}

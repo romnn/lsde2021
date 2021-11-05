@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -36038.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -26159.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -24619.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -24352.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -24339.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -23234.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -21343.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -17533.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -17199.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -14528.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -14244.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": -14065.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": -13919.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -13641.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -12767.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -11846.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": -11817.0,
+      "topic": "Folk religion"
+    },
+    {
+      "diff": -11786.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -11709.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -9842.0,
+      "topic": "Century"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 8964.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 7060.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 6804.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 6614.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 5577.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 5543.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 4758.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 4341.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 4102.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 4052.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 3883.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 3826.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 3478.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 3329.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3020.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2978.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 2911.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": 2876.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 2790.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 2785.0,
+      "topic": "Video hosting"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1291.0,
+      "topic": "Political concepts"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": -1269.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -1163.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": -1126.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1106.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -996.0,
+      "topic": "People"
+    },
+    {
+      "diff": -933.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -891.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -816.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -698.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -694.0,
+      "topic": "American culture"
+    },
+    {
+      "diff": -673.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": -647.0,
+      "topic": "Oceanian culture"
+    },
+    {
+      "diff": -645.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": -629.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Jesus christ"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 15195.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 14946.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 12596.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": 11964.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 10828.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 10815.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 10724.0,
+      "topic": "American television shows"
+    },
+    {
+      "diff": 10479.0,
+      "topic": "2020s television series"
+    },
+    {
+      "diff": 10434.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 10094.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 8522.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 7699.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 7303.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 5962.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": 5816.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 5368.0,
+      "topic": "Genital procedures"
+    },
+    {
+      "diff": 5171.0,
+      "topic": "Primary industries"
+    },
+    {
+      "diff": 4828.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4753.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 4466.0,
+      "topic": "Estates (social groups)"
+    }
+  ]
+}

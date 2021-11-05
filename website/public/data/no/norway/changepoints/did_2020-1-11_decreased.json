@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -1784.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1485.0,
+      "topic": "2020s"
+    },
+    {
+      "diff": -1416.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1312.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1102.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1027.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -1017.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": -802.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -707.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -676.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -610.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -599.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -532.0,
+      "topic": "Villages"
+    }
+  ]
+}

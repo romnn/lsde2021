@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 7599.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 7434.0,
+      "topic": "Video terminology"
+    },
+    {
+      "diff": 7247.0,
+      "topic": "Film companies"
+    },
+    {
+      "diff": 5828.0,
+      "topic": "Board games"
+    },
+    {
+      "diff": 5292.0,
+      "topic": "Business services companies"
+    },
+    {
+      "diff": 5177.0,
+      "topic": "Broadcasting"
+    },
+    {
+      "diff": 3730.0,
+      "topic": "City"
+    },
+    {
+      "diff": 3691.0,
+      "topic": "Middle ages"
+    },
+    {
+      "diff": 3498.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": 3404.0,
+      "topic": "Indian games"
+    },
+    {
+      "diff": 3399.0,
+      "topic": "Mental skill"
+    },
+    {
+      "diff": 3350.0,
+      "topic": "Studio"
+    },
+    {
+      "diff": 3088.0,
+      "topic": "Japanese people"
+    },
+    {
+      "diff": 3053.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": 3027.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 3007.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": 2986.0,
+      "topic": "Graffiti artists"
+    },
+    {
+      "diff": 2945.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 2912.0,
+      "topic": "Anti-globalization movement"
+    },
+    {
+      "diff": 2826.0,
+      "topic": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -3862.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3519.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": -3407.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -3232.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -3086.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -2795.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2738.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -2724.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -2246.0,
+      "topic": "Caste system"
+    },
+    {
+      "diff": -2113.0,
+      "topic": "Royalty"
+    },
+    {
+      "diff": -2050.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1997.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1878.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1861.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -1769.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1690.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1688.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1630.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1622.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": -1543.0,
+      "topic": "Mental processes"
+    }
+  ]
+}

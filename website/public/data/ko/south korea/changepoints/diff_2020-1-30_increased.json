@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 1713.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1323.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1189.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1152.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1052.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1046.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1037.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 1029.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1023.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 984.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 958.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 941.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 913.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 907.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 901.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 886.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 858.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 792.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": 771.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Epidemiology"
+    }
+  ]
+}

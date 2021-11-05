@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -90945.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -65982.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -60523.0,
+      "topic": "History"
+    },
+    {
+      "diff": -52445.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": -49986.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -46946.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -44011.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -43578.0,
+      "topic": "20th-century people by nationality and occupation"
+    },
+    {
+      "diff": -42555.0,
+      "topic": "France"
+    },
+    {
+      "diff": -42055.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -38397.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -37394.0,
+      "topic": "People"
+    },
+    {
+      "diff": -35756.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -34391.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -33629.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -31289.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -30549.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -29986.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -28044.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -24733.0,
+      "topic": "Politics"
+    }
+  ]
+}

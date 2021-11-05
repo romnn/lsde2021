@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2657.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -2321.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -2281.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -2100.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -1892.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -911.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": -683.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -637.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -636.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Youth"
+    },
+    {
+      "diff": -525.0,
+      "topic": "Health care"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Korean women"
+    },
+    {
+      "diff": -469.0,
+      "topic": "South korean people"
+    },
+    {
+      "diff": -380.0,
+      "topic": "South korean manhwa"
+    },
+    {
+      "diff": -380.0,
+      "topic": "2020s disestablishments"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -349.0,
+      "topic": "Nondualism"
+    },
+    {
+      "diff": -339.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -338.0,
+      "topic": "Spiritualism"
+    }
+  ]
+}

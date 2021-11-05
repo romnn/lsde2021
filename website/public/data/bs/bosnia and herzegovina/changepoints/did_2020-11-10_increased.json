@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 564.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 529.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 424.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 416.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 338.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 302.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 260.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 257.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 212.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 199.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 199.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 172.0,
+      "topic": "History"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 154.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 140.0,
+      "topic": "Italy"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 30805.0,
+      "topic": "History"
+    },
+    {
+      "diff": 29570.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 21957.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 19413.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 18144.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 17028.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 14305.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 12866.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 12776.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 12367.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 11610.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 10482.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 9711.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 8951.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 8940.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 8606.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 8242.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 8229.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 8184.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 8171.0,
+      "topic": "Recreation"
+    }
+  ]
+}

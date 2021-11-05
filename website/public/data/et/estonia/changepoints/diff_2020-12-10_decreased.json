@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -740.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -523.0,
+      "topic": "History"
+    },
+    {
+      "diff": -499.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -399.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -370.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -368.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -364.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -355.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -346.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -329.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -272.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -268.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -267.0,
+      "topic": "Science"
+    }
+  ]
+}

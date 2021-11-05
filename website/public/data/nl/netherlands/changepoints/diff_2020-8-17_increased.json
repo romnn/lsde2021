@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-17",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 3224.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2845.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2756.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 2248.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 2034.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1578.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 1491.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1465.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 1464.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 1436.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1139.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": 1083.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1076.0,
+      "topic": "London"
+    },
+    {
+      "diff": 1055.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 1027.0,
+      "topic": "South american football"
+    },
+    {
+      "diff": 977.0,
+      "topic": "Folklore"
+    },
+    {
+      "diff": 966.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 924.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 911.0,
+      "topic": "Period"
+    }
+  ]
+}

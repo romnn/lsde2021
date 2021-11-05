@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 1636.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1086.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1023.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 994.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 963.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 951.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 908.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 894.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 889.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 782.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 706.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 699.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 695.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 695.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 641.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 626.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 603.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 602.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 528.0,
+      "topic": "Systems biology"
+    }
+  ]
+}

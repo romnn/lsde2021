@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 547.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 498.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 444.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 261.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 212.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 171.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 117.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Outdoor recreation"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Hinduism"
+    },
+    {
+      "diff": 91.0,
+      "topic": "India"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

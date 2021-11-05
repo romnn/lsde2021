@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -4106.0,
+      "topic": "Food science"
+    },
+    {
+      "diff": -3916.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -3880.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -3264.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2487.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2439.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1768.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1733.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -1632.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -1611.0,
+      "topic": "Individual apes"
+    },
+    {
+      "diff": -1574.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1537.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -1513.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": -1425.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1422.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1412.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1410.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Dance"
+    }
+  ]
+}

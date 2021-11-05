@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -47168.0,
+      "topic": "History"
+    },
+    {
+      "diff": -37936.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -30493.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -29842.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -24160.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -15821.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -13618.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -12240.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11761.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -11606.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -11272.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -11095.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": -11057.0,
+      "topic": "Angels"
+    },
+    {
+      "diff": -11057.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": -10807.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -10732.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9566.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -9470.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -9018.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9010.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 2110.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 2065.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2059.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1564.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 1299.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": 1238.0,
+      "topic": "Mesozoic dinosaurs"
+    },
+    {
+      "diff": 1236.0,
+      "topic": "Cretaceous vertebrates"
+    },
+    {
+      "diff": 1231.0,
+      "topic": "Late cretaceous animals"
+    },
+    {
+      "diff": 1174.0,
+      "topic": "East asian folk religion"
+    },
+    {
+      "diff": 1173.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": 1157.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": 1149.0,
+      "topic": "Scandinavian culture"
+    },
+    {
+      "diff": 1068.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 1047.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 996.0,
+      "topic": "Information fields"
+    },
+    {
+      "diff": 975.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 926.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 834.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 832.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 808.0,
+      "topic": "Korea"
+    }
+  ]
+}

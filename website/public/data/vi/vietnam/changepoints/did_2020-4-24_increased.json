@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 5179.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": 4883.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": 4857.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": 4825.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": 3708.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 3470.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 3467.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 2985.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 2801.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 2505.0,
+      "topic": "Nepal"
+    },
+    {
+      "diff": 2449.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 2412.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 2391.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2191.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 1670.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 1365.0,
+      "topic": "Monarchs"
+    },
+    {
+      "diff": 924.0,
+      "topic": "Santiago"
+    },
+    {
+      "diff": 862.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Order"
+    },
+    {
+      "diff": 702.0,
+      "topic": "Noble families"
+    }
+  ]
+}

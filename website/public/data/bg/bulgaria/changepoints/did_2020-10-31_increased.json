@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 5466.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3583.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2572.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2546.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2508.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2391.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 2302.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1991.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1870.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1646.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1633.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1451.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1382.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1320.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": 1320.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1315.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1289.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1283.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1253.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1188.0,
+      "topic": "England"
+    }
+  ]
+}

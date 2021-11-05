@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 36568.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 26485.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 17980.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 17460.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 15158.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 9036.0,
+      "topic": "History"
+    },
+    {
+      "diff": 8252.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6873.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 6839.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 6813.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 6747.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 5921.0,
+      "topic": "War"
+    },
+    {
+      "diff": 5864.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5619.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 5589.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 5351.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 4632.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 4500.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4416.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 4297.0,
+      "topic": "Works"
+    }
+  ]
+}

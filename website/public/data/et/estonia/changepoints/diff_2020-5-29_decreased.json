@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -1834.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1474.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1371.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1214.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1192.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1187.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1079.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -981.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -940.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -888.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -832.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -797.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -782.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -781.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -768.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -766.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -720.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

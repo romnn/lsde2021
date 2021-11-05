@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 1440.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1341.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1273.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1257.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 965.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 947.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 922.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 851.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 838.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 831.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 804.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 770.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 718.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 714.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 679.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 578.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 570.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 544.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

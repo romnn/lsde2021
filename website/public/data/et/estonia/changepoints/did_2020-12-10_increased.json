@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 715.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 652.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 595.0,
+      "topic": "France"
+    },
+    {
+      "diff": 484.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 133.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Telescopes"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Celestial mechanics"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Star types"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Star clusters"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Kyrgyzstani society"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Uzbekistani society"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Muslims"
+    },
+    {
+      "diff": 35.0,
+      "topic": "East asia"
+    }
+  ]
+}

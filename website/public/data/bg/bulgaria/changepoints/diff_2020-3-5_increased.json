@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 5117.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5087.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4927.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4856.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 4746.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 4554.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 4428.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 4426.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 4423.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 4392.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 2497.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 2444.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2203.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1734.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1731.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1686.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1629.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1534.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1523.0,
+      "topic": "Medicine"
+    }
+  ]
+}

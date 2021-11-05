@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1427.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1220.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1218.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1181.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": -1167.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1161.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1156.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -1040.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -716.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -630.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -629.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Week"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -621.0,
+      "topic": "Seasonal holidays"
+    },
+    {
+      "diff": -584.0,
+      "topic": "History"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -510.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -500.0,
+      "topic": "United states"
+    }
+  ]
+}

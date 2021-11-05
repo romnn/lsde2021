@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -120.0,
+      "topic": "Ancient european royalty"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -99.0,
+      "topic": "British royal family"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -75.0,
+      "topic": "European monarchs"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Reptile taxa"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Tetrapod genera"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Birds"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Vertebrate taxonomy"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Dominican republic"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -54.0,
+      "topic": "10th century"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Product introductions"
+    }
+  ]
+}

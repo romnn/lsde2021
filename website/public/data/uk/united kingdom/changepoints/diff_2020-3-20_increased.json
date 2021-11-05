@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 11849.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10828.0,
+      "topic": "History"
+    },
+    {
+      "diff": 10184.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 9862.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9160.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 8809.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 8402.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 6961.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 6875.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6622.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6455.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 6417.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5810.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5713.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5706.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5550.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5323.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5190.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 5153.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 5031.0,
+      "topic": "Subfields"
+    }
+  ]
+}

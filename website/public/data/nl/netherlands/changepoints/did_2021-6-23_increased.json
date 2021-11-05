@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 18743.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 16598.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 12468.0,
+      "topic": "France"
+    },
+    {
+      "diff": 6371.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 5536.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 4616.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 4370.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 4301.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 3504.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 3135.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 3045.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 2986.0,
+      "topic": "Level"
+    },
+    {
+      "diff": 2223.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 2130.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 2051.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": 2009.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1804.0,
+      "topic": "Slavery"
+    },
+    {
+      "diff": 1750.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 1710.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": 1683.0,
+      "topic": "Provinces"
+    }
+  ]
+}

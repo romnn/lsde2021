@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 171.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 167.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 158.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 142.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Arts genres"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Evolutionarily significant biological phenomena"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 87.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 76.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 74.0,
+      "topic": "States"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Land reclamation"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Women's rights"
+    }
+  ]
+}

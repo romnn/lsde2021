@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 1008.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 899.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 794.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 789.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 664.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 573.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Studio"
+    },
+    {
+      "diff": 500.0,
+      "topic": "1940s works"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": 410.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Warfare"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Communist parties"
+    },
+    {
+      "diff": 272.0,
+      "topic": "Banned socialist parties"
+    },
+    {
+      "diff": 260.0,
+      "topic": "Marxists"
+    },
+    {
+      "diff": 237.0,
+      "topic": "East asian music"
+    },
+    {
+      "diff": 220.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 205.0,
+      "topic": "20th-century people by nationality and occupation"
+    },
+    {
+      "diff": 203.0,
+      "topic": "German people"
+    },
+    {
+      "diff": 200.0,
+      "topic": "Socialist parties"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -76419.0,
+      "topic": "France"
+    },
+    {
+      "diff": -46214.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -40965.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -15616.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -9861.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -8469.0,
+      "topic": "Economic taxonomy"
+    },
+    {
+      "diff": -7805.0,
+      "topic": "Applied sciences"
+    },
+    {
+      "diff": -7498.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -7409.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -7236.0,
+      "topic": "Transport companies"
+    },
+    {
+      "diff": -7040.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -7032.0,
+      "topic": "Nature"
+    },
+    {
+      "diff": -6974.0,
+      "topic": "Categories by second-level administrative country subdivision"
+    },
+    {
+      "diff": -6913.0,
+      "topic": "Animal anatomy"
+    },
+    {
+      "diff": -6847.0,
+      "topic": "Circulatory system"
+    },
+    {
+      "diff": -6842.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -6814.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -6698.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": -6324.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -6157.0,
+      "topic": "Viruses"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -1266.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -1233.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -1221.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1170.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -829.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -722.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -489.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -454.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -414.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -413.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -370.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -365.0,
+      "topic": "Hedmark"
+    },
+    {
+      "diff": -351.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -348.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -346.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -326.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

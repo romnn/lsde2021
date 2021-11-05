@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 2930.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 2659.0,
+      "topic": "Belarusian culture"
+    },
+    {
+      "diff": 2487.0,
+      "topic": "Traditions"
+    },
+    {
+      "diff": 2406.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 1713.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 1549.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": 1070.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": 1055.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 930.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 881.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 649.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 641.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": 527.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 443.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 398.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Arts awards"
+    },
+    {
+      "diff": 311.0,
+      "topic": "Bulgarian society"
+    }
+  ]
+}

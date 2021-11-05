@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -5998.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -3718.0,
+      "topic": "Species"
+    },
+    {
+      "diff": -3714.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -3708.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -3636.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -3453.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2791.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2242.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2173.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -1863.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1742.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1700.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1661.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -1518.0,
+      "topic": "City"
+    },
+    {
+      "diff": -1476.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1430.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1361.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -1241.0,
+      "topic": "South korean musicians"
+    }
+  ]
+}

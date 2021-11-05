@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 48013.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 39283.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 26588.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 25606.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 24041.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 17090.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 13499.0,
+      "topic": "History"
+    },
+    {
+      "diff": 11078.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 10722.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 9903.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 9621.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 9520.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 8503.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 7800.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 7610.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 6978.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 5981.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 5895.0,
+      "topic": "War"
+    },
+    {
+      "diff": 5796.0,
+      "topic": "Civil awards"
+    },
+    {
+      "diff": 5768.0,
+      "topic": "Water"
+    }
+  ]
+}

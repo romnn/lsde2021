@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -54254.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -40911.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -36229.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -35859.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -24131.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -23346.0,
+      "topic": "History"
+    },
+    {
+      "diff": -23287.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -21098.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -19353.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -16511.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -15091.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -14945.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -12455.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -12096.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -11021.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -10922.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -10880.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -10876.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -10610.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -10391.0,
+      "topic": "Extraterrestrial life"
+    }
+  ]
+}

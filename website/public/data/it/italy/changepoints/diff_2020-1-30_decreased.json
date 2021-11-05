@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -21971.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15709.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -15124.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -14585.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -12585.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -9367.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8322.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -6742.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -6482.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5924.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -5747.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -5142.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4868.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -4642.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -4402.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4267.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -4264.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -4156.0,
+      "topic": "Southern europe"
+    },
+    {
+      "diff": -4027.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": -3792.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -155801.0,
+      "topic": "People"
+    },
+    {
+      "diff": -138973.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -136417.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -99739.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -98066.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -94571.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -92812.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -84599.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -83721.0,
+      "topic": "Human biology"
+    },
+    {
+      "diff": -78613.0,
+      "topic": "China"
+    },
+    {
+      "diff": -71258.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -69177.0,
+      "topic": "Order"
+    },
+    {
+      "diff": -67994.0,
+      "topic": "Santiago"
+    },
+    {
+      "diff": -63498.0,
+      "topic": "Monarchs"
+    },
+    {
+      "diff": -53328.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -50441.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -49117.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": -46105.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -45629.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -44525.0,
+      "topic": "Taiwanese culture"
+    }
+  ]
+}

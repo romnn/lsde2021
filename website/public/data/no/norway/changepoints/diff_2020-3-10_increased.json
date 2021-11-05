@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 4266.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3977.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3565.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 3182.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 2698.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 2695.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 2605.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2398.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2263.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2126.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1939.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1875.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1834.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1680.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1310.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1227.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 1054.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 966.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 926.0,
+      "topic": "Science"
+    }
+  ]
+}

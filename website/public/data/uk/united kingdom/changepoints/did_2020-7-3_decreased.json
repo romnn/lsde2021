@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -5458.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5072.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4655.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4198.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4091.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3736.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3602.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3323.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2949.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2754.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2601.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2307.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2202.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2123.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -2026.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -2001.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -1986.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1933.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1876.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1862.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

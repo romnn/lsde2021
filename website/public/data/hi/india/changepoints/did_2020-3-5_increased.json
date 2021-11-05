@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": 7881.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 7556.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 7271.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 7271.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 7267.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 4436.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 4433.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": 4353.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 2955.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 2476.0,
+      "topic": "Caste system"
+    },
+    {
+      "diff": 2430.0,
+      "topic": "Indian society"
+    },
+    {
+      "diff": 2321.0,
+      "topic": "Royalty"
+    },
+    {
+      "diff": 2210.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2172.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 2028.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 2027.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 1982.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 1921.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1522.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1270.0,
+      "topic": "Holidays"
+    }
+  ]
+}

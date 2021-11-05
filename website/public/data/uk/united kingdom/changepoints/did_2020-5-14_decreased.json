@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -4120.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3142.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3106.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -2999.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -2681.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": -2052.0,
+      "topic": "Geomorphology"
+    },
+    {
+      "diff": -1956.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -1857.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1611.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1551.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": -1497.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1348.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -1289.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -1171.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": -1153.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Sustainable gardening"
+    },
+    {
+      "diff": -1037.0,
+      "topic": "Structural geology"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Landscape"
+    }
+  ]
+}

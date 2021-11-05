@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -33364.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -30379.0,
+      "topic": "History"
+    },
+    {
+      "diff": -28691.0,
+      "topic": "East asian traditions"
+    },
+    {
+      "diff": -26462.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -25044.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -24614.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -21234.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -15969.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -15904.0,
+      "topic": "People"
+    },
+    {
+      "diff": -15688.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -15638.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -15637.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -14468.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -14197.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -14100.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13476.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -13250.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -11982.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -11488.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -11110.0,
+      "topic": "Musicians"
+    }
+  ]
+}

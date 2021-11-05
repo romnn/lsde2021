@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 8082.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5591.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 5494.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 5152.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 5057.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4914.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4297.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 4100.0,
+      "topic": "People"
+    },
+    {
+      "diff": 3600.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3302.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 3180.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 3112.0,
+      "topic": "Arts awards"
+    },
+    {
+      "diff": 3090.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 2873.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 2852.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2827.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 2819.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2705.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2580.0,
+      "topic": "Nature"
+    },
+    {
+      "diff": 2473.0,
+      "topic": "The arts"
+    }
+  ]
+}

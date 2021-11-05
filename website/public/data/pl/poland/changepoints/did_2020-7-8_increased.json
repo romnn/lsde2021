@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-08",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 15498.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12305.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 11497.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 7835.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 7387.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 6480.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 6334.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5130.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 4742.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 4426.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4111.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3775.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": 3519.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 3372.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 3313.0,
+      "topic": "Military locations"
+    },
+    {
+      "diff": 3226.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3184.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 3182.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3172.0,
+      "topic": "Second polish republic"
+    },
+    {
+      "diff": 3164.0,
+      "topic": "Musical form"
+    }
+  ]
+}

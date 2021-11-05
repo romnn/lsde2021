@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -456.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -413.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -357.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -308.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -301.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -298.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -241.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -235.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -228.0,
+      "topic": "History"
+    },
+    {
+      "diff": -224.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -173.0,
+      "topic": "Meat"
+    },
+    {
+      "diff": -159.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -157.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -149.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Humanities"
+    }
+  ]
+}

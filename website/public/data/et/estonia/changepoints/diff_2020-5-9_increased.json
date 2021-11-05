@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 104.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 76.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 76.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Animal physiology"
+    }
+  ]
+}

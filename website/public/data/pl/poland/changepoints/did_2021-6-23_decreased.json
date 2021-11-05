@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -11913.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -11233.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -10382.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -10259.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -8869.0,
+      "topic": "History"
+    },
+    {
+      "diff": -8690.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -8633.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -8295.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -8255.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8180.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -7649.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -7621.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -7348.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -7309.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -7064.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6507.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -6437.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -6408.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -6022.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -6019.0,
+      "topic": "Language"
+    }
+  ]
+}

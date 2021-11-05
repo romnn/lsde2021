@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 2427.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 1986.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1940.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1935.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1517.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1516.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1401.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 1250.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1223.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": 1198.0,
+      "topic": "2nd-millennium disestablishments in the holy roman empire"
+    },
+    {
+      "diff": 1188.0,
+      "topic": "Holy roman empire"
+    },
+    {
+      "diff": 1134.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 1041.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 1018.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 1010.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 990.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 989.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 968.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 903.0,
+      "topic": "Record labels"
+    }
+  ]
+}

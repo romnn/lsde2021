@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -212.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -196.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": -193.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Southern europe"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -37.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Canada"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Environmental social science"
+    }
+  ]
+}

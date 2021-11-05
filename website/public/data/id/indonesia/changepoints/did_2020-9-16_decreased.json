@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -5002.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2793.0,
+      "topic": "Tradition"
+    },
+    {
+      "diff": -2639.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -2586.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -1847.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -1695.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1685.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -1627.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -1534.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "Southeast asian people"
+    },
+    {
+      "diff": -1429.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -1385.0,
+      "topic": "Subdiscipline"
+    },
+    {
+      "diff": -1377.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1335.0,
+      "topic": "Biota"
+    },
+    {
+      "diff": -1268.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -1141.0,
+      "topic": "Deception"
+    },
+    {
+      "diff": -1093.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1012.0,
+      "topic": "Angiosperms"
+    },
+    {
+      "diff": -1004.0,
+      "topic": "Fauna"
+    }
+  ]
+}

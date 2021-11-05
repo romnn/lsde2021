@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 5048.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 5001.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 4871.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 4741.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 4688.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 3032.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2829.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 2418.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 2239.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2194.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1766.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1547.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1279.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 1260.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1214.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1149.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 951.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 907.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 840.0,
+      "topic": "Human behavior"
+    }
+  ]
+}

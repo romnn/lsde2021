@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -6673.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4825.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4273.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4184.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -3945.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -3515.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3397.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -3354.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3276.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3149.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -3114.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2959.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2956.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2939.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2920.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -2774.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2681.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -2676.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -2584.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2496.0,
+      "topic": "Asia"
+    }
+  ]
+}

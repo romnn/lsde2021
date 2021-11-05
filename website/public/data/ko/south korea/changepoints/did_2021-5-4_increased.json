@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4606.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 4071.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 4021.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 3990.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 3737.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1545.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1342.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 1302.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": 1213.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": 1130.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 1060.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 1014.0,
+      "topic": "Korean pop musicians"
+    },
+    {
+      "diff": 992.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 970.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 941.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 938.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 897.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 876.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": 813.0,
+      "topic": "Social media"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-20",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -1795.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -1586.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -1204.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1196.0,
+      "topic": "Dutch empire"
+    },
+    {
+      "diff": -1102.0,
+      "topic": "City"
+    },
+    {
+      "diff": -1060.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -936.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -908.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -865.0,
+      "topic": "Outdoor recreation"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -850.0,
+      "topic": "Spacetime"
+    },
+    {
+      "diff": -792.0,
+      "topic": "Ancient indian people"
+    },
+    {
+      "diff": -712.0,
+      "topic": "Feminism"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Women's health"
+    },
+    {
+      "diff": -650.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -639.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -625.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": -566.0,
+      "topic": "Business organizations based"
+    },
+    {
+      "diff": -560.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -531.0,
+      "topic": "United nations secretariat"
+    }
+  ]
+}

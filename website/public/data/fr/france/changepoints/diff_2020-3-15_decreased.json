@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -58199.0,
+      "topic": "France"
+    },
+    {
+      "diff": -37682.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -35285.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -14410.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -6860.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -6172.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -5994.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -5653.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -5541.0,
+      "topic": "Categories by second-level administrative country subdivision"
+    },
+    {
+      "diff": -5328.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -5076.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -4889.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -4847.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -4562.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -4462.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -4400.0,
+      "topic": "Departments of \u00eele-de-france"
+    },
+    {
+      "diff": -4189.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -3792.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -3178.0,
+      "topic": "Hospitality industry"
+    },
+    {
+      "diff": -3135.0,
+      "topic": "Transport companies"
+    }
+  ]
+}

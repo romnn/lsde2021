@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -1380.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1375.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1359.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": -1358.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": -1350.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -1122.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -1115.0,
+      "topic": "Indo-european culture"
+    },
+    {
+      "diff": -1105.0,
+      "topic": "Republics"
+    },
+    {
+      "diff": -1042.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Late cretaceous"
+    },
+    {
+      "diff": -54.0,
+      "topic": "French language"
+    },
+    {
+      "diff": -53.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Prehistoric animal taxa"
+    }
+  ]
+}

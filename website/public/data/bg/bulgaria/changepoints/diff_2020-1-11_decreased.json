@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1356.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1229.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1054.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1028.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -605.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -601.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -582.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -425.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -385.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -357.0,
+      "topic": "Pleistocene events"
+    },
+    {
+      "diff": -356.0,
+      "topic": "State or territory"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -283.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Establishments"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -32.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Social systems"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Iranian kurdistan"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Turkish diaspora"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Country or nationality"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Turkish kurdistan"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Cold war"
+    }
+  ]
+}

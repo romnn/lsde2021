@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 1782.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1708.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1694.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 865.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Dutch music"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Eurovision song contest people"
+    },
+    {
+      "diff": 786.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 731.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 668.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 635.0,
+      "topic": "History"
+    },
+    {
+      "diff": 529.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 508.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 505.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 453.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 439.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 429.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Scandinavia"
+    }
+  ]
+}

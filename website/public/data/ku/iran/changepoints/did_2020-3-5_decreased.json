@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -72.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Turkish diaspora"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -23.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Books"
+    }
+  ]
+}

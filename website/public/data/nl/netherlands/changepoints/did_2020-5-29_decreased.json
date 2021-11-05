@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -18451.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -11484.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -11207.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": -11149.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": -10644.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -5800.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5668.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -5567.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -5417.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -5049.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -4642.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4625.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4186.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4068.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -4067.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4042.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -4011.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3976.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3384.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3320.0,
+      "topic": "Culture"
+    }
+  ]
+}

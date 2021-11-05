@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -1379.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1223.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1157.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1053.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -930.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -825.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -805.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -803.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -735.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -702.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -684.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -670.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -663.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -623.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -616.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -556.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -525.0,
+      "topic": "Israeli culture"
+    }
+  ]
+}

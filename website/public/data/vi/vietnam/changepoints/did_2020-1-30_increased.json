@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 7504.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 6343.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 6109.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 5500.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 5027.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 4506.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": 4497.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 4316.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 4305.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 4210.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4205.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 3948.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3678.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 3385.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3013.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2411.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 2327.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": 2206.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": 2095.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": 2095.0,
+      "topic": "Health disasters"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -14479.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -12749.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -10118.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -10028.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9915.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -9782.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -9358.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": -8985.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8745.0,
+      "topic": "Mass media people"
+    },
+    {
+      "diff": -8602.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -8563.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -7491.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -6975.0,
+      "topic": "Broadcasting"
+    },
+    {
+      "diff": -6895.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -6708.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -6604.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -6482.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -6480.0,
+      "topic": "Sex industry"
+    },
+    {
+      "diff": -6377.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6278.0,
+      "topic": "Religion"
+    }
+  ]
+}

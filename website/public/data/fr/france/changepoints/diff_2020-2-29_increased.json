@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 35675.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 35125.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 33974.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 33931.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 33761.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 24268.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 24112.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 19775.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 16028.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 15677.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 13999.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 11970.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 10694.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 9097.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 7868.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6486.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 5257.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4978.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 4968.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 4830.0,
+      "topic": "Country"
+    }
+  ]
+}

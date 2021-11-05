@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 1158.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 1098.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1041.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Royalty"
+    },
+    {
+      "diff": 427.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 366.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 357.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 276.0,
+      "topic": "1930s"
+    },
+    {
+      "diff": 270.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 242.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 242.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 240.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": 212.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Living arrangements"
+    },
+    {
+      "diff": 189.0,
+      "topic": "Forest products"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Design"
+    }
+  ]
+}

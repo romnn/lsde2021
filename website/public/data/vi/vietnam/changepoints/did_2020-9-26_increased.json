@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 4055.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3666.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3506.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 3264.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2553.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2473.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 2252.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 2072.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 2016.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1888.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 1848.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 1807.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1802.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1752.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 1681.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1621.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 1579.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1394.0,
+      "topic": "France"
+    },
+    {
+      "diff": 1349.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 1130.0,
+      "topic": "Biogeographic realms"
+    }
+  ]
+}

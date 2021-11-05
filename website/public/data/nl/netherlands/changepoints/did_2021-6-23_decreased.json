@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -10075.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -8092.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7773.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -7651.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -7599.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -7319.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -7299.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -7204.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -7100.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -7050.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6996.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -6931.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6866.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -6080.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5611.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5300.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4700.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4596.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4439.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -4168.0,
+      "topic": "Topic"
+    }
+  ]
+}

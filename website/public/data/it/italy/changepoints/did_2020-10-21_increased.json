@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 33040.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 29389.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 24114.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 23695.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 22676.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 17221.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 15868.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 14490.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 12679.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 12413.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 12354.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 10966.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 10543.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 10119.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 9988.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 9328.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 9253.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 8884.0,
+      "topic": "History"
+    },
+    {
+      "diff": 8692.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 8031.0,
+      "topic": "Water transport"
+    }
+  ]
+}

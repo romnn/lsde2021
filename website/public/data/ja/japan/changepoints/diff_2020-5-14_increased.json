@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 15836.0,
+      "topic": "Felids"
+    },
+    {
+      "diff": 15827.0,
+      "topic": "Inflammations"
+    },
+    {
+      "diff": 15739.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": 14223.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 9166.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 8440.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 8409.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8321.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 8188.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 7888.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 7686.0,
+      "topic": "Ethnic or national descent"
+    },
+    {
+      "diff": 7481.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 7063.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 6865.0,
+      "topic": "Fuyo group"
+    },
+    {
+      "diff": 5911.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": 5910.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 5545.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 5441.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 5389.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 4863.0,
+      "topic": "Subfields"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -5281.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4958.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -4877.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -4782.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -4321.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4258.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3296.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1878.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -1779.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1719.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -1431.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1396.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1105.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -1088.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1083.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -1051.0,
+      "topic": "Rhetoric"
+    },
+    {
+      "diff": -1029.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -1001.0,
+      "topic": "Germany"
+    }
+  ]
+}

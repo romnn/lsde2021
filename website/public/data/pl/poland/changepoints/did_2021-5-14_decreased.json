@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -16783.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -13645.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8698.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -7739.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7132.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -7122.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -6163.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5738.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -5492.0,
+      "topic": "People"
+    },
+    {
+      "diff": -5296.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -4865.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -4777.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4218.0,
+      "topic": "England"
+    },
+    {
+      "diff": -4090.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3988.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3615.0,
+      "topic": "Mating"
+    },
+    {
+      "diff": -3591.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -3498.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3425.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3288.0,
+      "topic": "Century"
+    }
+  ]
+}

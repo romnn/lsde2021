@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -24403.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -15339.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -13084.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -12752.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -10952.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -10371.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -10257.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -10213.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -10061.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -9971.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -9930.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -9684.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -9600.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9492.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -9379.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -9196.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -8641.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -8184.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -7981.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -7733.0,
+      "topic": "Artificial materials"
+    }
+  ]
+}

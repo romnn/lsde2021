@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 195.0,
+      "topic": "Animal ethics"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Biological interactions"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Process engineering"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Lithosphere"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Tragedies (dramas)"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Renaissance"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Core eudicots"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Criminal justice"
+    },
+    {
+      "diff": 12.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Data security"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Podcasting"
+    },
+    {
+      "diff": 10.0,
+      "topic": "File sharing networks"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Internet-based works"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Plant genera"
+    }
+  ]
+}

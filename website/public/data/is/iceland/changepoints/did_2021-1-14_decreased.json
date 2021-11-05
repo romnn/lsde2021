@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -180.0,
+      "topic": "Nations at the men's olympic football tournament"
+    },
+    {
+      "diff": -157.0,
+      "topic": "Civil parishes"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Political organizations"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Melanesia"
+    },
+    {
+      "diff": -77.0,
+      "topic": "Italian folk culture"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Political geography"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Environmental technology"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Historic buildings"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Experimental rock"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Folk rock groups"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Fields"
+    }
+  ]
+}

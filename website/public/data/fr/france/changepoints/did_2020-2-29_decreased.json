@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -33975.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -33795.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": -33709.0,
+      "topic": "Computer languages"
+    },
+    {
+      "diff": -27055.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -18223.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -15134.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -15131.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -14343.0,
+      "topic": "Palestine (region)"
+    },
+    {
+      "diff": -14302.0,
+      "topic": "Separatism"
+    },
+    {
+      "diff": -13908.0,
+      "topic": "Independence"
+    },
+    {
+      "diff": -11675.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -10999.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -8940.0,
+      "topic": "France"
+    },
+    {
+      "diff": -7926.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -7586.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -7216.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -7105.0,
+      "topic": "Pan-nationalism"
+    },
+    {
+      "diff": -7055.0,
+      "topic": "Jewish political status"
+    },
+    {
+      "diff": -6967.0,
+      "topic": "Arab nationalism"
+    },
+    {
+      "diff": -6548.0,
+      "topic": "Categories"
+    }
+  ]
+}

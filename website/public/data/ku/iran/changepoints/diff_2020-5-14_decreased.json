@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -169.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -151.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -49.0,
+      "topic": "History"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Greek deity"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Children"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Zeus"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Ancient roman religion"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Levant"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 9003.0,
+      "topic": "Mass media people"
+    },
+    {
+      "diff": 8824.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": 8797.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": 8274.0,
+      "topic": "Love"
+    },
+    {
+      "diff": 6974.0,
+      "topic": "Sex industry"
+    },
+    {
+      "diff": 6768.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": 6440.0,
+      "topic": "Japanese actresses"
+    },
+    {
+      "diff": 6063.0,
+      "topic": "Broadcasting"
+    },
+    {
+      "diff": 5356.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 4529.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 4509.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 3789.0,
+      "topic": "Pop rock"
+    },
+    {
+      "diff": 3628.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 3568.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 3270.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 3210.0,
+      "topic": "Japanese television series"
+    },
+    {
+      "diff": 2907.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2848.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": 2775.0,
+      "topic": "Ethnic or national descent"
+    },
+    {
+      "diff": 2651.0,
+      "topic": "Jiangsu"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -4614.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3998.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": -3816.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3257.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -3255.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": -3254.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -3096.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -2923.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -2628.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2573.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2218.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -1721.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1652.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1610.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -1415.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1347.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1058.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1001.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -924.0,
+      "topic": "Buddhism"
+    }
+  ]
+}

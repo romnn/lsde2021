@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 22628.0,
+      "topic": "History"
+    },
+    {
+      "diff": 20104.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 15294.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 14733.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 14629.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 13846.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 13038.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 11990.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 11309.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 11288.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 10734.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 10615.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 10330.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 9955.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 9782.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 9468.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 9332.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 9278.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 8970.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8696.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

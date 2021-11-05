@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -1560.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1474.0,
+      "topic": "2020s"
+    },
+    {
+      "diff": -1449.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1046.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1039.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -832.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": -745.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -711.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -655.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -572.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -564.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -527.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -494.0,
+      "topic": "Transport buildings"
+    },
+    {
+      "diff": -494.0,
+      "topic": "Former county"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -456.0,
+      "topic": "Rogaland"
+    },
+    {
+      "diff": -447.0,
+      "topic": "Names"
+    }
+  ]
+}

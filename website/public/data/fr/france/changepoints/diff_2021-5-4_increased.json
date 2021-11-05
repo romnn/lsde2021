@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 45655.0,
+      "topic": "France"
+    },
+    {
+      "diff": 38214.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 28685.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 23062.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 15450.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 15130.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 13400.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 13249.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 12565.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 12473.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 12422.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 11092.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 8641.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 7220.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": 7209.0,
+      "topic": "Second hundred years' war"
+    },
+    {
+      "diff": 7160.0,
+      "topic": "Order"
+    },
+    {
+      "diff": 6850.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": 6694.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5881.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 5881.0,
+      "topic": "Kingdom"
+    }
+  ]
+}

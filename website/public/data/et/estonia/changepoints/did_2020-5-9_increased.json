@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 291.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 288.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 281.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 217.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 208.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 180.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 177.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 160.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": 138.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Ukraine"
+    }
+  ]
+}

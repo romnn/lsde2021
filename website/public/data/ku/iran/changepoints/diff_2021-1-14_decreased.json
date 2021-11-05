@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -18.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Incorporated cities"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Neighborhoods"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Ancient science"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Product introduction"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Firearms"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Violent crime"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Turkish diaspora"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Contents"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

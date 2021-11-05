@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 75674.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 69960.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 64947.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 64775.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 60030.0,
+      "topic": "Halides"
+    },
+    {
+      "diff": 33836.0,
+      "topic": "History"
+    },
+    {
+      "diff": 32203.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 32164.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 27284.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 26842.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 25994.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 23277.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 22372.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 20277.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 20241.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 19793.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 18780.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 18772.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 17640.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 17328.0,
+      "topic": "Culture"
+    }
+  ]
+}

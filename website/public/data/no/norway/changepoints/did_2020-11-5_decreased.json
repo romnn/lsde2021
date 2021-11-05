@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -3928.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -3917.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -3903.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -3819.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -3279.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2268.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -935.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -860.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -787.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -781.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -753.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -752.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -740.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -626.0,
+      "topic": "County"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -503.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -502.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Biodiversity"
+    }
+  ]
+}

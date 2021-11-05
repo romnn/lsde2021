@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 488.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 418.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 415.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 401.0,
+      "topic": "Jurassic events"
+    },
+    {
+      "diff": 401.0,
+      "topic": "Late jurassic"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 303.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 303.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 217.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 209.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 201.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 195.0,
+      "topic": "County"
+    },
+    {
+      "diff": 190.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 173.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 141.0,
+      "topic": "Estonia"
+    },
+    {
+      "diff": 140.0,
+      "topic": "Centuries"
+    }
+  ]
+}

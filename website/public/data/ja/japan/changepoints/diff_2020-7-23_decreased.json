@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-23",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -13245.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -12189.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -12005.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -11661.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -10856.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -10670.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -10594.0,
+      "topic": "Legal system"
+    },
+    {
+      "diff": -10572.0,
+      "topic": "Punishment"
+    },
+    {
+      "diff": -9682.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -9625.0,
+      "topic": "Ethology"
+    },
+    {
+      "diff": -8659.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -8654.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -7199.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -6831.0,
+      "topic": "2000s books"
+    },
+    {
+      "diff": -6013.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -5994.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -5994.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -5847.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -5755.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -5441.0,
+      "topic": "Biodiversity"
+    }
+  ]
+}

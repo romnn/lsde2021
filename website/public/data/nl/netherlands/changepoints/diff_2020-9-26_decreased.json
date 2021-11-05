@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -4948.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -1798.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -1648.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -1599.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": -1568.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": -1516.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1379.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1273.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "Holland"
+    },
+    {
+      "diff": -1251.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1177.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1115.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -966.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -909.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -879.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": -818.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -805.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Anti-communism"
+    }
+  ]
+}

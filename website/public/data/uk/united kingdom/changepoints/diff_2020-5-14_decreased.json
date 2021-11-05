@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2614.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -2421.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -2253.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2194.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": -1791.0,
+      "topic": "Geomorphology"
+    },
+    {
+      "diff": -1605.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -1189.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -1065.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1052.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": -1005.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Sustainable gardening"
+    },
+    {
+      "diff": -892.0,
+      "topic": "Thought"
+    },
+    {
+      "diff": -891.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -888.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": -878.0,
+      "topic": "Anarchist schools"
+    },
+    {
+      "diff": -869.0,
+      "topic": "Self-organization"
+    }
+  ]
+}

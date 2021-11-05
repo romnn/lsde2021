@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 425.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 402.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 324.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 323.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 323.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 323.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 303.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 300.0,
+      "topic": "Fashion aesthetics"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Ideologies"
+    },
+    {
+      "diff": 283.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 276.0,
+      "topic": "Postmodernism"
+    },
+    {
+      "diff": 262.0,
+      "topic": "Style"
+    },
+    {
+      "diff": 225.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 199.0,
+      "topic": "Critical theory"
+    },
+    {
+      "diff": 182.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 159.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 150.0,
+      "topic": "North american culture"
+    }
+  ]
+}

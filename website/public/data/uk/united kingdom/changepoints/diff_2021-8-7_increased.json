@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 6961.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 6810.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 6753.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 6733.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 6697.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 4577.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3858.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3300.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 3084.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 3061.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 2303.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2083.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1406.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1353.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1252.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1247.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 1080.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": 1077.0,
+      "topic": "Public records"
+    },
+    {
+      "diff": 1003.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 914.0,
+      "topic": "Categories"
+    }
+  ]
+}

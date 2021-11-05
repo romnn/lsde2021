@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -39430.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -38118.0,
+      "topic": "20th-century people by nationality and occupation"
+    },
+    {
+      "diff": -37625.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": -37383.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -32102.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -16920.0,
+      "topic": "People"
+    },
+    {
+      "diff": -15991.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -15972.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -15942.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -15941.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -12943.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -11379.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -10834.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -10121.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -9246.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -9211.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -8740.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -8650.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -7579.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -7380.0,
+      "topic": "History"
+    }
+  ]
+}

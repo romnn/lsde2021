@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 4168.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 4061.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3647.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2553.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2472.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 2400.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2199.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 2079.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2025.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": 2012.0,
+      "topic": "Heterocyclic compounds"
+    },
+    {
+      "diff": 1978.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1965.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1864.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1780.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1774.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1713.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1650.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 1644.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1635.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1629.0,
+      "topic": "Apple inc."
+    }
+  ]
+}

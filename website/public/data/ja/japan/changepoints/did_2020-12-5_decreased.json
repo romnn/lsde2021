@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -48283.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -39414.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -33864.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -30371.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -23933.0,
+      "topic": "People"
+    },
+    {
+      "diff": -22902.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -21851.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -21235.0,
+      "topic": "Denomination"
+    },
+    {
+      "diff": -20563.0,
+      "topic": "Christian religious leaders"
+    },
+    {
+      "diff": -20433.0,
+      "topic": "Primates (bishops)"
+    },
+    {
+      "diff": -20433.0,
+      "topic": "Roman catholic bishops"
+    },
+    {
+      "diff": -20431.0,
+      "topic": "Bishops"
+    },
+    {
+      "diff": -19944.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -19938.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -19265.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -19158.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -19081.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -18613.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -17397.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -17349.0,
+      "topic": "Personal development"
+    }
+  ]
+}

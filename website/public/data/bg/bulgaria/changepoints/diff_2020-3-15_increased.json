@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 11137.0,
+      "topic": "History"
+    },
+    {
+      "diff": 9568.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 8457.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 7490.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7298.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7080.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6999.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6427.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 6426.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 6218.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6129.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6101.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5956.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5510.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 5388.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 5351.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5204.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 4827.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4346.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 4061.0,
+      "topic": "Organisms"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -27.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -11.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Forests"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Academic discipline"
+    }
+  ]
+}

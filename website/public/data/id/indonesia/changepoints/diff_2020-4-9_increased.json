@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-09",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 10311.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 9129.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 8792.0,
+      "topic": "Women's health"
+    },
+    {
+      "diff": 8756.0,
+      "topic": "Feminism"
+    },
+    {
+      "diff": 7550.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": 6781.0,
+      "topic": "People"
+    },
+    {
+      "diff": 6569.0,
+      "topic": "Measurement"
+    },
+    {
+      "diff": 6526.0,
+      "topic": "Dynamics (mechanics)"
+    },
+    {
+      "diff": 6507.0,
+      "topic": "Power (physics)"
+    },
+    {
+      "diff": 6453.0,
+      "topic": "Vehicle technology"
+    },
+    {
+      "diff": 6283.0,
+      "topic": "Electrical equipment"
+    },
+    {
+      "diff": 6125.0,
+      "topic": "Java"
+    },
+    {
+      "diff": 6040.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 5381.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": 5205.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 5152.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 5112.0,
+      "topic": "Dogma"
+    },
+    {
+      "diff": 5112.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 5061.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 4965.0,
+      "topic": "Province"
+    }
+  ]
+}

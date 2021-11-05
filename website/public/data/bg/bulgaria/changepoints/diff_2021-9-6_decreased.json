@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -2057.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1521.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1205.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1190.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1041.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -970.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -940.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -702.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -556.0,
+      "topic": "Resorts"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -525.0,
+      "topic": "Marine architecture"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -389.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Pharmacy"
+    }
+  ]
+}

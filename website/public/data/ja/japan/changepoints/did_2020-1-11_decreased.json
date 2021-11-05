@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -43383.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -39108.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -30863.0,
+      "topic": "Organized events"
+    },
+    {
+      "diff": -29503.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -28914.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -28472.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -27984.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -25954.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -25544.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -25124.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -23113.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": -22263.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -19381.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -16860.0,
+      "topic": "Applied psychology"
+    },
+    {
+      "diff": -16841.0,
+      "topic": "Theory"
+    },
+    {
+      "diff": -16791.0,
+      "topic": "Mind"
+    },
+    {
+      "diff": -16003.0,
+      "topic": "Cognitive neuroscience"
+    },
+    {
+      "diff": -15825.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -14281.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -14134.0,
+      "topic": "Corporatism"
+    }
+  ]
+}

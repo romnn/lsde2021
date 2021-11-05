@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 23588.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 23166.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 22081.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 22080.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 22074.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 22069.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 20936.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 16278.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 15658.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 11774.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 7103.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 7069.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": 6243.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 6214.0,
+      "topic": "Food industry"
+    },
+    {
+      "diff": 6177.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6040.0,
+      "topic": "C++ programming language family"
+    },
+    {
+      "diff": 5866.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 5657.0,
+      "topic": "Use"
+    },
+    {
+      "diff": 5470.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": 5290.0,
+      "topic": "Genealogies"
+    }
+  ]
+}

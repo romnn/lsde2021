@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -34.0,
+      "topic": "Foreign policy"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Vertebrate developmental biology"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Canada"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Gerontology"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -11.0,
+      "topic": "1930s"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -10.0,
+      "topic": "1920s"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Dress codes"
+    },
+    {
+      "diff": -8.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Serbian culture"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Dystopian fiction"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Local government"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -7.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Universe"
+    }
+  ]
+}

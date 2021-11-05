@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 2832.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 2805.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 2784.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 2780.0,
+      "topic": "Computer-mediated communication"
+    },
+    {
+      "diff": 2543.0,
+      "topic": "Media sharing"
+    },
+    {
+      "diff": 2531.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 2255.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 2192.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 2121.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": 2086.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 1979.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 1875.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 1668.0,
+      "topic": "Digital media"
+    },
+    {
+      "diff": 1639.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 1559.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 1465.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1442.0,
+      "topic": "Distribution (marketing) by country"
+    },
+    {
+      "diff": 1407.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 1394.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 1353.0,
+      "topic": "Retailing"
+    }
+  ]
+}

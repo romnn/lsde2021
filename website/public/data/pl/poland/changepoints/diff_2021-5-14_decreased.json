@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -11511.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11196.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -7306.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6634.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6312.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -6044.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -5497.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -5482.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4867.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4859.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4807.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4753.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4226.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -4176.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3725.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -3651.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -3609.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -3579.0,
+      "topic": "Mating"
+    },
+    {
+      "diff": -3331.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3069.0,
+      "topic": "Cold war"
+    }
+  ]
+}

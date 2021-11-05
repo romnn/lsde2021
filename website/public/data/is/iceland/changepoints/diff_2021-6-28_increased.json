@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 122.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 114.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 82.0,
+      "topic": "History"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Iceland"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Constitutional law"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Hydrography"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Writing"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Geography of castilla\u2013la mancha by province"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Countries"
+    }
+  ]
+}

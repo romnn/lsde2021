@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 2148.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1972.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1877.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1464.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1151.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1142.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 1141.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1076.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1073.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1061.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 975.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 923.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 900.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 869.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 864.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 804.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 796.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 724.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 724.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Nationality"
+    }
+  ]
+}

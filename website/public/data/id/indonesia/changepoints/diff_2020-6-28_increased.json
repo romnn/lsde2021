@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 793.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 710.0,
+      "topic": "Bahraini culture"
+    },
+    {
+      "diff": 705.0,
+      "topic": "Iraqi culture"
+    },
+    {
+      "diff": 526.0,
+      "topic": "1780s"
+    },
+    {
+      "diff": 324.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 317.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": 270.0,
+      "topic": "Works about child abuse"
+    },
+    {
+      "diff": 266.0,
+      "topic": "Censorship"
+    },
+    {
+      "diff": 265.0,
+      "topic": "Crime fiction"
+    },
+    {
+      "diff": 263.0,
+      "topic": "Works about folklore"
+    },
+    {
+      "diff": 262.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 260.0,
+      "topic": "Satire"
+    },
+    {
+      "diff": 258.0,
+      "topic": "Children's writers by nationality"
+    },
+    {
+      "diff": 253.0,
+      "topic": "German folk culture"
+    },
+    {
+      "diff": 252.0,
+      "topic": "Heritage organizations"
+    },
+    {
+      "diff": 246.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Type"
+    },
+    {
+      "diff": 208.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 204.0,
+      "topic": "21st-century women musicians"
+    }
+  ]
+}

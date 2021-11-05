@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 14613.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8824.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 7599.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 6871.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5299.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 5202.0,
+      "topic": "Jordanian culture"
+    },
+    {
+      "diff": 3383.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2458.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 2231.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 1914.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1824.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 1821.0,
+      "topic": "Cultural conventions"
+    },
+    {
+      "diff": 1812.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1774.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1767.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1465.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 1419.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 1285.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1215.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 1213.0,
+      "topic": "Nuts 3 statistical regions"
+    }
+  ]
+}

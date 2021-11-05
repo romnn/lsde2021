@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -17191.0,
+      "topic": "History"
+    },
+    {
+      "diff": -14672.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -14494.0,
+      "topic": "East asian traditions"
+    },
+    {
+      "diff": -13259.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -11787.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -11691.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -11244.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -9607.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -7901.0,
+      "topic": "People"
+    },
+    {
+      "diff": -7840.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -7773.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -7675.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -7577.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -7365.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -7190.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -6767.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6693.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6644.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -6491.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -6480.0,
+      "topic": "Asian culture"
+    }
+  ]
+}

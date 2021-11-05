@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -4016.0,
+      "topic": "Indonesian culture"
+    },
+    {
+      "diff": -3810.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -3262.0,
+      "topic": "Social conflict"
+    },
+    {
+      "diff": -3119.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -2940.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -2211.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2048.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1421.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1333.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "Game equipment"
+    },
+    {
+      "diff": -1190.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1145.0,
+      "topic": "Internet fraud"
+    },
+    {
+      "diff": -1135.0,
+      "topic": "Dutch culture"
+    },
+    {
+      "diff": -1127.0,
+      "topic": "Ukrainian culture"
+    },
+    {
+      "diff": -1043.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -1033.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -921.0,
+      "topic": "State"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Jewish mythology"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -812.0,
+      "topic": "Governance"
+    }
+  ]
+}

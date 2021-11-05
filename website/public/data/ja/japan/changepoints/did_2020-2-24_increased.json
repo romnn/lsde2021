@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 21586.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 20265.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 20202.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 18679.0,
+      "topic": "East asian traditions"
+    },
+    {
+      "diff": 18215.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 17238.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 16974.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 16737.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 14309.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": 13734.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": 12453.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 11201.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 9440.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 9430.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 9409.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 9088.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 8604.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 4834.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": 4826.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 4247.0,
+      "topic": "Setting"
+    }
+  ]
+}

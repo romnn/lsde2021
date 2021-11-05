@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 4766.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 3886.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3707.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 2978.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 2637.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 2597.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 2589.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 2380.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2349.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2162.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 1838.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1828.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1783.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": 1740.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 1655.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 1643.0,
+      "topic": "Leisure"
+    },
+    {
+      "diff": 1633.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1597.0,
+      "topic": "Arts occupations"
+    },
+    {
+      "diff": 1590.0,
+      "topic": "Japanese music"
+    },
+    {
+      "diff": 1547.0,
+      "topic": "Discipline"
+    }
+  ]
+}

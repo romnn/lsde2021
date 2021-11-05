@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -5463.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -4178.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -3632.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -3363.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -3164.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -2510.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2479.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -2401.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -2361.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -2353.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2080.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -1861.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1840.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -1828.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -1747.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1713.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1633.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -1564.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -1551.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": -1503.0,
+      "topic": "Musical groups"
+    }
+  ]
+}

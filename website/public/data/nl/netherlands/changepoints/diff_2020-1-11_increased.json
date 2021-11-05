@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 19216.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 18454.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 18370.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 18368.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 18328.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 9037.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5823.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5377.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5021.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5018.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4897.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 4896.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4326.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": 3759.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3705.0,
+      "topic": "Biological classification"
+    },
+    {
+      "diff": 3499.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3262.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3222.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2845.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2754.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

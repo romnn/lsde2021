@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -8676.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -8523.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -8513.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -8333.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -8257.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -7449.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -7143.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -6359.0,
+      "topic": "Crime fiction"
+    },
+    {
+      "diff": -6217.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -6109.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -6091.0,
+      "topic": "Postwar japan"
+    },
+    {
+      "diff": -5660.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -5604.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -5557.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -4923.0,
+      "topic": "Animation fandom"
+    },
+    {
+      "diff": -4819.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -4264.0,
+      "topic": "Japanese television series"
+    },
+    {
+      "diff": -3978.0,
+      "topic": "Folklore studies"
+    },
+    {
+      "diff": -3764.0,
+      "topic": "Mysticism"
+    },
+    {
+      "diff": -3593.0,
+      "topic": "Rock musicians"
+    }
+  ]
+}

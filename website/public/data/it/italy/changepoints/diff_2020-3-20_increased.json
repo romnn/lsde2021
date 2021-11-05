@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 53800.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 50559.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 41544.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 38921.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 37571.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 37118.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 34093.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 33078.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 32754.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 32544.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 31447.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 31354.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 29374.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 26238.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 23594.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 22098.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 21729.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 21151.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 21116.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 20532.0,
+      "topic": "Nationality"
+    }
+  ]
+}

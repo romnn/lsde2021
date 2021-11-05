@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2032.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1767.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1453.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": -1395.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1332.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": -1330.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -1317.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1281.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Self"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "Behaviorism"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "Conceptions"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Phenomenology"
+    },
+    {
+      "diff": -1210.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1196.0,
+      "topic": "Linguistics"
+    },
+    {
+      "diff": -1191.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1110.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1031.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -1023.0,
+      "topic": "Medical research"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Multimedia"
+    }
+  ]
+}

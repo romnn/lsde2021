@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -21917.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -15784.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -14762.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -12971.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": -12659.0,
+      "topic": "Transparent materials"
+    },
+    {
+      "diff": -12481.0,
+      "topic": "Ocean or sea"
+    },
+    {
+      "diff": -12057.0,
+      "topic": "Geochronology"
+    },
+    {
+      "diff": -11406.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -10971.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": -9948.0,
+      "topic": "Pacific ocean"
+    },
+    {
+      "diff": -9039.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -8742.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -8087.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -7448.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -6920.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -6897.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -6894.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -6872.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -6872.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -6872.0,
+      "topic": "Catholic liturgical law"
+    }
+  ]
+}

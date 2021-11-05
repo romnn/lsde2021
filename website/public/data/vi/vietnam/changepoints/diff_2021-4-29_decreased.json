@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-29",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -539.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -536.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -522.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -502.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -386.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -274.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": -244.0,
+      "topic": "Music competition participants"
+    },
+    {
+      "diff": -243.0,
+      "topic": "2010s books"
+    },
+    {
+      "diff": -239.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -236.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": -208.0,
+      "topic": "Style"
+    }
+  ]
+}

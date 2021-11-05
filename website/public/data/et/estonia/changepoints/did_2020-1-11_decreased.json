@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -480.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -472.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -404.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -402.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -215.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -141.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -101.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Estonian actors"
+    },
+    {
+      "diff": -69.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -54.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Nondualism"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Western asian culture"
+    }
+  ]
+}

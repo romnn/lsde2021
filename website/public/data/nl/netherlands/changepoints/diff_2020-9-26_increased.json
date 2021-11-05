@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 5258.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3948.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 3578.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3445.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 3248.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3203.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3089.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 3074.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3005.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 2873.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 2642.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 2581.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 2517.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 2471.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 2395.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": 2372.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2325.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 2304.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2293.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": 2112.0,
+      "topic": "Century"
+    }
+  ]
+}

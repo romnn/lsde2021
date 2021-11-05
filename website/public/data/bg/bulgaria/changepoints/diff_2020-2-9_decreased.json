@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1317.0,
+      "topic": "Political concepts"
+    },
+    {
+      "diff": -1229.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": -1126.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -609.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -513.0,
+      "topic": "Geographic setting"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": -479.0,
+      "topic": "21st-century television series"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -459.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -430.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -391.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -368.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -354.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -344.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Decade"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -64764.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -35821.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -35821.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -32592.0,
+      "topic": "History"
+    },
+    {
+      "diff": -31836.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -29824.0,
+      "topic": "Dancers"
+    },
+    {
+      "diff": -28171.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": -26949.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -25754.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -24311.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -22924.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -21316.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -20836.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -20144.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -19387.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -19264.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -16926.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -16052.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -15989.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": -15976.0,
+      "topic": "Inflammations"
+    }
+  ]
+}

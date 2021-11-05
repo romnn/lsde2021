@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 183.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 96.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 60.0,
+      "topic": "Geometry"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Polygons"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Serbian nationalism"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Europe"
+    }
+  ]
+}

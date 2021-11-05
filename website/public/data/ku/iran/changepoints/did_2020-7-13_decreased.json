@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -22.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Canada"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Gerontology"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -11.0,
+      "topic": "1930s"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Serbian culture"
+    },
+    {
+      "diff": -8.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Dress codes"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Kurdish people"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Nebraska"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Discrimination"
+    }
+  ]
+}

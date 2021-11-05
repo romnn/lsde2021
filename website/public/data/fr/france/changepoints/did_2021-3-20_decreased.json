@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -42900.0,
+      "topic": "France"
+    },
+    {
+      "diff": -27893.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -22039.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -16527.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -15924.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -15281.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -14956.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -14782.0,
+      "topic": "History"
+    },
+    {
+      "diff": -14106.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -14056.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -13908.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -12758.0,
+      "topic": "People"
+    },
+    {
+      "diff": -12564.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -12497.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -11597.0,
+      "topic": "French people"
+    },
+    {
+      "diff": -11267.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -10738.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -10152.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -10146.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -9693.0,
+      "topic": "Names"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -4058.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2690.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2609.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -2013.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -1971.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1867.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -1830.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -1830.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": -1807.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -1740.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -1724.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -1646.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": -1621.0,
+      "topic": "Applied ethics"
+    },
+    {
+      "diff": -1582.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -1565.0,
+      "topic": "Morality"
+    },
+    {
+      "diff": -1555.0,
+      "topic": "Gangs"
+    },
+    {
+      "diff": -1496.0,
+      "topic": "Societies"
+    },
+    {
+      "diff": -1405.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -1398.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1318.0,
+      "topic": "21st century"
+    }
+  ]
+}

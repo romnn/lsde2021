@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -12940.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -10012.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -7590.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5987.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -5026.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -4542.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4401.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": -3990.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -3980.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -3552.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -3412.0,
+      "topic": "1st millennium"
+    },
+    {
+      "diff": -3206.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -3147.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -3068.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -3064.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3061.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2953.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -2885.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": -2882.0,
+      "topic": "Temple mount"
+    }
+  ]
+}

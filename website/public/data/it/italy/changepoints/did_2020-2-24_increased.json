@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 23502.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 23334.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 21982.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 19330.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 14539.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 14175.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 11759.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 11327.0,
+      "topic": "Religious belief"
+    },
+    {
+      "diff": 10920.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 10897.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": 10664.0,
+      "topic": "Classical mythology"
+    },
+    {
+      "diff": 10600.0,
+      "topic": "Primary sector industries"
+    },
+    {
+      "diff": 9970.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 9882.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": 9693.0,
+      "topic": "Animal cognition"
+    },
+    {
+      "diff": 9093.0,
+      "topic": "Operations research"
+    },
+    {
+      "diff": 9042.0,
+      "topic": "Free culture movement"
+    },
+    {
+      "diff": 9014.0,
+      "topic": "Inventions"
+    },
+    {
+      "diff": 8946.0,
+      "topic": "Sustainable development"
+    },
+    {
+      "diff": 8623.0,
+      "topic": "History"
+    }
+  ]
+}

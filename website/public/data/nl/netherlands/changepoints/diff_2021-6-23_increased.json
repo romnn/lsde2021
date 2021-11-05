@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 6088.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2619.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2238.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2180.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1599.0,
+      "topic": "Cultural concepts"
+    },
+    {
+      "diff": 1581.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Social agreement"
+    },
+    {
+      "diff": 1448.0,
+      "topic": "Aesthetics"
+    },
+    {
+      "diff": 1446.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 1360.0,
+      "topic": "Human activities"
+    },
+    {
+      "diff": 1247.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 1197.0,
+      "topic": "Slavery"
+    },
+    {
+      "diff": 1171.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1139.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1112.0,
+      "topic": "Latin america"
+    },
+    {
+      "diff": 1085.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": 1047.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 1001.0,
+      "topic": "Level"
+    },
+    {
+      "diff": 978.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 970.0,
+      "topic": "Gangs"
+    }
+  ]
+}

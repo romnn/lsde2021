@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 263.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 217.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 200.0,
+      "topic": "Agencies"
+    },
+    {
+      "diff": 186.0,
+      "topic": "History"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 135.0,
+      "topic": "Information science"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 125.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 120.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

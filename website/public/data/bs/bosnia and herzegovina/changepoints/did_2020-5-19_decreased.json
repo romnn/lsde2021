@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -978.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -901.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -860.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -762.0,
+      "topic": "History"
+    },
+    {
+      "diff": -758.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -714.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -671.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -636.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -626.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -588.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -515.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -514.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -504.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -494.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": -467.0,
+      "topic": "Biology"
+    }
+  ]
+}

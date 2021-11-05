@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -913.0,
+      "topic": "History"
+    },
+    {
+      "diff": -482.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -448.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -345.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -345.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -313.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -307.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -301.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -294.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -286.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -269.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -258.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -254.0,
+      "topic": "Design"
+    },
+    {
+      "diff": -252.0,
+      "topic": "Places"
+    }
+  ]
+}

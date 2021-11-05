@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 2450.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 2311.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2273.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 2260.0,
+      "topic": "Services sector"
+    },
+    {
+      "diff": 2136.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 1580.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1276.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1228.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 1220.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 1207.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1114.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1108.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 1025.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1000.0,
+      "topic": "Perception"
+    },
+    {
+      "diff": 976.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": 941.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 908.0,
+      "topic": "Multidimensional signal processing"
+    },
+    {
+      "diff": 908.0,
+      "topic": "Visual system"
+    },
+    {
+      "diff": 906.0,
+      "topic": "Imaging"
+    }
+  ]
+}

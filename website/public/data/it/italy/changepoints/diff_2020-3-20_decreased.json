@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -61811.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -57861.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -57272.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -56143.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -14548.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -9837.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -8504.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -8416.0,
+      "topic": "Drugs"
+    },
+    {
+      "diff": -8228.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -8192.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -6762.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6558.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -5616.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5356.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -5065.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -4266.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -3201.0,
+      "topic": "Illegal drug trade"
+    },
+    {
+      "diff": -3148.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -3061.0,
+      "topic": "Organized crime groups"
+    }
+  ]
+}

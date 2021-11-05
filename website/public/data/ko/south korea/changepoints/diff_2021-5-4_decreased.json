@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -3896.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2807.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1872.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": -1822.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": -1802.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -1671.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Morality"
+    },
+    {
+      "diff": -1603.0,
+      "topic": "Romance"
+    },
+    {
+      "diff": -1601.0,
+      "topic": "Seduction"
+    },
+    {
+      "diff": -1597.0,
+      "topic": "Applied ethics"
+    },
+    {
+      "diff": -1559.0,
+      "topic": "Gangs"
+    },
+    {
+      "diff": -1553.0,
+      "topic": "Italian gangsters"
+    },
+    {
+      "diff": -1550.0,
+      "topic": "Societies"
+    },
+    {
+      "diff": -1539.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -1527.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -1198.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -870.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -856.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -766.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Information age"
+    }
+  ]
+}

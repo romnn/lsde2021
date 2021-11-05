@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-17",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 2700.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 2156.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2059.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1906.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 1831.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1755.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 1611.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 1545.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1493.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1451.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 1378.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1317.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1287.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 1276.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": 1237.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 1205.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": 1195.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 1151.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 1133.0,
+      "topic": "London"
+    },
+    {
+      "diff": 1111.0,
+      "topic": "Semantics"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -1360.0,
+      "topic": "Business law"
+    },
+    {
+      "diff": -1356.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": -1068.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": -1030.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -845.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -724.0,
+      "topic": "South asian legendary creatures"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Cryptozoology"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Nepalese culture"
+    },
+    {
+      "diff": -554.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Legendary characters"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": -442.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": -439.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -437.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -393.0,
+      "topic": "20th-century people by nationality and occupation"
+    },
+    {
+      "diff": -389.0,
+      "topic": "Microorganisms"
+    }
+  ]
+}

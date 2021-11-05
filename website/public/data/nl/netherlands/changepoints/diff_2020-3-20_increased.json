@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 11829.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8609.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 7664.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7323.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 7151.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6631.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6621.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6572.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 6422.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 6198.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 6188.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6132.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 6029.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5800.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5708.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5242.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 4839.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 4643.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4569.0,
+      "topic": "People"
+    },
+    {
+      "diff": 4443.0,
+      "topic": "Period"
+    }
+  ]
+}

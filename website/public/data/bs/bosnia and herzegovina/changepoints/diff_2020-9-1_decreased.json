@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -254.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": -252.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": -250.0,
+      "topic": "England"
+    },
+    {
+      "diff": -233.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -224.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -77.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -77.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Social philosophy"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Oxygen compounds"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Interpersonal relationships"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 22133.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 21238.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 20597.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 20529.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 15300.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13924.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": 13776.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": 11553.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 10004.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 9542.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 9509.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 9493.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 9465.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 7814.0,
+      "topic": "East asian traditions"
+    },
+    {
+      "diff": 7453.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 7409.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 7217.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 7103.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 6915.0,
+      "topic": "People"
+    },
+    {
+      "diff": 6444.0,
+      "topic": "Arts"
+    }
+  ]
+}

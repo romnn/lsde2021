@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1961.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": 1958.0,
+      "topic": "Nearctic realm"
+    },
+    {
+      "diff": 1805.0,
+      "topic": "Herbalism"
+    },
+    {
+      "diff": 1732.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": 1096.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 1044.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 917.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 558.0,
+      "topic": "Revolutions"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Ethnic enclaves"
+    },
+    {
+      "diff": 492.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 436.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 418.0,
+      "topic": "Global politics"
+    },
+    {
+      "diff": 411.0,
+      "topic": "Oblast"
+    },
+    {
+      "diff": 393.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": 361.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Distributed data storage"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Television technology"
+    },
+    {
+      "diff": 314.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 283.0,
+      "topic": "Luxembourg"
+    }
+  ]
+}

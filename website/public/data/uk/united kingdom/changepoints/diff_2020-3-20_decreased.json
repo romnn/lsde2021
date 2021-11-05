@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2113.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -2098.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1860.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -1807.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -1285.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1268.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1259.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Member states"
+    },
+    {
+      "diff": -409.0,
+      "topic": "Chromosomes"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -321.0,
+      "topic": "Wikiproject genetics articles"
+    },
+    {
+      "diff": -296.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -218.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -199.0,
+      "topic": "Silesia"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Pomerania"
+    }
+  ]
+}

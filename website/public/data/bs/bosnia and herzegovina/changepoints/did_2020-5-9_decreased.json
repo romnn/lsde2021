@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -1205.0,
+      "topic": "History"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -581.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -533.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -461.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -390.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -359.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -356.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -353.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -329.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -322.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -266.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Populated places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -7352.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5136.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4364.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -4009.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -3654.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -3394.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3243.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3200.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -3031.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -3006.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2694.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2664.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2575.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2495.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -2495.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -2479.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2459.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -2424.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2315.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -2252.0,
+      "topic": "Outer space"
+    }
+  ]
+}

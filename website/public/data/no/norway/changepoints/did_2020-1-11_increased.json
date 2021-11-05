@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 3320.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3080.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2981.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2020.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1972.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1957.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1753.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1738.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 1692.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 1644.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1576.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1561.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1424.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 1314.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1303.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1259.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 1196.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": 1169.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1075.0,
+      "topic": "Anti-communism"
+    }
+  ]
+}

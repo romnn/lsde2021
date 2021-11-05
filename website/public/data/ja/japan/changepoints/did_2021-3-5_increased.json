@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 43387.0,
+      "topic": "Love"
+    },
+    {
+      "diff": 42643.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": 41982.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 40316.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": 33467.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": 7939.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 7690.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 7469.0,
+      "topic": "Ethnic or national descent"
+    },
+    {
+      "diff": 6666.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 6082.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 4617.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": 4259.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": 4074.0,
+      "topic": "Prefecture"
+    },
+    {
+      "diff": 4011.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 3795.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 3404.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": 3324.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": 3211.0,
+      "topic": "Comics publications"
+    },
+    {
+      "diff": 3096.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": 2850.0,
+      "topic": "Rock musicians"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 2680.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2656.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 2581.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 2307.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 2009.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1992.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 1752.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 1706.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1683.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 1633.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 1493.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1458.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": 1377.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 1318.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1309.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": 1280.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1240.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1193.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1171.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 1068.0,
+      "topic": "Telecommunications"
+    }
+  ]
+}

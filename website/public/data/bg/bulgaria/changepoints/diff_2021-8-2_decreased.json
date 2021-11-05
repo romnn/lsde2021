@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -516.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -429.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -397.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -311.0,
+      "topic": "Ancient roman religion"
+    },
+    {
+      "diff": -308.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Zeus"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Greek deity"
+    },
+    {
+      "diff": -283.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -269.0,
+      "topic": "Children"
+    },
+    {
+      "diff": -258.0,
+      "topic": "Ancient greeks"
+    },
+    {
+      "diff": -232.0,
+      "topic": "Iliad"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Resorts"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -207.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -196.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -194.0,
+      "topic": "Marine architecture"
+    },
+    {
+      "diff": -189.0,
+      "topic": "Folklore"
+    },
+    {
+      "diff": -188.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": -182.0,
+      "topic": "Physiographic divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 5410.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 4129.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 3504.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 2955.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 1888.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 1772.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 1743.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 1393.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 1392.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 1370.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 1349.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 1342.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 1189.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 1069.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 1010.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 791.0,
+      "topic": "Pomerania"
+    },
+    {
+      "diff": 776.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 744.0,
+      "topic": "Comedy"
+    },
+    {
+      "diff": 736.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 676.0,
+      "topic": "Taiwanese culture"
+    }
+  ]
+}

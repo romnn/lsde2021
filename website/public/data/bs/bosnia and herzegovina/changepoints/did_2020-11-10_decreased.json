@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -557.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -533.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -494.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -492.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": -175.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -144.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -131.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -111.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Digital media"
+    },
+    {
+      "diff": -81.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Computing"
+    }
+  ]
+}

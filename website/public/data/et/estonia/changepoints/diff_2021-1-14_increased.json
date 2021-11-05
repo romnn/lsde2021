@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 1003.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 994.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 913.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 895.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 888.0,
+      "topic": "History"
+    },
+    {
+      "diff": 800.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 725.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 549.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 545.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 522.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 491.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 442.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 433.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 419.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 401.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 398.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 396.0,
+      "topic": "Foods"
+    }
+  ]
+}

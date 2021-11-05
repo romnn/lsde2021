@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 8499.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 8400.0,
+      "topic": "Executive branches"
+    },
+    {
+      "diff": 7890.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 7235.0,
+      "topic": "Ministries"
+    },
+    {
+      "diff": 6414.0,
+      "topic": "Politicians"
+    },
+    {
+      "diff": 6374.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 6119.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 4847.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 4008.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": 3820.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 3716.0,
+      "topic": "Indian television series"
+    },
+    {
+      "diff": 3348.0,
+      "topic": "Bhojpuri-language television"
+    },
+    {
+      "diff": 3281.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 2781.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 2389.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 2383.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2380.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 2346.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 2343.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": 2307.0,
+      "topic": "Ramayana"
+    }
+  ]
+}

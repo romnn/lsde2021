@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 2085.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 1797.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1617.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1137.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1090.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 775.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 770.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 764.0,
+      "topic": "France"
+    },
+    {
+      "diff": 704.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 696.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 694.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 605.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 537.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 489.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 468.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 437.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 420.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": 402.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 370.0,
+      "topic": "Reproduction"
+    }
+  ]
+}

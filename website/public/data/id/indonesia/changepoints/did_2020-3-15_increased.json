@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 40456.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 39500.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 38456.0,
+      "topic": "History"
+    },
+    {
+      "diff": 31754.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 30475.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 29150.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 26703.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 21803.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 21546.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 20652.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 19258.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 18202.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 17248.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 16881.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 16795.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 15947.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 14921.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 14776.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 14387.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 11793.0,
+      "topic": "Century"
+    }
+  ]
+}

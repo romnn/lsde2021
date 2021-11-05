@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 5050.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3712.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2970.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2927.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2840.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2818.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2405.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2322.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 1898.0,
+      "topic": "Nature"
+    },
+    {
+      "diff": 1809.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 1746.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1743.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 1702.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 1685.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": 1656.0,
+      "topic": "Applied sciences"
+    },
+    {
+      "diff": 1642.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": 1626.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 1553.0,
+      "topic": "Prokaryotes"
+    }
+  ]
+}

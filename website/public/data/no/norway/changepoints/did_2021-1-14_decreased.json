@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2654.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2401.0,
+      "topic": "Former county"
+    },
+    {
+      "diff": -2162.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1792.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -1745.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": -1743.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": -1708.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -1603.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1594.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1304.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -1296.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -1219.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1163.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -931.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -694.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -606.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -477.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -469.0,
+      "topic": "Human rights instruments"
+    }
+  ]
+}

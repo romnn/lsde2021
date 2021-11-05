@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 17638.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 15916.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 15453.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 15437.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 15358.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 8944.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 7847.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 7061.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6725.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 6223.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 5670.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 5520.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 5227.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 5196.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 5169.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 5087.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 5033.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4701.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4591.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 4363.0,
+      "topic": "Centuries"
+    }
+  ]
+}

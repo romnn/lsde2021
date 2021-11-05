@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-23",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -26679.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -20355.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -17565.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -15922.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": -15183.0,
+      "topic": "Japanese entertainers"
+    },
+    {
+      "diff": -15130.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -13248.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -12499.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -12353.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -11893.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -10813.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -10644.0,
+      "topic": "Film production companies"
+    },
+    {
+      "diff": -10483.0,
+      "topic": "Legal system"
+    },
+    {
+      "diff": -10430.0,
+      "topic": "Punishment"
+    },
+    {
+      "diff": -9884.0,
+      "topic": "Ethology"
+    },
+    {
+      "diff": -9866.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -9527.0,
+      "topic": "Home video"
+    },
+    {
+      "diff": -9344.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -8871.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -8603.0,
+      "topic": "Drink"
+    }
+  ]
+}

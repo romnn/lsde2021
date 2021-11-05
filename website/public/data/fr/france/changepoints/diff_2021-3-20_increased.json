@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 22553.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 21126.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 21123.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 21110.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 21107.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 10072.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 7596.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 6506.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 6189.0,
+      "topic": "Food industry"
+    },
+    {
+      "diff": 6047.0,
+      "topic": "C++ programming language family"
+    },
+    {
+      "diff": 5876.0,
+      "topic": "Use"
+    },
+    {
+      "diff": 5667.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": 5664.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4683.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 4389.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 4135.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 4100.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 3452.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": 3311.0,
+      "topic": "Hebrew calendar"
+    },
+    {
+      "diff": 3284.0,
+      "topic": "Temples"
+    }
+  ]
+}

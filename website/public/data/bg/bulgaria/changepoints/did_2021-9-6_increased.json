@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 2285.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2170.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2082.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1779.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 1714.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1677.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1487.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1358.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1322.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1181.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1156.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1154.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 1140.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1126.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 1119.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1116.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 1043.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1026.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1010.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

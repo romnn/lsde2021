@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 11167.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 9147.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 8058.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 7512.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 6421.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6285.0,
+      "topic": "Conservative liberal parties"
+    },
+    {
+      "diff": 6174.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": 5992.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 5889.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 5786.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 5746.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 5701.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 5558.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5542.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 5538.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 5338.0,
+      "topic": "Indonesian culture"
+    },
+    {
+      "diff": 5324.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 5311.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 5287.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 5278.0,
+      "topic": "Women"
+    }
+  ]
+}

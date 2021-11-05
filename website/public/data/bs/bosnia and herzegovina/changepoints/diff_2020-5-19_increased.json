@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 187.0,
+      "topic": "Animal ethics"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Numbers"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Algebraic number theory"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Elementary number theory"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Condensed matter"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Integer sequences"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Ratios"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Republika srpska"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Geometric objects"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Central semitic languages"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Process engineering"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Biological interactions"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Polygons"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Warfare"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Municipalities"
+    }
+  ]
+}

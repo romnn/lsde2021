@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -564.0,
+      "topic": "History"
+    },
+    {
+      "diff": -466.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -385.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -345.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -293.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -234.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -227.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -179.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -159.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -106.0,
+      "topic": "Medicine"
+    }
+  ]
+}

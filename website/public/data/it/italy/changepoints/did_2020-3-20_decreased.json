@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -61587.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -58500.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -57435.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -55727.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -13921.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -10238.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9993.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -9434.0,
+      "topic": "Operations research"
+    },
+    {
+      "diff": -9293.0,
+      "topic": "Free culture movement"
+    },
+    {
+      "diff": -9260.0,
+      "topic": "Inventions"
+    },
+    {
+      "diff": -8928.0,
+      "topic": "Sustainable development"
+    },
+    {
+      "diff": -8519.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -8438.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -8269.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -8212.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -8074.0,
+      "topic": "Drugs"
+    },
+    {
+      "diff": -7542.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -7370.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -7312.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -6926.0,
+      "topic": "Religious belief"
+    }
+  ]
+}

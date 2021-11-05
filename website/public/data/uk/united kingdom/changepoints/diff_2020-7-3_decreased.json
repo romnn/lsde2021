@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -3712.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3199.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3042.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3022.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2563.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2558.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2543.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2230.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2124.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1619.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1538.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1509.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1445.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1427.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1251.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1229.0,
+      "topic": "Interdisciplinary subfields"
+    },
+    {
+      "diff": -1069.0,
+      "topic": "Empiricism"
+    }
+  ]
+}

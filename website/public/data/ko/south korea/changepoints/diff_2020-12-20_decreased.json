@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -3008.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2996.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2250.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2163.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2083.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2001.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1910.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -1620.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1601.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1592.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1582.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1565.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1554.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1487.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1481.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1400.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1388.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1381.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1349.0,
+      "topic": "Molecules"
+    }
+  ]
+}

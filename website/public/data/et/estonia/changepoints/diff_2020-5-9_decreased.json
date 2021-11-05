@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -654.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -600.0,
+      "topic": "History"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -396.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -366.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -321.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -284.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -209.0,
+      "topic": "County"
+    },
+    {
+      "diff": -197.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -189.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -188.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -169.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -163.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -145.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -130.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -128.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Biology terminology"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Deuterostome taxonomy"
+    }
+  ]
+}

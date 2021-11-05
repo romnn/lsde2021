@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-28",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 11337.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 7142.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5962.0,
+      "topic": "France"
+    },
+    {
+      "diff": 5161.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4303.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2632.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 2427.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 2282.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 2150.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 2026.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": 1918.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1887.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 1887.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1822.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1802.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1793.0,
+      "topic": "Belgium"
+    },
+    {
+      "diff": 1791.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1745.0,
+      "topic": "Art"
+    },
+    {
+      "diff": 1632.0,
+      "topic": "Slovenia"
+    },
+    {
+      "diff": 1596.0,
+      "topic": "Natural environment based therapies"
+    }
+  ]
+}

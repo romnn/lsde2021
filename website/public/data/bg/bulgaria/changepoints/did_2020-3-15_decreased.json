@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -3386.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -3386.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -3375.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -2859.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -1708.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -1469.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -1334.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -1204.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -1098.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": -681.0,
+      "topic": "Evil"
+    },
+    {
+      "diff": -679.0,
+      "topic": "Ancient greeks"
+    },
+    {
+      "diff": -663.0,
+      "topic": "Good"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Magic (supernatural)"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -555.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": -486.0,
+      "topic": "Cell biology"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Province"
+    }
+  ]
+}

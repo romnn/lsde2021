@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -5701.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -3214.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -3208.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -3138.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2397.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -2383.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": -2364.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -1845.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": -1828.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1615.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1588.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1371.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -1352.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -1276.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -1222.0,
+      "topic": "Lexical semantics"
+    },
+    {
+      "diff": -1211.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -1195.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-17",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -16364.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9773.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -8564.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -6307.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -6297.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -6162.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -4512.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4333.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3624.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -3486.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -3422.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -3328.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -2909.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2650.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -2621.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2449.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2307.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -2235.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -2064.0,
+      "topic": "Childhood"
+    },
+    {
+      "diff": -2058.0,
+      "topic": "Organizational culture"
+    }
+  ]
+}

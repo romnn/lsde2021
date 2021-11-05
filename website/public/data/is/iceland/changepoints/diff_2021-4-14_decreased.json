@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -177.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -144.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -94.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -85.0,
+      "topic": "History"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Thuringia"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Aromatic ethers"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Phenylpropanoids"
+    },
+    {
+      "diff": -65.0,
+      "topic": "2-pyrones"
+    }
+  ]
+}

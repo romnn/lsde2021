@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -4626.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4491.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -4114.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": -3890.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -2613.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": -2551.0,
+      "topic": "Literary archetypes"
+    },
+    {
+      "diff": -2462.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "2020\u201321 in european football"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "8th century"
+    },
+    {
+      "diff": -2187.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -2094.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": -1978.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": -1892.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1857.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": -1825.0,
+      "topic": "Olympic football teams"
+    },
+    {
+      "diff": -1651.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -1587.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -1577.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": -1560.0,
+      "topic": "Social concepts"
+    },
+    {
+      "diff": -1535.0,
+      "topic": "Branches"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 3772.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 3259.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3171.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3119.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 2901.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 2846.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2224.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": 2010.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1889.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1867.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": 1852.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1789.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 1785.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 1746.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 1684.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1675.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 1662.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1646.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": 1607.0,
+      "topic": "Cambrian geology"
+    }
+  ]
+}

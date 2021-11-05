@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -3680.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -3411.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": -3199.0,
+      "topic": "Intelligence"
+    },
+    {
+      "diff": -3145.0,
+      "topic": "South asian culture"
+    },
+    {
+      "diff": -2551.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1337.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1235.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1085.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1019.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -935.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -862.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -731.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -651.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -648.0,
+      "topic": "Wildlife"
+    },
+    {
+      "diff": -633.0,
+      "topic": "France"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -504.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -492.0,
+      "topic": "Chemical compounds"
+    }
+  ]
+}

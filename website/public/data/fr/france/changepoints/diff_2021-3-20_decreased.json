@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -37702.0,
+      "topic": "France"
+    },
+    {
+      "diff": -32639.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -27044.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -14273.0,
+      "topic": "People"
+    },
+    {
+      "diff": -13869.0,
+      "topic": "History"
+    },
+    {
+      "diff": -13322.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -11760.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -11099.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -10619.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -10429.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -10007.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": -9476.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9384.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -9254.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -9195.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -9084.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": -8992.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -8762.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -8713.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -8240.0,
+      "topic": "Medicine"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -8930.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -8909.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -7600.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -7416.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -7182.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -6427.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -6381.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -6375.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -5316.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1515.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -1476.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -1037.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -1026.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -845.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -791.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": -671.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Switzerland"
+    }
+  ]
+}

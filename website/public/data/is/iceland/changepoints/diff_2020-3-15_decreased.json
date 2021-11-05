@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -587.0,
+      "topic": "History"
+    },
+    {
+      "diff": -482.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -433.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -162.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -160.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -109.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -96.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Ovalentaria"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -86.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -86.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Late middle ages"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-28",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 5420.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3860.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3518.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3313.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 3280.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 2850.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 2847.0,
+      "topic": "People"
+    },
+    {
+      "diff": 2699.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2532.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2440.0,
+      "topic": "Women musicians"
+    },
+    {
+      "diff": 1385.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1202.0,
+      "topic": "Imperialism"
+    },
+    {
+      "diff": 1100.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1058.0,
+      "topic": "Caribbean"
+    },
+    {
+      "diff": 1000.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 993.0,
+      "topic": "History"
+    },
+    {
+      "diff": 918.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 894.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 874.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 872.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

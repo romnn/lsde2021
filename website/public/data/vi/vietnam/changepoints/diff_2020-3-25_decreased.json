@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -4239.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -3558.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2995.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -2459.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -510.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -474.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -423.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Drainage basins"
+    },
+    {
+      "diff": -356.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Sexual health"
+    },
+    {
+      "diff": -271.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Neck"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -261.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -255.0,
+      "topic": "Tibet"
+    },
+    {
+      "diff": -254.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -250.0,
+      "topic": "Iranian culture"
+    }
+  ]
+}

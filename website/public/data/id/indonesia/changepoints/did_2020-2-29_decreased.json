@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -8809.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": -7732.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -4908.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -4856.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4630.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4325.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -4297.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3830.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -3367.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3279.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3250.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -2936.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2899.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -2803.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2785.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -2732.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -2560.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": -2461.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -2461.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -2417.0,
+      "topic": "Forms"
+    }
+  ]
+}

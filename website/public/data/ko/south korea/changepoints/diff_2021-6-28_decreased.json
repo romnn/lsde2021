@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -3418.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -3088.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -3072.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -2633.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1045.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -942.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -850.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -822.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -780.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Smartphones"
+    },
+    {
+      "diff": -671.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -593.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -561.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": -552.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -535.0,
+      "topic": "Universe"
+    }
+  ]
+}

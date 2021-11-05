@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 14351.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 12661.0,
+      "topic": "France"
+    },
+    {
+      "diff": 8691.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 7184.0,
+      "topic": "Television shows set"
+    },
+    {
+      "diff": 7117.0,
+      "topic": "Nbcuniversal"
+    },
+    {
+      "diff": 7077.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": 6998.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 6328.0,
+      "topic": "State"
+    },
+    {
+      "diff": 5462.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 2670.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 2652.0,
+      "topic": "Departments of provence-alpes-c\u00f4te d'azur"
+    },
+    {
+      "diff": 2218.0,
+      "topic": "French language"
+    },
+    {
+      "diff": 2111.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 2084.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": 2075.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 1951.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 1871.0,
+      "topic": "Breton mythology"
+    },
+    {
+      "diff": 1817.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 1801.0,
+      "topic": "Endings"
+    },
+    {
+      "diff": 1782.0,
+      "topic": "Sport"
+    }
+  ]
+}

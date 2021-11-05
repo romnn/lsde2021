@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 24629.0,
+      "topic": "History"
+    },
+    {
+      "diff": 18540.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 17847.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 12549.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 11713.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 9774.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 9261.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 8450.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 8382.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 8137.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 8023.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7797.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 7418.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 6998.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 6806.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6742.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 6385.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 6116.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 6101.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 6027.0,
+      "topic": "Populated places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -4931.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3608.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3423.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -3271.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -3063.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -2741.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -2627.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2110.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1990.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1973.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1841.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1813.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1727.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1720.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1561.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1458.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1456.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1398.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1371.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1371.0,
+      "topic": "Human rights"
+    }
+  ]
+}

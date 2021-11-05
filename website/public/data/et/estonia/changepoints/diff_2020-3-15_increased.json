@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 1292.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1025.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 926.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 907.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 849.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 820.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 800.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 748.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 686.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 664.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 590.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 587.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 535.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 519.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 505.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

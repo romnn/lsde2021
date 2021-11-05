@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 6228.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 5351.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 3986.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3907.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 3513.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 3226.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2953.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 2866.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 2709.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2506.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 2365.0,
+      "topic": "Belgian culture"
+    },
+    {
+      "diff": 2349.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 2340.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 2064.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 1984.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 1974.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1775.0,
+      "topic": "Belgium"
+    },
+    {
+      "diff": 1684.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1651.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 1642.0,
+      "topic": "Decade"
+    }
+  ]
+}

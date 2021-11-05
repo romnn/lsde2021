@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -30901.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -26803.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -26111.0,
+      "topic": "History"
+    },
+    {
+      "diff": -19497.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -16471.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -15465.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -13895.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -13728.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -13441.0,
+      "topic": "People"
+    },
+    {
+      "diff": -13434.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -13269.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11700.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -10695.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -10328.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -10109.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9986.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -9834.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -9430.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -9383.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -9143.0,
+      "topic": "Decade"
+    }
+  ]
+}

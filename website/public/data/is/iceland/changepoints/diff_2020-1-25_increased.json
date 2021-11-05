@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 51.0,
+      "topic": "Information fields"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Spanish empire"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Mexico"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Mass media"
+    }
+  ]
+}

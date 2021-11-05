@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-20",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 42439.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 42057.0,
+      "topic": "History"
+    },
+    {
+      "diff": 34149.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 28421.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 19750.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 19512.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 19389.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 19308.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 19202.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 18793.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 17453.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 16842.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 16032.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 15706.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 15588.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12689.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 12374.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 11592.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 11173.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": 10831.0,
+      "topic": "Categories"
+    }
+  ]
+}

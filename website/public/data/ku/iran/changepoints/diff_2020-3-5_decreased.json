@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -21.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -16.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Cellular neuroscience"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Neuroanatomy"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Wisdom gods"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Death gods"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Magic gods"
+    },
+    {
+      "diff": -9.0,
+      "topic": "European deities"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Astrology"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Permaculture"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Land reclamation"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Human activities"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -37186.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -27355.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -18599.0,
+      "topic": "History"
+    },
+    {
+      "diff": -17547.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -16737.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -16552.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -16236.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -16199.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -15493.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -14713.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -14310.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -14150.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -12599.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -12249.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -11905.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -11716.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -11296.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -10974.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -10480.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -10446.0,
+      "topic": "Microorganisms"
+    }
+  ]
+}

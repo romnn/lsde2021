@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 1606.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1407.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1349.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1245.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1200.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1135.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1066.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1059.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 880.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 878.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 864.0,
+      "topic": "Military"
+    },
+    {
+      "diff": 821.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 804.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 768.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 733.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 708.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 692.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Places"
+    }
+  ]
+}

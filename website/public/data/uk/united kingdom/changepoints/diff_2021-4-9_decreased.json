@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -5899.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -4403.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -4259.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -4165.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -3999.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -3050.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -2411.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -2352.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2305.0,
+      "topic": "Angels"
+    },
+    {
+      "diff": -2305.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": -2304.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": -1493.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -1477.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": -1470.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": -1319.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -926.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -925.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -869.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -865.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Internet culture"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 568.0,
+      "topic": "History"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 480.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 479.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 430.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 223.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 183.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 153.0,
+      "topic": "Iceland"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 121.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 117.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 111.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 102.0,
+      "topic": "Science"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 523.0,
+      "topic": "History"
+    },
+    {
+      "diff": 469.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 436.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 401.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 378.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 323.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 282.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 267.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 243.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 239.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 234.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 233.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 232.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 179.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

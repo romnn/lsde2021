@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 7123.0,
+      "topic": "Supernatural fiction"
+    },
+    {
+      "diff": 6968.0,
+      "topic": "Television series debuts"
+    },
+    {
+      "diff": 2116.0,
+      "topic": "Provinces of trentino-alto adige/s\u00fcdtirol"
+    },
+    {
+      "diff": 1604.0,
+      "topic": "East coast"
+    },
+    {
+      "diff": 1536.0,
+      "topic": "Human female reproductive system"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "North american culture"
+    },
+    {
+      "diff": 1344.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 1335.0,
+      "topic": "African descent"
+    },
+    {
+      "diff": 1287.0,
+      "topic": "Men's health"
+    },
+    {
+      "diff": 1273.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 1244.0,
+      "topic": "Human body parts"
+    },
+    {
+      "diff": 1238.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 1234.0,
+      "topic": "Population genetics"
+    },
+    {
+      "diff": 1221.0,
+      "topic": "Ideologies"
+    },
+    {
+      "diff": 1097.0,
+      "topic": "English culture"
+    },
+    {
+      "diff": 1054.0,
+      "topic": "Italian poets"
+    },
+    {
+      "diff": 1028.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": 1026.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 1002.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": 998.0,
+      "topic": "Gammaproteobacteria"
+    }
+  ]
+}

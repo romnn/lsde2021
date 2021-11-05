@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 115.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 111.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 87.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Alcohol"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Drinking culture"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Brazilian culture"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Afterlife"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Plant families"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Vertebrate ecology"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Transportation"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Social conflict"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Environmental philosophy"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Months"
+    }
+  ]
+}

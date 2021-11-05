@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -2647.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -2481.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2414.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -2413.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -2329.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -2019.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -1929.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1860.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1771.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1728.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1561.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1511.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": -1430.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -1387.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -1351.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -1348.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -1286.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -1259.0,
+      "topic": "Musical groups"
+    }
+  ]
+}

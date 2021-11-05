@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -32642.0,
+      "topic": "History"
+    },
+    {
+      "diff": -31510.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -30146.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -29950.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -28411.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -27010.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -23381.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -22044.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -18496.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -18323.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -18256.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -17258.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -16768.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -15769.0,
+      "topic": "Felids"
+    },
+    {
+      "diff": -15704.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": -15688.0,
+      "topic": "Inflammations"
+    },
+    {
+      "diff": -15251.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -14542.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -12627.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -12497.0,
+      "topic": "Topic"
+    }
+  ]
+}

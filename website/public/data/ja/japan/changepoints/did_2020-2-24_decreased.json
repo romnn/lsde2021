@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -30214.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -29653.0,
+      "topic": "Angiology"
+    },
+    {
+      "diff": -29628.0,
+      "topic": "Circulatory system"
+    },
+    {
+      "diff": -29490.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": -27807.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -24056.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -22778.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -21170.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -20205.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -19490.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -18244.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -17551.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -17482.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -16559.0,
+      "topic": "Japanese people"
+    },
+    {
+      "diff": -16317.0,
+      "topic": "Malaysia"
+    },
+    {
+      "diff": -15820.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -15791.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -15512.0,
+      "topic": "North korea"
+    },
+    {
+      "diff": -15365.0,
+      "topic": "Taiwanese culture"
+    },
+    {
+      "diff": -14966.0,
+      "topic": "Arts organizations"
+    }
+  ]
+}

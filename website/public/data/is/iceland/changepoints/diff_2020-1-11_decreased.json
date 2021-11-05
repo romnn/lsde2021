@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -42.0,
+      "topic": "Human\u2013machine interaction"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Living arrangements"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -19.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Misconduct"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Problem behavior"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -10.0,
+      "topic": "1960s television series"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Icelandic culture"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Crimes"
+    }
+  ]
+}

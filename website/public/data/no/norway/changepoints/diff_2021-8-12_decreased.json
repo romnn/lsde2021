@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -7912.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4409.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4390.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -4235.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -2605.0,
+      "topic": "County"
+    },
+    {
+      "diff": -2556.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1953.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1840.0,
+      "topic": "Villages"
+    },
+    {
+      "diff": -1677.0,
+      "topic": "British isles"
+    },
+    {
+      "diff": -1333.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1290.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1251.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1245.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1245.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1202.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1154.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -1100.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -983.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -894.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Water"
+    }
+  ]
+}

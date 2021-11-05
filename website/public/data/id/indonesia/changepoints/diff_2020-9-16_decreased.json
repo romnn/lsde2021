@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -1618.0,
+      "topic": "Deception"
+    },
+    {
+      "diff": -971.0,
+      "topic": "Southeast asian people"
+    },
+    {
+      "diff": -966.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -932.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": -750.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Integer sequences"
+    },
+    {
+      "diff": -696.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -565.0,
+      "topic": "Korean people"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Categories by province-level division of south korea"
+    },
+    {
+      "diff": -561.0,
+      "topic": "East asian diaspora"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Linguistic units"
+    },
+    {
+      "diff": -519.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -498.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -464.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -458.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -452.0,
+      "topic": "South korean entertainers"
+    },
+    {
+      "diff": -452.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": -447.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Form"
+    },
+    {
+      "diff": -426.0,
+      "topic": "Word play"
+    }
+  ]
+}

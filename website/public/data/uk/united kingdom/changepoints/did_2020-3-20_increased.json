@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 11931.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 11191.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 9683.0,
+      "topic": "History"
+    },
+    {
+      "diff": 8926.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 8902.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8534.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 8419.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 7050.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6977.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 6907.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 6746.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 6458.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 5839.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5741.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5592.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 5413.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5144.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 4996.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 4915.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 4811.0,
+      "topic": "Cold war"
+    }
+  ]
+}

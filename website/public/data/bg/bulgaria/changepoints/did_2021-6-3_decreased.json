@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -952.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -514.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -466.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -421.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -386.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -380.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -367.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": -310.0,
+      "topic": "Political party alliances"
+    },
+    {
+      "diff": -310.0,
+      "topic": "International political organizations"
+    },
+    {
+      "diff": -293.0,
+      "topic": "France"
+    },
+    {
+      "diff": -291.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Leisure"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Bulgarian empire"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -237.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -233.0,
+      "topic": "State"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Mountains"
+    }
+  ]
+}

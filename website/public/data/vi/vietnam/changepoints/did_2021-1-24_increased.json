@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 1306.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 1188.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1185.0,
+      "topic": "Cultural conventions"
+    },
+    {
+      "diff": 1159.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 963.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": 512.0,
+      "topic": "Alphabet inc."
+    },
+    {
+      "diff": 464.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 445.0,
+      "topic": "Fiction-writing mode"
+    },
+    {
+      "diff": 374.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 343.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": 343.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Republics"
+    },
+    {
+      "diff": 326.0,
+      "topic": "Asian legendary creatures"
+    },
+    {
+      "diff": 325.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 319.0,
+      "topic": "Hindu texts"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Sixth-generation video game consoles"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Erotic literature"
+    },
+    {
+      "diff": 311.0,
+      "topic": "Interactive art"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Japanese art"
+    }
+  ]
+}

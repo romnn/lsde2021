@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -2919.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": -2677.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -2442.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -1977.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1888.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1716.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -1627.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -1405.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1381.0,
+      "topic": "2nd millennium"
+    },
+    {
+      "diff": -1305.0,
+      "topic": "Blues music genres"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": -1274.0,
+      "topic": "Arts awards"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1184.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -966.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -789.0,
+      "topic": "Social philosophy"
+    },
+    {
+      "diff": -783.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": -766.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -705.0,
+      "topic": "Androgens"
+    }
+  ]
+}

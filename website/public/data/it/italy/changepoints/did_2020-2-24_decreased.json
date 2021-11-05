@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -79043.0,
+      "topic": "Male songwriters"
+    },
+    {
+      "diff": -60911.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -60175.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -52380.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -50934.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": -50926.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": -50242.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": -49198.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -48456.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -47834.0,
+      "topic": "Imperia"
+    },
+    {
+      "diff": -39966.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -39352.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -38689.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -29583.0,
+      "topic": "Italian people"
+    },
+    {
+      "diff": -28953.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": -18818.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -13555.0,
+      "topic": "People"
+    },
+    {
+      "diff": -11843.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -10775.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10415.0,
+      "topic": "Biology"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -2474.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1998.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1992.0,
+      "topic": "Cultural conventions"
+    },
+    {
+      "diff": -1987.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1252.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -1184.0,
+      "topic": "Heat transfer"
+    },
+    {
+      "diff": -1086.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -986.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -939.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -935.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -932.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -906.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -847.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -835.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -829.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Thermodynamics"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -643.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -615.0,
+      "topic": "Information management"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 5650.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 5260.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 5143.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 5029.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 4944.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 3011.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2556.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2142.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1933.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1880.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1818.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1805.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1574.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1509.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 1386.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1363.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1334.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1302.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 1263.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1203.0,
+      "topic": "Animals"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 10646.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10036.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 9963.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 9697.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 9503.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 9441.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 8395.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 7919.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 7236.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 7037.0,
+      "topic": "Robotics"
+    },
+    {
+      "diff": 7024.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 6884.0,
+      "topic": "Holism"
+    },
+    {
+      "diff": 6794.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 6632.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 6370.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 6370.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 6366.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 6365.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 5451.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 5323.0,
+      "topic": "Beginnings"
+    }
+  ]
+}

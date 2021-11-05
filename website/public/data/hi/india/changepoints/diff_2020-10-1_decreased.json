@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-01",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -5561.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3959.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3295.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2918.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -2892.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2595.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -2091.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1808.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1633.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": -1623.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1611.0,
+      "topic": "Psychological concepts"
+    },
+    {
+      "diff": -1501.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -1449.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -1420.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -1384.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -1233.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -1194.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -1187.0,
+      "topic": "Social sciences"
+    }
+  ]
+}

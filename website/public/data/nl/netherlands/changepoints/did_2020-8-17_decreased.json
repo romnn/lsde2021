@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-17",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -30983.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13792.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -13381.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -9665.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9274.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -8783.0,
+      "topic": "France"
+    },
+    {
+      "diff": -6366.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -5695.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -5439.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -5428.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -4802.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -4392.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -4212.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4096.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -4080.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -4023.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -3805.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3770.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -3761.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -3755.0,
+      "topic": "Water"
+    }
+  ]
+}

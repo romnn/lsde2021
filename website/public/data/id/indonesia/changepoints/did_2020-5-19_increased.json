@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 2178.0,
+      "topic": "Conservative liberal parties"
+    },
+    {
+      "diff": 2108.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 1750.0,
+      "topic": "Russia\u2013united states relations"
+    },
+    {
+      "diff": 1337.0,
+      "topic": "Collectivism"
+    },
+    {
+      "diff": 1094.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 1014.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 1006.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 938.0,
+      "topic": "Fad diets"
+    },
+    {
+      "diff": 926.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 906.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 870.0,
+      "topic": "Individualism"
+    },
+    {
+      "diff": 840.0,
+      "topic": "Dna viruses"
+    },
+    {
+      "diff": 826.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 823.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 765.0,
+      "topic": "2nd-millennium disestablishments in the holy roman empire"
+    },
+    {
+      "diff": 762.0,
+      "topic": "Holy roman empire"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Military branches"
+    },
+    {
+      "diff": 720.0,
+      "topic": "Political parties"
+    }
+  ]
+}

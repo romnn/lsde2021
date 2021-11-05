@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -2168.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1783.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1540.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1490.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1425.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1390.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1338.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1278.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1112.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -978.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -959.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -932.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -931.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -900.0,
+      "topic": "Individual apes"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": -860.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -810.0,
+      "topic": "Landforms"
+    }
+  ]
+}

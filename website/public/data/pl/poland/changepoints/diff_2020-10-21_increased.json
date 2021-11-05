@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 18341.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 17640.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13277.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 11337.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 11222.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 10913.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 10902.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 10162.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 10139.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 9729.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 9398.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 9305.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8760.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 8720.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 8540.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8230.0,
+      "topic": "Death"
+    },
+    {
+      "diff": 8147.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 7906.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 7619.0,
+      "topic": "Medical jurisprudence"
+    },
+    {
+      "diff": 7611.0,
+      "topic": "Family planning"
+    }
+  ]
+}

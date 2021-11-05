@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -63149.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -43601.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -37779.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -33537.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -32702.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -32685.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -32594.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -32447.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -31761.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -31696.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -31687.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -31600.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -31519.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -30359.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": -29466.0,
+      "topic": "History"
+    },
+    {
+      "diff": -27104.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -20849.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": -19392.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": -18568.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -18553.0,
+      "topic": "Asian culture"
+    }
+  ]
+}

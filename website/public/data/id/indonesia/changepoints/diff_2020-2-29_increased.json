@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 6240.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5981.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5414.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5171.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4906.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4002.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 3933.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 3878.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 3722.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 3628.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3071.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2714.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 2636.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 2628.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2553.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": 2541.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2395.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2361.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2336.0,
+      "topic": "Period"
+    }
+  ]
+}

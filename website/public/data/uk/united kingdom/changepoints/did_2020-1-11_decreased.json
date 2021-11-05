@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -4615.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2829.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -2699.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -2515.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -2423.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -2293.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -1745.0,
+      "topic": "Belarusian culture"
+    },
+    {
+      "diff": -1726.0,
+      "topic": "Traditions"
+    },
+    {
+      "diff": -1622.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": -992.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": -831.0,
+      "topic": "France"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -590.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Ancient rome"
+    },
+    {
+      "diff": -489.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -462.0,
+      "topic": "Levant"
+    }
+  ]
+}

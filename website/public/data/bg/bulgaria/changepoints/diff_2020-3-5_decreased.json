@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -3328.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2365.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -2040.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1397.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1104.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -1003.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -924.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -875.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": -736.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -496.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -493.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -462.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -461.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -401.0,
+      "topic": "Decade"
+    }
+  ]
+}

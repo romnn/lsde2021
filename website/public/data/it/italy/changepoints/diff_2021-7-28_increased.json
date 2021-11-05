@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 22980.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 19540.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 13058.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 12620.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 11752.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 8899.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 8487.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 7259.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5508.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 5385.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 5346.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 4996.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4356.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4298.0,
+      "topic": "Croatian culture"
+    },
+    {
+      "diff": 4229.0,
+      "topic": "Slovenian culture"
+    },
+    {
+      "diff": 4090.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 3786.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 3432.0,
+      "topic": "Running"
+    },
+    {
+      "diff": 3334.0,
+      "topic": "Ancient greek culture"
+    },
+    {
+      "diff": 3084.0,
+      "topic": "Places"
+    }
+  ]
+}

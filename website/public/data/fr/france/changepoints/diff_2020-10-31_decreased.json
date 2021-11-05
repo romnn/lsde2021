@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -12619.0,
+      "topic": "Disability"
+    },
+    {
+      "diff": -12559.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -12530.0,
+      "topic": "Medical aspects"
+    },
+    {
+      "diff": -11849.0,
+      "topic": "France"
+    },
+    {
+      "diff": -11221.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -10699.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -8975.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": -7983.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -6467.0,
+      "topic": "Western european descent"
+    },
+    {
+      "diff": -5718.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -5706.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -5244.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -5099.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -4837.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -4347.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": -4096.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -4024.0,
+      "topic": "Categories by second-level administrative country subdivision"
+    },
+    {
+      "diff": -3891.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": -3877.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -3635.0,
+      "topic": "North american descent"
+    }
+  ]
+}

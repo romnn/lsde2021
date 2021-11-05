@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -163.0,
+      "topic": "History"
+    },
+    {
+      "diff": -162.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -161.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -137.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": -95.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -90.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Thuringia"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Aromatic ethers"
+    },
+    {
+      "diff": -66.0,
+      "topic": "2-pyrones"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Phenylpropanoids"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Politics"
+    }
+  ]
+}

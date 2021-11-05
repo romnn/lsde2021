@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 937.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 908.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 837.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 696.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 657.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 649.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 630.0,
+      "topic": "Literary archetypes"
+    },
+    {
+      "diff": 621.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 600.0,
+      "topic": "Norse paganism"
+    },
+    {
+      "diff": 591.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 554.0,
+      "topic": "Mythological creatures"
+    },
+    {
+      "diff": 524.0,
+      "topic": "Recurrent elements"
+    },
+    {
+      "diff": 504.0,
+      "topic": "European deities"
+    },
+    {
+      "diff": 467.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 445.0,
+      "topic": "Norse culture"
+    },
+    {
+      "diff": 437.0,
+      "topic": "Castell\u00f3n"
+    }
+  ]
+}

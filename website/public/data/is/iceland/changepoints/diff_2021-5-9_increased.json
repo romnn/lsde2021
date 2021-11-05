@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 181.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 177.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 177.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 151.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Arts genres"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Evolutionarily significant biological phenomena"
+    },
+    {
+      "diff": 74.0,
+      "topic": "States"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Land reclamation"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Imperialism"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 60.0,
+      "topic": "Biological descriptions"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Superphyla"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Meiji period"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Establishment"
+    }
+  ]
+}

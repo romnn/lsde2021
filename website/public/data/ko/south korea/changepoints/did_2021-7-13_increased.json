@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4036.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3050.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2740.0,
+      "topic": "Drink preparation"
+    },
+    {
+      "diff": 2735.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2276.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 2188.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 2112.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 2101.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 1912.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1873.0,
+      "topic": "Continents"
+    },
+    {
+      "diff": 1759.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1739.0,
+      "topic": "World history"
+    },
+    {
+      "diff": 1705.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": 1648.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 1614.0,
+      "topic": "War"
+    },
+    {
+      "diff": 1523.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1463.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 1447.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1404.0,
+      "topic": "Dispute resolution"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "International sports competitions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -27941.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -25836.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -25552.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -22229.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -19081.0,
+      "topic": "History"
+    },
+    {
+      "diff": -17637.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -13336.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -13304.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -13178.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -13009.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -12989.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -11100.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -10910.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -10274.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -10253.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9608.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -8886.0,
+      "topic": "Films"
+    },
+    {
+      "diff": -8778.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -8190.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -8062.0,
+      "topic": "Provinces"
+    }
+  ]
+}

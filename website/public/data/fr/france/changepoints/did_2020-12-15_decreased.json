@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -68194.0,
+      "topic": "History"
+    },
+    {
+      "diff": -49299.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -36303.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -34104.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -33495.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -32835.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -31478.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -30976.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -29740.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -29357.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -28101.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -27189.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -26251.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -25695.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -25647.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -25454.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -23857.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -23444.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -23190.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -23095.0,
+      "topic": "Centuries"
+    }
+  ]
+}

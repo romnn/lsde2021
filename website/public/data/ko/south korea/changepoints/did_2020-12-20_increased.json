@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 2087.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1769.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 1768.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1694.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1685.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1504.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1370.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1161.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 954.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 944.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 905.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 886.0,
+      "topic": "2nd millennium"
+    },
+    {
+      "diff": 793.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 792.0,
+      "topic": "France"
+    },
+    {
+      "diff": 776.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 768.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Computer companies"
+    },
+    {
+      "diff": 661.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 614.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 592.0,
+      "topic": "Musicians"
+    }
+  ]
+}

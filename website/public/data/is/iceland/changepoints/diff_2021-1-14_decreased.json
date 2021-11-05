@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -299.0,
+      "topic": "Jiangsu"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Nations at the men's olympic football tournament"
+    },
+    {
+      "diff": -157.0,
+      "topic": "Civil parishes"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Political organizations"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Classical anatolia"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Ancient greek cities"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Gram-positive bacteria"
+    },
+    {
+      "diff": -90.0,
+      "topic": "Uefa europa league"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Communist states"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Melanesia"
+    },
+    {
+      "diff": -77.0,
+      "topic": "Maritime republics"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Italian folk culture"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Establishment"
+    }
+  ]
+}

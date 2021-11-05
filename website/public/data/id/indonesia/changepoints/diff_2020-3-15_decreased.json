@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -1787.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1390.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1357.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -1165.0,
+      "topic": "Internet fraud"
+    },
+    {
+      "diff": -1162.0,
+      "topic": "Dutch culture"
+    },
+    {
+      "diff": -1161.0,
+      "topic": "Ukrainian culture"
+    },
+    {
+      "diff": -823.0,
+      "topic": "Elateriformia"
+    },
+    {
+      "diff": -811.0,
+      "topic": "Asparagales genera"
+    },
+    {
+      "diff": -811.0,
+      "topic": "Orchid taxonomy"
+    },
+    {
+      "diff": -811.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -781.0,
+      "topic": "Nematocera taxa"
+    },
+    {
+      "diff": -737.0,
+      "topic": "Chrysomeloidea"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": -714.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -694.0,
+      "topic": "Deception"
+    },
+    {
+      "diff": -562.0,
+      "topic": "Plant products"
+    },
+    {
+      "diff": -554.0,
+      "topic": "Insects"
+    },
+    {
+      "diff": -537.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -507.0,
+      "topic": "Polyphaga genera"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Morphology"
+    }
+  ]
+}

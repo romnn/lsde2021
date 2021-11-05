@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 42915.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 23313.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 21917.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 20517.0,
+      "topic": "People"
+    },
+    {
+      "diff": 20116.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 19808.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 19787.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 19668.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 18877.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 18101.0,
+      "topic": "History"
+    },
+    {
+      "diff": 18044.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 16599.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 15875.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 15495.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 15326.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": 15302.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 14065.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": 12411.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 11354.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 10919.0,
+      "topic": "Technology"
+    }
+  ]
+}

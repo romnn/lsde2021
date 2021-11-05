@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -491.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -402.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -356.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -331.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -231.0,
+      "topic": "History"
+    },
+    {
+      "diff": -231.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -224.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -220.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -218.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -204.0,
+      "topic": "Palestine (region)"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Independence"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Separatism"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -176.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -165.0,
+      "topic": "Egyptian culture"
+    }
+  ]
+}

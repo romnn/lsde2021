@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 22711.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 18637.0,
+      "topic": "History"
+    },
+    {
+      "diff": 15252.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 13910.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 13771.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 12438.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 11771.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 10812.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 10528.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 10362.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 10013.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 8909.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 8223.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 8139.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 7607.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7602.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 7349.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 7321.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 7171.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 7028.0,
+      "topic": "Folk culture"
+    }
+  ]
+}

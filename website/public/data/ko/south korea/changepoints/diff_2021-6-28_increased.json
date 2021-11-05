@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 3247.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 2744.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 2731.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 2699.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 2687.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 2609.0,
+      "topic": "Computer-mediated communication"
+    },
+    {
+      "diff": 2509.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 2395.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2392.0,
+      "topic": "Media sharing"
+    },
+    {
+      "diff": 2188.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 2118.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": 2092.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2004.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1998.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1888.0,
+      "topic": "Digital media"
+    },
+    {
+      "diff": 1884.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 1849.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1750.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1732.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1696.0,
+      "topic": "Fields"
+    }
+  ]
+}

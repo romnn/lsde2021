@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 78.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Middle eastern people"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Indian scholars"
+    },
+    {
+      "diff": 43.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Argentina"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": 32.0,
+      "topic": "South america"
+    }
+  ]
+}

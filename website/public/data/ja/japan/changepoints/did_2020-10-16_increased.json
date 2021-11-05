@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 50689.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 46633.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 44539.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 43413.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 43037.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 22512.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 19537.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 19387.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 19129.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 18469.0,
+      "topic": "Monarchs"
+    },
+    {
+      "diff": 16537.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 16043.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 15951.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 15484.0,
+      "topic": "Postwar japan"
+    },
+    {
+      "diff": 15006.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 14967.0,
+      "topic": "Human biology"
+    },
+    {
+      "diff": 14588.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 14500.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 12213.0,
+      "topic": "People"
+    },
+    {
+      "diff": 11634.0,
+      "topic": "Science fiction"
+    }
+  ]
+}

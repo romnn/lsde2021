@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2689.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -2623.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2595.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -1996.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -1971.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1786.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -1708.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Atomic physics"
+    },
+    {
+      "diff": -984.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": -875.0,
+      "topic": "Korean women"
+    },
+    {
+      "diff": -873.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Dance"
+    },
+    {
+      "diff": -745.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Neck"
+    },
+    {
+      "diff": -629.0,
+      "topic": "South korean people"
+    },
+    {
+      "diff": -613.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -613.0,
+      "topic": "Sexual health"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Youth"
+    },
+    {
+      "diff": -587.0,
+      "topic": "Names"
+    }
+  ]
+}

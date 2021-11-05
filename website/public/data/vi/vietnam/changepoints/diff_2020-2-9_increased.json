@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 3766.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 3744.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3740.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3502.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 3500.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3408.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3383.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3114.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3113.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 3105.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3094.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3021.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 2975.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2947.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2559.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2556.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 2521.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2513.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 2459.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2442.0,
+      "topic": "Subfields"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -5289.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -5168.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -5150.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -5078.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -3752.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2157.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -2096.0,
+      "topic": "Transmembrane receptors"
+    },
+    {
+      "diff": -2049.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1676.0,
+      "topic": "Human head"
+    },
+    {
+      "diff": -1670.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1661.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1627.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -1564.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Body regions"
+    },
+    {
+      "diff": -1521.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": -1135.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -1068.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -948.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -947.0,
+      "topic": "Protestant holy days"
+    }
+  ]
+}

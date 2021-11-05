@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 1101.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1005.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 500.0,
+      "topic": "County"
+    },
+    {
+      "diff": 496.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 478.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 438.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 394.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 393.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 392.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 392.0,
+      "topic": "Jurassic events"
+    },
+    {
+      "diff": 392.0,
+      "topic": "Late jurassic"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 372.0,
+      "topic": "History"
+    },
+    {
+      "diff": 364.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 357.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 339.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 338.0,
+      "topic": "Places"
+    }
+  ]
+}

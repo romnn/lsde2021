@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -4204.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -4117.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -4099.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -3477.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1562.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -1160.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -547.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -458.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -419.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -367.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -247.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -201.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Republika srpska"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Weeks"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Personal development"
+    }
+  ]
+}

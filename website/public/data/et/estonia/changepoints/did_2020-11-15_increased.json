@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 2049.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1519.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 938.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 772.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 745.0,
+      "topic": "County"
+    },
+    {
+      "diff": 713.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 695.0,
+      "topic": "History"
+    },
+    {
+      "diff": 675.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 631.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 570.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 530.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 490.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 480.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 474.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 456.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 455.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 446.0,
+      "topic": "Beginnings"
+    }
+  ]
+}

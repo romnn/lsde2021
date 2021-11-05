@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 114027.0,
+      "topic": "Male songwriters"
+    },
+    {
+      "diff": 99100.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": 98806.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": 98568.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 98432.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": 93208.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 78191.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 76674.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 61855.0,
+      "topic": "Imperia"
+    },
+    {
+      "diff": 61206.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 47786.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 45432.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": 43043.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 37044.0,
+      "topic": "Italian people"
+    },
+    {
+      "diff": 15206.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 14708.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 14081.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 11645.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 11185.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 10418.0,
+      "topic": "Performing arts"
+    }
+  ]
+}

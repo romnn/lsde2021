@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 19421.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 16165.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 15485.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 15444.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 15357.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 12741.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9760.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 9434.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 8695.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 7111.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 6937.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 6242.0,
+      "topic": "Anti-slavic sentiment"
+    },
+    {
+      "diff": 6127.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 6102.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 5944.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 5894.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": 5882.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 5842.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 5682.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 5667.0,
+      "topic": "Disorders"
+    }
+  ]
+}

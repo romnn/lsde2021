@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1902.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 1595.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": 1504.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1493.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 1389.0,
+      "topic": "Self-organization"
+    },
+    {
+      "diff": 1351.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1321.0,
+      "topic": "Anarchist schools"
+    },
+    {
+      "diff": 1295.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1294.0,
+      "topic": "Thought"
+    },
+    {
+      "diff": 1252.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1242.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 1227.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 1207.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1143.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1110.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": 1092.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 1078.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 1020.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 995.0,
+      "topic": "Calendars"
+    }
+  ]
+}

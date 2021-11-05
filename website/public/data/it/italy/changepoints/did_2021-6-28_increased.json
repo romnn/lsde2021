@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 22251.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 13508.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 12833.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 11964.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 11641.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": 11449.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": 11031.0,
+      "topic": "Earth's crust"
+    },
+    {
+      "diff": 10908.0,
+      "topic": "Landmarks"
+    },
+    {
+      "diff": 9313.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9253.0,
+      "topic": "Student events"
+    },
+    {
+      "diff": 9158.0,
+      "topic": "Childhood"
+    },
+    {
+      "diff": 9040.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 8735.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 8067.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 6909.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 6771.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 5990.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": 5855.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 5594.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": 5570.0,
+      "topic": "Apple inc."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -9304.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -7555.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -7135.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -6067.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -5915.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -5499.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -5407.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -5053.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -3863.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3773.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3712.0,
+      "topic": "French people"
+    },
+    {
+      "diff": -3511.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -3183.0,
+      "topic": "1980s economic history"
+    },
+    {
+      "diff": -3142.0,
+      "topic": "New york city"
+    },
+    {
+      "diff": -3128.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -3024.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": -2514.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2407.0,
+      "topic": "Jesus"
+    },
+    {
+      "diff": -2332.0,
+      "topic": "Descent"
+    },
+    {
+      "diff": -2326.0,
+      "topic": "Kinship"
+    }
+  ]
+}

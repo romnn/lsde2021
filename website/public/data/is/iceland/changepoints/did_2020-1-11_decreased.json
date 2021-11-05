@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -59.0,
+      "topic": "Living arrangements"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Human\u2013machine interaction"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Industrial design"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Misconduct"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -19.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -16.0,
+      "topic": "1960s television series"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Eating behaviors"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Problem behavior"
+    }
+  ]
+}
