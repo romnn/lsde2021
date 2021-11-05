@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -4169.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2622.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -2346.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2332.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2248.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -2066.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -1988.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -1906.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -1830.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1775.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1719.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1633.0,
+      "topic": "Oral literature"
+    },
+    {
+      "diff": -1617.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -1599.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1591.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1583.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1541.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1512.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -1447.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "Discipline"
+    }
+  ]
+}

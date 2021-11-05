@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 26375.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 25854.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 25799.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 20128.0,
+      "topic": "People"
+    },
+    {
+      "diff": 19265.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 13765.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 8578.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 7666.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": 7609.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 7596.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 7596.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 7500.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 7379.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 7328.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": 7077.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": 6695.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 5927.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 5898.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5620.0,
+      "topic": "Military branches"
+    },
+    {
+      "diff": 5342.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

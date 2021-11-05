@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -166.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -106.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Christian belief"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Middle eastern studies"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -58.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Critical theory"
+    },
+    {
+      "diff": -38.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Weeks"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Political spectrum"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Right-wing politics"
+    }
+  ]
+}

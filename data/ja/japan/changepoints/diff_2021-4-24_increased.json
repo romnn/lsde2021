@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 37137.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 25127.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 20939.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 20371.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 19416.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 19306.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 18106.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 16787.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 16319.0,
+      "topic": "History"
+    },
+    {
+      "diff": 16183.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 15578.0,
+      "topic": "Japanese television series"
+    },
+    {
+      "diff": 15201.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 14437.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 13485.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": 13253.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 12239.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 11324.0,
+      "topic": "Television series endings"
+    },
+    {
+      "diff": 10770.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 10749.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 10696.0,
+      "topic": "Water transport"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4979.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 3991.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3516.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 3370.0,
+      "topic": "Body regions"
+    },
+    {
+      "diff": 3317.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": 3245.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": 3127.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 3052.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2973.0,
+      "topic": "Love"
+    },
+    {
+      "diff": 2810.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2793.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2734.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 2668.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 2621.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2576.0,
+      "topic": "Human head"
+    },
+    {
+      "diff": 2522.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 2450.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 2099.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2072.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1988.0,
+      "topic": "Technology"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2681.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2385.0,
+      "topic": "Former county"
+    },
+    {
+      "diff": -2098.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1762.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": -1761.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -1760.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": -1740.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1706.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -1489.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -860.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -785.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -659.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -584.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -577.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -571.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -468.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": -462.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -459.0,
+      "topic": "2nd millennium"
+    }
+  ]
+}

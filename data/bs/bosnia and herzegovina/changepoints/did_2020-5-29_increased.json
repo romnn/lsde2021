@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 195.0,
+      "topic": "Animal ethics"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Tragedies (dramas)"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Renaissance"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Crafts"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Core eudicots"
+    },
+    {
+      "diff": 19.0,
+      "topic": "England"
+    },
+    {
+      "diff": 19.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Lithosphere"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Process engineering"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Type"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Nbcuniversal"
+    }
+  ]
+}

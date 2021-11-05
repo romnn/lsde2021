@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -2831.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -2345.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2139.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1809.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": -1714.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": -1674.0,
+      "topic": "Open-source movement"
+    },
+    {
+      "diff": -1504.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -1455.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -1399.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1321.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -1205.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1199.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -1191.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -1152.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -1150.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -1131.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1113.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -1019.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": -1013.0,
+      "topic": "Pharmacy"
+    }
+  ]
+}

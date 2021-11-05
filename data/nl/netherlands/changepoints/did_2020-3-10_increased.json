@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 22723.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 22433.0,
+      "topic": "History"
+    },
+    {
+      "diff": 19088.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 18543.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 17270.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 16843.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 14435.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 13932.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 13365.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 12972.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 11891.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 10883.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 9921.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 9199.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9077.0,
+      "topic": "Communication theory"
+    },
+    {
+      "diff": 9025.0,
+      "topic": "Human genetics"
+    },
+    {
+      "diff": 8938.0,
+      "topic": "Biological anthropology"
+    },
+    {
+      "diff": 6847.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 6084.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 6040.0,
+      "topic": "Animal health"
+    }
+  ]
+}

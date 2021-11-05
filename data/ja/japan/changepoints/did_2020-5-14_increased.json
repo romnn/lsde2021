@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 36298.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 32482.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 32020.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 31329.0,
+      "topic": "Dancers"
+    },
+    {
+      "diff": 17624.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 15530.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 14808.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 14788.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 14135.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 13971.0,
+      "topic": "Inflammations"
+    },
+    {
+      "diff": 13886.0,
+      "topic": "Felids"
+    },
+    {
+      "diff": 13879.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": 11879.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 11761.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 10241.0,
+      "topic": "Technology companies"
+    },
+    {
+      "diff": 10233.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 9905.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": 9329.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 8967.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 8777.0,
+      "topic": "Martial arts"
+    }
+  ]
+}

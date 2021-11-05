@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 1804.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 1802.0,
+      "topic": "Nepal"
+    },
+    {
+      "diff": 1741.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1641.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 1124.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 1108.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1076.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 863.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 702.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 532.0,
+      "topic": "Aggregation websites"
+    },
+    {
+      "diff": 497.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Ancient indian people"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Hindi"
+    },
+    {
+      "diff": 169.0,
+      "topic": "British india"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Punjab"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Military forces"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Indian rulers"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Thirteen colonies"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4826.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 4480.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 4456.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": 4298.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 4117.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2830.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2502.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1836.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1543.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1520.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 1152.0,
+      "topic": "Slovakia"
+    },
+    {
+      "diff": 1151.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1148.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 1141.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 1134.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 1134.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 862.0,
+      "topic": "Atomic physics"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Physical sciences"
+    },
+    {
+      "diff": 690.0,
+      "topic": "Drink preparation"
+    },
+    {
+      "diff": 684.0,
+      "topic": "Online companies"
+    }
+  ]
+}

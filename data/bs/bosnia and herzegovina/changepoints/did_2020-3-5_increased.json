@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 3466.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3408.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3308.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 3117.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1432.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 999.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 364.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 363.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 339.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 326.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 312.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 298.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 297.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 260.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 256.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 251.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 242.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 225.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Medicine"
+    }
+  ]
+}

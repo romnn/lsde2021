@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -28871.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -24004.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -22970.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -19721.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -17506.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -16282.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -15199.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -13004.0,
+      "topic": "People"
+    },
+    {
+      "diff": -12568.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -11690.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -11563.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -11547.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -10392.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -10123.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -9810.0,
+      "topic": "Personal development"
+    },
+    {
+      "diff": -9800.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9460.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -9442.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -8387.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -7765.0,
+      "topic": "Arts organizations"
+    }
+  ]
+}

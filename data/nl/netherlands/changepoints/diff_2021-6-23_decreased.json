@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -5688.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4715.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4532.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4416.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4209.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3986.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3728.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3489.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3231.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2969.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2544.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2517.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2383.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -2230.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2212.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2099.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": -2056.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2017.0,
+      "topic": "Arab diaspora"
+    },
+    {
+      "diff": -2015.0,
+      "topic": "Middle eastern diaspora"
+    },
+    {
+      "diff": -1906.0,
+      "topic": "Topic"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 12402.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 10408.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9940.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 7834.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 7175.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5655.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 5325.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 4283.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3946.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 3842.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 3746.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 3227.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 3059.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 2924.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2918.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 2788.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 2695.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2428.0,
+      "topic": "Pomerania"
+    },
+    {
+      "diff": 2307.0,
+      "topic": "Military locations"
+    },
+    {
+      "diff": 2149.0,
+      "topic": "Third-level administrative divisions by country"
+    }
+  ]
+}

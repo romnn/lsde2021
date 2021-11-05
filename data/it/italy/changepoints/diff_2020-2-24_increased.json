@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 26381.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 24587.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 20896.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 19722.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 18302.0,
+      "topic": "History"
+    },
+    {
+      "diff": 15146.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 15040.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 14392.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 9800.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": 9795.0,
+      "topic": "Primary sector industries"
+    },
+    {
+      "diff": 9646.0,
+      "topic": "Animal cognition"
+    },
+    {
+      "diff": 9212.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 8951.0,
+      "topic": "Biological interactions"
+    },
+    {
+      "diff": 8934.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8578.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 8175.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 7607.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 7174.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 7041.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": 5696.0,
+      "topic": "Punk rock"
+    }
+  ]
+}

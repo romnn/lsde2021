@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -3645.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2966.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2641.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -2162.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -2150.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2103.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2063.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -2033.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -2032.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -1805.0,
+      "topic": "Dutch music"
+    },
+    {
+      "diff": -1787.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -1769.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -1675.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -1657.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -1652.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1622.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1604.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -1595.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1573.0,
+      "topic": "Jordan"
+    }
+  ]
+}

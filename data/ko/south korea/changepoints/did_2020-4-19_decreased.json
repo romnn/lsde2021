@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -5333.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -5319.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -5137.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -4474.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -3680.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2611.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2422.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -2377.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -2171.0,
+      "topic": "Transmembrane receptors"
+    },
+    {
+      "diff": -2069.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -1885.0,
+      "topic": "1980s economic history"
+    },
+    {
+      "diff": -1808.0,
+      "topic": "Professional wrestling"
+    },
+    {
+      "diff": -1737.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1721.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -1583.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -1580.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": -1573.0,
+      "topic": "Human head"
+    },
+    {
+      "diff": -1548.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1536.0,
+      "topic": "21st century"
+    }
+  ]
+}

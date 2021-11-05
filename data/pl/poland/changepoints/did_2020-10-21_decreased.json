@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -6078.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -5541.0,
+      "topic": "Arab society"
+    },
+    {
+      "diff": -5539.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -5358.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -4921.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -4885.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -4415.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -4118.0,
+      "topic": "Legal organizations"
+    },
+    {
+      "diff": -3937.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": -3601.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": -3242.0,
+      "topic": "1st millennium"
+    },
+    {
+      "diff": -3113.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -2985.0,
+      "topic": "Silesia"
+    },
+    {
+      "diff": -2957.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -2617.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": -2096.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -1924.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": -1681.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -1666.0,
+      "topic": "European royalty"
+    },
+    {
+      "diff": -1613.0,
+      "topic": "Fungi"
+    }
+  ]
+}

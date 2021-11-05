@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 41111.0,
+      "topic": "History"
+    },
+    {
+      "diff": 33407.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 31723.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 30632.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 29828.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 20532.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 20210.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 20047.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 18045.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 17659.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 16857.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 16377.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 14943.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 14501.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 13963.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 13794.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 13074.0,
+      "topic": "Research organizations"
+    },
+    {
+      "diff": 13033.0,
+      "topic": "Health research"
+    },
+    {
+      "diff": 12353.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 12342.0,
+      "topic": "Language"
+    }
+  ]
+}

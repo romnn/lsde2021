@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 117.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 83.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Thuringia"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Phenylpropanoids"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Aromatic ethers"
+    },
+    {
+      "diff": 64.0,
+      "topic": "2-pyrones"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Parasites"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Modern latin-language writers"
+    }
+  ]
+}

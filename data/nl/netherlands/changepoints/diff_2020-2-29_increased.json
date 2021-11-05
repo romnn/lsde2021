@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 13604.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 12473.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 12012.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 11447.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 11354.0,
+      "topic": "History"
+    },
+    {
+      "diff": 11095.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 10981.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 8586.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 8209.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 6494.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 5799.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 5702.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5678.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 5660.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 5632.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 5514.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 3738.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 3727.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 3715.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 3577.0,
+      "topic": "Animal health"
+    }
+  ]
+}

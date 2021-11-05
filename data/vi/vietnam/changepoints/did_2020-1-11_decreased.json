@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -5299.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -5162.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4876.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4602.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4280.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4111.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4002.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3504.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -3480.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3443.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3256.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3225.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -3119.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -3100.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -3041.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -2886.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -2856.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2736.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2605.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2589.0,
+      "topic": "Public health"
+    }
+  ]
+}

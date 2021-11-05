@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -4393.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -3720.0,
+      "topic": "Species"
+    },
+    {
+      "diff": -3704.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -3704.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -3700.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -1376.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -995.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -991.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -971.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -915.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -852.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -830.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -824.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -800.0,
+      "topic": "Women musicians"
+    },
+    {
+      "diff": -747.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -732.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -720.0,
+      "topic": "Nationality"
+    }
+  ]
+}

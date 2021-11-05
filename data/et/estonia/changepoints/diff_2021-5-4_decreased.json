@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -375.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -261.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -246.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": -235.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -228.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -203.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -153.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -150.0,
+      "topic": "City"
+    },
+    {
+      "diff": -149.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -132.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -109.0,
+      "topic": "County"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Mammal ecology"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -96.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -94.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Eukaryotes"
+    }
+  ]
+}

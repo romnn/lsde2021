@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 983.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 981.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Chromosomes"
+    },
+    {
+      "diff": 462.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 448.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 398.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 369.0,
+      "topic": "Wikiproject genetics articles"
+    },
+    {
+      "diff": 367.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 329.0,
+      "topic": "Soviet states"
+    },
+    {
+      "diff": 329.0,
+      "topic": "Mesozoic life"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Communication theory"
+    },
+    {
+      "diff": 305.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 298.0,
+      "topic": "Geological eras"
+    },
+    {
+      "diff": 285.0,
+      "topic": "Body fluids"
+    },
+    {
+      "diff": 282.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 276.0,
+      "topic": "European russia"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Deities"
+    }
+  ]
+}

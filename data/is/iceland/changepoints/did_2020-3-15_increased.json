@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 369.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Linguistic regions"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 131.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 102.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 70.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Supranational unions"
+    }
+  ]
+}

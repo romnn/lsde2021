@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -5044.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -4559.0,
+      "topic": "Legendary characters"
+    },
+    {
+      "diff": -4123.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4071.0,
+      "topic": "Storytelling"
+    },
+    {
+      "diff": -3696.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3649.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3214.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3200.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2872.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2868.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2648.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2556.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2450.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2346.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -2316.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2220.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2003.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1974.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Cartography"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -51288.0,
+      "topic": "History"
+    },
+    {
+      "diff": -34326.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -27691.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -26329.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -25540.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -24086.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -20749.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -20250.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -19499.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -17957.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -17686.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -17597.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -17440.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -17380.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -16986.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -15920.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -15610.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -14528.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -14435.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -14428.0,
+      "topic": "Christianity"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 817.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": 798.0,
+      "topic": "Security"
+    },
+    {
+      "diff": 787.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Middle eastern studies"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Christian belief"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": 111.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": 88.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Fruits originating"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 67.0,
+      "topic": "France"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Byzantine empire"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Biota"
+    }
+  ]
+}

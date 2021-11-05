@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 44544.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 44065.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 39497.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 39346.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 38803.0,
+      "topic": "History"
+    },
+    {
+      "diff": 37861.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 37711.0,
+      "topic": "France"
+    },
+    {
+      "diff": 36804.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 36311.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 35729.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 34717.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 34443.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 33337.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 27261.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 24870.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 23324.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 21079.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 12175.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 11184.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 11172.0,
+      "topic": "Nationality"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-29",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -2920.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2876.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -2876.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -2876.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -2876.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1715.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -1605.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -1570.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -1434.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -1146.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -886.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -724.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -722.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -705.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -703.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": -688.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -635.0,
+      "topic": "Electronic music genres"
+    }
+  ]
+}

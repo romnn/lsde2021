@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2168.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1938.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -1912.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1845.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1655.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1414.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1410.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1360.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1324.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1156.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -1145.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Week"
+    },
+    {
+      "diff": -1134.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Seasonal holidays"
+    },
+    {
+      "diff": -993.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -906.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": -899.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -765.0,
+      "topic": "Civil rights"
+    }
+  ]
+}

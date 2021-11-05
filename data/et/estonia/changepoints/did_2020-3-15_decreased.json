@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -1855.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1663.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1481.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -1092.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1047.0,
+      "topic": "County"
+    },
+    {
+      "diff": -831.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -786.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -709.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -667.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -599.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -521.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -313.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -298.0,
+      "topic": "Parts"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Social sciences"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -13079.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -11678.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5896.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -5117.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4317.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -3193.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -3029.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -3002.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -2417.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -2266.0,
+      "topic": "Belgium"
+    },
+    {
+      "diff": -2204.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -2187.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2094.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2060.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -2006.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1803.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1791.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -1783.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -1740.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -1724.0,
+      "topic": "Drink"
+    }
+  ]
+}

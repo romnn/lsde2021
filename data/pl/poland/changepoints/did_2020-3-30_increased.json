@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 9634.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 9188.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 9179.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 9103.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 7135.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 7134.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 7133.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 7130.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 7080.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 6901.0,
+      "topic": "Robotics"
+    },
+    {
+      "diff": 6740.0,
+      "topic": "Holism"
+    },
+    {
+      "diff": 6546.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 6218.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 6059.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 5868.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 5060.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 4610.0,
+      "topic": "Seasonal holidays"
+    },
+    {
+      "diff": 4454.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 4394.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 4030.0,
+      "topic": "Second temple period"
+    }
+  ]
+}

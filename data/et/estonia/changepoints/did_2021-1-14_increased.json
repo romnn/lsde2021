@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 2291.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1826.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1751.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1581.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1547.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1544.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1542.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1146.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1023.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 878.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 833.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 820.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 814.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 803.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 779.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 725.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": 703.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 652.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 619.0,
+      "topic": "County"
+    }
+  ]
+}

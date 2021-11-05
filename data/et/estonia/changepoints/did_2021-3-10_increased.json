@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 1272.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 652.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 615.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 596.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 558.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 421.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 387.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 327.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 319.0,
+      "topic": "Habitat"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 312.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 300.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 285.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 269.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 267.0,
+      "topic": "Ecological restoration"
+    }
+  ]
+}

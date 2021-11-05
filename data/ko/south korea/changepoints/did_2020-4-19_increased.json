@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 5833.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5154.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 5099.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 2988.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2670.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2648.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2642.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 2458.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 2405.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2345.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": 2314.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": 2277.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": 2209.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": 2097.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 1691.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": 1640.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1556.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 1432.0,
+      "topic": "Colleges"
+    },
+    {
+      "diff": 1431.0,
+      "topic": "Universities"
+    },
+    {
+      "diff": 1372.0,
+      "topic": "China"
+    }
+  ]
+}

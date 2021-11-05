@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -8891.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -8768.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -7829.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -7463.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -6873.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -6423.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -6370.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -6255.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -5187.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1529.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -1501.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -1424.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1292.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1245.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -1083.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -1079.0,
+      "topic": "Overijssel"
+    },
+    {
+      "diff": -959.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -892.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -872.0,
+      "topic": "Former subdivisions"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Tourist attractions"
+    }
+  ]
+}

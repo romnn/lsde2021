@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2340.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -2280.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1967.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -1824.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -1683.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1482.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1355.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -1323.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -773.0,
+      "topic": "Life extension"
+    },
+    {
+      "diff": -681.0,
+      "topic": "Ageing"
+    },
+    {
+      "diff": -607.0,
+      "topic": "Ethnic enclaves"
+    },
+    {
+      "diff": -601.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -559.0,
+      "topic": "Endocrine system"
+    },
+    {
+      "diff": -532.0,
+      "topic": "Member states"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -427.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -427.0,
+      "topic": "Week"
+    },
+    {
+      "diff": -426.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -424.0,
+      "topic": "Lent"
+    }
+  ]
+}

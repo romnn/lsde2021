@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -16718.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -16707.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -15318.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -15233.0,
+      "topic": "Arab society"
+    },
+    {
+      "diff": -15136.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -14850.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -14624.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -13660.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -13330.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -10645.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -9420.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8721.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -8518.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7770.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": -6573.0,
+      "topic": "Partition (politics)"
+    },
+    {
+      "diff": -6540.0,
+      "topic": "Arab nationalism"
+    },
+    {
+      "diff": -6366.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -6122.0,
+      "topic": "Separatism"
+    },
+    {
+      "diff": -4104.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -3624.0,
+      "topic": "Post-soviet states"
+    }
+  ]
+}

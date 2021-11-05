@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 9872.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 9835.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7929.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7162.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 6593.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 5976.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 5943.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 5776.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 5227.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 4967.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 4871.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4671.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": 4351.0,
+      "topic": "Indonesian culture"
+    },
+    {
+      "diff": 4325.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4092.0,
+      "topic": "State"
+    },
+    {
+      "diff": 3750.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 3692.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3623.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 3607.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 3564.0,
+      "topic": "Occupation"
+    }
+  ]
+}

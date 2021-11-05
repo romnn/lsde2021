@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 2088.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 1918.0,
+      "topic": "Belarusian culture"
+    },
+    {
+      "diff": 1797.0,
+      "topic": "Traditions"
+    },
+    {
+      "diff": 1758.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 976.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 892.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": 453.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 358.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 328.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 307.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 292.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 284.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 250.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 243.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Bulgarian society"
+    },
+    {
+      "diff": 181.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 160.0,
+      "topic": "Arctic"
+    }
+  ]
+}

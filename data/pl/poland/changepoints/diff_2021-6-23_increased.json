@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 6935.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5195.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 4535.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 3705.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 3646.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 3341.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 3315.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 2809.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": 2656.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2632.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2281.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 2214.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 2064.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 2036.0,
+      "topic": "Goddesses"
+    },
+    {
+      "diff": 1954.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 1952.0,
+      "topic": "Nature deities"
+    },
+    {
+      "diff": 1929.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 1749.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 1727.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "Motion (physics)"
+    }
+  ]
+}

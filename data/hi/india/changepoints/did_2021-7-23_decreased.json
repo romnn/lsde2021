@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -8908.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -7675.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5839.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -5614.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -5421.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -5417.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -5342.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": -4833.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4063.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": -4049.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3816.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": -3814.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -3694.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -3601.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3419.0,
+      "topic": "Social concepts"
+    },
+    {
+      "diff": -3349.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -3137.0,
+      "topic": "Intelligence"
+    },
+    {
+      "diff": -3113.0,
+      "topic": "Economics"
+    },
+    {
+      "diff": -3109.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -3068.0,
+      "topic": "Matter"
+    }
+  ]
+}

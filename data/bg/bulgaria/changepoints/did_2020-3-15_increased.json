@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 11048.0,
+      "topic": "History"
+    },
+    {
+      "diff": 10096.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 9022.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 8861.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8299.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8215.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7796.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 7368.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 6969.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6860.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 6481.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6365.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6085.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 5567.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 5551.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 5469.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 5403.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 5355.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5336.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4796.0,
+      "topic": "Religion"
+    }
+  ]
+}

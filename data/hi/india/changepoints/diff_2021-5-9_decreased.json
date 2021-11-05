@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -1352.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": -1348.0,
+      "topic": "Business law"
+    },
+    {
+      "diff": -1172.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": -1106.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -945.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -614.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -437.0,
+      "topic": "20th-century people by nationality and occupation"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": -413.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -405.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -387.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -385.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -383.0,
+      "topic": "Human pregnancy"
+    },
+    {
+      "diff": -383.0,
+      "topic": "Maternal health"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Pharmaceutical industry"
+    }
+  ]
+}

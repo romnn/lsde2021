@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -389.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -388.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -340.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -183.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Technologies"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Regulation"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -105.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -73.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Estonian actors"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -66.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -58.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Men"
+    }
+  ]
+}

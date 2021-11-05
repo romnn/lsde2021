@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -343.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -294.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Plant morphology"
+    },
+    {
+      "diff": -69.0,
+      "topic": "States"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Information science"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Therapsids"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Mammal unranked clades"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Eutheria"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Chordate superorders"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Music genres"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Argonauts"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -165.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -147.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -108.0,
+      "topic": "History"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Iceland"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Clouds"
+    }
+  ]
+}

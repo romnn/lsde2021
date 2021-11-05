@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 107082.0,
+      "topic": "Male songwriters"
+    },
+    {
+      "diff": 99975.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": 99293.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 98696.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": 98581.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": 94481.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 72349.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 61237.0,
+      "topic": "Imperia"
+    },
+    {
+      "diff": 60963.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 54948.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 45431.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": 44610.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 38922.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 37367.0,
+      "topic": "Italian people"
+    },
+    {
+      "diff": 10253.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 7615.0,
+      "topic": "People"
+    },
+    {
+      "diff": 6880.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 6749.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 6568.0,
+      "topic": "Arab diaspora"
+    },
+    {
+      "diff": 6568.0,
+      "topic": "Yugoslav diaspora"
+    }
+  ]
+}

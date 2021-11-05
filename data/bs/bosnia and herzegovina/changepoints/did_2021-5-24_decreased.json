@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -597.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -468.0,
+      "topic": "History"
+    },
+    {
+      "diff": -415.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -409.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -398.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -373.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -365.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -308.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -286.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -280.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -248.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -247.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -246.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -231.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -217.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -208.0,
+      "topic": "Jordan"
+    }
+  ]
+}

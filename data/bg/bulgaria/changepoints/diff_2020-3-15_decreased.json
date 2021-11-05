@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -3393.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -3390.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -3381.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -3096.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -927.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -478.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -381.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -271.0,
+      "topic": "Mammal anatomy"
+    },
+    {
+      "diff": -263.0,
+      "topic": "Childhood"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -255.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": -252.0,
+      "topic": "Female"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Footwear"
+    },
+    {
+      "diff": -193.0,
+      "topic": "Dress codes"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Plant metabolism"
+    },
+    {
+      "diff": -171.0,
+      "topic": "Lgbt-related films"
+    }
+  ]
+}

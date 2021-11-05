@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -15211.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -14108.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -10286.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -8883.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -4737.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -3144.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -2962.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": -2773.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -2712.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -2643.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -2384.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -2304.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1925.0,
+      "topic": "Landmarks"
+    },
+    {
+      "diff": -1785.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": -1711.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -1688.0,
+      "topic": "Prokaryotes"
+    },
+    {
+      "diff": -1659.0,
+      "topic": "Minority rights activists"
+    },
+    {
+      "diff": -1350.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -1321.0,
+      "topic": "Motorcycle racing series"
+    },
+    {
+      "diff": -1300.0,
+      "topic": "Auto races"
+    }
+  ]
+}

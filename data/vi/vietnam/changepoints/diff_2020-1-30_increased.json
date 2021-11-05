@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 7805.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7800.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 7341.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6791.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5844.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5557.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 5534.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 4714.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4616.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4558.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": 4556.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4520.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 4417.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4375.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4238.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 4142.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 3890.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 3578.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3375.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 3261.0,
+      "topic": "Medicine"
+    }
+  ]
+}

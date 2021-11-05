@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 477.0,
+      "topic": "Chromosomes"
+    },
+    {
+      "diff": 438.0,
+      "topic": "Geological eras"
+    },
+    {
+      "diff": 376.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Wikiproject genetics articles"
+    },
+    {
+      "diff": 357.0,
+      "topic": "Communication theory"
+    },
+    {
+      "diff": 326.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 291.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 274.0,
+      "topic": "European russia"
+    },
+    {
+      "diff": 257.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Residence"
+    },
+    {
+      "diff": 191.0,
+      "topic": "Expatriates"
+    },
+    {
+      "diff": 191.0,
+      "topic": "Federal subject"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 151.0,
+      "topic": "International olympic committee"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Arguments"
+    }
+  ]
+}

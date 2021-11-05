@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-20",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -5046.0,
+      "topic": "Arab culture"
+    },
+    {
+      "diff": -4204.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -3650.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -3354.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -2623.0,
+      "topic": "Dutch empire"
+    },
+    {
+      "diff": -1985.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": -1982.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -1955.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": -1922.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -1878.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -1859.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1798.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -1783.0,
+      "topic": "Feminism"
+    },
+    {
+      "diff": -1774.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -1690.0,
+      "topic": "Women's health"
+    },
+    {
+      "diff": -1549.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -1500.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -1430.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": -1405.0,
+      "topic": "Behavior"
+    },
+    {
+      "diff": -1347.0,
+      "topic": "Ministries"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 2231.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 1727.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 1723.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 1717.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 1705.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1613.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": 1609.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1449.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": 1426.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": 1417.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1232.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1221.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 871.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 737.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 733.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 657.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 623.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 589.0,
+      "topic": "People"
+    }
+  ]
+}

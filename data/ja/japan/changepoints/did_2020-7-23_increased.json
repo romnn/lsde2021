@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-23",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 97772.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 92828.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 84736.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 54332.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 45885.0,
+      "topic": "History"
+    },
+    {
+      "diff": 45094.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 36472.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 34164.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 33266.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 32584.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 32296.0,
+      "topic": "States"
+    },
+    {
+      "diff": 30674.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 26856.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 25891.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 25575.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 19626.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 17677.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 15468.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 15433.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 14195.0,
+      "topic": "Pop musicians"
+    }
+  ]
+}

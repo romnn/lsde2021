@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -778.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -686.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -650.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -633.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -228.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -139.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -139.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -130.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -128.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -110.0,
+      "topic": "Balls"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Hobbies"
+    },
+    {
+      "diff": -105.0,
+      "topic": "Imperialism"
+    },
+    {
+      "diff": -97.0,
+      "topic": "Defense policy"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Hegemony"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Globalization"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Applied ethics"
+    }
+  ]
+}

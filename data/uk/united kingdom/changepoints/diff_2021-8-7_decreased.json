@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2658.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -2634.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -2573.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -2557.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -2077.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -1788.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -1743.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1686.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -973.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Home automation"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -606.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -605.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -546.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -501.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": -497.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -465.0,
+      "topic": "Domesticated plants"
+    }
+  ]
+}

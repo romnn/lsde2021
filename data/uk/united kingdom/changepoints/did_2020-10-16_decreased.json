@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -4577.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4566.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -4416.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -4178.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -3439.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -2821.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2660.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -2422.0,
+      "topic": "Oral literature"
+    },
+    {
+      "diff": -2342.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2311.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2181.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -2124.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -2116.0,
+      "topic": "Good"
+    },
+    {
+      "diff": -2077.0,
+      "topic": "Evil"
+    },
+    {
+      "diff": -1941.0,
+      "topic": "Prehistory"
+    },
+    {
+      "diff": -1934.0,
+      "topic": "Cultural history"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": -1897.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": -1824.0,
+      "topic": "Publications"
+    },
+    {
+      "diff": -1823.0,
+      "topic": "Astronomy"
+    }
+  ]
+}

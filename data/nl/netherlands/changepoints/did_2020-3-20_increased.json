@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 17491.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 13494.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 11464.0,
+      "topic": "Communication theory"
+    },
+    {
+      "diff": 11452.0,
+      "topic": "Biological anthropology"
+    },
+    {
+      "diff": 11414.0,
+      "topic": "Human genetics"
+    },
+    {
+      "diff": 10283.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 9745.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 9084.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8610.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 8026.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 7356.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6380.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5698.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5685.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5477.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 5457.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5413.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5335.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 5305.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5128.0,
+      "topic": "Centuries"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 472.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 449.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 440.0,
+      "topic": "France"
+    },
+    {
+      "diff": 404.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 246.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Telescopes"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Celestial mechanics"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Star types"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Star clusters"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Kyrgyzstani society"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Uzbekistani society"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": 42.0,
+      "topic": "States"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Muslims"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Esotericism"
+    }
+  ]
+}

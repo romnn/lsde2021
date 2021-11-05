@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -791.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -674.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -149.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Balls"
+    },
+    {
+      "diff": -110.0,
+      "topic": "Hobbies"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Habitat"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Halides"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Sex crimes"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Topography"
+    }
+  ]
+}

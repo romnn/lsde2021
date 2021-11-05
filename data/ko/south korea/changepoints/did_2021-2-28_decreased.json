@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2357.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": -2098.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -2036.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1950.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": -1886.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -1845.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1842.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -1807.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1648.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1553.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1415.0,
+      "topic": "South korean people"
+    },
+    {
+      "diff": -1272.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -1172.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -927.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -912.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -912.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Ancient greek statesmen"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Good"
+    },
+    {
+      "diff": -854.0,
+      "topic": "Digital media"
+    }
+  ]
+}

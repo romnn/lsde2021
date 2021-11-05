@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -10824.0,
+      "topic": "India"
+    },
+    {
+      "diff": -10212.0,
+      "topic": "History"
+    },
+    {
+      "diff": -8190.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -6099.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -5775.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5536.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4628.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4444.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -4392.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4326.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -4206.0,
+      "topic": "Indian royalty"
+    },
+    {
+      "diff": -3976.0,
+      "topic": "Caste"
+    },
+    {
+      "diff": -3926.0,
+      "topic": "17th-century asian people by nationality"
+    },
+    {
+      "diff": -3865.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -3698.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3559.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -3380.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3227.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -3198.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3167.0,
+      "topic": "Human behavior"
+    }
+  ]
+}

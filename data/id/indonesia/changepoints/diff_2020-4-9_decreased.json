@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-09",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -23258.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -21956.0,
+      "topic": "History"
+    },
+    {
+      "diff": -19528.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -17965.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -17265.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -14576.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -12105.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -11778.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -11029.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -10582.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -10435.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -10315.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -10175.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -9813.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -9365.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -7943.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -6929.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6646.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6543.0,
+      "topic": "Occupational safety"
+    },
+    {
+      "diff": -6466.0,
+      "topic": "Topic"
+    }
+  ]
+}

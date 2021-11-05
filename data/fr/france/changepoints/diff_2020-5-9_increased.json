@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 7624.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 7595.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 7516.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 7497.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 7465.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 5790.0,
+      "topic": "Manufacturing companies"
+    },
+    {
+      "diff": 5727.0,
+      "topic": "Business organizations based"
+    },
+    {
+      "diff": 5693.0,
+      "topic": "Euronext"
+    },
+    {
+      "diff": 5518.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 4985.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 3720.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": 2977.0,
+      "topic": "Scandinavian culture"
+    },
+    {
+      "diff": 2406.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": 2211.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 2091.0,
+      "topic": "Departments of \u00eele-de-france"
+    },
+    {
+      "diff": 1913.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 1827.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 1782.0,
+      "topic": "West african culture"
+    },
+    {
+      "diff": 1777.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 1759.0,
+      "topic": "Theism"
+    }
+  ]
+}

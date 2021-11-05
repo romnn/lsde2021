@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -29639.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -19018.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -15578.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": -14397.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -14262.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -13254.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -13129.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -12877.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -11936.0,
+      "topic": "Xbox"
+    },
+    {
+      "diff": -11759.0,
+      "topic": "Weather"
+    },
+    {
+      "diff": -11752.0,
+      "topic": "Synoptic meteorology"
+    },
+    {
+      "diff": -11594.0,
+      "topic": "Meteorology"
+    },
+    {
+      "diff": -11393.0,
+      "topic": "Body"
+    },
+    {
+      "diff": -11317.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": -10929.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -10101.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -9363.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -9280.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -8336.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -8172.0,
+      "topic": "Technology companies"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -127.0,
+      "topic": "Central semitic languages"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Health care occupations"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Written communication"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Histology"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Scientific modeling"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Middle eastern studies"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Christian belief"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

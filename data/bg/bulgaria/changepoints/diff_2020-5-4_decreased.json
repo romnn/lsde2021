@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -2318.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1445.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1333.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1301.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1174.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1133.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -1133.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1133.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1127.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Receptor agonists"
+    },
+    {
+      "diff": -1064.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": -990.0,
+      "topic": "Amines"
+    },
+    {
+      "diff": -958.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -893.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -858.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -849.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -829.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    }
+  ]
+}

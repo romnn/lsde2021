@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -13523.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -11712.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11617.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -11349.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -10737.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -8834.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7494.0,
+      "topic": "Ceremonial clothing"
+    },
+    {
+      "diff": -6952.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -6722.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -6644.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6630.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -4682.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3935.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -3310.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3032.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2985.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -2953.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -2917.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -2223.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -2197.0,
+      "topic": "Wars involving russia"
+    }
+  ]
+}

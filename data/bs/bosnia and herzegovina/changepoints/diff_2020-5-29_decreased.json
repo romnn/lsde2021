@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -1156.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1015.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -909.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -902.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -833.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -831.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -716.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -689.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -592.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -587.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -514.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -508.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -489.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -487.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -467.0,
+      "topic": "Humanities"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -1926.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1777.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1739.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1459.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -1359.0,
+      "topic": "2nd millennium"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -1091.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -814.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": -763.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -750.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Androgens"
+    },
+    {
+      "diff": -721.0,
+      "topic": "Social philosophy"
+    },
+    {
+      "diff": -649.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -625.0,
+      "topic": "Neuropsychology"
+    },
+    {
+      "diff": -582.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -493.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -455.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": -443.0,
+      "topic": "20th-century people"
+    }
+  ]
+}

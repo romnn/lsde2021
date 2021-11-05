@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -10927.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -9238.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -9238.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -9238.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -9222.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -5559.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -5039.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -4824.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -4500.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -4322.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -4024.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": -3799.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": -3101.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -3019.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -2900.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": -2874.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -2864.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": -2745.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -2586.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -2270.0,
+      "topic": "Ethics"
+    }
+  ]
+}

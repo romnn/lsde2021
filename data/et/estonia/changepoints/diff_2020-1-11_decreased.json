@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -295.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -186.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -160.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -44.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Nondualism"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -34.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Vegetarianism"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Ancient near east literature"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Babylonia"
+    }
+  ]
+}

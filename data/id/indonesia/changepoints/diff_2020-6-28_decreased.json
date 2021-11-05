@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -15278.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -14846.0,
+      "topic": "History"
+    },
+    {
+      "diff": -13686.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8173.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -8000.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -7653.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -6341.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -6142.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -6100.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5399.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -5320.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -5222.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5000.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4934.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": -4790.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4761.0,
+      "topic": "People"
+    },
+    {
+      "diff": -4754.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": -4718.0,
+      "topic": "Components"
+    },
+    {
+      "diff": -4692.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": -4626.0,
+      "topic": "7th-century books"
+    }
+  ]
+}

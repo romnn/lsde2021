@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -174.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -137.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Technologies"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Regulation"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -52.0,
+      "topic": "Heads of state of georgia (country)"
+    },
+    {
+      "diff": -48.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -46.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Berkeley software distribution"
+    },
+    {
+      "diff": -45.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Latin american culture"
+    },
+    {
+      "diff": -43.0,
+      "topic": "World wide web"
+    }
+  ]
+}

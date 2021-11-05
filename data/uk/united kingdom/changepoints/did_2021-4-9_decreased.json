@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -6003.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -4279.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -4273.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -4227.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -4099.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -3379.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": -3379.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": -3378.0,
+      "topic": "Angels"
+    },
+    {
+      "diff": -3233.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -2962.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -1449.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": -1440.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": -1402.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": -1047.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Home automation"
+    },
+    {
+      "diff": -789.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -748.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -739.0,
+      "topic": "E-commerce websites"
+    }
+  ]
+}

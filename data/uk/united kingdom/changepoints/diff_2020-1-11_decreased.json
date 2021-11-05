@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1173.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1110.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -1079.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -883.0,
+      "topic": "Belarusian culture"
+    },
+    {
+      "diff": -873.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -872.0,
+      "topic": "Traditions"
+    },
+    {
+      "diff": -802.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -675.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -470.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -448.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": -350.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -248.0,
+      "topic": "France"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -207.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -189.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -182.0,
+      "topic": "Singers"
+    }
+  ]
+}

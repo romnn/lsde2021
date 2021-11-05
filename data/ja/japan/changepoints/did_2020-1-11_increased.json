@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 25163.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": 23304.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 22545.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": 22397.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 21064.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 20726.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 19884.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 19840.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 19790.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 19699.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 19653.0,
+      "topic": "Anti-globalization movement"
+    },
+    {
+      "diff": 19477.0,
+      "topic": "Graffiti artists"
+    },
+    {
+      "diff": 19218.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 18915.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 18431.0,
+      "topic": "History"
+    },
+    {
+      "diff": 17708.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 17514.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 17358.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 16743.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 16728.0,
+      "topic": "Metropolitan areas"
+    }
+  ]
+}

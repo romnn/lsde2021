@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 8727.0,
+      "topic": "Minor planets"
+    },
+    {
+      "diff": 8620.0,
+      "topic": "Sustainable gardening"
+    },
+    {
+      "diff": 6045.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 5955.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 5594.0,
+      "topic": "Postwar japan"
+    },
+    {
+      "diff": 4485.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": 4128.0,
+      "topic": "Ocean or sea"
+    },
+    {
+      "diff": 4035.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 3897.0,
+      "topic": "Film companies"
+    },
+    {
+      "diff": 3850.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 3631.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 3628.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 3618.0,
+      "topic": "Animation"
+    },
+    {
+      "diff": 3360.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": 3244.0,
+      "topic": "Video terminology"
+    },
+    {
+      "diff": 3176.0,
+      "topic": "Interactive media"
+    },
+    {
+      "diff": 3155.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": 3089.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 3023.0,
+      "topic": "Ethnic or national descent"
+    },
+    {
+      "diff": 2968.0,
+      "topic": "Denmark"
+    }
+  ]
+}

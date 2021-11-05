@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -12879.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -11797.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11753.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11219.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -11111.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9920.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -8005.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -7649.0,
+      "topic": "Ceremonial clothing"
+    },
+    {
+      "diff": -7621.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -6929.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -4690.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -4686.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4675.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4660.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4532.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -3777.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -3626.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -3496.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -3414.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -3387.0,
+      "topic": "Traditional stories"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 21478.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12809.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 12312.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 7751.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5109.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 5107.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4912.0,
+      "topic": "France"
+    },
+    {
+      "diff": 4818.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4784.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 3794.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 3564.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3491.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 3421.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 3277.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 3242.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 3204.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": 3059.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2795.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 2619.0,
+      "topic": "Belgian culture"
+    },
+    {
+      "diff": 2593.0,
+      "topic": "Italy"
+    }
+  ]
+}

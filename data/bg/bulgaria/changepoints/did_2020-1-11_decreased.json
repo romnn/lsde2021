@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -2296.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1408.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1310.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1267.0,
+      "topic": "Mathematical economics"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Terrestrial biomes"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Cameroon"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Burkina faso"
+    },
+    {
+      "diff": -1200.0,
+      "topic": "Nigeria"
+    },
+    {
+      "diff": -1089.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1058.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1051.0,
+      "topic": "Ecosystems"
+    },
+    {
+      "diff": -1045.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": -1000.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -951.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -880.0,
+      "topic": "Dynamics (mechanics)"
+    },
+    {
+      "diff": -874.0,
+      "topic": "Vehicle technology"
+    },
+    {
+      "diff": -794.0,
+      "topic": "Power (physics)"
+    },
+    {
+      "diff": -789.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": -786.0,
+      "topic": "Russia"
+    }
+  ]
+}

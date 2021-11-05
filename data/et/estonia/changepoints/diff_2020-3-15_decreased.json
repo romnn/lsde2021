@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -1801.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1777.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1487.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1300.0,
+      "topic": "County"
+    },
+    {
+      "diff": -596.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -519.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -496.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -481.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -469.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -315.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Parts"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Baltic culture"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -254.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -238.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -233.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Country"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 99.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 83.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Thuringia"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Aromatic ethers"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Phenylpropanoids"
+    },
+    {
+      "diff": 65.0,
+      "topic": "2-pyrones"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Parasites"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Modern latin-language writers"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Dnieper basin"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Ukrainian soviet socialist republic"
+    }
+  ]
+}

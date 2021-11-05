@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -200.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -181.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Italic warfare"
+    },
+    {
+      "diff": -144.0,
+      "topic": "History"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Ancient european royalty"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -99.0,
+      "topic": "British royal family"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -75.0,
+      "topic": "European monarchs"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Dominican republic"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Reptile taxa"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Tetrapod genera"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Vertebrate taxonomy"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Birds"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-23",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 29779.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 29691.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 29304.0,
+      "topic": "States"
+    },
+    {
+      "diff": 28867.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 27452.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 14689.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 12204.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 12019.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 11811.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 11652.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 11143.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 10708.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 10362.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 9525.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 9103.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 8942.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 8624.0,
+      "topic": "Health promotion"
+    },
+    {
+      "diff": 8564.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 8481.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 7805.0,
+      "topic": "Musicians"
+    }
+  ]
+}

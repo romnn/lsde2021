@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 2051.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1886.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 1853.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 1805.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1788.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 1770.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 1735.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 1711.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1692.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 1652.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 1586.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 1431.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 902.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 875.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 610.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 575.0,
+      "topic": "Sensory organs"
+    },
+    {
+      "diff": 552.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 523.0,
+      "topic": "Bulgaria"
+    }
+  ]
+}

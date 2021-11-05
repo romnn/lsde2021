@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -438.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -400.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -398.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -392.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": -179.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -141.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -133.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Seleucid empire"
+    },
+    {
+      "diff": -64.0,
+      "topic": "Levant"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Corruption"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Economic taxonomy"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Computing"
+    }
+  ]
+}

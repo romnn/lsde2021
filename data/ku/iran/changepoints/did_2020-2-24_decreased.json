@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -158.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -84.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -48.0,
+      "topic": "History"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Cause (medicine)"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Timekeeping"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Turkish kurdistan"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Universe"
+    }
+  ]
+}

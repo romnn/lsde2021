@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 30629.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 29175.0,
+      "topic": "History"
+    },
+    {
+      "diff": 28597.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 23653.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 21200.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 20998.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 20210.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": 20042.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 19942.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 19179.0,
+      "topic": "Folk religion"
+    },
+    {
+      "diff": 17602.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 16660.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 16604.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 14662.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 13684.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 12985.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 12376.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 12217.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 12106.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 11649.0,
+      "topic": "Film production companies"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -9208.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -8646.0,
+      "topic": "Applied ethics"
+    },
+    {
+      "diff": -8420.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -8371.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -7575.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -7402.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3682.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": -3645.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3575.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": -3382.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -3373.0,
+      "topic": "Human development"
+    },
+    {
+      "diff": -3257.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -3252.0,
+      "topic": "Applied psychology"
+    },
+    {
+      "diff": -3206.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -3196.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -3095.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -2918.0,
+      "topic": "Former subdivisions"
+    },
+    {
+      "diff": -2619.0,
+      "topic": "Discovery"
+    },
+    {
+      "diff": -2544.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2520.0,
+      "topic": "Astronomical objects"
+    }
+  ]
+}

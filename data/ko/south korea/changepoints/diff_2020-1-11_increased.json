@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 3037.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2878.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2358.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2278.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 2228.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 1249.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 1194.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 1183.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 1182.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 1148.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 655.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 596.0,
+      "topic": "Federated states"
+    },
+    {
+      "diff": 595.0,
+      "topic": "Micronesia"
+    },
+    {
+      "diff": 574.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 537.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 514.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 435.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 434.0,
+      "topic": "First-level administrative divisions by country"
+    }
+  ]
+}

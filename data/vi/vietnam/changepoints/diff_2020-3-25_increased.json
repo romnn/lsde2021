@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 11731.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5675.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": 5552.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 5405.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 5100.0,
+      "topic": "Habitat"
+    },
+    {
+      "diff": 4982.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4407.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4257.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4067.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3637.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3589.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3267.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3124.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 2974.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2488.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2460.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2441.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2417.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2280.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 2215.0,
+      "topic": "Humanities"
+    }
+  ]
+}

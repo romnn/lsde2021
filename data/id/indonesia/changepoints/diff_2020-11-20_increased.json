@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-20",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 33352.0,
+      "topic": "History"
+    },
+    {
+      "diff": 33160.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 23945.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 16730.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 16676.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 16638.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 16524.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 16241.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 16074.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 14845.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 13331.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12490.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 11769.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 11559.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 11053.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 10332.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": 10022.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 9205.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 8728.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 8283.0,
+      "topic": "Archipelagoes"
+    }
+  ]
+}

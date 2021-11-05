@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 9801.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 6483.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 6056.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 5265.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4316.0,
+      "topic": "France"
+    },
+    {
+      "diff": 4124.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 4009.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 3539.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3461.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 2480.0,
+      "topic": "Belgian culture"
+    },
+    {
+      "diff": 2399.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 2345.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 2337.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 2332.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 2253.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 2035.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 1995.0,
+      "topic": "Drinking culture"
+    },
+    {
+      "diff": 1985.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1955.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 1889.0,
+      "topic": "Occupation"
+    }
+  ]
+}

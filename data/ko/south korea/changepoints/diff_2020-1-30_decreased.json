@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -3222.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2912.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -2898.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -2593.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2439.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": -2421.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -2306.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": -2154.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1621.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1366.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1263.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -1069.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -878.0,
+      "topic": "Species"
+    },
+    {
+      "diff": -765.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -666.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -621.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -564.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -492.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -472.0,
+      "topic": "Centuries"
+    }
+  ]
+}

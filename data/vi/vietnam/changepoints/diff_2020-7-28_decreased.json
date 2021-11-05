@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-28",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -1131.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1077.0,
+      "topic": "Tibet"
+    },
+    {
+      "diff": -928.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -900.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Warfare"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -777.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -680.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -653.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -552.0,
+      "topic": "2000s introductions"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": -505.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -474.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -449.0,
+      "topic": "Aggregation websites"
+    },
+    {
+      "diff": -379.0,
+      "topic": "Software engineering"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-09",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -27477.0,
+      "topic": "History"
+    },
+    {
+      "diff": -26334.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -25793.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -19305.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -17892.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -16631.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -16105.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -14570.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -14085.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -13937.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -11817.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -11700.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11459.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -11089.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -9800.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -8944.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -8891.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -8884.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -8641.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -8263.0,
+      "topic": "Topic"
+    }
+  ]
+}

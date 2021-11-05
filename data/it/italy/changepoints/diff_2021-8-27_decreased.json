@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-27",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -56449.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -50737.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -44360.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -40359.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -39762.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -39597.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -38755.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -38754.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -38681.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -38145.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -38097.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -37116.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -36926.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -33952.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -33309.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -28068.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -19441.0,
+      "topic": "History"
+    },
+    {
+      "diff": -17922.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -15442.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -15186.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

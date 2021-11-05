@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 765.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 737.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 548.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 391.0,
+      "topic": "Marine architecture"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Resorts"
+    },
+    {
+      "diff": 237.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 224.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 200.0,
+      "topic": "Dystopian fiction"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Coasts"
+    },
+    {
+      "diff": 193.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 190.0,
+      "topic": "Atlantic ocean"
+    },
+    {
+      "diff": 186.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": 175.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Operations research"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Aggregation websites"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 99.0,
+      "topic": "French scientists"
+    },
+    {
+      "diff": 96.0,
+      "topic": "Multimedia"
+    }
+  ]
+}

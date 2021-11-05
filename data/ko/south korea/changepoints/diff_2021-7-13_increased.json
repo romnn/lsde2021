@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 2936.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2558.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2288.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2065.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 2003.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1879.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1701.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 1696.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1551.0,
+      "topic": "War"
+    },
+    {
+      "diff": 1511.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1460.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1449.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1407.0,
+      "topic": "Dispute resolution"
+    },
+    {
+      "diff": 1404.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 1397.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1395.0,
+      "topic": "Conflicts"
+    },
+    {
+      "diff": 1365.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1291.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1131.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 942.0,
+      "topic": "Macintosh operating systems"
+    }
+  ]
+}

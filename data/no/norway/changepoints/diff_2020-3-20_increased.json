@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 5265.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4121.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4051.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3467.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2723.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2616.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2565.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2403.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2397.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2020.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 1858.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1713.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1480.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 1390.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 1389.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 1389.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 1388.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 1384.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1225.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1170.0,
+      "topic": "Decade"
+    }
+  ]
+}

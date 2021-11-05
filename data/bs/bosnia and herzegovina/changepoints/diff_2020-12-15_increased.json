@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 916.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 915.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": 910.0,
+      "topic": "Security"
+    },
+    {
+      "diff": 904.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": 871.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 135.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Byzantine empire"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Fruits originating"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 53.0,
+      "topic": "France"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Ancient egypt"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Russia"
+    }
+  ]
+}

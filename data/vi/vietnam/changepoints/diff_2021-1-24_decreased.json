@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-24",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -1810.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1788.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1583.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1253.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": -1195.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1136.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1121.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1118.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -1034.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -998.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -964.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -937.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -909.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -901.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -885.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -866.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -864.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -863.0,
+      "topic": "World wide web"
+    }
+  ]
+}

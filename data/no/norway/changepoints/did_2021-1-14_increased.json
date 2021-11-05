@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 3542.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3517.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2624.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2596.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2406.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1627.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1491.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1396.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 1391.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1347.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 1308.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1220.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 1158.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1126.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1096.0,
+      "topic": "Dutch music"
+    },
+    {
+      "diff": 1095.0,
+      "topic": "Eurovision song contest people"
+    },
+    {
+      "diff": 1087.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1077.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1000.0,
+      "topic": "Planemos"
+    }
+  ]
+}

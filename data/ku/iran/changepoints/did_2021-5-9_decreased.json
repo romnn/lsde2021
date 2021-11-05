@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -80.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -76.0,
+      "topic": "History"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -59.0,
+      "topic": "German scientists"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -42.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

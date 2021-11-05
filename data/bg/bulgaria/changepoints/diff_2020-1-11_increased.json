@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": 3469.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2144.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2011.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1668.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1655.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1628.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1509.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1494.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1443.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1419.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1406.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1400.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1317.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1255.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1163.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1146.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1140.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1107.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1099.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1003.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

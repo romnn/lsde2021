@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -34570.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -26585.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -24731.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -23236.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -22118.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -20037.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -19731.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -19094.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -17276.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": -15522.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -15280.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -15034.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -14744.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -13538.0,
+      "topic": "Country or region"
+    },
+    {
+      "diff": -13477.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": -13413.0,
+      "topic": "Superstitions"
+    },
+    {
+      "diff": -10247.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -10039.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -9666.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -8900.0,
+      "topic": "Film distributors"
+    }
+  ]
+}

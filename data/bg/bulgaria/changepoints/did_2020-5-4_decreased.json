@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -4086.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -4020.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -4020.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -4020.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -4014.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -3388.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2352.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1916.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1873.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1671.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1288.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1246.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1213.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1112.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -1104.0,
+      "topic": "Receptor agonists"
+    },
+    {
+      "diff": -1020.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Amines"
+    },
+    {
+      "diff": -982.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -977.0,
+      "topic": "Neurophysiology"
+    }
+  ]
+}

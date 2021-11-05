@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -5094.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4681.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -3765.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3236.0,
+      "topic": "Classical music eras"
+    },
+    {
+      "diff": -3225.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": -3224.0,
+      "topic": "Sound technology"
+    },
+    {
+      "diff": -3200.0,
+      "topic": "Musical form"
+    },
+    {
+      "diff": -2899.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -2772.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -2680.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -2523.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2429.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2409.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2385.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -2362.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2118.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": -2112.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -2100.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2098.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": -1987.0,
+      "topic": "Maintenance"
+    }
+  ]
+}

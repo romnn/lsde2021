@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 741.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 725.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 725.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 724.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 298.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 268.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 268.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 265.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 209.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Caribbean"
+    },
+    {
+      "diff": 171.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 165.0,
+      "topic": "East coast"
+    },
+    {
+      "diff": 163.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 127.0,
+      "topic": "Software development"
+    },
+    {
+      "diff": 124.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 117.0,
+      "topic": "Law"
+    }
+  ]
+}

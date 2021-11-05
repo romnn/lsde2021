@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -5887.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -5722.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5223.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -3207.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2452.0,
+      "topic": "Cultural conventions"
+    },
+    {
+      "diff": -2451.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -2368.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1828.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": -1767.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -1765.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1646.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -1612.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -1612.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -1476.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1286.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -1175.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -1057.0,
+      "topic": "Heat transfer"
+    },
+    {
+      "diff": -925.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Virology"
+    }
+  ]
+}

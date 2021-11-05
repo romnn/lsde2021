@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 275.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 238.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 76.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Vertebrate ecology"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Alcohol"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Brazilian culture"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Drinking culture"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 40.0,
+      "topic": "American botanists"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Geographic history"
+    }
+  ]
+}

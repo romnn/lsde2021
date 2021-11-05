@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 28985.0,
+      "topic": "History"
+    },
+    {
+      "diff": 21255.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 19693.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 15408.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 14711.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 14217.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 13879.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 12711.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 11785.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 11779.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 10905.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 9803.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 9657.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 9070.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 8478.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 8166.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7933.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 7685.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 7552.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 7091.0,
+      "topic": "Technology"
+    }
+  ]
+}

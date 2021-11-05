@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 801.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 391.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 370.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Conservation biology"
+    },
+    {
+      "diff": 349.0,
+      "topic": "Formal description"
+    },
+    {
+      "diff": 327.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": 324.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 304.0,
+      "topic": "Miocene geochronology"
+    },
+    {
+      "diff": 303.0,
+      "topic": "Cenozoic extinctions"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 282.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 278.0,
+      "topic": "Quaternary south america"
+    },
+    {
+      "diff": 275.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Complex numbers"
+    },
+    {
+      "diff": 273.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 265.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 254.0,
+      "topic": "Arthropod taxa"
+    },
+    {
+      "diff": 245.0,
+      "topic": "Clinical psychology"
+    }
+  ]
+}

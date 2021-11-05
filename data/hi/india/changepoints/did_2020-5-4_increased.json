@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": 9261.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 9073.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 9056.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 8952.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 8951.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 1985.0,
+      "topic": "Deaths"
+    },
+    {
+      "diff": 1886.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 1361.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 945.0,
+      "topic": "6th-century bc scholars"
+    },
+    {
+      "diff": 945.0,
+      "topic": "5th-century bc scholars"
+    },
+    {
+      "diff": 865.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 745.0,
+      "topic": "Vishnu"
+    },
+    {
+      "diff": 745.0,
+      "topic": "Urdu"
+    },
+    {
+      "diff": 718.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 677.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 656.0,
+      "topic": "Thailand"
+    },
+    {
+      "diff": 646.0,
+      "topic": "16th-century establishments by continent"
+    },
+    {
+      "diff": 626.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 589.0,
+      "topic": "Indology"
+    },
+    {
+      "diff": 582.0,
+      "topic": "Propositions"
+    }
+  ]
+}

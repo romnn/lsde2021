@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -25.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Computer networking"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Modems"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Radio"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Neuropsychological assessment"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Emergence"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Cognitive neuroscience"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Telecommunications engineering"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Provinces of the people's republic of china"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Timekeeping"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Multimedia"
+    }
+  ]
+}

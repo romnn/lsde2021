@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -22975.0,
+      "topic": "History"
+    },
+    {
+      "diff": -16378.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10968.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -10407.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -10003.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -9874.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -9344.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -9112.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -9026.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -8759.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -7193.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7145.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -6895.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -6881.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6850.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -6574.0,
+      "topic": "People"
+    },
+    {
+      "diff": -6364.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -6362.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -6350.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -6239.0,
+      "topic": "Nationality"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 660.0,
+      "topic": "Computer-mediated communication"
+    },
+    {
+      "diff": 615.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 603.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": 601.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 587.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Media sharing"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": 359.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 344.0,
+      "topic": "City"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 335.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 335.0,
+      "topic": "People"
+    },
+    {
+      "diff": 333.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 296.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Record labels"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Arts occupations"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": 287.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": 284.0,
+      "topic": "Theatre"
+    }
+  ]
+}

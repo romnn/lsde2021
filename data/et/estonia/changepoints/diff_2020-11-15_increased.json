@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 731.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 516.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 499.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 431.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 327.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 293.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 275.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 265.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 255.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 254.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 249.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Russia"
+    }
+  ]
+}

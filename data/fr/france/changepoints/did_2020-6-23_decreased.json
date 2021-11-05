@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -53366.0,
+      "topic": "History"
+    },
+    {
+      "diff": -49047.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -35196.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -29710.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -26162.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -25760.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -24502.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -21985.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -21135.0,
+      "topic": "People"
+    },
+    {
+      "diff": -21129.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -19670.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -18825.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -17892.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -17810.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -17720.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -17716.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -17297.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -17221.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -16744.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -16639.0,
+      "topic": "Nationality"
+    }
+  ]
+}

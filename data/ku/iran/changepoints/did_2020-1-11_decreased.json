@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -41.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -31.0,
+      "topic": "North africa"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Writing systems derived from the phoenician"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Latin language"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Alphabets"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Pulmonology"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Academia"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Geometric measurement"
+    }
+  ]
+}

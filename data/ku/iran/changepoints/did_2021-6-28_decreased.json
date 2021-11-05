@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -48.0,
+      "topic": "History"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Military tactics"
+    },
+    {
+      "diff": -16.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Bodies"
+    }
+  ]
+}

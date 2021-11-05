@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 20512.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 20146.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 19552.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 19238.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 19078.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 9765.0,
+      "topic": "Video terminology"
+    },
+    {
+      "diff": 9624.0,
+      "topic": "Animation"
+    },
+    {
+      "diff": 8226.0,
+      "topic": "Film companies"
+    },
+    {
+      "diff": 7670.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 6900.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 6445.0,
+      "topic": "Childhood"
+    },
+    {
+      "diff": 6063.0,
+      "topic": "Mass media people"
+    },
+    {
+      "diff": 6013.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 5188.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 4380.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 3953.0,
+      "topic": "Recordings"
+    },
+    {
+      "diff": 3840.0,
+      "topic": "British isles"
+    },
+    {
+      "diff": 3718.0,
+      "topic": "Macos"
+    },
+    {
+      "diff": 3712.0,
+      "topic": "Home video"
+    },
+    {
+      "diff": 3610.0,
+      "topic": "Compositions"
+    }
+  ]
+}

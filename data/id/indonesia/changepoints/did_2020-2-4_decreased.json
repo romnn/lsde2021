@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -6105.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5804.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -4238.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -4082.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": -3466.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3369.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -3360.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3282.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": -3280.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -3205.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -2930.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -2857.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2800.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2746.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2518.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2348.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2201.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -2022.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1654.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -1647.0,
+      "topic": "Rank"
+    }
+  ]
+}

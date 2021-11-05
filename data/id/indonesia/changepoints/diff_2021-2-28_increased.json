@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 10113.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 7942.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 7314.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6671.0,
+      "topic": "Conservative liberal parties"
+    },
+    {
+      "diff": 6389.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": 6238.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 6033.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 4540.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 4266.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4135.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4048.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 3995.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 3952.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 3938.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 3644.0,
+      "topic": "Applied ethics"
+    },
+    {
+      "diff": 3276.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 3206.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2440.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2424.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 2120.0,
+      "topic": "Politics"
+    }
+  ]
+}

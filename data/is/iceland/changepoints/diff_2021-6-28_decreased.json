@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -165.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -147.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -145.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -143.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -142.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -132.0,
+      "topic": "Cornish folklore"
+    },
+    {
+      "diff": -132.0,
+      "topic": "Gnomes"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Fairy tales"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -113.0,
+      "topic": "British culture"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Religious mass media"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Media organisations based"
+    }
+  ]
+}

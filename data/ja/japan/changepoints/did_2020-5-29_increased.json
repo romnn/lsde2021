@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 16667.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 7766.0,
+      "topic": "Film companies"
+    },
+    {
+      "diff": 7724.0,
+      "topic": "Video terminology"
+    },
+    {
+      "diff": 6765.0,
+      "topic": "Studio"
+    },
+    {
+      "diff": 6086.0,
+      "topic": "Board games"
+    },
+    {
+      "diff": 5630.0,
+      "topic": "Business services companies"
+    },
+    {
+      "diff": 4538.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4400.0,
+      "topic": "Broadcasting"
+    },
+    {
+      "diff": 4349.0,
+      "topic": "Genetic engineering"
+    },
+    {
+      "diff": 4265.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": 4225.0,
+      "topic": "Works about japan"
+    },
+    {
+      "diff": 4010.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": 3810.0,
+      "topic": "Children's writers by nationality"
+    },
+    {
+      "diff": 3573.0,
+      "topic": "Mental skill"
+    },
+    {
+      "diff": 3570.0,
+      "topic": "Indian games"
+    },
+    {
+      "diff": 3519.0,
+      "topic": "Middle ages"
+    },
+    {
+      "diff": 3475.0,
+      "topic": "Digital art"
+    },
+    {
+      "diff": 3323.0,
+      "topic": "Japanese film studios"
+    },
+    {
+      "diff": 3134.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 3129.0,
+      "topic": "Speculative fiction"
+    }
+  ]
+}

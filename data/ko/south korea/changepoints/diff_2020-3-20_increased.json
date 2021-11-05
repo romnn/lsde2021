@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4781.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 3849.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3305.0,
+      "topic": "Body regions"
+    },
+    {
+      "diff": 3303.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": 3253.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": 3129.0,
+      "topic": "Human head"
+    },
+    {
+      "diff": 2908.0,
+      "topic": "Love"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 2577.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 2563.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2493.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 2453.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1960.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1862.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1860.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1852.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 1698.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1678.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 1651.0,
+      "topic": "Biology"
+    }
+  ]
+}

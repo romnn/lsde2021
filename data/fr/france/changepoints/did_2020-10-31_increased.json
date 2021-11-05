@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 68673.0,
+      "topic": "History"
+    },
+    {
+      "diff": 54312.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 40345.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 33068.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 32454.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 32292.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 31955.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 28359.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 28045.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 26972.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 26190.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 25708.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 25401.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 24545.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 21575.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 20184.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 19773.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 19142.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 19093.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 18672.0,
+      "topic": "Period"
+    }
+  ]
+}

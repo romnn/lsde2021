@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -12622.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -10587.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -9597.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -9589.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -9282.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": -8694.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -8204.0,
+      "topic": "Angiology"
+    },
+    {
+      "diff": -8073.0,
+      "topic": "Circulatory system"
+    },
+    {
+      "diff": -7839.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -7529.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": -7476.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -7155.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -6936.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -6806.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -6627.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -6503.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -5981.0,
+      "topic": "Concepts"
+    },
+    {
+      "diff": -5850.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -5765.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5737.0,
+      "topic": "Empiricism"
+    }
+  ]
+}

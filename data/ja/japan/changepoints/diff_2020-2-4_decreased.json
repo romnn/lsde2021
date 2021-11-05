@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -60618.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -40974.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -33613.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -32464.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -32145.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -32074.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -31612.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -31602.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -31573.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -31508.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -28351.0,
+      "topic": "People"
+    },
+    {
+      "diff": -24035.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -23713.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -22510.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -21845.0,
+      "topic": "History"
+    },
+    {
+      "diff": -21105.0,
+      "topic": "Japanese eras"
+    },
+    {
+      "diff": -19656.0,
+      "topic": "15th-century people"
+    },
+    {
+      "diff": -18613.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -17311.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -16695.0,
+      "topic": "Taiwanese culture"
+    }
+  ]
+}

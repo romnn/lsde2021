@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -76572.0,
+      "topic": "Male songwriters"
+    },
+    {
+      "diff": -52818.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -51569.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -50826.0,
+      "topic": "1950s"
+    },
+    {
+      "diff": -50820.0,
+      "topic": "Entertainment companies"
+    },
+    {
+      "diff": -49807.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": -48146.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -47990.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -47527.0,
+      "topic": "Imperia"
+    },
+    {
+      "diff": -47301.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -37891.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -29059.0,
+      "topic": "Italian people"
+    },
+    {
+      "diff": -28916.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": -27135.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -17917.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -9843.0,
+      "topic": "People"
+    },
+    {
+      "diff": -8797.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -8174.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6863.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -6547.0,
+      "topic": "Greece"
+    }
+  ]
+}

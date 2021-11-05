@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -1495.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1300.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -487.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -458.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -304.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -231.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -226.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -204.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -202.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -199.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -179.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

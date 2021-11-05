@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -293.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -269.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -266.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -266.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -259.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -193.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -181.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -172.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": -170.0,
+      "topic": "Diptera"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Fairy tales"
+    },
+    {
+      "diff": -114.0,
+      "topic": "British culture"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Society"
+    }
+  ]
+}

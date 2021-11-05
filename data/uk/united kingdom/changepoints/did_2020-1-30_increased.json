@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1563.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 1521.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 1521.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 1520.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 1519.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 740.0,
+      "topic": "City"
+    },
+    {
+      "diff": 706.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 685.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": 573.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 556.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Caribbean"
+    },
+    {
+      "diff": 532.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": 507.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": 506.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 436.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Vladimir lenin"
+    },
+    {
+      "diff": 401.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": 396.0,
+      "topic": "Nuclear energy"
+    }
+  ]
+}

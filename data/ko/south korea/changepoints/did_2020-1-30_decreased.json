@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2923.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -2899.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -2807.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2584.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2422.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": -2395.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -2295.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": -2292.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1537.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1228.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -985.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -912.0,
+      "topic": "Atomic physics"
+    },
+    {
+      "diff": -905.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": -884.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": -864.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -827.0,
+      "topic": "Species"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Recurring elements"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -30051.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -25532.0,
+      "topic": "History"
+    },
+    {
+      "diff": -20859.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -16067.0,
+      "topic": "Components"
+    },
+    {
+      "diff": -16014.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": -15966.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": -15924.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": -15638.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -14560.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13141.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -13070.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -12619.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -12545.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": -11821.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": -11705.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -11096.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -10741.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -10018.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -9634.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -9255.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

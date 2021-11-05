@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 3799.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 2590.0,
+      "topic": "16th century"
+    },
+    {
+      "diff": 2493.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": 2288.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 2032.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1273.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1089.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 930.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 906.0,
+      "topic": "Mining communities"
+    },
+    {
+      "diff": 904.0,
+      "topic": "Diasporas"
+    },
+    {
+      "diff": 875.0,
+      "topic": "Origin country"
+    },
+    {
+      "diff": 829.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 809.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 742.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 702.0,
+      "topic": "Fjords"
+    },
+    {
+      "diff": 666.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 663.0,
+      "topic": "Svalbard"
+    },
+    {
+      "diff": 649.0,
+      "topic": "European folk culture"
+    },
+    {
+      "diff": 639.0,
+      "topic": "Monsters"
+    }
+  ]
+}

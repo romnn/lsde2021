@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 16930.0,
+      "topic": "History"
+    },
+    {
+      "diff": 12897.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 11403.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 10366.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 10347.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 10341.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 10294.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 10253.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 9748.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 8994.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 7525.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 6921.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6733.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 6585.0,
+      "topic": "People"
+    },
+    {
+      "diff": 6552.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6542.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 5949.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 5682.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 5594.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 5518.0,
+      "topic": "Southeast asia"
+    }
+  ]
+}

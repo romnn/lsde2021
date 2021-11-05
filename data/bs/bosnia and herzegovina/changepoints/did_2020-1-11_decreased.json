@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -207.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -161.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -155.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -148.0,
+      "topic": "Christian belief"
+    },
+    {
+      "diff": -147.0,
+      "topic": "Middle eastern studies"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -98.0,
+      "topic": "China"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Federation"
+    },
+    {
+      "diff": -84.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Bilateral relations"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -53.0,
+      "topic": "France"
+    }
+  ]
+}

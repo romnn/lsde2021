@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 11918.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 9667.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 9348.0,
+      "topic": "History"
+    },
+    {
+      "diff": 8827.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8042.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": 6722.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 6556.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6352.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 6160.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": 6128.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 5954.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5914.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 5797.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 5577.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5521.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 5398.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 5352.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 5230.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5226.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 5172.0,
+      "topic": "Government institutions"
+    }
+  ]
+}

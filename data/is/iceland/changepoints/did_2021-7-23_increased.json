@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 338.0,
+      "topic": "History"
+    },
+    {
+      "diff": 330.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 300.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 235.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 233.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Administrative unit"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Minority rights"
+    },
+    {
+      "diff": 115.0,
+      "topic": "Pakistani culture"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": 103.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Language geography"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Sun"
+    }
+  ]
+}

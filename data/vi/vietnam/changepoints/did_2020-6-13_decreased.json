@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -13565.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -13480.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -13106.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": -13072.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -12784.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -2698.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1938.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1795.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1786.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1759.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1539.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -1539.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1350.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1203.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -1116.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1052.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -969.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -947.0,
+      "topic": "Economy"
+    }
+  ]
+}

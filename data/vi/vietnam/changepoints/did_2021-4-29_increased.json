@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-29",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 2704.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2601.0,
+      "topic": "Nepal"
+    },
+    {
+      "diff": 2529.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 2511.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2497.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 2453.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 2436.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2259.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2245.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2219.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 2200.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 2174.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 2159.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 2158.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2148.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2041.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1990.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1907.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1893.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1883.0,
+      "topic": "Interpersonal relationships"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 6553.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5533.0,
+      "topic": "Problem behavior"
+    },
+    {
+      "diff": 5133.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 4868.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 4586.0,
+      "topic": "Pacific ocean"
+    },
+    {
+      "diff": 4538.0,
+      "topic": "Overseas france"
+    },
+    {
+      "diff": 4442.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 4273.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4216.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 4152.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 4065.0,
+      "topic": "Kinship"
+    },
+    {
+      "diff": 3993.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 3779.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 3630.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 3578.0,
+      "topic": "Sexual violence"
+    },
+    {
+      "diff": 3464.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 3454.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 3393.0,
+      "topic": "France"
+    },
+    {
+      "diff": 3076.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 3058.0,
+      "topic": "Public health"
+    }
+  ]
+}

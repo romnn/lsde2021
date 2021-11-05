@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2193.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2148.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2077.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1869.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1777.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1604.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1529.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1438.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -1382.0,
+      "topic": "Prokaryotes"
+    },
+    {
+      "diff": -1276.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1204.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": -1176.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -1121.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1105.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1039.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1034.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -1016.0,
+      "topic": "Dutch engineers"
+    },
+    {
+      "diff": -943.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -933.0,
+      "topic": "Public health"
+    }
+  ]
+}

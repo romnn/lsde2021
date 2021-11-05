@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 4494.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 4271.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": 3872.0,
+      "topic": "Indian television series"
+    },
+    {
+      "diff": 3529.0,
+      "topic": "Bhojpuri-language television"
+    },
+    {
+      "diff": 3407.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 2694.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 2476.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 2386.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": 2313.0,
+      "topic": "Ramayana"
+    },
+    {
+      "diff": 2277.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 2183.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 1964.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 1399.0,
+      "topic": "Arab culture"
+    },
+    {
+      "diff": 1248.0,
+      "topic": "United nations secretariat"
+    },
+    {
+      "diff": 1191.0,
+      "topic": "Conservation"
+    },
+    {
+      "diff": 1189.0,
+      "topic": "Female legendary creatures"
+    },
+    {
+      "diff": 1117.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": 1082.0,
+      "topic": "Animal anatomy"
+    },
+    {
+      "diff": 1077.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Peoples"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -1906.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1805.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1635.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1579.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1559.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1358.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1286.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1248.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1066.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -940.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -780.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -711.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -701.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -688.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -683.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -672.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -635.0,
+      "topic": "Humanities"
+    }
+  ]
+}

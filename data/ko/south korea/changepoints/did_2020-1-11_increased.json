@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 4070.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2505.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2430.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 2311.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 2231.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 1246.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 1202.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 1196.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 1182.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 1182.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 1102.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1002.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Folklore"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 769.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 709.0,
+      "topic": "Mythological archetypes"
+    },
+    {
+      "diff": 704.0,
+      "topic": "Occult"
+    }
+  ]
+}

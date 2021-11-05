@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 12586.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 12544.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 12500.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 12420.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 12322.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 5026.0,
+      "topic": "France"
+    },
+    {
+      "diff": 4523.0,
+      "topic": "Anarchist theory"
+    },
+    {
+      "diff": 4523.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": 4135.0,
+      "topic": "Self"
+    },
+    {
+      "diff": 4120.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": 3536.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 3083.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2569.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 2328.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 2187.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 1799.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 1717.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 1661.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 1633.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 1603.0,
+      "topic": "Populated places"
+    }
+  ]
+}

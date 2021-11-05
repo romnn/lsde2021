@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 860.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 582.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 533.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 485.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 466.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 420.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 376.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 374.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 355.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 347.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 320.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 317.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 283.0,
+      "topic": "Musicians"
+    }
+  ]
+}

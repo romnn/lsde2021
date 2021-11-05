@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": -3388.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3366.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2949.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -2774.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1386.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1263.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1250.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -1129.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1102.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1059.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -1018.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -991.0,
+      "topic": "Nobility"
+    },
+    {
+      "diff": -955.0,
+      "topic": "Former monarchies"
+    },
+    {
+      "diff": -914.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -817.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -793.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -751.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Biology"
+    }
+  ]
+}

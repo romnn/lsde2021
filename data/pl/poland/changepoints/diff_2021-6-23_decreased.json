@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-23",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -7656.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5678.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5407.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -5352.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -5331.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5295.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4654.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -4476.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4186.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4149.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4098.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -4018.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -4011.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3729.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -3662.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -3525.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -3463.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -3343.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -3199.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -2949.0,
+      "topic": "Therapy"
+    }
+  ]
+}

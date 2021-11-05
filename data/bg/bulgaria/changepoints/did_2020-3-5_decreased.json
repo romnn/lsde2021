@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -4460.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3853.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -2795.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2423.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -2044.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -2024.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -2016.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -1707.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -1607.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": -1521.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -1498.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1394.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -1375.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1192.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": -1158.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1017.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -904.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -819.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -819.0,
+      "topic": "Countries"
+    }
+  ]
+}

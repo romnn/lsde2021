@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -45.0,
+      "topic": "Specification languages"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Alphabets"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Latin language"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Writing systems derived from the phoenician"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Origin"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Turkish diaspora"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -11.0,
+      "topic": "North africa"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Software engineering"
+    }
+  ]
+}

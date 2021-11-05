@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -3864.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2866.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -2762.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -2424.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2329.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1415.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1367.0,
+      "topic": "Information systems"
+    },
+    {
+      "diff": -1317.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -1151.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -1127.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": -1115.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1033.0,
+      "topic": "Rhetoric"
+    },
+    {
+      "diff": -981.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -977.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -960.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -958.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -921.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -904.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -801.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -780.0,
+      "topic": "Culture"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 1739.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1719.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1501.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1279.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1273.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": 1235.0,
+      "topic": "Cretaceous vertebrates"
+    },
+    {
+      "diff": 1232.0,
+      "topic": "Mesozoic dinosaurs"
+    },
+    {
+      "diff": 1228.0,
+      "topic": "Late cretaceous animals"
+    },
+    {
+      "diff": 1174.0,
+      "topic": "East asian folk religion"
+    },
+    {
+      "diff": 1152.0,
+      "topic": "Scandinavian culture"
+    },
+    {
+      "diff": 1134.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": 1113.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": 989.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 985.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 985.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 938.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 873.0,
+      "topic": "Information fields"
+    },
+    {
+      "diff": 862.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 755.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 641.0,
+      "topic": "Kurdistan"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-26",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 4240.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4117.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3466.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 3445.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3251.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1830.0,
+      "topic": "France"
+    },
+    {
+      "diff": 1816.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 1775.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1763.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 1752.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1749.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1313.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 1304.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 1153.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1124.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1086.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1073.0,
+      "topic": "Digital media"
+    },
+    {
+      "diff": 1067.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1036.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1028.0,
+      "topic": "Cartography"
+    }
+  ]
+}

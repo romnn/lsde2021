@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -3983.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3003.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -2646.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2206.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -2182.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1861.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1823.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": -1608.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -1547.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1544.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1458.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -1443.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1438.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1406.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": -1295.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -1275.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1184.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1171.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": -1122.0,
+      "topic": "Data management"
+    }
+  ]
+}

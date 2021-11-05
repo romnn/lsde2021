@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -6720.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -4704.0,
+      "topic": "Metallic elements"
+    },
+    {
+      "diff": -4511.0,
+      "topic": "Sets"
+    },
+    {
+      "diff": -4291.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": -3959.0,
+      "topic": "Physical chemistry"
+    },
+    {
+      "diff": -3464.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": -3331.0,
+      "topic": "Statements"
+    },
+    {
+      "diff": -3287.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -2321.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -2180.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -2165.0,
+      "topic": "Organs (anatomy)"
+    },
+    {
+      "diff": -2054.0,
+      "topic": "Classicist architecture"
+    },
+    {
+      "diff": -2001.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -1975.0,
+      "topic": "Personal development"
+    },
+    {
+      "diff": -1960.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -1931.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -1912.0,
+      "topic": "Goddesses"
+    },
+    {
+      "diff": -1810.0,
+      "topic": "Executive branches"
+    },
+    {
+      "diff": -1787.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -1666.0,
+      "topic": "Sociology"
+    }
+  ]
+}

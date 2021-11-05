@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -97641.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -97115.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": -96236.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -92337.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -81814.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -22161.0,
+      "topic": "1st-millennium literature"
+    },
+    {
+      "diff": -22059.0,
+      "topic": "8th-century works"
+    },
+    {
+      "diff": -21837.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -20882.0,
+      "topic": "Medieval literature"
+    },
+    {
+      "diff": -19400.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -19121.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -13250.0,
+      "topic": "Taiwanese culture"
+    },
+    {
+      "diff": -11946.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": -11622.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -11451.0,
+      "topic": "1980s"
+    },
+    {
+      "diff": -11302.0,
+      "topic": "North korea"
+    },
+    {
+      "diff": -11177.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -10851.0,
+      "topic": "China"
+    },
+    {
+      "diff": -8740.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -8706.0,
+      "topic": "Organizations"
+    }
+  ]
+}

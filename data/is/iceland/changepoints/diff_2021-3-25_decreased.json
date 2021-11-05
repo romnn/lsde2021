@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -1563.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1391.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1341.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1334.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -617.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -469.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -399.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -363.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -343.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -258.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -217.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -197.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -184.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-06",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -95.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Medical diagnosis"
+    },
+    {
+      "diff": -25.0,
+      "topic": "History"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Middle eastern royalty"
+    },
+    {
+      "diff": -21.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Written communication"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Armenia"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -5922.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4363.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -4198.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -3515.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": -3441.0,
+      "topic": "Applied psychology"
+    },
+    {
+      "diff": -3435.0,
+      "topic": "Human development"
+    },
+    {
+      "diff": -3317.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3295.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -2627.0,
+      "topic": "Discovery"
+    },
+    {
+      "diff": -2548.0,
+      "topic": "Astronomical objects"
+    },
+    {
+      "diff": -2501.0,
+      "topic": "Planetary science"
+    },
+    {
+      "diff": -2430.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -2319.0,
+      "topic": "Power (social and political)"
+    },
+    {
+      "diff": -2269.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -2121.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2006.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -1944.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -1922.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": -1771.0,
+      "topic": "Tradition"
+    }
+  ]
+}

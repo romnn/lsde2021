@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2361.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2280.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1894.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1495.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1476.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1443.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1335.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1290.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1175.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -995.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -957.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -930.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -879.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -866.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -855.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -841.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Geography"
+    }
+  ]
+}

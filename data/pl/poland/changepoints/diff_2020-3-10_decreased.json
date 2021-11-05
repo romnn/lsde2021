@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -8981.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -5159.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -4808.0,
+      "topic": "Metallic elements"
+    },
+    {
+      "diff": -4545.0,
+      "topic": "Sets"
+    },
+    {
+      "diff": -4484.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": -4304.0,
+      "topic": "Physical chemistry"
+    },
+    {
+      "diff": -3698.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -2931.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2383.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -2275.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -2185.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -1894.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -1761.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -1615.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1610.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -1349.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -1340.0,
+      "topic": "Second polish republic"
+    },
+    {
+      "diff": -1323.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -1240.0,
+      "topic": "Military locations"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Counties"
+    }
+  ]
+}

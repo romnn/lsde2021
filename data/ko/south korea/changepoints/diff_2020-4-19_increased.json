@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 1772.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 1431.0,
+      "topic": "Colleges"
+    },
+    {
+      "diff": 1431.0,
+      "topic": "Universities"
+    },
+    {
+      "diff": 1417.0,
+      "topic": "Single-gender schools"
+    },
+    {
+      "diff": 1417.0,
+      "topic": "Women's organizations"
+    },
+    {
+      "diff": 1040.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 899.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 889.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 831.0,
+      "topic": "South korean people"
+    },
+    {
+      "diff": 703.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": 700.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Bias"
+    },
+    {
+      "diff": 677.0,
+      "topic": "Women musicians"
+    },
+    {
+      "diff": 652.0,
+      "topic": "China"
+    },
+    {
+      "diff": 649.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 603.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 599.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 568.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": 544.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 542.0,
+      "topic": "Interstellar media"
+    }
+  ]
+}

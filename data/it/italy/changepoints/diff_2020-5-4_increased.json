@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 13973.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 13863.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 12622.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 9022.0,
+      "topic": "People"
+    },
+    {
+      "diff": 8070.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 7656.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 7643.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 7642.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 7487.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 7477.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 2876.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 2620.0,
+      "topic": "Iliad"
+    },
+    {
+      "diff": 2479.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 2443.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": 2223.0,
+      "topic": "Middle ages"
+    },
+    {
+      "diff": 2202.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": 2115.0,
+      "topic": "Zeus"
+    },
+    {
+      "diff": 2092.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 2085.0,
+      "topic": "Conceptions"
+    },
+    {
+      "diff": 2049.0,
+      "topic": "Morphology (biology)"
+    }
+  ]
+}

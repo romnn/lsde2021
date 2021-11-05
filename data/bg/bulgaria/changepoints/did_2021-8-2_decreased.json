@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -580.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -418.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -365.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -360.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -355.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -321.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -317.0,
+      "topic": "Judea"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Ancient roman religion"
+    },
+    {
+      "diff": -313.0,
+      "topic": "Biblical rulers"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Greek deity"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -283.0,
+      "topic": "Zeus"
+    },
+    {
+      "diff": -275.0,
+      "topic": "Children"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Resorts"
+    },
+    {
+      "diff": -245.0,
+      "topic": "Ancient greeks"
+    },
+    {
+      "diff": -237.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Marine architecture"
+    }
+  ]
+}

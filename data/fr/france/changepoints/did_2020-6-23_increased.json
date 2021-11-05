@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 29278.0,
+      "topic": "France"
+    },
+    {
+      "diff": 24615.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 18513.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8969.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 4150.0,
+      "topic": "Categories by second-level administrative country subdivision"
+    },
+    {
+      "diff": 4027.0,
+      "topic": "Hospitality industry"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "Departments of provence-alpes-c\u00f4te d'azur"
+    },
+    {
+      "diff": 3822.0,
+      "topic": "Departments of \u00eele-de-france"
+    },
+    {
+      "diff": 3597.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 3319.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 3295.0,
+      "topic": "1950s establishments"
+    },
+    {
+      "diff": 3263.0,
+      "topic": "Arthropod taxa"
+    },
+    {
+      "diff": 3235.0,
+      "topic": "Hospitality companies"
+    },
+    {
+      "diff": 3209.0,
+      "topic": "Companies based in new york (state) by city"
+    },
+    {
+      "diff": 3127.0,
+      "topic": "Aggregation websites"
+    },
+    {
+      "diff": 3115.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 3000.0,
+      "topic": "Protostome subfamilies"
+    },
+    {
+      "diff": 2982.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 2970.0,
+      "topic": "Paris"
+    },
+    {
+      "diff": 2878.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    }
+  ]
+}

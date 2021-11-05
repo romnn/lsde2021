@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 2419.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2351.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 2351.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 2351.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 2351.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 1136.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 1043.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 1028.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": 931.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 733.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 678.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 665.0,
+      "topic": "Genetic engineering"
+    },
+    {
+      "diff": 650.0,
+      "topic": "Psychic powers"
+    },
+    {
+      "diff": 631.0,
+      "topic": "Literary motifs"
+    },
+    {
+      "diff": 630.0,
+      "topic": "Digital art"
+    },
+    {
+      "diff": 410.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 376.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 347.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 343.0,
+      "topic": "Asian cinema"
+    },
+    {
+      "diff": 311.0,
+      "topic": "Christian denominations"
+    }
+  ]
+}

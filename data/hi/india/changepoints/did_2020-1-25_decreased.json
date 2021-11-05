@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -9291.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -7142.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -5815.0,
+      "topic": "Hinduism"
+    },
+    {
+      "diff": -4847.0,
+      "topic": "Pakistani culture"
+    },
+    {
+      "diff": -4723.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -4557.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3841.0,
+      "topic": "India"
+    },
+    {
+      "diff": -3685.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2995.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2932.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2719.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2531.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2260.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2015.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1903.0,
+      "topic": "Rocket propulsion"
+    },
+    {
+      "diff": -1840.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1818.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1779.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1713.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": -1712.0,
+      "topic": "Anthropology"
+    }
+  ]
+}

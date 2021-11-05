@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": 23.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 9.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 9.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Burundi"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Scientific equipment"
+    },
+    {
+      "diff": 8.0,
+      "topic": "German colonial empire"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Bilateral relations"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": 7.0,
+      "topic": "North korea"
+    },
+    {
+      "diff": 6.0,
+      "topic": "2nd-millennium establishments in russia"
+    },
+    {
+      "diff": 6.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Eastern mediterranean"
+    }
+  ]
+}

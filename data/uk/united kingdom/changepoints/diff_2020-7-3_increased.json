@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 995.0,
+      "topic": "Nearctic realm"
+    },
+    {
+      "diff": 945.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": 905.0,
+      "topic": "Herbalism"
+    },
+    {
+      "diff": 886.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": 640.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 366.0,
+      "topic": "Oblast"
+    },
+    {
+      "diff": 350.0,
+      "topic": "Ethnic enclaves"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 305.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 299.0,
+      "topic": "Distributed data storage"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Television technology"
+    },
+    {
+      "diff": 284.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": 276.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 254.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": 241.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": 241.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": 221.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 216.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": 208.0,
+      "topic": "States"
+    },
+    {
+      "diff": 182.0,
+      "topic": "Populated places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 24324.0,
+      "topic": "France"
+    },
+    {
+      "diff": 22990.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 15976.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 14841.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 13741.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 13174.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 13117.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 12983.0,
+      "topic": "Molecular biology"
+    },
+    {
+      "diff": 12941.0,
+      "topic": "Structural biology"
+    },
+    {
+      "diff": 12772.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 12655.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": 12608.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 12598.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 12334.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 11797.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 10254.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 10155.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9884.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7593.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": 7568.0,
+      "topic": "Second hundred years' war"
+    }
+  ]
+}

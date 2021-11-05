@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-14",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 232.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 144.0,
+      "topic": "History"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 102.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 84.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 76.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 65.0,
+      "topic": "European deities"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Legendary characters"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Heads"
+    }
+  ]
+}

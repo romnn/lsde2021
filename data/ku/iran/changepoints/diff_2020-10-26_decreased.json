@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -24.0,
+      "topic": "1940s works"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Romantic comedy films"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Union territories"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Provinces of the people's republic of china"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Iraqi writers"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Canton"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Geography"
+    }
+  ]
+}

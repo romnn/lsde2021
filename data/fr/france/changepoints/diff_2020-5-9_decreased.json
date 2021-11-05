@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -46852.0,
+      "topic": "History"
+    },
+    {
+      "diff": -33932.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -33749.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -32604.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -30732.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -28713.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -28077.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -27014.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -26677.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -24640.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -23335.0,
+      "topic": "People"
+    },
+    {
+      "diff": -20003.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -19056.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -16638.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -16266.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -15641.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -15592.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -15417.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -15305.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -15042.0,
+      "topic": "Cold war"
+    }
+  ]
+}

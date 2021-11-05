@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -125.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -90.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -50.0,
+      "topic": "History"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Cause (medicine)"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Timekeeping"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Main topic classifications"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Celestial coordinate system"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Mathematical structures"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Neuroanatomy"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Outer space"
+    }
+  ]
+}

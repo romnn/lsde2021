@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 2786.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 2770.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 2759.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 2736.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 2436.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 2423.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2014.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 1719.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 1678.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 1444.0,
+      "topic": "Misconduct"
+    },
+    {
+      "diff": 1396.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 1370.0,
+      "topic": "Problem behavior"
+    },
+    {
+      "diff": 1241.0,
+      "topic": "Law"
+    },
+    {
+      "diff": 1129.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 1019.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 921.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 905.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 891.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 795.0,
+      "topic": "West africa"
+    },
+    {
+      "diff": 790.0,
+      "topic": "France"
+    }
+  ]
+}

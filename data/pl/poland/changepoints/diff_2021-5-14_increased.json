@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 6170.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 5152.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 4861.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 2336.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 2266.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": 1965.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1938.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 1930.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 1888.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 1880.0,
+      "topic": "States"
+    },
+    {
+      "diff": 1798.0,
+      "topic": "Castell\u00f3n"
+    },
+    {
+      "diff": 1795.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1760.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 1519.0,
+      "topic": "Antiquity"
+    },
+    {
+      "diff": 1488.0,
+      "topic": "Colonies"
+    },
+    {
+      "diff": 1470.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 1422.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1410.0,
+      "topic": "Power (social and political)"
+    },
+    {
+      "diff": 1390.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 1385.0,
+      "topic": "Theism"
+    }
+  ]
+}

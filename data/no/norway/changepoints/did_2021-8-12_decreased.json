@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -13131.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7532.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -7233.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -7218.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4569.0,
+      "topic": "County"
+    },
+    {
+      "diff": -3069.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -2913.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2711.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2493.0,
+      "topic": "Villages"
+    },
+    {
+      "diff": -2396.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -2304.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -2153.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -2117.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -2091.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1700.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1576.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -1470.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -1208.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1177.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1112.0,
+      "topic": "Recreation"
+    }
+  ]
+}

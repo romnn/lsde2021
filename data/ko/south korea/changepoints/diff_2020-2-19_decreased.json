@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-19",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -2075.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1929.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1335.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -1287.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1062.0,
+      "topic": "Medical research"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -911.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -816.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -812.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -810.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": -797.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -770.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -753.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -751.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -692.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -679.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -657.0,
+      "topic": "Software"
+    }
+  ]
+}

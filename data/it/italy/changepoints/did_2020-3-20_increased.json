@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 58866.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 51385.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 49912.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 42614.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 40588.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 39155.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 37236.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 35469.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 35458.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 33262.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 32942.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 32919.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 31100.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 30976.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 26487.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 24521.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 23891.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 22935.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 21260.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 20601.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

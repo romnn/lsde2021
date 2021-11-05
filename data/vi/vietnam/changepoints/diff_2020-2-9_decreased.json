@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-09",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -6727.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -6461.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5916.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -5708.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -4251.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2346.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1726.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -1716.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -1420.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -1128.0,
+      "topic": "Heat transfer"
+    },
+    {
+      "diff": -1100.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -1040.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1031.0,
+      "topic": "Cultural conventions"
+    },
+    {
+      "diff": -1027.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -974.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -907.0,
+      "topic": "France"
+    }
+  ]
+}

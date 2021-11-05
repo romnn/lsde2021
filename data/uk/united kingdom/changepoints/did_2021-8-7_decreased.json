@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "GBR",
+    "group": "uk",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -4179.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": -4148.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -4056.0,
+      "topic": "Civil engineering"
+    },
+    {
+      "diff": -4017.0,
+      "topic": "Phases"
+    },
+    {
+      "diff": -4017.0,
+      "topic": "Architectural design"
+    },
+    {
+      "diff": -2696.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -2645.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -2631.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -2568.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -2540.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -2116.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -2064.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1812.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -1776.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -1735.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -1204.0,
+      "topic": "Biogeographic realm"
+    },
+    {
+      "diff": -1182.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Nearctic realm"
+    },
+    {
+      "diff": -1134.0,
+      "topic": "Domesticated plants"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1382.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -1316.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -1299.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -635.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -540.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -448.0,
+      "topic": "Sex crimes"
+    },
+    {
+      "diff": -356.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -293.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -273.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -240.0,
+      "topic": "Demigods"
+    },
+    {
+      "diff": -236.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Classical mythology"
+    },
+    {
+      "diff": -215.0,
+      "topic": "Former subdivisions"
+    },
+    {
+      "diff": -207.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -200.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -182.0,
+      "topic": "North macedonia"
+    },
+    {
+      "diff": -173.0,
+      "topic": "Kazakhstani culture"
+    },
+    {
+      "diff": -172.0,
+      "topic": "Culture of georgia (country)"
+    },
+    {
+      "diff": -166.0,
+      "topic": "Divination"
+    }
+  ]
+}

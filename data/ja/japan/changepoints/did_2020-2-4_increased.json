@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 29789.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": 29533.0,
+      "topic": "Circulatory system"
+    },
+    {
+      "diff": 29349.0,
+      "topic": "Angiology"
+    },
+    {
+      "diff": 27468.0,
+      "topic": "Death"
+    },
+    {
+      "diff": 26924.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": 15393.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": 14255.0,
+      "topic": "North korea"
+    },
+    {
+      "diff": 12437.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 11011.0,
+      "topic": "Japanese people"
+    },
+    {
+      "diff": 10900.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 10640.0,
+      "topic": "Women songwriters"
+    },
+    {
+      "diff": 10209.0,
+      "topic": "Malaysia"
+    },
+    {
+      "diff": 9853.0,
+      "topic": "China"
+    },
+    {
+      "diff": 8558.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 8390.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 8355.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": 8300.0,
+      "topic": "Japanese artists"
+    },
+    {
+      "diff": 8260.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": 8071.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": 7883.0,
+      "topic": "Love"
+    }
+  ]
+}

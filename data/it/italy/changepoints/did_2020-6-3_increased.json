@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 7088.0,
+      "topic": "Supernatural fiction"
+    },
+    {
+      "diff": 6730.0,
+      "topic": "Television series debuts"
+    },
+    {
+      "diff": 5824.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 4146.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": 3643.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 3604.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 3482.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 3364.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 3343.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 3233.0,
+      "topic": "Children"
+    },
+    {
+      "diff": 3231.0,
+      "topic": "Feliforms"
+    },
+    {
+      "diff": 3221.0,
+      "topic": "Hybrid animals"
+    },
+    {
+      "diff": 3117.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 3001.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": 2830.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": 2807.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": 2534.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 2525.0,
+      "topic": "Morality"
+    },
+    {
+      "diff": 2504.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 2429.0,
+      "topic": "Immunology"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-28",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 35594.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 22673.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 17226.0,
+      "topic": "France"
+    },
+    {
+      "diff": 14720.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 10597.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 5404.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 4987.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 4109.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 4106.0,
+      "topic": "Level"
+    },
+    {
+      "diff": 3944.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 3917.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3835.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 3588.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 3547.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3382.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 3362.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 2858.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 2631.0,
+      "topic": "Namespace"
+    },
+    {
+      "diff": 2514.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 2482.0,
+      "topic": "Country"
+    }
+  ]
+}

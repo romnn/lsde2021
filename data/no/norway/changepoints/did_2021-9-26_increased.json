@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 1249.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1057.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1051.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 879.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 865.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 854.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 854.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 841.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 832.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 762.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 642.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 443.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 360.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Eastern mediterranean"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-20",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 2769.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2478.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 2408.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 2238.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 1772.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 1211.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 1175.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 1131.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": 1122.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": 1086.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": 1068.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1060.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 952.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 903.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 898.0,
+      "topic": "Knowledge engineering"
+    },
+    {
+      "diff": 852.0,
+      "topic": "Disorders"
+    }
+  ]
+}

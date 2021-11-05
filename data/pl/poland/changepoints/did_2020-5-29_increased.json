@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 8153.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 5337.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 4128.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 2987.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 2957.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 2839.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 2549.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 2385.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 2102.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 2000.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 1975.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 1871.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 1760.0,
+      "topic": "Soviet states"
+    },
+    {
+      "diff": 1513.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1471.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 1406.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 1370.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 1326.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 1314.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 1303.0,
+      "topic": "Ethnicity"
+    }
+  ]
+}

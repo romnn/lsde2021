@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-05",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 8506.0,
+      "topic": "Minor planets"
+    },
+    {
+      "diff": 8208.0,
+      "topic": "Sustainable gardening"
+    },
+    {
+      "diff": 7848.0,
+      "topic": "Film companies"
+    },
+    {
+      "diff": 7441.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 7083.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": 6910.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 6652.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 6023.0,
+      "topic": "France"
+    },
+    {
+      "diff": 5980.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 5796.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 5458.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 5399.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": 4971.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 4932.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 4790.0,
+      "topic": "Organized events"
+    },
+    {
+      "diff": 4772.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4771.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 4570.0,
+      "topic": "Mass media people"
+    },
+    {
+      "diff": 4518.0,
+      "topic": "Ocean or sea"
+    },
+    {
+      "diff": 4431.0,
+      "topic": "Animation"
+    }
+  ]
+}

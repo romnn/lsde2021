@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 381.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Conservation biology"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 329.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 295.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Complex numbers"
+    },
+    {
+      "diff": 291.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 249.0,
+      "topic": "Discrete mathematics"
+    },
+    {
+      "diff": 230.0,
+      "topic": "Fractions (mathematics)"
+    },
+    {
+      "diff": 200.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 148.0,
+      "topic": "American botanists"
+    },
+    {
+      "diff": 135.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": 133.0,
+      "topic": "Bergen"
+    },
+    {
+      "diff": 123.0,
+      "topic": "Legal systems"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Emergency management"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Diptera"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Public safety"
+    }
+  ]
+}

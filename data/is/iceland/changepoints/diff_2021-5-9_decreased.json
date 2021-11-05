@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -171.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Old-growth forests"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Legendary vertebrates"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Flora"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Regions of north rhine-westphalia"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -68.0,
+      "topic": "Horses"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Sea or ocean"
+    }
+  ]
+}

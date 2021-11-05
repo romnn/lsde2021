@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 61.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 60.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Information fields"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 43.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 42.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Mexico"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Spanish empire"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Arctic ocean"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Biology"
+    }
+  ]
+}

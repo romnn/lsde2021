@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -6424.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -6132.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -5954.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -4549.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": -4531.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4342.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -4207.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4093.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -4084.0,
+      "topic": "Ramayana"
+    },
+    {
+      "diff": -3759.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -3581.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -3519.0,
+      "topic": "Political office-holders in india"
+    },
+    {
+      "diff": -3253.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": -3248.0,
+      "topic": "Empires"
+    },
+    {
+      "diff": -3133.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -3032.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -3000.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -2827.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -2643.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -2508.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": -12217.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -9091.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": -9086.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -8289.0,
+      "topic": "People"
+    },
+    {
+      "diff": -8217.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -7947.0,
+      "topic": "Edo period"
+    },
+    {
+      "diff": -7643.0,
+      "topic": "Technology companies"
+    },
+    {
+      "diff": -7562.0,
+      "topic": "Humour"
+    },
+    {
+      "diff": -7383.0,
+      "topic": "Mythopoeia"
+    },
+    {
+      "diff": -7366.0,
+      "topic": "Recurring elements"
+    },
+    {
+      "diff": -7340.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -7186.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -7007.0,
+      "topic": "Writers"
+    },
+    {
+      "diff": -6837.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -6731.0,
+      "topic": "Japanese mass media people"
+    },
+    {
+      "diff": -6725.0,
+      "topic": "Internet groups"
+    },
+    {
+      "diff": -6678.0,
+      "topic": "Observation"
+    },
+    {
+      "diff": -6139.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -5572.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5560.0,
+      "topic": "Post-soviet states"
+    }
+  ]
+}

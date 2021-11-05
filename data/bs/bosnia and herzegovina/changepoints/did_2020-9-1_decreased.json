@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -254.0,
+      "topic": "England"
+    },
+    {
+      "diff": -254.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": -226.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -223.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -126.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Causality"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Medical aspects"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -43.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Republika srpska"
+    },
+    {
+      "diff": -35.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Oxygen compounds"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Denmark"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 3751.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 3462.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2942.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2063.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1987.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1883.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 1751.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 1730.0,
+      "topic": "France"
+    },
+    {
+      "diff": 1678.0,
+      "topic": "Ethology"
+    },
+    {
+      "diff": 1675.0,
+      "topic": "Molecular genetics"
+    },
+    {
+      "diff": 1661.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 1652.0,
+      "topic": "German music"
+    },
+    {
+      "diff": 1648.0,
+      "topic": "Genetics"
+    },
+    {
+      "diff": 1589.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": 1543.0,
+      "topic": "Second hundred years' war"
+    },
+    {
+      "diff": 1543.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": 1506.0,
+      "topic": "Order"
+    },
+    {
+      "diff": 1486.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 1480.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1458.0,
+      "topic": "German society"
+    }
+  ]
+}

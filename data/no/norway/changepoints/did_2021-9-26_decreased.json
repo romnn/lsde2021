@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2432.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1367.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1150.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -1055.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -789.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -787.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -729.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -696.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -593.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -561.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -547.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Norse people"
+    }
+  ]
+}

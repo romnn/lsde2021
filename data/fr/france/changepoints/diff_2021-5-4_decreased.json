@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -13364.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -9839.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8287.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7380.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -7109.0,
+      "topic": "People"
+    },
+    {
+      "diff": -6609.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -6512.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -6233.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -6115.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -5819.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5415.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -5358.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -5236.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -4994.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": -4857.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -4846.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4829.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4783.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4651.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": -4524.0,
+      "topic": "Nationality"
+    }
+  ]
+}

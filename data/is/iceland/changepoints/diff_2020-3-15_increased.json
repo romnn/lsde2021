@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 93.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 58.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Semitic languages"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Middle eastern gods"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Natural regions"
+    }
+  ]
+}

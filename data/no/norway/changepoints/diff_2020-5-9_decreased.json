@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2192.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1555.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1527.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1514.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1506.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1495.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1472.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1379.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1061.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -991.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -959.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -883.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -877.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -862.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -795.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -735.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -721.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Technology"
+    }
+  ]
+}

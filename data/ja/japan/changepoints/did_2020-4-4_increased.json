@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "JPN",
+    "group": "ja",
+    "name": "Japan"
+  },
+  "topics": [
+    {
+      "diff": 39431.0,
+      "topic": "History"
+    },
+    {
+      "diff": 33518.0,
+      "topic": "Japanese artists"
+    },
+    {
+      "diff": 33486.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 32162.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 23564.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 22966.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 22685.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 21667.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 20862.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 20275.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": 20131.0,
+      "topic": "Film production companies"
+    },
+    {
+      "diff": 19761.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 19149.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 19144.0,
+      "topic": "Folk religion"
+    },
+    {
+      "diff": 18649.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 18536.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 18390.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 18260.0,
+      "topic": "Quintephones"
+    },
+    {
+      "diff": 18237.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 17544.0,
+      "topic": "Technology"
+    }
+  ]
+}

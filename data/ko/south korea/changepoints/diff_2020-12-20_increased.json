@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 1475.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1330.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1308.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 1294.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 1263.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 1205.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1167.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1008.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 970.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 750.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Passenger rail transport"
+    },
+    {
+      "diff": 570.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": 570.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 565.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 511.0,
+      "topic": "Trains"
+    },
+    {
+      "diff": 502.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 427.0,
+      "topic": "Computer companies"
+    },
+    {
+      "diff": 410.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 400.0,
+      "topic": "21st century"
+    }
+  ]
+}

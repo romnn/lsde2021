@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 1980.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 1537.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1474.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": 1383.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1309.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1303.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 1252.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1226.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1210.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1205.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 1183.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1159.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 1150.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1131.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": 1117.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 1020.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1019.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 988.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 979.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 968.0,
+      "topic": "6th century"
+    }
+  ]
+}

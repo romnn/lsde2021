@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": 761.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 271.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 191.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": 180.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 175.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 164.0,
+      "topic": "Habitat"
+    },
+    {
+      "diff": 159.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 142.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 128.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 127.0,
+      "topic": "Geographical areas"
+    }
+  ]
+}

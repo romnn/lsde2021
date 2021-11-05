@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 67047.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 66197.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 65394.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 65212.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 65065.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 27427.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 22842.0,
+      "topic": "History"
+    },
+    {
+      "diff": 19823.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 13440.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 12781.0,
+      "topic": "France"
+    },
+    {
+      "diff": 12568.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 12233.0,
+      "topic": "Nationalism"
+    },
+    {
+      "diff": 12032.0,
+      "topic": "Slovenian culture"
+    },
+    {
+      "diff": 11808.0,
+      "topic": "Language families"
+    },
+    {
+      "diff": 11778.0,
+      "topic": "Gangs"
+    },
+    {
+      "diff": 10699.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 10673.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 9260.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8918.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 8041.0,
+      "topic": "Humanities"
+    }
+  ]
+}

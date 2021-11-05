@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -3488.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2609.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -1659.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1652.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1632.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -1347.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1296.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1276.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1120.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1021.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -938.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -874.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -850.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -845.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -836.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -758.0,
+      "topic": "People"
+    },
+    {
+      "diff": -750.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Cities"
+    }
+  ]
+}

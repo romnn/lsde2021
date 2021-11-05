@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": 187.0,
+      "topic": "Animal ethics"
+    },
+    {
+      "diff": 149.0,
+      "topic": "Numbers"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Algebraic number theory"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Elementary number theory"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Integer sequences"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Plant morphology"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Geometric objects"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Naturopathy"
+    },
+    {
+      "diff": 81.0,
+      "topic": "Botany"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Polygons"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 67.0,
+      "topic": "Condensed matter"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Ratios"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Process engineering"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Islam"
+    }
+  ]
+}

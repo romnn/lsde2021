@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -8723.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": -6433.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -6358.0,
+      "topic": "Ramayana"
+    },
+    {
+      "diff": -6294.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -6085.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -6051.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -5972.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -5952.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -4648.0,
+      "topic": "Political office-holders in india"
+    },
+    {
+      "diff": -3415.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -3403.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -3348.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2896.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": -2894.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2887.0,
+      "topic": "Empires"
+    },
+    {
+      "diff": -2776.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -2691.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -2132.0,
+      "topic": "Indian people"
+    },
+    {
+      "diff": -2123.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -2103.0,
+      "topic": "15th century"
+    }
+  ]
+}

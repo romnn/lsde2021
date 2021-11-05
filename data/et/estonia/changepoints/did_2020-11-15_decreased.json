@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-15",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -670.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -627.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -601.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -172.0,
+      "topic": "Information science"
+    },
+    {
+      "diff": -165.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Metaphysics"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -118.0,
+      "topic": "Quantity"
+    },
+    {
+      "diff": -116.0,
+      "topic": "Real numbers"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Sampling (statistics)"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Domesticated plants"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Evolution"
+    },
+    {
+      "diff": -110.0,
+      "topic": "Probability"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Cultural studies"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -1218.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -887.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -875.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -841.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -795.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -722.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -667.0,
+      "topic": "Prokaryotes"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Life sciences"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -571.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -570.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -566.0,
+      "topic": "History"
+    },
+    {
+      "diff": -555.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -510.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -481.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -481.0,
+      "topic": "Identity politics"
+    }
+  ]
+}

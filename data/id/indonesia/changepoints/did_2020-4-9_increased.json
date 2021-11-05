@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-09",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 17706.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 16787.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 16207.0,
+      "topic": "Women's health"
+    },
+    {
+      "diff": 16139.0,
+      "topic": "Feminism"
+    },
+    {
+      "diff": 12885.0,
+      "topic": "People"
+    },
+    {
+      "diff": 10695.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 7193.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": 6506.0,
+      "topic": "Dynamics (mechanics)"
+    },
+    {
+      "diff": 6452.0,
+      "topic": "Power (physics)"
+    },
+    {
+      "diff": 6443.0,
+      "topic": "Measurement"
+    },
+    {
+      "diff": 6386.0,
+      "topic": "Vehicle technology"
+    },
+    {
+      "diff": 6038.0,
+      "topic": "Electrical equipment"
+    },
+    {
+      "diff": 6020.0,
+      "topic": "Java"
+    },
+    {
+      "diff": 5533.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 5439.0,
+      "topic": "Plate tectonics"
+    },
+    {
+      "diff": 5249.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 5219.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 5219.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 5219.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 5218.0,
+      "topic": "Liturgical calendars"
+    }
+  ]
+}

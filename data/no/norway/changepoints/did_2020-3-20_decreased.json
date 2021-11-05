@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -2651.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -2366.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2363.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -2283.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1122.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -774.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -769.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -680.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -645.0,
+      "topic": "Legal systems"
+    },
+    {
+      "diff": -611.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": -608.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -497.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -490.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": -444.0,
+      "topic": "Combat sports"
+    },
+    {
+      "diff": -443.0,
+      "topic": "International economics"
+    },
+    {
+      "diff": -437.0,
+      "topic": "Linguistic regions"
+    },
+    {
+      "diff": -437.0,
+      "topic": "Environmental social science"
+    }
+  ]
+}

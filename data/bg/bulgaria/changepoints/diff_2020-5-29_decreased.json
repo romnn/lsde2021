@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -1174.0,
+      "topic": "Services sector"
+    },
+    {
+      "diff": -1095.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": -1071.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -505.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -481.0,
+      "topic": "Visual arts"
+    },
+    {
+      "diff": -444.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -429.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -350.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -324.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -309.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -309.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -301.0,
+      "topic": "Polygons"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Game equipment"
+    }
+  ]
+}

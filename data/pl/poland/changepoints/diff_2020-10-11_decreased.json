@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-11",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": -9607.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -6226.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -4794.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -4283.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4080.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": -3968.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -3142.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -2880.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": -2877.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -2877.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": -2646.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -2418.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -2285.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": -2184.0,
+      "topic": "States"
+    },
+    {
+      "diff": -1991.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -1906.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -1788.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -1657.0,
+      "topic": "Wood"
+    },
+    {
+      "diff": -1635.0,
+      "topic": "Mass (liturgy)"
+    },
+    {
+      "diff": -1514.0,
+      "topic": "Military locations"
+    }
+  ]
+}

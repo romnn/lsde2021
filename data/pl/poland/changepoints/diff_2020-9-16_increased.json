@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 7008.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6893.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 6541.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 6292.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4958.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4494.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4156.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 4058.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 3708.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 3438.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 3311.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3140.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 2890.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 2734.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": 2677.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 2465.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": 2450.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2305.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 2254.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2253.0,
+      "topic": "Stock characters"
+    }
+  ]
+}

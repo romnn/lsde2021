@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -869.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -832.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -711.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -635.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -571.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -486.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -444.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -404.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -380.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -364.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -357.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -328.0,
+      "topic": "Spain"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 254.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 250.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 250.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Social stratification"
+    },
+    {
+      "diff": 125.0,
+      "topic": "Ethnography"
+    },
+    {
+      "diff": 114.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Anatomy"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Crafts"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Body regions"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Human body"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Icelandic music"
+    },
+    {
+      "diff": 29.0,
+      "topic": "People from reykjav\u00edk"
+    }
+  ]
+}

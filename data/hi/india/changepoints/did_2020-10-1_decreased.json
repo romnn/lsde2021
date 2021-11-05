@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-01",
+  "country": {
+    "code": "IND",
+    "group": "hi",
+    "name": "India"
+  },
+  "topics": [
+    {
+      "diff": -9494.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7982.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6488.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -5724.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5396.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5205.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4591.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -4432.0,
+      "topic": "Space programs"
+    },
+    {
+      "diff": -4360.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -4290.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -4202.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": -4170.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3884.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -3739.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3608.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3437.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3411.0,
+      "topic": "Land robots"
+    },
+    {
+      "diff": -3410.0,
+      "topic": "Uncrewed spacecraft"
+    },
+    {
+      "diff": -3309.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -3171.0,
+      "topic": "Consciousness"
+    }
+  ]
+}

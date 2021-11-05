@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-27",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": 16480.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 14904.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 12875.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 10635.0,
+      "topic": "People"
+    },
+    {
+      "diff": 10424.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": 10372.0,
+      "topic": "Men's health"
+    },
+    {
+      "diff": 10275.0,
+      "topic": "Andrology"
+    },
+    {
+      "diff": 10048.0,
+      "topic": "Human female reproductive system"
+    },
+    {
+      "diff": 9882.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 9345.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 9132.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8270.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 8157.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 8106.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 7415.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 7397.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 7301.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 7300.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 7213.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 7160.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

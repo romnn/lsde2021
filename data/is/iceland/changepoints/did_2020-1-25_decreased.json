@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": -348.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -318.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -299.0,
+      "topic": "History"
+    },
+    {
+      "diff": -250.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -222.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -222.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -163.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -158.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -143.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Iceland"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -63.0,
+      "topic": "International relations"
+    }
+  ]
+}

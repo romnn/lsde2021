@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -47848.0,
+      "topic": "History"
+    },
+    {
+      "diff": -40660.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -32093.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -28092.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -27237.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -24109.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -21581.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -19742.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -19351.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -19330.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -18401.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -18186.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -17933.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -17674.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -17338.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -17093.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -16431.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -16277.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -15868.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -14417.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

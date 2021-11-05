@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -215.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": -204.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -203.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -190.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -98.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Southern europe"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -39.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Weeks"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Canada"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Natural environment"
+    }
+  ]
+}

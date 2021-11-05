@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-27",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -102345.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -87174.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -72143.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -58903.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -56914.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -47548.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -40177.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -40022.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -38669.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -38307.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -38226.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -37995.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -37734.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -37214.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -37188.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -36849.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -35974.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -31284.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": -31065.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -30523.0,
+      "topic": "Republics"
+    }
+  ]
+}

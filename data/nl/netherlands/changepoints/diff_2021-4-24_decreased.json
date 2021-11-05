@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": -7178.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6441.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -5558.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -5144.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -4913.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -4313.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -4240.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": -4155.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4024.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": -3735.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -3573.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3449.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -3439.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -3174.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3153.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3071.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -2915.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": -2860.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -2860.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": -2783.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

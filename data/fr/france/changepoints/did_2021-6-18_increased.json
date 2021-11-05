@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 7222.0,
+      "topic": "Nbcuniversal"
+    },
+    {
+      "diff": 7132.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": 6057.0,
+      "topic": "Television shows set"
+    },
+    {
+      "diff": 4034.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 3415.0,
+      "topic": "State"
+    },
+    {
+      "diff": 3246.0,
+      "topic": "Protostome subfamilies"
+    },
+    {
+      "diff": 3242.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 3137.0,
+      "topic": "Arthropod taxa"
+    },
+    {
+      "diff": 2679.0,
+      "topic": "Departments of provence-alpes-c\u00f4te d'azur"
+    },
+    {
+      "diff": 1928.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 1778.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1770.0,
+      "topic": "Breton mythology"
+    },
+    {
+      "diff": 1743.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 1742.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 1741.0,
+      "topic": "Fraud"
+    },
+    {
+      "diff": 1733.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": 1724.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1718.0,
+      "topic": "French language"
+    },
+    {
+      "diff": 1595.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1542.0,
+      "topic": "International organizations"
+    }
+  ]
+}

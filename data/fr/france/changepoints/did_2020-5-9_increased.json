@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 12653.0,
+      "topic": "Structural biology"
+    },
+    {
+      "diff": 11815.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 11661.0,
+      "topic": "Molecular biology"
+    },
+    {
+      "diff": 11234.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": 8306.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 7608.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 7547.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 7467.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 7453.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 7429.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 6650.0,
+      "topic": "Team"
+    },
+    {
+      "diff": 6191.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 6099.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 6059.0,
+      "topic": "Manufacturing companies"
+    },
+    {
+      "diff": 5904.0,
+      "topic": "Business organizations based"
+    },
+    {
+      "diff": 5768.0,
+      "topic": "Euronext"
+    },
+    {
+      "diff": 5568.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 5184.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 4546.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 4282.0,
+      "topic": "Accountability"
+    }
+  ]
+}

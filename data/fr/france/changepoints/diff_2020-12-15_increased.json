@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 16060.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 10829.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 10705.0,
+      "topic": "American television shows"
+    },
+    {
+      "diff": 10674.0,
+      "topic": "2020s television series"
+    },
+    {
+      "diff": 10292.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 8796.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 8626.0,
+      "topic": "France"
+    },
+    {
+      "diff": 8471.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 5877.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 5681.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 5532.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 4456.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 4010.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 3638.0,
+      "topic": "European people"
+    },
+    {
+      "diff": 3373.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 2931.0,
+      "topic": "Middle eastern descent"
+    },
+    {
+      "diff": 2867.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 2673.0,
+      "topic": "Crime films"
+    },
+    {
+      "diff": 2661.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 2651.0,
+      "topic": "Genital procedures"
+    }
+  ]
+}

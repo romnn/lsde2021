@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 1467.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 1447.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1421.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 1416.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 1414.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 1142.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": 1106.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 1094.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": 1008.0,
+      "topic": "French culture"
+    },
+    {
+      "diff": 698.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 696.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 581.0,
+      "topic": "People"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 505.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 494.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": 478.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 474.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Palaces"
+    },
+    {
+      "diff": 470.0,
+      "topic": "House types"
+    }
+  ]
+}

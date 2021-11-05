@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IDN",
+    "group": "id",
+    "name": "Indonesia"
+  },
+  "topics": [
+    {
+      "diff": 44915.0,
+      "topic": "History"
+    },
+    {
+      "diff": 34830.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 32637.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 23862.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 22937.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 22631.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 21589.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 21011.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 20874.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 19306.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 17227.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 16959.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 16765.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 16307.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 14120.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 13896.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 12647.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 12521.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 12376.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 11943.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

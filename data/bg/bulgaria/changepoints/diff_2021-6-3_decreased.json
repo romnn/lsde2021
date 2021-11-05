@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "BGR",
+    "group": "bg",
+    "name": "Bulgaria"
+  },
+  "topics": [
+    {
+      "diff": -599.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -497.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -438.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -281.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -250.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -235.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -235.0,
+      "topic": "State"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -194.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -194.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -186.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -177.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -167.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": -166.0,
+      "topic": "Television shows set"
+    },
+    {
+      "diff": -161.0,
+      "topic": "Nbcuniversal"
+    },
+    {
+      "diff": -159.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -148.0,
+      "topic": "Jewish observances"
+    }
+  ]
+}

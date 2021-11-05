@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 42415.0,
+      "topic": "France"
+    },
+    {
+      "diff": 32804.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 28764.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 11591.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 5588.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 5425.0,
+      "topic": "Departments of \u00eele-de-france"
+    },
+    {
+      "diff": 5288.0,
+      "topic": "Categories by second-level administrative country subdivision"
+    },
+    {
+      "diff": 5019.0,
+      "topic": "Paris"
+    },
+    {
+      "diff": 4344.0,
+      "topic": "Level"
+    },
+    {
+      "diff": 4074.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 3610.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3608.0,
+      "topic": "Departments of provence-alpes-c\u00f4te d'azur"
+    },
+    {
+      "diff": 3521.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": 3376.0,
+      "topic": "Hospitality companies"
+    },
+    {
+      "diff": 3359.0,
+      "topic": "1950s establishments"
+    },
+    {
+      "diff": 3323.0,
+      "topic": "Hospitality industry"
+    },
+    {
+      "diff": 3288.0,
+      "topic": "Aggregation websites"
+    },
+    {
+      "diff": 3261.0,
+      "topic": "Companies based in new york (state) by city"
+    },
+    {
+      "diff": 2386.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": 2322.0,
+      "topic": "Departments of hauts-de-france"
+    }
+  ]
+}

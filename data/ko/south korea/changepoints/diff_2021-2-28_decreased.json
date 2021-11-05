@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": -1973.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1257.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": -1210.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -1187.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -1057.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -1023.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -980.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -920.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -887.0,
+      "topic": "Ancient greek statesmen"
+    },
+    {
+      "diff": -866.0,
+      "topic": "Good"
+    },
+    {
+      "diff": -864.0,
+      "topic": "South korean people"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Evil"
+    },
+    {
+      "diff": -800.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -747.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -720.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -654.0,
+      "topic": "Traditional stories"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "BIH",
+    "group": "bs",
+    "name": "Bosnia and Herzegovina"
+  },
+  "topics": [
+    {
+      "diff": -653.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -626.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -604.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -584.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -554.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -551.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -527.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -504.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -504.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -502.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -490.0,
+      "topic": "History"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -416.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -291.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

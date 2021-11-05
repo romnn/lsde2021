@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "KOR",
+    "group": "ko",
+    "name": "South Korea"
+  },
+  "topics": [
+    {
+      "diff": 2105.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1967.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1883.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1408.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1323.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 1236.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1213.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1125.0,
+      "topic": "South korea"
+    },
+    {
+      "diff": 1115.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1105.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 1090.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 1058.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Korean pop musicians"
+    },
+    {
+      "diff": 1012.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 1008.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 968.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 946.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 945.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 937.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 910.0,
+      "topic": "Food- and drink-related events"
+    }
+  ]
+}

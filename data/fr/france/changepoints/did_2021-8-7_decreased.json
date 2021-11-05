@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": -21317.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -10639.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -9487.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -9435.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -9426.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -9425.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -6716.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": -6093.0,
+      "topic": "Posture"
+    },
+    {
+      "diff": -5769.0,
+      "topic": "War"
+    },
+    {
+      "diff": -5420.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -5282.0,
+      "topic": "Game equipment"
+    },
+    {
+      "diff": -5238.0,
+      "topic": "Caribbean"
+    },
+    {
+      "diff": -4736.0,
+      "topic": "French colonial empire"
+    },
+    {
+      "diff": -4404.0,
+      "topic": "Dispute resolution"
+    },
+    {
+      "diff": -4173.0,
+      "topic": "Conflicts"
+    },
+    {
+      "diff": -4100.0,
+      "topic": "Breton mythology"
+    },
+    {
+      "diff": -3971.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3669.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -3360.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -3320.0,
+      "topic": "Legends"
+    }
+  ]
+}

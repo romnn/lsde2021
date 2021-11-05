@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": 1148.0,
+      "topic": "History"
+    },
+    {
+      "diff": 714.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 593.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 565.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 545.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 472.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 423.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 377.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 362.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 345.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 342.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 328.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 316.0,
+      "topic": "Diasporas"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Century"
+    }
+  ]
+}

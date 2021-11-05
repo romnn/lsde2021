@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -10501.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": -9816.0,
+      "topic": "Earth's crust"
+    },
+    {
+      "diff": -9503.0,
+      "topic": "Volcanic landforms"
+    },
+    {
+      "diff": -8311.0,
+      "topic": "Student events"
+    },
+    {
+      "diff": -7349.0,
+      "topic": "Childhood"
+    },
+    {
+      "diff": -6857.0,
+      "topic": "Landmarks"
+    },
+    {
+      "diff": -6135.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -6044.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4693.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -4615.0,
+      "topic": "Libyan crisis (2011\u2013present)"
+    },
+    {
+      "diff": -4615.0,
+      "topic": "Iran\u2013saudi arabia proxy conflict"
+    },
+    {
+      "diff": -4583.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -4498.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -4406.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -4401.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4219.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -4058.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -3675.0,
+      "topic": "Mass media companies"
+    },
+    {
+      "diff": -3631.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3615.0,
+      "topic": "Entertainment companies"
+    }
+  ]
+}

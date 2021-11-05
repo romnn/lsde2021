@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 168.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 142.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Social stratification"
+    },
+    {
+      "diff": 125.0,
+      "topic": "Ethnography"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 29.0,
+      "topic": "People from reykjav\u00edk"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Icelandic music"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Countries"
+    }
+  ]
+}

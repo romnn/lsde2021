@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ISL",
+    "group": "is",
+    "name": "Iceland"
+  },
+  "topics": [
+    {
+      "diff": 222.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 116.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Iceland"
+    },
+    {
+      "diff": 87.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Hydrography"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Constitutional law"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Writing"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Geography of castilla\u2013la mancha by province"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Semitic languages"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Canaan"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Middle eastern gods"
+    }
+  ]
+}

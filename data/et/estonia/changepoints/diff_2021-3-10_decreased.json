@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -2244.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2037.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1784.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1756.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1749.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1707.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1390.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -981.0,
+      "topic": "County"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -585.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -448.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -425.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -392.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -376.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -273.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -266.0,
+      "topic": "France"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -259.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Early modern period"
+    }
+  ]
+}

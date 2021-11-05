@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -29.0,
+      "topic": "History"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -14.0,
+      "topic": "County"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -10.0,
+      "topic": "World history"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Armenia"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "POL",
+    "group": "pl",
+    "name": "Poland"
+  },
+  "topics": [
+    {
+      "diff": 6243.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 5519.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3683.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 2761.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2611.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2595.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 2566.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 2556.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 2483.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2375.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 2339.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 2204.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": 2186.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 2162.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 2055.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 1854.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1795.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1788.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 1770.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": 1749.0,
+      "topic": "Computational biology"
+    }
+  ]
+}

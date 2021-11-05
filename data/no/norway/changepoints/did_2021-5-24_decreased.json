@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "NOR",
+    "group": "no",
+    "name": "Norway"
+  },
+  "topics": [
+    {
+      "diff": -5733.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4926.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4805.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -4564.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3601.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -3592.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": -3566.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": -3132.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2907.0,
+      "topic": "Behaviorism"
+    },
+    {
+      "diff": -2901.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -2864.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -2836.0,
+      "topic": "Cultural heritage"
+    },
+    {
+      "diff": -2789.0,
+      "topic": "Tradition"
+    },
+    {
+      "diff": -2668.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2338.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2195.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2103.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -2029.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -2025.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -1837.0,
+      "topic": "Syria"
+    }
+  ]
+}

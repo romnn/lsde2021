@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "ITA",
+    "group": "it",
+    "name": "Italy"
+  },
+  "topics": [
+    {
+      "diff": -16553.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -13139.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11350.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -9019.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -8980.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -8699.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -8411.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -8013.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -7886.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -7842.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -7803.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -7710.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -7377.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -6979.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -6958.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6743.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -6279.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -6192.0,
+      "topic": "Publications"
+    },
+    {
+      "diff": -5985.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -5977.0,
+      "topic": "Centuries"
+    }
+  ]
+}

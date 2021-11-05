@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FRA",
+    "group": "fr",
+    "name": "France"
+  },
+  "topics": [
+    {
+      "diff": 75023.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 69982.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 65142.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 63728.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 59763.0,
+      "topic": "Halides"
+    },
+    {
+      "diff": 35783.0,
+      "topic": "History"
+    },
+    {
+      "diff": 29749.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 29293.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 29223.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 26840.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 26236.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 26009.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 24260.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 21837.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 20261.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 19869.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 19557.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 18709.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 18522.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 18444.0,
+      "topic": "Post-soviet states"
+    }
+  ]
+}

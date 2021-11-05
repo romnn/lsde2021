@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "IRN",
+    "group": "ku",
+    "name": "Iran"
+  },
+  "topics": [
+    {
+      "diff": -110.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -51.0,
+      "topic": "History"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Turkish kurdistan"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": -9888.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -8253.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5891.0,
+      "topic": "Food science"
+    },
+    {
+      "diff": -5752.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -3524.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -3429.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2505.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -2164.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2109.0,
+      "topic": "Days"
+    },
+    {
+      "diff": -2085.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -1990.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -1964.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1580.0,
+      "topic": "Korean musicians"
+    },
+    {
+      "diff": -1572.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -1550.0,
+      "topic": "Dance"
+    },
+    {
+      "diff": -1548.0,
+      "topic": "South korean actors"
+    },
+    {
+      "diff": -1516.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -1492.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1095.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Transport companies"
+    }
+  ]
+}

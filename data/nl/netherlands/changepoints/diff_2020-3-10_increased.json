@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "NLD",
+    "group": "nl",
+    "name": "Netherlands"
+  },
+  "topics": [
+    {
+      "diff": 21154.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 18881.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 17408.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 16097.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 15904.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 14854.0,
+      "topic": "History"
+    },
+    {
+      "diff": 14062.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 13486.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 12221.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 10737.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 7065.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6989.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6175.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 5811.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5608.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 5238.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 4595.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 4576.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 3975.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 3791.0,
+      "topic": "Health"
+    }
+  ]
+}

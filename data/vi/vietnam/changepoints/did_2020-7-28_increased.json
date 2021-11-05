@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-28",
+  "country": {
+    "code": "VNM",
+    "group": "vi",
+    "name": "Vietnam"
+  },
+  "topics": [
+    {
+      "diff": 7159.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5387.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4803.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3463.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 3204.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 3153.0,
+      "topic": "People"
+    },
+    {
+      "diff": 3080.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 3042.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2994.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2915.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2853.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2761.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2536.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 2414.0,
+      "topic": "Women musicians"
+    },
+    {
+      "diff": 1902.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1583.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 1575.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1503.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1297.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1234.0,
+      "topic": "21st century"
+    }
+  ]
+}

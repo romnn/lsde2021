@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "EST",
+    "group": "et",
+    "name": "Estonia"
+  },
+  "topics": [
+    {
+      "diff": -1097.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -956.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -858.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -835.0,
+      "topic": "County"
+    },
+    {
+      "diff": -586.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -572.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -415.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -412.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -390.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -385.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -307.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -284.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -243.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": -234.0,
+      "topic": "Historical regions"
+    }
+  ]
+}
