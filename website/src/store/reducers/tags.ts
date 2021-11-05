@@ -40,7 +40,7 @@ export default function tagReducer(state = initialState, action: AnyAction) {
       const { tag } = action.payload;
       return {
         ...state,
-        activeTags: state.activeTags.filter((t) => t.title != tag.title),
+        activeTags: state.activeTags.filter((t) => t.title !== tag.title),
       };
     }
 

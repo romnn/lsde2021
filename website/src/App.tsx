@@ -6,7 +6,6 @@ import covidLogo from "./images/covid19_2.jpg";
 import vuLogo from "./images/VU_2.png";
 import "./App.sass";
 import { connect, ConnectedProps } from "react-redux";
-import { Action } from "./store/actions";
 import { RootState } from "./store";
 
 const mapState = (state: RootState) => ({

@@ -5,7 +5,10 @@ import { Action } from "./store/actions";
 import { RootState } from "./store";
 
 const mapState = (state: RootState) => ({
-  currentChangepoint: state.changepoints?.changepoint,
+  currentChangepoint: {
+    changepoint: state.changepoints?.changepoint,
+    tag: state.changepoints?.tag,
+  },
 });
 
 const mapDispatch = {
@@ -69,6 +72,13 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       "transform",
       `translate(${this.props.margins.left}, ${this.props.margins.top})`
     );
+    this.bounds
+      .select(".xLabelBar")
+      .attr(
+        "x",
+        (width - this.props.margins.left - this.props.margins.right) / 2
+      )
+      .attr("y", this.props.height - this.props.margins.top - 10);
 
     // calculate extent
     const xExtent = d3.extent(this.state.data, (d) => d.views) as [
@@ -121,35 +131,64 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       .data<TopicViews>(this.state.data);
 
     bars.exit().remove();
-    bars.enter().append("rect").attr("class", "bar");
+    const newBar = bars.enter().append("g").attr("class", "bar");
 
-    this.bounds
-      .selectAll<SVGRectElement, TopicViews>(".bar")
+    newBar.append("rect");
+    newBar.append("text");
+
+    const updated = this.bounds.selectAll<SVGRectElement, TopicViews>(".bar");
+
+    updated
+      .select("rect")
       .attr("x", 0)
       .attr("y", (d) => yScale(d.topic) ?? 0)
       .attr("fill", this.props.color)
       .attr("height", yScale.bandwidth())
-      .attr("width", (d) => xScale(0));
+      .attr("width", (d) => 0);
 
-    this.bounds
+    updated
+      .select("text")
+      .attr("class", "barLabel")
+      .attr("opacity", 0)
+      .style("font-size", "12px")
+      .attr("text-anchor", "end")
+      .attr("alignment-baseline", "middle")
+      .attr("x", 0)
+      .attr("y", (d) => (yScale(d.topic) ?? 0) + 0.5 * yScale.bandwidth())
+      .text("test");
+
+    const animation = this.bounds
       .selectAll<SVGRectElement, TopicViews>(".bar")
       .transition()
-      .duration(800)
-      .delay((d, i) => i * 100)
-      .attr("width", (d) => xScale(d.views));
+      .duration(animated ? 800 : 0)
+      .delay((d, i) => (animated ? i * 100 : 0));
+
+    animation.select("rect").attr("width", (d) => Math.abs(xScale(d.views)));
+
+    animation
+      .select("text")
+      .attr("opacity", (d) => (Math.abs(xScale(d.views)) > 30 ? 1 : 0))
+      .attr("x", (d) => Math.abs(xScale(d.views)) - 5);
   };
 
   addBarPlot = () => {
     this.container = d3.select<HTMLDivElement, any>(
       `#barplot-${this.props.id}-container`
     );
-    console.log(this.container);
 
     this.svg = this.container.append("svg");
     this.bounds = this.svg.append("g");
 
     // add axis
     this.bounds.append("g").attr("class", "xAxis");
+
+    this.bounds
+      .append("text")
+      .attr("class", "xLabelBar")
+      .style("font-size", 15)
+      .attr("text-anchor", "middle")
+      .text("absolute difference page views");
+
     this.bounds.append("g").attr("class", "yAxis");
 
     d3.csv<TestCols>(
@@ -162,10 +201,17 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       });
       this.update(true);
     });
+
+    const resize = () => {
+      console.log("bar resize");
+      this.update();
+    };
+    window.addEventListener("resize", resize);
   };
 
   componentDidMount() {
     this.addBarPlot();
+    this.update(true);
   }
 
   render() {
@@ -185,7 +231,7 @@ class TopicAttention extends React.Component<
   TopicAttentionProps,
   TopicAttentionState
 > {
-  margins = { top: 30, right: 30, bottom: 50, left: 100 };
+  margins = { top: 30, right: 30, bottom: 60, left: 100 };
   height = 400;
 
   constructor(props: TopicAttentionProps) {
@@ -199,8 +245,6 @@ class TopicAttention extends React.Component<
   ) {
     if (this.props.currentChangepoint !== prevProps.currentChangepoint) {
       // todo: load data here
-      // we need the tag for that
-      // store the tag in the store as well
       // set the data as prop for the two bar plots
       console.log(
         "would load changepoint",

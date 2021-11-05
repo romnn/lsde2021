@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route, Link } from "react-router-dom";
+import { Route, Link } from "react-router-dom";
 import WorldMap from "./Map";
 import TopicBarPlot from "./TopicBarPlot";
 import Timeline from "./Timeline";
@@ -121,6 +121,7 @@ class Main extends React.Component<MainProps, MainState> {
   componentDidMount() {
     this.state.availableTags
       .filter((t) => t.title === "Germany:Stringency")
+      .filter((t) => !this.props.activeTags.some((tt) => t.title === tt.title))
       .forEach((t) => {
         console.log("adding", t);
         this.props.addTag(t);
@@ -161,9 +162,22 @@ class Main extends React.Component<MainProps, MainState> {
       // check border cases size 1 array and empty first word)
 
       if (!words[0]) return 0;
-      if (words.length == 1) return words[0].length;
+      if (words.length === 1) return words[0].length;
+
       let i = 0;
-      while (words[0][i] && words.every((w) => w[i] === words[0][i])) i++;
+      let done = false;
+      // while (words[0][i] && words.every((w) => w[i] === words[0][i])) i++;
+      // avoid unsafe use of variable i by using a for loop:
+      while (words[0][i]) {
+        for (let w of words) {
+          if (w[i] !== words[0][i]) {
+            done = true;
+            break;
+          }
+        }
+        if (done) break;
+        i++;
+      }
 
       return words[0].substr(0, i).length;
     };
@@ -254,40 +268,6 @@ class Main extends React.Component<MainProps, MainState> {
         );
       });
 
-    const worldMapTab = (
-      <div className="flex">
-        <div className="w-3/4 inline-block">
-          <WorldMap />
-        </div>
-        <div className="w-1/4 inline-block px-2">
-          <button
-            type="button"
-            className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500"
-            id="menu-button"
-            aria-expanded="true"
-            aria-haspopup="true"
-          >
-            Options
-            <svg
-              className="-mr-1 ml-2 h-5 w-5"
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              aria-hidden="true"
-            >
-              <path
-                fillRule="evenodd"
-                d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </button>
-        </div>
-      </div>
-    );
-
-    const TopicAttentionTab = <TopicBarPlot />;
-
     const tabStyle =
       "cursor-pointer font-semibold bg-white inline-block py-1 px-2 ";
     const selectedTabStyle =
@@ -332,7 +312,7 @@ class Main extends React.Component<MainProps, MainState> {
               }
               to="/"
             >
-              Attention Shifts
+              Attention Shift
             </Link>
           </li>
 

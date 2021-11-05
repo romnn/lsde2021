@@ -26,12 +26,14 @@ type CountryStringency = {
   stringency: Stringency[];
 };
 
+type Pageview = {
+  date: Date;
+  views: number;
+};
+
 type CountryTopicAttention = {
   country: Country;
-  traffic: {
-    date: string;
-    page_views: number;
-  };
+  traffic: Pageview[];
 };
 
 const mapState = (state: RootState) => ({
@@ -40,11 +42,12 @@ const mapState = (state: RootState) => ({
 });
 
 const mapDispatch = {
-  selectChangepoint: (changepoint: Date | undefined) => ({
+  selectChangepoint: (payload: {
+    changepoint: Date | undefined;
+    tag: Tag | undefined;
+  }) => ({
     type: Action.SelectChangepoint,
-    payload: {
-      changepoint,
-    },
+    payload,
   }),
   incrementLoading: () => ({
     type: Action.IncrementLoading,
@@ -80,7 +83,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
   hoverLabel!: d3.Selection<SVGTextElement, any, HTMLElement, any>;
 
   hoverEnabled: boolean = true;
-  margin = { top: 10, right: 10, bottom: 35, left: 30 };
+  margin = { top: 10, right: 40, bottom: 35, left: 30 };
   height = 300;
 
   constructor(props: TimelineProps) {
@@ -107,15 +110,17 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .attr("height", this.height - this.margin.top - this.margin.bottom);
 
     this.hoverLabel
-      .attr("x", width - this.margin.top - this.margin.bottom - 50)
-      .attr("y", this.height - this.margin.top - this.margin.bottom - 50);
+      .attr("x", width - this.margin.left - this.margin.right - 10)
+      .attr("y", this.height - this.margin.top - this.margin.bottom - 10);
 
     this.hoverLine.attr(
       "height",
       this.height - this.margin.top - this.margin.bottom
     );
 
+    // data types
     type ChangepointGraph = { date: Date; id: string };
+
     type StringencyGraph = {
       id: string;
       stringency: {
@@ -124,6 +129,11 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         notes: string[];
       }[];
       changepoints: ChangepointGraph[];
+    };
+
+    type PageviewGraph = {
+      id: string;
+      traffic: Pageview[];
     };
 
     const stringencies: StringencyGraph[] = Array.from(
@@ -144,29 +154,53 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       };
     });
 
+    const pageviews: PageviewGraph[] = Array.from(
+      this.state.topics.entries()
+    ).map(([tag, t]) => {
+      return {
+        id: tag,
+        traffic: t.traffic,
+      };
+    });
+
+    this.bounds
+      .select(".yLabelStringency")
+      .attr("opacity", stringencies.length > 0 ? 1 : 0);
+
+    this.bounds
+      .select(".yLabelPageviews")
+      .attr("opacity", pageviews.length > 0 ? 1 : 0)
+      .attr(
+        "transform",
+        `translate(${
+          width - this.margin.left - this.margin.right - 10
+        },0)rotate(-90)`
+      );
+
     const color = d3
       .scaleOrdinal(d3.schemeCategory10)
-      .domain(stringencies.map((s) => s.id));
+      .domain([...stringencies, ...pageviews].map((s) => s.id));
 
-    const xExtent: [Date, Date] = [
+    // compute the total x domain (stringency and pageviews combined)
+    const xExtentStringencies = [
       d3.min(stringencies, (s) => d3.min(s.stringency, (d) => d.date)),
       d3.max(stringencies, (s) => d3.max(s.stringency, (d) => d.date)),
     ] as [Date, Date];
 
-    const yExtentStringency: [number, number] = [
-      d3.min(stringencies, (s) => d3.min(s.stringency, (d) => d.value)),
-      d3.max(stringencies, (s) => d3.max(s.stringency, (d) => d.value)),
-    ] as [number, number];
+    const xExtentPageviews = [
+      d3.min(pageviews, (s) => d3.min(s.traffic, (d) => d.date)),
+      d3.max(pageviews, (s) => d3.max(s.traffic, (d) => d.date)),
+    ] as [Date, Date];
+
+    const xExtent = d3.extent([
+      ...xExtentStringencies,
+      ...xExtentPageviews,
+    ]) as [Date, Date];
 
     const xScale = d3
       .scaleTime()
       .range([0, width - this.margin.left - this.margin.right])
       .domain(xExtent);
-
-    const yScaleStringency = d3
-      .scaleLinear<number>()
-      .range([this.height - this.margin.top - this.margin.bottom, 0])
-      .domain(yExtentStringency);
 
     this.bounds
       .selectAll<SVGGElement, any>(".xAxis")
@@ -181,6 +215,17 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .attr("transform", "translate(-10,0)rotate(-45)")
       .style("text-anchor", "end");
 
+    // compute the total y domain (stringency and pageviews separately)
+    const yExtentStringency = [
+      d3.min(stringencies, (s) => d3.min(s.stringency, (d) => d.value)),
+      d3.max(stringencies, (s) => d3.max(s.stringency, (d) => d.value)),
+    ] as [number, number];
+
+    const yScaleStringency = d3
+      .scaleLinear<number>()
+      .range([this.height - this.margin.top - this.margin.bottom, 0])
+      .domain(yExtentStringency);
+
     this.bounds
       .selectAll<SVGGElement, any>(".yAxisStringency")
       .transition()
@@ -188,6 +233,28 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .call(d3.axisLeft(yScaleStringency))
       .selectAll("text")
       .style("text-anchor", "end");
+
+    const yExtentPageviews = [
+      d3.min(pageviews, (s) => d3.min(s.traffic, (d) => d.views)),
+      d3.max(pageviews, (s) => d3.max(s.traffic, (d) => d.views)),
+    ] as [number, number];
+
+    const yScalePageviews = d3
+      .scaleLinear<number>()
+      .range([this.height - this.margin.top - this.margin.bottom, 0])
+      .domain(yExtentPageviews);
+
+    this.bounds
+      .selectAll<SVGGElement, any>(".yAxisPageviews")
+      .attr(
+        "transform",
+        `translate(${width - this.margin.left - this.margin.right}, 0)`
+      )
+      .transition()
+      .duration(animated ? 100 : 0)
+      .call(d3.axisRight(yScalePageviews))
+      .selectAll("text")
+      .style("text-anchor", "start");
 
     const stringenciesProj = this.bounds
       .selectAll<SVGGElement, StringencyGraph>(".stringency")
@@ -200,6 +267,19 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .attr("class", (s) => `stringency ${s.id}`);
 
     stringenciesProjContainer.append("path").attr("class", "line");
+    stringenciesProjContainer
+      .append("text")
+      .attr("class", (s) => `legend-${s.id}`)
+      .attr("text-anchor", "end")
+      .style("font-size", "10px")
+      .attr("fill", (d) => color(d.id))
+      .attr("x", width - this.margin.left - this.margin.right - 10)
+      .attr(
+        "y",
+        (d, i) =>
+          this.height - this.margin.top - this.margin.bottom - 35 - 15 * i
+      )
+      .text((d) => d.id);
 
     const line = d3
       .line<{ date: Date; value: number }>()
@@ -244,7 +324,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .on("click", (event, d) => {
         const current = d3.select(event.currentTarget);
         if (
-          this.props.currentChangepoint != undefined &&
+          this.props.currentChangepoint !== undefined &&
           !isSameDate(d.date, this.props.currentChangepoint)
         ) {
           // must deselect old one
@@ -260,7 +340,13 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         current
           .classed("selected", !alreadySelected)
           .attr("opacity", (d) => (alreadySelected ? 0.1 : 0.5));
-        this.props.selectChangepoint(alreadySelected ? undefined : d.date);
+
+        this.props.selectChangepoint({
+          changepoint: alreadySelected ? undefined : d.date,
+          tag: alreadySelected
+            ? undefined
+            : this.props.activeTags.find((t) => t.title === d.id),
+        });
       })
       .on("mouseover", (event, d) => {
         d3.select(event.currentTarget).attr("opacity", 0.5);
@@ -296,7 +382,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       })
       .on("mousemove", (event, d) => {
         if (!this.hoverEnabled) return;
-        const [mouseX, mouseY] = d3.pointer(event);
+        const mouseX = d3.pointer(event)[0];
         const hoveredDate: Date = xScale.invert(mouseX);
         this.hoverLabel.text(d3.timeFormat("%B %d, %Y")(hoveredDate));
         this.hoverLine.attr("x", xScale(hoveredDate));
@@ -326,7 +412,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
               ...new Set(
                 closestDataPoint?.notes.map((n) => {
                   const stripped = n.replace(
-                    /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)\s*)+\)?)/gim,
+                    /(\(?\s*(Sources?:\s*)?(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)\s*)+\)?)/gim,
                     " [...] "
                   );
                   return stripped;
@@ -346,16 +432,20 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     this.bounds.append("g").attr("class", "xAxis");
 
     this.bounds.append("g").attr("class", "yAxisStringency");
-    this.bounds.append("g").attr("class", "yAxisPageViews");
+    this.bounds.append("g").attr("class", "yAxisPageviews");
 
     this.bounds
       .append("text")
       .attr("class", "yLabelStringency")
       .attr("text-anchor", "end")
-      .attr("y", 0)
-      .attr("dy", "1em")
-      .attr("transform", "rotate(-90)")
+      .attr("transform", "translate(15,0)rotate(-90)")
       .text("stringency index");
+
+    this.bounds
+      .append("text")
+      .attr("class", "yLabelPageviews")
+      .attr("text-anchor", "end")
+      .text("pageviews");
 
     this.listeningRect = this.bounds
       .append("rect")
@@ -375,14 +465,12 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .text("")
       .style("text-anchor", "end")
       .style("fill", "black")
-      .style("font-family", "Arial")
       .style("font-size", 15);
 
     const resize = () => {
       this.update();
     };
-    d3.select(window).on("resize", resize);
-    resize();
+    window.addEventListener("resize", resize);
   };
 
   loadData<D>(tag: Tag): Promise<D> {
@@ -459,6 +547,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
 
   componentDidMount() {
     this.addTimeline();
+    this.update(true);
   }
 
   render() {
