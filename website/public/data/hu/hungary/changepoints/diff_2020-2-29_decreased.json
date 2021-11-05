@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -4940.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -4319.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4291.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2423.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -2238.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2125.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2077.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -1997.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -1966.0,
+      "topic": "Chad"
+    },
+    {
+      "diff": -1931.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1843.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1798.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1769.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -1752.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1686.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1615.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -1594.0,
+      "topic": "Stars with proper names"
+    },
+    {
+      "diff": -1576.0,
+      "topic": "Ancient astronomy"
+    },
+    {
+      "diff": -1549.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    }
+  ]
+}

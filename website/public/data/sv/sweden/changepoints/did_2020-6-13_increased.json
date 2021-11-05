@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 13724.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 10735.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 10614.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 10596.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 9990.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 5630.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5577.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4986.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 3729.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 3582.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 3452.0,
+      "topic": "British music history"
+    },
+    {
+      "diff": 3433.0,
+      "topic": "Dances"
+    },
+    {
+      "diff": 3253.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 2372.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 2103.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 1362.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1340.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 1304.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 1211.0,
+      "topic": "County"
+    }
+  ]
+}

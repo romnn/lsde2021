@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1942.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -1421.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1362.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1177.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1147.0,
+      "topic": "Arab society"
+    },
+    {
+      "diff": -1132.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -968.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -928.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -837.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -799.0,
+      "topic": "Record producers"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -705.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -699.0,
+      "topic": "City"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -634.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -589.0,
+      "topic": "People"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -502.0,
+      "topic": "Cities"
+    }
+  ]
+}

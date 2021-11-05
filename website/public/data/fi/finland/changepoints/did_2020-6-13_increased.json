@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 7415.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 7017.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 6954.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 6945.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 6752.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 6308.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 5194.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3574.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 3376.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 3164.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2192.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 2176.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2172.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 2155.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2049.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 2023.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1883.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 1695.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 1615.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 1609.0,
+      "topic": "Landforms"
+    }
+  ]
+}

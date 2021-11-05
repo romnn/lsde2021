@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-06",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1017.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -1008.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -977.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -971.0,
+      "topic": "States"
+    },
+    {
+      "diff": -902.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": -780.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -683.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -459.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -395.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": -351.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -349.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -330.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -303.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -238.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -185.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -170.0,
+      "topic": "Fungi"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Global natural environment"
+    }
+  ]
+}

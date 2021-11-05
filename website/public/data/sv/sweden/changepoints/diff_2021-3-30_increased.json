@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 3021.0,
+      "topic": "Psychoactive drugs"
+    },
+    {
+      "diff": 2962.0,
+      "topic": "Musical culture"
+    },
+    {
+      "diff": 2757.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2074.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1999.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 1899.0,
+      "topic": "Swedish people"
+    },
+    {
+      "diff": 1827.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 1824.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 1824.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 1824.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 1204.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1151.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 1103.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 1099.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": 1098.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": 1056.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": 1014.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 1002.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 995.0,
+      "topic": "Germanic words"
+    }
+  ]
+}

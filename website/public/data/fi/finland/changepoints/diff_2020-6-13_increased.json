@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 3769.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 3634.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 3605.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 3599.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 3585.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 3172.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2966.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 1968.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1947.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 1698.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1527.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 1506.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1486.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 1397.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1307.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 1298.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1295.0,
+      "topic": "Human culture"
+    },
+    {
+      "diff": 1279.0,
+      "topic": "Jurassic events"
+    },
+    {
+      "diff": 1277.0,
+      "topic": "Late jurassic"
+    },
+    {
+      "diff": 1270.0,
+      "topic": "People"
+    }
+  ]
+}

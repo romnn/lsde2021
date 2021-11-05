@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -4477.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -2491.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2419.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2055.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1768.0,
+      "topic": "North american cuisine"
+    },
+    {
+      "diff": -1729.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1562.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1306.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -1250.0,
+      "topic": "Eurovision song contest"
+    },
+    {
+      "diff": -1239.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -1122.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -1100.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -963.0,
+      "topic": "Eastern europe"
+    },
+    {
+      "diff": -954.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -949.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": -947.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -914.0,
+      "topic": "Lakes"
+    }
+  ]
+}

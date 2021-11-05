@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 6962.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4213.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4207.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 3933.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 3386.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2880.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2302.0,
+      "topic": "Agriculture"
+    },
+    {
+      "diff": 2287.0,
+      "topic": "Fashion"
+    },
+    {
+      "diff": 2258.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 2257.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 2107.0,
+      "topic": "Waste"
+    },
+    {
+      "diff": 2085.0,
+      "topic": "Handicrafts"
+    },
+    {
+      "diff": 1956.0,
+      "topic": "Carbohydrates"
+    },
+    {
+      "diff": 1953.0,
+      "topic": "France"
+    },
+    {
+      "diff": 1667.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1661.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 1391.0,
+      "topic": "Maintenance"
+    }
+  ]
+}

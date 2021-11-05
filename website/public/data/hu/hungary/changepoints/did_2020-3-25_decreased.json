@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -5442.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -3910.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Thoroughbred racehorses"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": -3813.0,
+      "topic": "Racehorse deaths"
+    },
+    {
+      "diff": -3013.0,
+      "topic": "Sub-ethnic groups"
+    },
+    {
+      "diff": -2924.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2663.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -2597.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -2502.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -2489.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -2421.0,
+      "topic": "Second-level administrative divisions by country"
+    },
+    {
+      "diff": -2328.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -2121.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": -2111.0,
+      "topic": "Marine animals"
+    },
+    {
+      "diff": -2086.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -2061.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -2048.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -1931.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

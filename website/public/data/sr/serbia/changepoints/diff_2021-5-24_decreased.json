@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -4230.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3585.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3404.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -3170.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2959.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -2896.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -1833.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1734.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1724.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1361.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -1305.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1249.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1232.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -1091.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -868.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -824.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -819.0,
+      "topic": "Serbia"
+    }
+  ]
+}

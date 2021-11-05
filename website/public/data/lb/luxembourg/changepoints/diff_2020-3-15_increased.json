@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 45.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Earth observation"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Rebellions"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Indoor soccer leagues"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Anthropomorphism"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Games"
+    }
+  ]
+}

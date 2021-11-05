@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -10156.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8265.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -7202.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -7197.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -6446.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -6239.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6040.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -5831.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5399.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -5398.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -5196.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4800.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": -4629.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -4559.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -4497.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": -4400.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": -4282.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -4218.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -4023.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": -4016.0,
+      "topic": "Urban anthropology"
+    }
+  ]
+}

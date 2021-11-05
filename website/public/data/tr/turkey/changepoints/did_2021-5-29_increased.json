@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 4242.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 4221.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 3665.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": 3588.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 3556.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 3516.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": 3502.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 3325.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 2952.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2925.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1550.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 1534.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 1310.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 1284.0,
+      "topic": "Turkic literature"
+    },
+    {
+      "diff": 1149.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 1102.0,
+      "topic": "Nomadic groups"
+    },
+    {
+      "diff": 1019.0,
+      "topic": "Television series endings"
+    },
+    {
+      "diff": 1009.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 994.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 966.0,
+      "topic": "European political history"
+    }
+  ]
+}

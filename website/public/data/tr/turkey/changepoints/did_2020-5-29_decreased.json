@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -11233.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -10458.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9577.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -8573.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -7499.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7396.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5212.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4953.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -4864.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -4604.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -4320.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4203.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4135.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3875.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -3700.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3299.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3164.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3021.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -2958.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -2563.0,
+      "topic": "Former countries"
+    }
+  ]
+}

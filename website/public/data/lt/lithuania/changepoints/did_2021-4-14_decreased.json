@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -2118.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2055.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1954.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1951.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1926.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -960.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -864.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -762.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -438.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -428.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -424.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -396.0,
+      "topic": "Categories"
+    }
+  ]
+}

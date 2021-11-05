@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -7649.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4389.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4294.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3886.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -3711.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3067.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3019.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -2993.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2619.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2310.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2139.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2102.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2067.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -2040.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1924.0,
+      "topic": "Syrian culture"
+    },
+    {
+      "diff": -1837.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -1836.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1836.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1836.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1836.0,
+      "topic": "Protestant holy days"
+    }
+  ]
+}

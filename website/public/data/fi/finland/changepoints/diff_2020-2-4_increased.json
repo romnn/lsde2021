@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 738.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 725.0,
+      "topic": "Punk rock"
+    },
+    {
+      "diff": 626.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 608.0,
+      "topic": "Periodicals"
+    },
+    {
+      "diff": 542.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 540.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Newspapers"
+    },
+    {
+      "diff": 439.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Political concepts"
+    },
+    {
+      "diff": 375.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 358.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 339.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Organ systems"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 272.0,
+      "topic": "Arts awards"
+    },
+    {
+      "diff": 261.0,
+      "topic": "Body regions"
+    },
+    {
+      "diff": 252.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 232.0,
+      "topic": "Arts organizations"
+    }
+  ]
+}

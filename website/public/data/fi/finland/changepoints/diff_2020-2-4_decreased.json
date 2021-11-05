@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -4175.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4001.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2186.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2067.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": -2041.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1987.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1933.0,
+      "topic": "1960s"
+    },
+    {
+      "diff": -1918.0,
+      "topic": "Defunct organizations"
+    },
+    {
+      "diff": -1891.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1734.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1652.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -1613.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1591.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1570.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1450.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1244.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1206.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1129.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1094.0,
+      "topic": "Categories"
+    }
+  ]
+}

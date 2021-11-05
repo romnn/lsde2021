@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -8439.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7141.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6888.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6493.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6451.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6234.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5145.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4856.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4564.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4339.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4074.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3867.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3793.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3762.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -3716.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3545.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -3147.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3109.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3007.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2976.0,
+      "topic": "Serbia"
+    }
+  ]
+}

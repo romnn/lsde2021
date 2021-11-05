@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 576.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 466.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 427.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 398.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 346.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 324.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 322.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 314.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 307.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 300.0,
+      "topic": "History"
+    },
+    {
+      "diff": 273.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 270.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": 257.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 253.0,
+      "topic": "Applied sciences"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Visual arts"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Linguistics"
+    },
+    {
+      "diff": 230.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 223.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

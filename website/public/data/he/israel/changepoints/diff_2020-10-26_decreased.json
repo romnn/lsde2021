@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -2686.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2628.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -2292.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1825.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -1803.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1779.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1758.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -1741.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -1706.0,
+      "topic": "Amazon biome"
+    },
+    {
+      "diff": -1700.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1694.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -1534.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Economics"
+    },
+    {
+      "diff": -1102.0,
+      "topic": "1940s establishments"
+    },
+    {
+      "diff": -1062.0,
+      "topic": "History"
+    },
+    {
+      "diff": -988.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -949.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -904.0,
+      "topic": "Jewish languages"
+    }
+  ]
+}

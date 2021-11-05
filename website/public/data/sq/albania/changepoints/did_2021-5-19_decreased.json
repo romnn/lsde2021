@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -986.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -974.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -967.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -957.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -861.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -830.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -781.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -618.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -541.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -486.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -450.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -432.0,
+      "topic": "Prehistoric life"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Formal description"
+    },
+    {
+      "diff": -415.0,
+      "topic": "Taxa"
+    }
+  ]
+}

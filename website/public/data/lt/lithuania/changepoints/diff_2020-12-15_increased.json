@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 2676.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2088.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": 2060.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 1428.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 1352.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": 1352.0,
+      "topic": "Ceremonial food"
+    },
+    {
+      "diff": 1351.0,
+      "topic": "Dining"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 692.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 527.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 503.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 362.0,
+      "topic": "France"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 259.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 134.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Confectionery"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Spain"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-21",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -3162.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2714.0,
+      "topic": "Leisure"
+    },
+    {
+      "diff": -2450.0,
+      "topic": "Maritime culture"
+    },
+    {
+      "diff": -2412.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -2387.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -1499.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1451.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1171.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1114.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1032.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Montenegro"
+    },
+    {
+      "diff": -782.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -777.0,
+      "topic": "History"
+    },
+    {
+      "diff": -740.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": -553.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Luxembourg"
+    }
+  ]
+}

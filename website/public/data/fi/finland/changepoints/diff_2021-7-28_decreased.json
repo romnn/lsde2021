@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -4699.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -3300.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3209.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -3164.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2944.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2433.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2098.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1469.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1402.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1131.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -1108.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1102.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1069.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -987.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -947.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -937.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Zoologists"
+    }
+  ]
+}

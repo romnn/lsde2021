@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 923.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 758.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 745.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 681.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 600.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 586.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 584.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 558.0,
+      "topic": "Housing organizations"
+    },
+    {
+      "diff": 551.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 540.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 494.0,
+      "topic": "Jewish movements"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 446.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 375.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 366.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Collectives"
+    },
+    {
+      "diff": 364.0,
+      "topic": "Neighbourhoods"
+    },
+    {
+      "diff": 360.0,
+      "topic": "Self"
+    }
+  ]
+}

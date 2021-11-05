@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -21180.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -19954.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -11925.0,
+      "topic": "France"
+    },
+    {
+      "diff": -5974.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4415.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -3709.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -3605.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -3604.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -3604.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -3604.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -3390.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -3317.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -3163.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -3136.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -3093.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": -3088.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3069.0,
+      "topic": "Dances"
+    },
+    {
+      "diff": -3069.0,
+      "topic": "British music history"
+    },
+    {
+      "diff": -3048.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -2842.0,
+      "topic": "History"
+    }
+  ]
+}

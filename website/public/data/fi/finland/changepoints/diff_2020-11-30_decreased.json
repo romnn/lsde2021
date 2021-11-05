@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-30",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1550.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1310.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -1289.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1245.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -1242.0,
+      "topic": "Personal development"
+    },
+    {
+      "diff": -1180.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -1180.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1176.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -1068.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1047.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -1021.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -998.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -843.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -828.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -791.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -714.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -707.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -702.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

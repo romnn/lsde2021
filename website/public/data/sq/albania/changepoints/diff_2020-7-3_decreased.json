@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -1119.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1059.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -925.0,
+      "topic": "History"
+    },
+    {
+      "diff": -918.0,
+      "topic": "Systems engineering"
+    },
+    {
+      "diff": -905.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -900.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -880.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -872.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -797.0,
+      "topic": "Ecosystems"
+    },
+    {
+      "diff": -717.0,
+      "topic": "Intelligence"
+    },
+    {
+      "diff": -687.0,
+      "topic": "Control theory"
+    },
+    {
+      "diff": -675.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -621.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -585.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -537.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -466.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Vocabulary"
+    }
+  ]
+}

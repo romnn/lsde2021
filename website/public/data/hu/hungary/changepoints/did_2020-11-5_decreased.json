@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -17373.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -8439.0,
+      "topic": "France"
+    },
+    {
+      "diff": -7633.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -7176.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6988.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -6654.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -6005.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -5580.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -5532.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5427.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -5269.0,
+      "topic": "State"
+    },
+    {
+      "diff": -4688.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -4205.0,
+      "topic": "English language"
+    },
+    {
+      "diff": -4201.0,
+      "topic": "Germanic language histories"
+    },
+    {
+      "diff": -4201.0,
+      "topic": "Anglo-frisian languages"
+    },
+    {
+      "diff": -3918.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -3833.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -3820.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -3361.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -3357.0,
+      "topic": "Departments"
+    }
+  ]
+}

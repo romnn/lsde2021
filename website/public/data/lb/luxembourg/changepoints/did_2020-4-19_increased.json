@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 210.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 88.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 83.0,
+      "topic": "History"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Hawaii"
+    }
+  ]
+}

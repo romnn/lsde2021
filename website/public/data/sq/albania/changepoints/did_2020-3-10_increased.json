@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 2679.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2677.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2147.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1801.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1579.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1088.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1078.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1076.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 927.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 924.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 914.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 860.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 850.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 848.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": 846.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 771.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 681.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 681.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 656.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 641.0,
+      "topic": "Life skills"
+    }
+  ]
+}

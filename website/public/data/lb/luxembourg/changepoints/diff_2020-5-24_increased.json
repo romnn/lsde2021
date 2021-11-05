@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 18.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 8.0,
+      "topic": "England"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Heritage organizations"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Departments of provence-alpes-c\u00f4te d'azur"
+    },
+    {
+      "diff": 6.0,
+      "topic": "East coast"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Fruit dishes"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Tropical fruit"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Los angeles"
+    },
+    {
+      "diff": 5.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Mythological kings"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Speculative fiction literature"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Metric system"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Nuts statistical regions"
+    }
+  ]
+}

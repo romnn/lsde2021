@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -6070.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5251.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5101.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3865.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3767.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3479.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3355.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3060.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2435.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2306.0,
+      "topic": "Separatism"
+    },
+    {
+      "diff": -2253.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2219.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -2161.0,
+      "topic": "Independence"
+    },
+    {
+      "diff": -2147.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2106.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -2083.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2068.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -2022.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -2002.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1812.0,
+      "topic": "Arabic languages"
+    }
+  ]
+}

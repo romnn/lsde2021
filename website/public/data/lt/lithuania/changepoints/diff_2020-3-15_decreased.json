@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1543.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1343.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1140.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -783.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -718.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -697.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -600.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -573.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -522.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -482.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Lithuania"
+    },
+    {
+      "diff": -449.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -446.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -377.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -344.0,
+      "topic": "Subdivisions"
+    }
+  ]
+}

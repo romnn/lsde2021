@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -20090.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": -20024.0,
+      "topic": "Materials"
+    },
+    {
+      "diff": -19335.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -18567.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -17715.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -6287.0,
+      "topic": "Emergence"
+    },
+    {
+      "diff": -6156.0,
+      "topic": "Cognitive neuroscience"
+    },
+    {
+      "diff": -6024.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -5802.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -5549.0,
+      "topic": "Linguistics"
+    },
+    {
+      "diff": -3729.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3136.0,
+      "topic": "Mongolia"
+    },
+    {
+      "diff": -3121.0,
+      "topic": "Wildlife"
+    },
+    {
+      "diff": -3035.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -2990.0,
+      "topic": "China"
+    },
+    {
+      "diff": -2970.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -2705.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -2548.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2248.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2195.0,
+      "topic": "Provinces"
+    }
+  ]
+}

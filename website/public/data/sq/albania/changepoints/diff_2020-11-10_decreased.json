@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": -406.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -376.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -347.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Political geography"
+    },
+    {
+      "diff": -326.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -296.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -269.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -231.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -222.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -205.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": -201.0,
+      "topic": "Ancient history"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Property law"
+    },
+    {
+      "diff": -195.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -191.0,
+      "topic": "Esotericism"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 884.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 782.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 689.0,
+      "topic": "Psychological concepts"
+    },
+    {
+      "diff": 658.0,
+      "topic": "Behavioural sciences"
+    },
+    {
+      "diff": 618.0,
+      "topic": "Insect-related occupations or hobbies"
+    },
+    {
+      "diff": 618.0,
+      "topic": "Arthropodology"
+    },
+    {
+      "diff": 428.0,
+      "topic": "History"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Indo-european culture"
+    },
+    {
+      "diff": 400.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 400.0,
+      "topic": "Community building"
+    },
+    {
+      "diff": 397.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Pseudo-scholarship"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Cybercrime"
+    },
+    {
+      "diff": 367.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 338.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": 324.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": 320.0,
+      "topic": "African-american music"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Folklore"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-11",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 2422.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1613.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1596.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1479.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 1333.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 1322.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 1257.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1181.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1172.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1157.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1139.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 1030.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1012.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 972.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 947.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 900.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 854.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 835.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 814.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 768.0,
+      "topic": "Games"
+    }
+  ]
+}

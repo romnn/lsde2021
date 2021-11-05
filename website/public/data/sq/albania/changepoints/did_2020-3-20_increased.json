@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 5995.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 5843.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 5185.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 4965.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 4710.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 4157.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3896.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3770.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3122.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2763.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2739.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2708.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2563.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2525.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 2473.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2404.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2277.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 2054.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2034.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 1910.0,
+      "topic": "Humanities"
+    }
+  ]
+}

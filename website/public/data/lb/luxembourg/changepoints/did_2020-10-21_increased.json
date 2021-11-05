@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 58.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 42.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Parasitic animals"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Coasts"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Systems ecology"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 9.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Cambrian geology"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Set indices"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Scientific nomenclature"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Northeast asia"
+    }
+  ]
+}

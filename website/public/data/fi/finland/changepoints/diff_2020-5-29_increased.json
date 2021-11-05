@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 726.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 640.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 632.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 630.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 591.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": 514.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 462.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 459.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 446.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": 365.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 304.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 285.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": 273.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": 255.0,
+      "topic": "Southern finland province"
+    },
+    {
+      "diff": 253.0,
+      "topic": "Romance"
+    },
+    {
+      "diff": 238.0,
+      "topic": "Justice"
+    }
+  ]
+}

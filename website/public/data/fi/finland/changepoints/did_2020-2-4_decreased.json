@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -7479.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5487.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3251.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2691.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2582.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2485.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2483.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2290.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2247.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2221.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": -2073.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1980.0,
+      "topic": "1960s"
+    },
+    {
+      "diff": -1957.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1910.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1908.0,
+      "topic": "Defunct organizations"
+    },
+    {
+      "diff": -1826.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1809.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1749.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -1697.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1693.0,
+      "topic": "Populated places"
+    }
+  ]
+}

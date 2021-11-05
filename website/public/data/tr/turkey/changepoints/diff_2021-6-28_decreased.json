@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -12864.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9728.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7546.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -7361.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -6944.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -6054.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4920.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -4688.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4090.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3272.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3133.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -2906.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": -2802.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -2758.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2752.0,
+      "topic": "14th century"
+    },
+    {
+      "diff": -2707.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2682.0,
+      "topic": "Byzantine\u2013turkish wars"
+    },
+    {
+      "diff": -2576.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2335.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": -2227.0,
+      "topic": "Organisms"
+    }
+  ]
+}

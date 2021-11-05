@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 1757.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 1175.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 1026.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 968.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 900.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 829.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 829.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 823.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 778.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 679.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": 638.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 607.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 577.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Thailand"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Vietnam"
+    },
+    {
+      "diff": 520.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 520.0,
+      "topic": "Subfields"
+    }
+  ]
+}

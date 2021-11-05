@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -8744.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -6606.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -6081.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -5940.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -5835.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5752.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -5751.0,
+      "topic": "Altai people"
+    },
+    {
+      "diff": -5735.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": -5332.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -4874.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -4671.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3787.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3540.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3185.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2829.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2788.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2768.0,
+      "topic": "City"
+    },
+    {
+      "diff": -2751.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -2719.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -2711.0,
+      "topic": "Sports clubs"
+    }
+  ]
+}

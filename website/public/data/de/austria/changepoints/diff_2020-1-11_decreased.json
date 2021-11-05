@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -12927.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -9611.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -9434.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -8743.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -8172.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -8055.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -7586.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -5858.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -5838.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -4953.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4828.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -4825.0,
+      "topic": "2000s introductions"
+    },
+    {
+      "diff": -4798.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": -4591.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -4574.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -4572.0,
+      "topic": "Digital media"
+    },
+    {
+      "diff": -4530.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -4509.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -4108.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3711.0,
+      "topic": "Internet"
+    }
+  ]
+}

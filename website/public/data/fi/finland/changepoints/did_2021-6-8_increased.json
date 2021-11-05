@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 6293.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4900.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4759.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 4706.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 4698.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 4433.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 3694.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 3118.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2622.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 2561.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2304.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2134.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2072.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1808.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1545.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1543.0,
+      "topic": "Mesozoic life"
+    },
+    {
+      "diff": 1481.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 1434.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1419.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 1319.0,
+      "topic": "Classification"
+    }
+  ]
+}

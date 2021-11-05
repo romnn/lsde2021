@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-30",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 1544.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1266.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 1198.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1094.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1089.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 1089.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1064.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 970.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 879.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 721.0,
+      "topic": "Finnish musicians"
+    },
+    {
+      "diff": 717.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 709.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": 689.0,
+      "topic": "Political divisions"
+    },
+    {
+      "diff": 616.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 597.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 597.0,
+      "topic": "Former empires"
+    },
+    {
+      "diff": 584.0,
+      "topic": "France"
+    }
+  ]
+}

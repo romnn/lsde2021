@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 2427.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1319.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1247.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1235.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 1229.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 1204.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 1048.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 1031.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": 990.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 930.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 910.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 885.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 771.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 719.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 715.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 710.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 705.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Mesozoic life"
+    }
+  ]
+}

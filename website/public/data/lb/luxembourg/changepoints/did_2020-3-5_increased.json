@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 570.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 550.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 497.0,
+      "topic": "France"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 150.0,
+      "topic": "History"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": 96.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Top-level stub categories"
+    }
+  ]
+}

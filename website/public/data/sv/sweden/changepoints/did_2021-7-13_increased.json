@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 15888.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12034.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 7276.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 7203.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 6299.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6109.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5958.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3504.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 3439.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 3252.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 3009.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 2621.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2573.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 2422.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2308.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 2200.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2178.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2119.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 2107.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2012.0,
+      "topic": "Dance music"
+    }
+  ]
+}

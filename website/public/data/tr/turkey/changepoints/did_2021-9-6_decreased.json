@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-06",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -13789.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": -13747.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": -13579.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -13469.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -13428.0,
+      "topic": "England"
+    },
+    {
+      "diff": -8401.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4150.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -3430.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3385.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -2933.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -2871.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -2857.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -2809.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -2742.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -2690.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2644.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -2564.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -2417.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -2341.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -2137.0,
+      "topic": "Islam"
+    }
+  ]
+}

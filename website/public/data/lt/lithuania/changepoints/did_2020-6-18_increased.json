@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 171.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Slovakia"
+    },
+    {
+      "diff": 164.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Baltic states"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 114.0,
+      "topic": "Metrology"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Latvia"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Populated waterside places"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Prehistoric vertebrates"
+    },
+    {
+      "diff": 80.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 75.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Stars with proper names"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Seasonal traditions"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Folk costumes"
+    }
+  ]
+}

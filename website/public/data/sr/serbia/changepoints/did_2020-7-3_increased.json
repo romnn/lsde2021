@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 1319.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1155.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": 1142.0,
+      "topic": "Circulatory system"
+    },
+    {
+      "diff": 1108.0,
+      "topic": "Angiology"
+    },
+    {
+      "diff": 1063.0,
+      "topic": "Death"
+    },
+    {
+      "diff": 892.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": 863.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 775.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 623.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 622.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 620.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 491.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 433.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Natural environment based therapies"
+    },
+    {
+      "diff": 381.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 358.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Cultural assimilation"
+    }
+  ]
+}

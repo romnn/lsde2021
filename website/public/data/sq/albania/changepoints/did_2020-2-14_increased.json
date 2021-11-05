@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-14",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 577.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": 531.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 521.0,
+      "topic": "Human development"
+    },
+    {
+      "diff": 517.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 508.0,
+      "topic": "Transitional justice"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 416.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": 353.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 325.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 307.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 246.0,
+      "topic": "Tribes"
+    },
+    {
+      "diff": 244.0,
+      "topic": "Balkans"
+    },
+    {
+      "diff": 226.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Mathematical concepts"
+    },
+    {
+      "diff": 221.0,
+      "topic": "Historical ethnic groups"
+    },
+    {
+      "diff": 211.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": 199.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 194.0,
+      "topic": "Eastern mediterranean"
+    }
+  ]
+}

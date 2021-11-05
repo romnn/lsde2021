@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 391.0,
+      "topic": "Word play"
+    },
+    {
+      "diff": 361.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": 335.0,
+      "topic": "Mental health"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 279.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": 164.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 100.0,
+      "topic": "Confederate states"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 96.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 64.0,
+      "topic": "E-commerce websites"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 54.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Youth"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Family"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Disability"
+    }
+  ]
+}

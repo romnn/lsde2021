@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 35.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 27.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Anti-corporate activism"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Past"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 15.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 14.0,
+      "topic": "1920s"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Social conventions"
+    }
+  ]
+}

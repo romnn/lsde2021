@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 7054.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3638.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 3030.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3015.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 2745.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2386.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 2249.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 2162.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 2096.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2094.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 1959.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1953.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1879.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 1864.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 1756.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1490.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 1434.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1415.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1397.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 1357.0,
+      "topic": "Economic liberalism"
+    }
+  ]
+}

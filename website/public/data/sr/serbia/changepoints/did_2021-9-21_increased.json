@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-21",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 1699.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1121.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1096.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 978.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 941.0,
+      "topic": "Lexical semantics"
+    },
+    {
+      "diff": 938.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 803.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 756.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 755.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 744.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 688.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 600.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 584.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 489.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 390.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 355.0,
+      "topic": "Districts"
+    },
+    {
+      "diff": 354.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 353.0,
+      "topic": "Period"
+    }
+  ]
+}

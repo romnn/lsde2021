@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -4768.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3825.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3785.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -3492.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -3270.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -3212.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -3112.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2496.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2080.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1550.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1474.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1431.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1390.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -1298.0,
+      "topic": "Districts"
+    },
+    {
+      "diff": -1281.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -1240.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1216.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -1123.0,
+      "topic": "Places"
+    }
+  ]
+}

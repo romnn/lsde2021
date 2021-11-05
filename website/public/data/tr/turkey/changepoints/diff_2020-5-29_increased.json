@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 2243.0,
+      "topic": "Civil engineering"
+    },
+    {
+      "diff": 2240.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": 2189.0,
+      "topic": "Materials science"
+    },
+    {
+      "diff": 2168.0,
+      "topic": "Artificial objects"
+    },
+    {
+      "diff": 2099.0,
+      "topic": "Design"
+    },
+    {
+      "diff": 1069.0,
+      "topic": "Integer sequences"
+    },
+    {
+      "diff": 1048.0,
+      "topic": "Elementary number theory"
+    },
+    {
+      "diff": 1040.0,
+      "topic": "Algebraic number theory"
+    },
+    {
+      "diff": 1012.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 1011.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 877.0,
+      "topic": "Middle eastern countries"
+    },
+    {
+      "diff": 841.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 821.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 812.0,
+      "topic": "Mesopotamia"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Levantine mythology"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 772.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 765.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 707.0,
+      "topic": "Interpersonal relationships"
+    }
+  ]
+}

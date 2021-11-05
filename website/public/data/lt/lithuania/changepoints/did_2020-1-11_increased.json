@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 3499.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2422.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1860.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1684.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1590.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1549.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1523.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1496.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1416.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1385.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1291.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1189.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1161.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1144.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1075.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1026.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1001.0,
+      "topic": "Dance"
+    }
+  ]
+}

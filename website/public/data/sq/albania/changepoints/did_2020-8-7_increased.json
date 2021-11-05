@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 160.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 135.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 120.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Albanian entertainers"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Serbian society"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": 96.0,
+      "topic": "Kosovo"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": 81.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Landforms"
+    }
+  ]
+}

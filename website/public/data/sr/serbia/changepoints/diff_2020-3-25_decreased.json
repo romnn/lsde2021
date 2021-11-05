@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -5389.0,
+      "topic": "Building materials"
+    },
+    {
+      "diff": -4804.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -4743.0,
+      "topic": "Materials"
+    },
+    {
+      "diff": -4086.0,
+      "topic": "Emergence"
+    },
+    {
+      "diff": -3886.0,
+      "topic": "Linguistics"
+    },
+    {
+      "diff": -3768.0,
+      "topic": "Cognitive neuroscience"
+    },
+    {
+      "diff": -3692.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -3630.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -3280.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -3251.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3009.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2936.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2634.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2470.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -2187.0,
+      "topic": "Mongolia"
+    },
+    {
+      "diff": -2153.0,
+      "topic": "Wildlife"
+    },
+    {
+      "diff": -2030.0,
+      "topic": "China"
+    },
+    {
+      "diff": -1814.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -1771.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1195.0,
+      "topic": "Epidemiology"
+    }
+  ]
+}

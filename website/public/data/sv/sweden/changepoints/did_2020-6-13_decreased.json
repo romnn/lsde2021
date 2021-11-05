@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -7998.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5803.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -5672.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4730.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4728.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4635.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4343.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -4330.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4012.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3629.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3465.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3333.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -3304.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -3196.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -3152.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -3136.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3096.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2913.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2797.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2762.0,
+      "topic": "Universe"
+    }
+  ]
+}

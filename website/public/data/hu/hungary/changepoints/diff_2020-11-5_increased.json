@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 6295.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3957.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3186.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3105.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2588.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2543.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2383.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2358.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2273.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2136.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2108.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2100.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2061.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1972.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1936.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1927.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 1907.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1869.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1835.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1766.0,
+      "topic": "Science"
+    }
+  ]
+}

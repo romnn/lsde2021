@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 3536.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2847.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2813.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2766.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2738.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2661.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2471.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2385.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2378.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2110.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1988.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1976.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1741.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1734.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1651.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1623.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1606.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1584.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1577.0,
+      "topic": "Imperialism"
+    },
+    {
+      "diff": 1570.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

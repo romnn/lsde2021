@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-06",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1182.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1020.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -990.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -979.0,
+      "topic": "States"
+    },
+    {
+      "diff": -973.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -911.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": -835.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -785.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -736.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -686.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -515.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -447.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -408.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -387.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -359.0,
+      "topic": "Voivodeship"
+    },
+    {
+      "diff": -358.0,
+      "topic": "Politics"
+    }
+  ]
+}

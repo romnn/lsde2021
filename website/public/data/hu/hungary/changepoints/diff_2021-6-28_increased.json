@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 6726.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5839.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5217.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4486.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 2358.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 2271.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 1447.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1398.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1239.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 1220.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 1205.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 1175.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1138.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1129.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1040.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 980.0,
+      "topic": "History"
+    },
+    {
+      "diff": 944.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 937.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 932.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 901.0,
+      "topic": "Counties"
+    }
+  ]
+}

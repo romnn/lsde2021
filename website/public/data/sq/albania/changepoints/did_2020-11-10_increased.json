@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 2736.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 2598.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2427.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 2426.0,
+      "topic": "Royal families"
+    },
+    {
+      "diff": 2426.0,
+      "topic": "Asian people"
+    },
+    {
+      "diff": 1473.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1441.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1138.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1029.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 873.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 871.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 868.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 853.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 766.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 756.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 707.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 694.0,
+      "topic": "Units"
+    }
+  ]
+}

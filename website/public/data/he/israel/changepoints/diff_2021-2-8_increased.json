@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 15692.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 15035.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 14912.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 11211.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5574.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 4581.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 3991.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": 3813.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": 2897.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 2579.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": 2546.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 2407.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2396.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 2284.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 2279.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2016.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 1697.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1529.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 1449.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": 1413.0,
+      "topic": "Space programs"
+    }
+  ]
+}

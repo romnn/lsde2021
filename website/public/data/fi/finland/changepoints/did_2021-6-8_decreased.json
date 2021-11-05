@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -2900.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -2399.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2165.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -1906.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1862.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1528.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -1521.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1288.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1277.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1246.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -1228.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -1227.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1215.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": -1195.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -1156.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1072.0,
+      "topic": "Performing arts awards"
+    }
+  ]
+}

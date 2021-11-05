@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -5702.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5367.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2841.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2321.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": -2227.0,
+      "topic": "Fish"
+    },
+    {
+      "diff": -2137.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -2006.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -1742.0,
+      "topic": "Departments of centre-val de loire"
+    },
+    {
+      "diff": -1587.0,
+      "topic": "Ancient astronomy"
+    },
+    {
+      "diff": -1581.0,
+      "topic": "Stars with proper names"
+    },
+    {
+      "diff": -1360.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "County"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "City"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -1178.0,
+      "topic": "Ancient italic peoples"
+    },
+    {
+      "diff": -1176.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1174.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    },
+    {
+      "diff": -1161.0,
+      "topic": "Ocean"
+    },
+    {
+      "diff": -1147.0,
+      "topic": "Rivers"
+    },
+    {
+      "diff": -1145.0,
+      "topic": "International business organizations"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -4643.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -4635.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -4623.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -4561.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -4262.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -2466.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2447.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2202.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1922.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -1917.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1901.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -1892.0,
+      "topic": "Northern europe"
+    },
+    {
+      "diff": -1871.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -1677.0,
+      "topic": "Engineering companies"
+    },
+    {
+      "diff": -1659.0,
+      "topic": "Food preparation utensils"
+    },
+    {
+      "diff": -1656.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1493.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -1385.0,
+      "topic": "Poetry"
+    },
+    {
+      "diff": -1376.0,
+      "topic": "Nation or language"
+    },
+    {
+      "diff": -1370.0,
+      "topic": "Companies"
+    }
+  ]
+}

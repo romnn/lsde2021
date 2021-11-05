@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 47.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Crafts"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Homogeneous chemical mixtures"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Oils"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Behavior"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Extant gelasian first appearances"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Animal"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Levant"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Seleucid empire"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Grand est"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Top-level stub categories"
+    }
+  ]
+}

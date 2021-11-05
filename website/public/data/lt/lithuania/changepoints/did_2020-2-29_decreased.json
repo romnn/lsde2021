@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -681.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -437.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -432.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -429.0,
+      "topic": "Baltic region"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Parades"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -351.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -171.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -165.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -152.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -149.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -144.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -135.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -135.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -124.0,
+      "topic": "1930s disasters"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Aviation accidents"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -119.0,
+      "topic": "Maintenance"
+    }
+  ]
+}

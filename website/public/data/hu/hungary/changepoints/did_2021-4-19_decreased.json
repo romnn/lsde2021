@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-19",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -3343.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -3343.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -3343.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -3342.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -3170.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2463.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2412.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -2348.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2340.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -2288.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -2263.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2101.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1859.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": -1827.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -1825.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": -1825.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1802.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -1710.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1653.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1608.0,
+      "topic": "Asian culture"
+    }
+  ]
+}

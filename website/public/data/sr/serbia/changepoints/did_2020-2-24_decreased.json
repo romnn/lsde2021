@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -3235.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -3235.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -3235.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -3234.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -3222.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -970.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -688.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -650.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -523.0,
+      "topic": "World wars"
+    },
+    {
+      "diff": -522.0,
+      "topic": "18th century"
+    },
+    {
+      "diff": -509.0,
+      "topic": "Populated waterside places"
+    },
+    {
+      "diff": -506.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -485.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -461.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -420.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -404.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -360.0,
+      "topic": "Labor history"
+    },
+    {
+      "diff": -360.0,
+      "topic": "Bosnia"
+    }
+  ]
+}

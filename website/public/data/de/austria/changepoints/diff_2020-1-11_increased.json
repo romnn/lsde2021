@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 56275.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 46699.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 44580.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 42880.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 42027.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 17350.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 17214.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 15894.0,
+      "topic": "History"
+    },
+    {
+      "diff": 15555.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 13847.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 13840.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 13522.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 13473.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 12651.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 11376.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 10810.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 10624.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 9938.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 9844.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 9636.0,
+      "topic": "Subfields"
+    }
+  ]
+}

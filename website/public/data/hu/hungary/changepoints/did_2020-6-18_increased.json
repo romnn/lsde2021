@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 1661.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 1625.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 1606.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 942.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 330.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 239.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Jurassic events"
+    },
+    {
+      "diff": 220.0,
+      "topic": "Late jurassic"
+    },
+    {
+      "diff": 209.0,
+      "topic": "Colombian music"
+    },
+    {
+      "diff": 206.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Invertebrates"
+    },
+    {
+      "diff": 202.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Prehistoric arthropods"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Romance"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 185.0,
+      "topic": "Seduction"
+    },
+    {
+      "diff": 184.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": 177.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": 172.0,
+      "topic": "Performing arts awards"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -5087.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4818.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3900.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -3741.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3277.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -3065.0,
+      "topic": "Temples"
+    },
+    {
+      "diff": -3033.0,
+      "topic": "Jerusalem"
+    },
+    {
+      "diff": -2768.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2554.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -2024.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1984.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1983.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -1940.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -1849.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -1812.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1720.0,
+      "topic": "Amazon biome"
+    },
+    {
+      "diff": -1671.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1596.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -1594.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1550.0,
+      "topic": "Century"
+    }
+  ]
+}

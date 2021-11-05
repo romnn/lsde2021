@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -2333.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -2301.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1663.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1363.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1234.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -1221.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -1170.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1079.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -1072.0,
+      "topic": "Romance"
+    },
+    {
+      "diff": -945.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -927.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -836.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -832.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -787.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -779.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -762.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -723.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Musicians"
+    }
+  ]
+}

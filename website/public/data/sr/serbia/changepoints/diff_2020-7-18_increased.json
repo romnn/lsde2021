@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 4435.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3866.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2097.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1658.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1564.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 1426.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 1417.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 1293.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1267.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 1206.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 1192.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1151.0,
+      "topic": "History"
+    },
+    {
+      "diff": 997.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 962.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 899.0,
+      "topic": "Southeastern european countries"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 830.0,
+      "topic": "Districts"
+    },
+    {
+      "diff": 788.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": 759.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Ancient near east"
+    }
+  ]
+}

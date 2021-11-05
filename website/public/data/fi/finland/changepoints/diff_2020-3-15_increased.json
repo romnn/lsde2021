@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 14030.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 11986.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 11769.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 11435.0,
+      "topic": "Former subdivisions"
+    },
+    {
+      "diff": 11417.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 6509.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4276.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4210.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3908.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3877.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3632.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3345.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3241.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3050.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2955.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2818.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2766.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2758.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2630.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 2565.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

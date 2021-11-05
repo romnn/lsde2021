@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -2981.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2458.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2273.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -1134.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -882.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -824.0,
+      "topic": "Sports clubs"
+    },
+    {
+      "diff": -797.0,
+      "topic": "Cultural anthropology"
+    },
+    {
+      "diff": -779.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -765.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -685.0,
+      "topic": "Military science"
+    },
+    {
+      "diff": -677.0,
+      "topic": "Defense policy"
+    },
+    {
+      "diff": -632.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -628.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -609.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -553.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -550.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -499.0,
+      "topic": "Recreation"
+    }
+  ]
+}

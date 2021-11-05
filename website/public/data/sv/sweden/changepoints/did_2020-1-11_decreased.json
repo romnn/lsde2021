@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -7249.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -5139.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -4906.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -4726.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -4376.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -3985.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -3774.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -3467.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2358.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1952.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1916.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -1738.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": -1706.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": -1668.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -1621.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": -1476.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -1417.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": -1406.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -1389.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -1346.0,
+      "topic": "Time"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -5830.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4944.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3358.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2832.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2809.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2646.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2594.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2035.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1937.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": -1920.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1906.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -1768.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1748.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1715.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1701.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1687.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1670.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1520.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1511.0,
+      "topic": "Social sciences"
+    }
+  ]
+}

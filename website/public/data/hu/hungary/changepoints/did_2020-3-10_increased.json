@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 7929.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7706.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 7167.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6861.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6700.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 6019.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6016.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 5935.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5646.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5471.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4573.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4569.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4470.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 4084.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": 4082.0,
+      "topic": "Thoroughbred racehorses"
+    },
+    {
+      "diff": 4082.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": 4082.0,
+      "topic": "Racehorse deaths"
+    },
+    {
+      "diff": 3995.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 3749.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3622.0,
+      "topic": "Public policy"
+    }
+  ]
+}

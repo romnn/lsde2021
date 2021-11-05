@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 484.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 362.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 360.0,
+      "topic": "History"
+    },
+    {
+      "diff": 350.0,
+      "topic": "France"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 194.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 158.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 133.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 102.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Internet standards"
+    }
+  ]
+}

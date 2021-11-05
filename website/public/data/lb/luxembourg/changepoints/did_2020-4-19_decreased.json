@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -73.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Astronomy"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -20.0,
+      "topic": "France"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -18.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Gould belt"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Second hundred years' war"
+    },
+    {
+      "diff": -12.0,
+      "topic": "14th century"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

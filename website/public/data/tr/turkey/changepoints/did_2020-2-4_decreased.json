@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -4672.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3408.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3253.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3123.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2713.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -2447.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -2183.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -2153.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2147.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -2142.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": -1980.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1893.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1821.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1707.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1697.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -1495.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1357.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -1331.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1299.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -1293.0,
+      "topic": "Cold war"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -861.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -797.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -579.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -453.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": -446.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -405.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -405.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -396.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -364.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -349.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -349.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -337.0,
+      "topic": "Social sciences terminology"
+    },
+    {
+      "diff": -329.0,
+      "topic": "Interdisciplinary subfields"
+    },
+    {
+      "diff": -321.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -317.0,
+      "topic": "Animals"
+    }
+  ]
+}

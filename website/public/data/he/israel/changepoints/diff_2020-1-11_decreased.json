@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": -2155.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1718.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -1701.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1700.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": -1639.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1601.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Temple mount"
+    },
+    {
+      "diff": -977.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -964.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -896.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Herodian dynasty"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -769.0,
+      "topic": "Persia"
+    },
+    {
+      "diff": -733.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -607.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -603.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -596.0,
+      "topic": "Fields"
+    }
+  ]
+}

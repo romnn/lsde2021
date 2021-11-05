@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 85.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 31.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 29.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Sciences"
+    },
+    {
+      "diff": 18.0,
+      "topic": "18th-century french people"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Crops originating from indigenous americans"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Maintenance"
+    }
+  ]
+}

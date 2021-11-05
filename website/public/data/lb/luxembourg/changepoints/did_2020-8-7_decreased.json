@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -165.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -36.0,
+      "topic": "History"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -30.0,
+      "topic": "England"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Universe"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 26.0,
+      "topic": "Product introduction"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Political entities"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Anthropomorphism"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Azines"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Vertebrate superfamilies"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Welsh culture"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Real estate"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Use"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Plant crops"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Jewish ethnic groups"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Censorship"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Torah books"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Turonian"
+    },
+    {
+      "diff": 3.0,
+      "topic": "Apple inc."
+    }
+  ]
+}

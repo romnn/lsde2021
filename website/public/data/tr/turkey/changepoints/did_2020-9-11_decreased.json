@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-11",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -2847.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -2674.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2355.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -2112.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -1793.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -1699.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1518.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1251.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1215.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -1109.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -1045.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "Linguistic regions"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Turkish kurdistan"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Geographic position"
+    },
+    {
+      "diff": -876.0,
+      "topic": "Taiwanese culture"
+    },
+    {
+      "diff": -831.0,
+      "topic": "Ocean or sea"
+    },
+    {
+      "diff": -828.0,
+      "topic": "Maps"
+    },
+    {
+      "diff": -817.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -752.0,
+      "topic": "Turkish culture"
+    }
+  ]
+}

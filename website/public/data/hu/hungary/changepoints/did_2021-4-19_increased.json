@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-19",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 3157.0,
+      "topic": "Dances"
+    },
+    {
+      "diff": 3156.0,
+      "topic": "British music history"
+    },
+    {
+      "diff": 3123.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 3122.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 1982.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1423.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": 1411.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": 1374.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 1245.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": 1137.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1052.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 863.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 786.0,
+      "topic": "World history"
+    },
+    {
+      "diff": 785.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 769.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 759.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 747.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 743.0,
+      "topic": "Global policy organizations"
+    }
+  ]
+}

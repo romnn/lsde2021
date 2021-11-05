@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -3428.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -3316.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -3295.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -3131.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2372.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2248.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -2222.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -1994.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -1752.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1465.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1175.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1122.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -787.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -490.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -465.0,
+      "topic": "Libya"
+    },
+    {
+      "diff": -437.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Ottoman\u2013serbian wars"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -4357.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3530.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2881.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2657.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2470.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2418.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2209.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2197.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2010.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -1865.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1811.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1794.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1635.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1587.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -1520.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1474.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1463.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -1454.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -1432.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1366.0,
+      "topic": "Time"
+    }
+  ]
+}

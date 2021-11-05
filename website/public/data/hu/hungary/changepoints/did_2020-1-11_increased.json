@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 2625.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2589.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2361.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2313.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2291.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2242.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 2023.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1885.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1807.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 1744.0,
+      "topic": "Western macedonia"
+    },
+    {
+      "diff": 1740.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1594.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1569.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1564.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": 1532.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1496.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1412.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 1404.0,
+      "topic": "Songs about places"
+    },
+    {
+      "diff": 1372.0,
+      "topic": "Classical antiquity"
+    }
+  ]
+}

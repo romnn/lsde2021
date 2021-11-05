@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 828.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 828.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 827.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 826.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 816.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 376.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 336.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Materials science"
+    },
+    {
+      "diff": 279.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 275.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": 259.0,
+      "topic": "Human life stages"
+    },
+    {
+      "diff": 257.0,
+      "topic": "Habitat"
+    },
+    {
+      "diff": 254.0,
+      "topic": "Hydraulic engineering"
+    },
+    {
+      "diff": 242.0,
+      "topic": "Longevity"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Good"
+    },
+    {
+      "diff": 227.0,
+      "topic": "Climate"
+    },
+    {
+      "diff": 211.0,
+      "topic": "Evil"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Theoretical physics"
+    },
+    {
+      "diff": 200.0,
+      "topic": "Andrology"
+    }
+  ]
+}

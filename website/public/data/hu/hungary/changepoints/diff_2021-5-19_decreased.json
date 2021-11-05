@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -3491.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3311.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2356.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2095.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1739.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1710.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1680.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1634.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1593.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1522.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1456.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1361.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1321.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1267.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -1265.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1249.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -1170.0,
+      "topic": "Technology"
+    }
+  ]
+}

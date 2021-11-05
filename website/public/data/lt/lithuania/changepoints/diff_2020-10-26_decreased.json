@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -1177.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -852.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -677.0,
+      "topic": "History"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -522.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -446.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": -402.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -383.0,
+      "topic": "Belarus"
+    },
+    {
+      "diff": -337.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -310.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -305.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -296.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": -282.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Formal description"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Celestial mechanics"
+    },
+    {
+      "diff": -264.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -3191.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -2752.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -2658.0,
+      "topic": "Scientific problems"
+    },
+    {
+      "diff": -2432.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -2426.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -2037.0,
+      "topic": "Angiosperms"
+    },
+    {
+      "diff": -1963.0,
+      "topic": "Mesozoic life"
+    },
+    {
+      "diff": -1916.0,
+      "topic": "Cretaceous geology"
+    },
+    {
+      "diff": -1910.0,
+      "topic": "Phanerozoic first appearances"
+    },
+    {
+      "diff": -1732.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -971.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -956.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -915.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -901.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -681.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Landscape ecology"
+    },
+    {
+      "diff": -603.0,
+      "topic": "Business ethics"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -563.0,
+      "topic": "Mind"
+    }
+  ]
+}

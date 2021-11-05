@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 1314.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1215.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1101.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1094.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 975.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 954.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 870.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 798.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 726.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": 446.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 443.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 423.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Procedural knowledge"
+    }
+  ]
+}

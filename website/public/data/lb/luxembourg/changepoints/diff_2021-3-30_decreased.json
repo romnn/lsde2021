@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-30",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -1005.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -990.0,
+      "topic": "History"
+    },
+    {
+      "diff": -888.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -823.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -624.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -579.0,
+      "topic": "France"
+    },
+    {
+      "diff": -273.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -196.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -166.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -151.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Geography by second-level administrative country subdivision"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 8009.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 7341.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5532.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5394.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5217.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4805.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4495.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4421.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4377.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 4372.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3510.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 3379.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3363.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 3215.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3186.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3055.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 2873.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2823.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2740.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2636.0,
+      "topic": "People"
+    }
+  ]
+}

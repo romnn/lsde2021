@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-04",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": -3198.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3181.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2702.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -2467.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -2202.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2187.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -2155.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": -2140.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -2062.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1851.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1756.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1717.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1682.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -1441.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1376.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -1256.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1202.0,
+      "topic": "Philosophical movements"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Historiography"
+    }
+  ]
+}

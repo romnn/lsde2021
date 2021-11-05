@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "TUR",
+    "group": "tr",
+    "name": "Turkey"
+  },
+  "topics": [
+    {
+      "diff": 25304.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 21013.0,
+      "topic": "History"
+    },
+    {
+      "diff": 20972.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 18610.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 18304.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 12959.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 12233.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 11169.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 10809.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 10626.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 10534.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10438.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 10352.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 10008.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 9181.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 8068.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 7845.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 7597.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 7557.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 7444.0,
+      "topic": "Internet"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 3160.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3057.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1799.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1732.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1602.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1469.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1374.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1226.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1213.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1177.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1175.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1126.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1117.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1044.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1015.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 971.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 956.0,
+      "topic": "Universe"
+    }
+  ]
+}

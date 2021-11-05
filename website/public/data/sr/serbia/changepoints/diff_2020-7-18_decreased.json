@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": -259.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -231.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": -196.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": -194.0,
+      "topic": "Natural environment based therapies"
+    },
+    {
+      "diff": -182.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Labour movement"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -164.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -152.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -152.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": -149.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -146.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Romanian culture"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -127.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -125.0,
+      "topic": "1970s television series"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

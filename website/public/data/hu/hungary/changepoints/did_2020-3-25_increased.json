@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": 8623.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7663.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 7569.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 7467.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5887.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5882.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5381.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5206.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5189.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 5116.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4838.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4810.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 4519.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4514.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4510.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 4510.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 4510.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 4509.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 4322.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 4308.0,
+      "topic": "Centuries"
+    }
+  ]
+}

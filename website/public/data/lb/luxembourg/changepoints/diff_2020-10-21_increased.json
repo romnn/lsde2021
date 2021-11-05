@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": 24.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Liberalism"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Parasitic animals"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Set indices"
+    },
+    {
+      "diff": 8.0,
+      "topic": "France"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Machines"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 7.0,
+      "topic": "French people"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Vitis"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Occitanie"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Religious mass media"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 5.0,
+      "topic": "December observances"
+    }
+  ]
+}

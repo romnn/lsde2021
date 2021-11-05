@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -349.0,
+      "topic": "History"
+    },
+    {
+      "diff": -303.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -183.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -163.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Television technology"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -84.0,
+      "topic": "France"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Establishments"
+    }
+  ]
+}

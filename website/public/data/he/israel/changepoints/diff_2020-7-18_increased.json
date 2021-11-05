@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 4741.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2743.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2507.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 2161.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 2067.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 2037.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": 1858.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 1806.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 1806.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 1726.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 1646.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 1510.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1485.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1427.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": 1417.0,
+      "topic": "Marxism\u2013leninism"
+    },
+    {
+      "diff": 1413.0,
+      "topic": "Authoritarianism"
+    },
+    {
+      "diff": 1410.0,
+      "topic": "Leninism"
+    },
+    {
+      "diff": 1374.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": 1260.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 975.0,
+      "topic": "Past"
+    }
+  ]
+}

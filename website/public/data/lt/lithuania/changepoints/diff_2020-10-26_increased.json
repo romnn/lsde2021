@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 521.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 463.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 457.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 429.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 425.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 391.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 358.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 309.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 305.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 280.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 271.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 226.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 208.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Morocco"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-20",
+  "country": {
+    "code": "ALB",
+    "group": "sq",
+    "name": "Albania"
+  },
+  "topics": [
+    {
+      "diff": 303.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 249.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 213.0,
+      "topic": "France"
+    },
+    {
+      "diff": 210.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 100.0,
+      "topic": "Homicide"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Poisons"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Medical aspects"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 52.0,
+      "topic": "Death"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Anthropological categories"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Cypriot culture"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Human body parts"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Population genetics"
+    }
+  ]
+}

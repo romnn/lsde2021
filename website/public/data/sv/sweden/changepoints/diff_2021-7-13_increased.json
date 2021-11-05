@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-13",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 10547.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8320.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 4620.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": 4121.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": 3925.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3232.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2367.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1904.0,
+      "topic": "National areas"
+    },
+    {
+      "diff": 1762.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 1629.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1565.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1453.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 1347.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 1342.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1237.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 1168.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1157.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 1124.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 1111.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 1069.0,
+      "topic": "Landforms"
+    }
+  ]
+}

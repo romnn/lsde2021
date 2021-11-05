@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 3043.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2233.0,
+      "topic": "Dining"
+    },
+    {
+      "diff": 2232.0,
+      "topic": "Food- and drink-related events"
+    },
+    {
+      "diff": 2232.0,
+      "topic": "Ceremonial food"
+    },
+    {
+      "diff": 2165.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 2079.0,
+      "topic": "International organization"
+    },
+    {
+      "diff": 2026.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 1139.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 748.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 592.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 504.0,
+      "topic": "France"
+    },
+    {
+      "diff": 305.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 267.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 234.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 191.0,
+      "topic": "Confectionery"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Metrology"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Wizarding world"
+    }
+  ]
+}

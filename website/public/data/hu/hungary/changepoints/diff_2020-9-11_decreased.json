@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -454.0,
+      "topic": "Telecommunications companies"
+    },
+    {
+      "diff": -438.0,
+      "topic": "Speech"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Weather"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Synoptic meteorology"
+    },
+    {
+      "diff": -206.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": -192.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -188.0,
+      "topic": "Computer security"
+    },
+    {
+      "diff": -166.0,
+      "topic": "Domestic life"
+    },
+    {
+      "diff": -160.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Mammalian sexuality"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Thoroughbred racehorses"
+    },
+    {
+      "diff": -89.0,
+      "topic": "Racehorse deaths"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": -86.0,
+      "topic": "Apollo"
+    }
+  ]
+}

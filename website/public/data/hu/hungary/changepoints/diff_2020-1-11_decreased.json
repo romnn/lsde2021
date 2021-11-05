@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -7581.0,
+      "topic": "France"
+    },
+    {
+      "diff": -4946.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -3752.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3160.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -2420.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2247.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2058.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2047.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -2045.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1996.0,
+      "topic": "Rivers of bas-rhin"
+    },
+    {
+      "diff": -1981.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -1766.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1534.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -1461.0,
+      "topic": "Cantabria"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1318.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1282.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -1279.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -1276.0,
+      "topic": "Years"
+    }
+  ]
+}

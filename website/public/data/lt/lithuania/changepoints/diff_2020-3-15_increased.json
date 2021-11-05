@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 1149.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 965.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 813.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 716.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 637.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 499.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 421.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Procedural knowledge"
+    },
+    {
+      "diff": 371.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 360.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 360.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": 342.0,
+      "topic": "Materials"
+    },
+    {
+      "diff": 304.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 287.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 286.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 256.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Economics"
+    },
+    {
+      "diff": 207.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 201.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Fortifications"
+    }
+  ]
+}

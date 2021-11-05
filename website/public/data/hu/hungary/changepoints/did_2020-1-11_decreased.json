@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -7408.0,
+      "topic": "France"
+    },
+    {
+      "diff": -5487.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4758.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -4022.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3118.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -2575.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2338.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2316.0,
+      "topic": "Horse racing"
+    },
+    {
+      "diff": -2312.0,
+      "topic": "Thoroughbred racehorses"
+    },
+    {
+      "diff": -2312.0,
+      "topic": "Equestrian sports"
+    },
+    {
+      "diff": -2312.0,
+      "topic": "Racehorse deaths"
+    },
+    {
+      "diff": -2248.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -2166.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -2084.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -2016.0,
+      "topic": "Rivers of bas-rhin"
+    },
+    {
+      "diff": -1978.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -1956.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1921.0,
+      "topic": "Departments of nouvelle-aquitaine"
+    },
+    {
+      "diff": -1878.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -1595.0,
+      "topic": "Regions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "LUX",
+    "group": "lb",
+    "name": "Luxembourg"
+  },
+  "topics": [
+    {
+      "diff": -451.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -445.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -339.0,
+      "topic": "History"
+    },
+    {
+      "diff": -281.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -274.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -182.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -181.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -165.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -164.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -134.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -116.0,
+      "topic": "France"
+    },
+    {
+      "diff": -105.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Establishments"
+    }
+  ]
+}

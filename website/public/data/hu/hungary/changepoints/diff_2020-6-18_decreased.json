@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "HUN",
+    "group": "hu",
+    "name": "Hungary"
+  },
+  "topics": [
+    {
+      "diff": -7968.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7749.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5141.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4902.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4389.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4348.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3801.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3661.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3597.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3493.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3457.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -3385.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3132.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3048.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2937.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2671.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2534.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -2473.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -2397.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2376.0,
+      "topic": "Populated places"
+    }
+  ]
+}

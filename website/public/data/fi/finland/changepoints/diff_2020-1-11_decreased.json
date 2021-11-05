@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1586.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1231.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1119.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1032.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Norwegian culture"
+    },
+    {
+      "diff": -474.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": -453.0,
+      "topic": "States"
+    },
+    {
+      "diff": -380.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -361.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -348.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -311.0,
+      "topic": "Composers"
+    },
+    {
+      "diff": -307.0,
+      "topic": "Poets"
+    },
+    {
+      "diff": -302.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -284.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -270.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Spiritualism"
+    }
+  ]
+}

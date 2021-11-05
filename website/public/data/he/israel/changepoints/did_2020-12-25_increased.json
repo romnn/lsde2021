@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 4639.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 4479.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 3535.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3443.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 3405.0,
+      "topic": "Israeli television series"
+    },
+    {
+      "diff": 3400.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": 3384.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 3327.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3306.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 3038.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2696.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2537.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2488.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2465.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 2421.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2380.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 2344.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 2212.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2181.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2152.0,
+      "topic": "Setting"
+    }
+  ]
+}

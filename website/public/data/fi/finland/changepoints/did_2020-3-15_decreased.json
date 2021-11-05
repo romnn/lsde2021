@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -2676.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2603.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2205.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -2143.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1914.0,
+      "topic": "Northern europe"
+    },
+    {
+      "diff": -1722.0,
+      "topic": "Engineering companies"
+    },
+    {
+      "diff": -1689.0,
+      "topic": "Food preparation utensils"
+    },
+    {
+      "diff": -1611.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -1585.0,
+      "topic": "Operations research"
+    },
+    {
+      "diff": -1566.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": -1511.0,
+      "topic": "Dystopian fiction"
+    },
+    {
+      "diff": -1374.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -955.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": -847.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -774.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -723.0,
+      "topic": "Finnish entertainers"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Western finland province"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Recreation"
+    }
+  ]
+}

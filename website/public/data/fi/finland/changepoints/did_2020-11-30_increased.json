@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-30",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": 2170.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1641.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1481.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": 1403.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1317.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 1291.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1286.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1192.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1099.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 1099.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": 1085.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": 1080.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": 1064.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 1045.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 1021.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 995.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 956.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 930.0,
+      "topic": "Former empires"
+    },
+    {
+      "diff": 881.0,
+      "topic": "Political divisions"
+    },
+    {
+      "diff": 874.0,
+      "topic": "History"
+    }
+  ]
+}

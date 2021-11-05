@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": -1857.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1554.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1497.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1432.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1297.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1054.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -977.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -949.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -941.0,
+      "topic": "History"
+    },
+    {
+      "diff": -940.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -893.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -879.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -870.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -864.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -860.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -846.0,
+      "topic": "Germany"
+    }
+  ]
+}

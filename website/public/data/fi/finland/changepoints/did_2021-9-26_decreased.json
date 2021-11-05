@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -1802.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1636.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1617.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1549.0,
+      "topic": "Finland"
+    },
+    {
+      "diff": -1526.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1236.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Agaricomycotina"
+    },
+    {
+      "diff": -1066.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1049.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -1012.0,
+      "topic": "Finnish musicians"
+    },
+    {
+      "diff": -1008.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -973.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": -905.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Basidiomycota taxa"
+    },
+    {
+      "diff": -849.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -814.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Fungus genera"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Medicine"
+    }
+  ]
+}

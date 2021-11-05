@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "SWE",
+    "group": "sv",
+    "name": "Sweden"
+  },
+  "topics": [
+    {
+      "diff": 2759.0,
+      "topic": "People from stockholm"
+    },
+    {
+      "diff": 1091.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": 707.0,
+      "topic": "Literary archetypes"
+    },
+    {
+      "diff": 680.0,
+      "topic": "Insect taxa"
+    },
+    {
+      "diff": 634.0,
+      "topic": "Mythological creatures"
+    },
+    {
+      "diff": 617.0,
+      "topic": "Recurrent elements"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 553.0,
+      "topic": "Arthropod families"
+    },
+    {
+      "diff": 527.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 489.0,
+      "topic": "Insects"
+    },
+    {
+      "diff": 476.0,
+      "topic": "Folklore studies"
+    },
+    {
+      "diff": 413.0,
+      "topic": "European deities"
+    },
+    {
+      "diff": 389.0,
+      "topic": "Norse paganism"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 363.0,
+      "topic": "Arthropod taxa"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Christian culture"
+    },
+    {
+      "diff": 332.0,
+      "topic": "Norse culture"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Maintenance"
+    },
+    {
+      "diff": 320.0,
+      "topic": "Jewish messiah claimants"
+    }
+  ]
+}

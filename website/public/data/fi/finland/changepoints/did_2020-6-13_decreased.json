@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "FIN",
+    "group": "fi",
+    "name": "Finland"
+  },
+  "topics": [
+    {
+      "diff": -2408.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -2366.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2299.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -2271.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -1981.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -1063.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -1030.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1014.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -994.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -862.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -801.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -767.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -756.0,
+      "topic": "Concepts"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -680.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": -666.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Marxist theory"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "ISR",
+    "group": "he",
+    "name": "Israel"
+  },
+  "topics": [
+    {
+      "diff": 5253.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 5237.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 5204.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 5173.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 4654.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 840.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": 782.0,
+      "topic": "Hebrew words"
+    },
+    {
+      "diff": 741.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 686.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 686.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 683.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 678.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 672.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 670.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 664.0,
+      "topic": "Jewish languages"
+    },
+    {
+      "diff": 653.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 611.0,
+      "topic": "Mincha"
+    },
+    {
+      "diff": 605.0,
+      "topic": "Shacharit"
+    },
+    {
+      "diff": 590.0,
+      "topic": "Prejudice"
+    },
+    {
+      "diff": 556.0,
+      "topic": "Archaeological sites"
+    }
+  ]
+}

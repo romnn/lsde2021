@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 968.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 878.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 856.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 766.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 700.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": 622.0,
+      "topic": "Media"
+    },
+    {
+      "diff": 601.0,
+      "topic": "Freight transport"
+    },
+    {
+      "diff": 591.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 588.0,
+      "topic": "Interdisciplinary subfields"
+    },
+    {
+      "diff": 562.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 497.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 476.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 459.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 453.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 445.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 440.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 439.0,
+      "topic": "Science"
+    }
+  ]
+}

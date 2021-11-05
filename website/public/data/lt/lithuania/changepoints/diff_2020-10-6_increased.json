@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-06",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": 2061.0,
+      "topic": "History"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 806.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 746.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": 666.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 429.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": 429.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Belarusian people"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 377.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 375.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 335.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": 333.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 329.0,
+      "topic": "Language"
+    }
+  ]
+}

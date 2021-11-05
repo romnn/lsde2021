@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-21",
+  "country": {
+    "code": "SRB",
+    "group": "sr",
+    "name": "Serbia"
+  },
+  "topics": [
+    {
+      "diff": 973.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 921.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 883.0,
+      "topic": "Lexical semantics"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 502.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 378.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 319.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 272.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 253.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 233.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 220.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 216.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Civil engineering"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 185.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 185.0,
+      "topic": "Time"
+    }
+  ]
+}

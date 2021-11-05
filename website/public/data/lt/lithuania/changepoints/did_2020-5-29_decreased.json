@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "LTU",
+    "group": "lt",
+    "name": "Lithuania"
+  },
+  "topics": [
+    {
+      "diff": -6486.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5128.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4519.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4129.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4031.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -3656.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3577.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3119.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3073.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -3046.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2884.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2799.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2719.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -2547.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2478.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2471.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2193.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -2103.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2051.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -2040.0,
+      "topic": "Zoology"
+    }
+  ]
+}

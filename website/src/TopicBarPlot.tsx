@@ -43,10 +43,10 @@ type BarPlotProps = {
   margins: Margins;
 };
 
-type TopicViews = { topic: string; views: number };
+type TopicDiffs = { topic: string; diff: number };
 
 type BarPlotState = {
-  data: TopicViews[];
+  data: TopicDiffs[];
 };
 
 type TestCols = "Country" | "Value";
@@ -81,7 +81,7 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       .attr("y", this.props.height - this.props.margins.top - 10);
 
     // calculate extent
-    const xExtent = d3.extent(this.state.data, (d) => d.views) as [
+    const xExtent = d3.extent(this.state.data, (d) => d.diff) as [
       number,
       number
     ];
@@ -127,8 +127,8 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
 
     //Bars
     const bars = this.bounds
-      .selectAll<SVGRectElement, TopicViews>(".bar")
-      .data<TopicViews>(this.state.data);
+      .selectAll<SVGRectElement, TopicDiffs>(".bar")
+      .data<TopicDiffs>(this.state.data);
 
     bars.exit().remove();
     const newBar = bars.enter().append("g").attr("class", "bar");
@@ -136,7 +136,7 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
     newBar.append("rect");
     newBar.append("text");
 
-    const updated = this.bounds.selectAll<SVGRectElement, TopicViews>(".bar");
+    const updated = this.bounds.selectAll<SVGRectElement, TopicDiffs>(".bar");
 
     updated
       .select("rect")
@@ -158,17 +158,17 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       .text("test");
 
     const animation = this.bounds
-      .selectAll<SVGRectElement, TopicViews>(".bar")
+      .selectAll<SVGRectElement, TopicDiffs>(".bar")
       .transition()
       .duration(animated ? 800 : 0)
       .delay((d, i) => (animated ? i * 100 : 0));
 
-    animation.select("rect").attr("width", (d) => Math.abs(xScale(d.views)));
+    animation.select("rect").attr("width", (d) => Math.abs(xScale(d.diff)));
 
     animation
       .select("text")
-      .attr("opacity", (d) => (Math.abs(xScale(d.views)) > 30 ? 1 : 0))
-      .attr("x", (d) => Math.abs(xScale(d.views)) - 5);
+      .attr("opacity", (d) => (Math.abs(xScale(d.diff)) > 30 ? 1 : 0))
+      .attr("x", (d) => Math.abs(xScale(d.diff)) - 5);
   };
 
   addBarPlot = () => {
@@ -196,7 +196,7 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
     ).then((data) => {
       this.setState({
         data: data.map((d) => {
-          return { topic: d.Country ?? "missing", views: Number(d.Value) ?? 0 };
+          return { topic: d.Country ?? "missing", diff: Number(d.Value) ?? 0 };
         }),
       });
       this.update(true);
