@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -12533.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8966.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6596.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -6281.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -6242.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6063.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5835.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5578.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -5001.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4829.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4267.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -4161.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": -4039.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -3967.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3925.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -3876.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3428.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -3374.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3228.0,
+      "topic": "Lifestyle"
+    },
+    {
+      "diff": -3178.0,
+      "topic": "Ethiopia"
+    }
+  ]
+}

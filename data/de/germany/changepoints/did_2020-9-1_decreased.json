@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -57277.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -54425.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -41024.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -40807.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -38222.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -38039.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -35220.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -34581.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -28034.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -25040.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -24417.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -23288.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -22726.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -21112.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -18766.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -18738.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -17573.0,
+      "topic": "History"
+    },
+    {
+      "diff": -16942.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -16771.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -16643.0,
+      "topic": "Denmark"
+    }
+  ]
+}

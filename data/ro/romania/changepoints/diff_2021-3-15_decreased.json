@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -3169.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3001.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -2873.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2811.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -2803.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -2291.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2203.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2090.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -2006.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -1782.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1341.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1305.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1205.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -1005.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -1005.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -1003.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -882.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -674.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Locations"
+    }
+  ]
+}

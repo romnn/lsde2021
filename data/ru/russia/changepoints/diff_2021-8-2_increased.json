@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 94665.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 90335.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 88810.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 88493.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 88304.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 44098.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 40695.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 39669.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 39178.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 36387.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 14498.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13549.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 11456.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 11130.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 9631.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": 8593.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 8339.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 6771.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6680.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6515.0,
+      "topic": "Iranian society"
+    }
+  ]
+}

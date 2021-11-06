@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 7433.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 6693.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6171.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 5888.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5836.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 5337.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 4908.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 4166.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 3325.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3046.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2647.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2317.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": 2206.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 2039.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": 1989.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1952.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 1911.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": 1813.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 1678.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1650.0,
+      "topic": "World wide web"
+    }
+  ]
+}

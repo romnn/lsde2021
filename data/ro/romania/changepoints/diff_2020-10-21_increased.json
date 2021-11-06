@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 5240.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 4686.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 4642.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4579.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 4398.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 3322.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3217.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2512.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2133.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1945.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 1791.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 1763.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 1663.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 1655.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1607.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1597.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1485.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 1467.0,
+      "topic": "Anatomy"
+    },
+    {
+      "diff": 1301.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 1283.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

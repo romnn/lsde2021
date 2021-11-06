@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 5150.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3443.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3415.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3361.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3186.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3041.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2781.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2595.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2438.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2350.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2178.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2056.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1899.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1822.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1752.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 1711.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1650.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1599.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1556.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1513.0,
+      "topic": "Romania"
+    }
+  ]
+}

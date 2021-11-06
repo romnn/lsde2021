@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -17930.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -9200.0,
+      "topic": "History"
+    },
+    {
+      "diff": -8164.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -7459.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -6098.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -5810.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -5550.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -5341.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -5311.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -5234.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -5158.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -5109.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -4876.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -4632.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": -4573.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": -4565.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -4537.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": -4516.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -4273.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4256.0,
+      "topic": "Islamic ethics"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1574273.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1497125.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1456804.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1393252.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1339271.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1207942.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -1169545.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": -1166966.0,
+      "topic": "Political congresses"
+    },
+    {
+      "diff": -1115952.0,
+      "topic": "People"
+    },
+    {
+      "diff": -823036.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -652560.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -638335.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -580753.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -559810.0,
+      "topic": "State"
+    },
+    {
+      "diff": -527146.0,
+      "topic": "City"
+    },
+    {
+      "diff": -466301.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -432976.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -419521.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -401126.0,
+      "topic": "English people"
+    },
+    {
+      "diff": -315551.0,
+      "topic": "Actors"
+    }
+  ]
+}

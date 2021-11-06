@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -28336.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -21765.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15967.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -13848.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -12999.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -11067.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10928.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -10156.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -9450.0,
+      "topic": "Meaning (philosophy of language)"
+    },
+    {
+      "diff": -9205.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -9157.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -8673.0,
+      "topic": "People"
+    },
+    {
+      "diff": -8673.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8397.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": -8328.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -8283.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -8228.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -8221.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -8198.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -8189.0,
+      "topic": "Near east"
+    }
+  ]
+}

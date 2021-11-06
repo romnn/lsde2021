@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 432682.0,
+      "topic": "American men"
+    },
+    {
+      "diff": 396198.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 349446.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 347158.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": 295174.0,
+      "topic": "Disasters"
+    },
+    {
+      "diff": 236414.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": 223554.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 221315.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 205403.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 183002.0,
+      "topic": "Year"
+    },
+    {
+      "diff": 179849.0,
+      "topic": "Coalition governments"
+    },
+    {
+      "diff": 164366.0,
+      "topic": "Belarus"
+    },
+    {
+      "diff": 141930.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 135341.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 132525.0,
+      "topic": "State or territory"
+    },
+    {
+      "diff": 125911.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": 120474.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 113818.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 111127.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 109365.0,
+      "topic": "20th-century women musicians"
+    }
+  ]
+}

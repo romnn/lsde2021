@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 20349.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13299.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 12954.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 11894.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 10824.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 9799.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9749.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 8965.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 8196.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8131.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 8080.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 8031.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 7964.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 7293.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 7265.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 7097.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 6769.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6247.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 6111.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 5842.0,
+      "topic": "Natural environment"
+    }
+  ]
+}

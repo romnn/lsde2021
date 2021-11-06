@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -34127.0,
+      "topic": "History"
+    },
+    {
+      "diff": -22654.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -22298.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -18500.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -17244.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -17158.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -16252.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -15395.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -14782.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -14605.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -14367.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -14257.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": -13349.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -13002.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -12740.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -12643.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -12575.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -12286.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -12214.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": -11578.0,
+      "topic": "Centuries"
+    }
+  ]
+}

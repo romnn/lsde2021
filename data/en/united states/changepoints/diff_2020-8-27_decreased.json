@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -727325.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -715113.0,
+      "topic": "History"
+    },
+    {
+      "diff": -616288.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -517297.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -421514.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -363078.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -343609.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -319003.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -301016.0,
+      "topic": "State"
+    },
+    {
+      "diff": -245068.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -234404.0,
+      "topic": "American political people"
+    },
+    {
+      "diff": -220656.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -217299.0,
+      "topic": "German people"
+    },
+    {
+      "diff": -211164.0,
+      "topic": "Executive branches"
+    },
+    {
+      "diff": -206154.0,
+      "topic": "European football"
+    },
+    {
+      "diff": -201969.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -198025.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -196890.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -195474.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -186234.0,
+      "topic": "Anarchism"
+    }
+  ]
+}

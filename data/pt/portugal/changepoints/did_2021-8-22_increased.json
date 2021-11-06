@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 31298.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 29696.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 29540.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 28979.0,
+      "topic": "Ancient history"
+    },
+    {
+      "diff": 25976.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 8487.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 7525.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6875.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 6847.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 6180.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5638.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 5001.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 4986.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 4278.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 4132.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 4017.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3944.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 3897.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 3889.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 3669.0,
+      "topic": "Branches"
+    }
+  ]
+}

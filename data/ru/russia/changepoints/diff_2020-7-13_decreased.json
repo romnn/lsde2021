@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -7288.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7256.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6517.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -5862.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -5694.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -5667.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -5177.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -5116.0,
+      "topic": "Space science"
+    },
+    {
+      "diff": -5074.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4918.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -4484.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -4229.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -4203.0,
+      "topic": "Endocrine system"
+    },
+    {
+      "diff": -4130.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -3935.0,
+      "topic": "Human diseases"
+    },
+    {
+      "diff": -3929.0,
+      "topic": "Integumentary system"
+    },
+    {
+      "diff": -3846.0,
+      "topic": "Events"
+    },
+    {
+      "diff": -3512.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -3361.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -2980.0,
+      "topic": "Biochemistry"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 11032.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 10812.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 10795.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 10775.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 10457.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 10383.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 10195.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 10149.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 9779.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 9759.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5122.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4840.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 4826.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4694.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4390.0,
+      "topic": "Public records"
+    },
+    {
+      "diff": 4316.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": 4288.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2123.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 2008.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1985.0,
+      "topic": "Nationality"
+    }
+  ]
+}

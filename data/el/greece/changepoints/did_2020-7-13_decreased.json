@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -1717.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": -1630.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -1474.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": -1362.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": -1104.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1078.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -1056.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -1044.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1044.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Animal reproductive system"
+    },
+    {
+      "diff": -884.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -811.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -648.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": -641.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -633.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -619.0,
+      "topic": "Social democracy"
+    }
+  ]
+}

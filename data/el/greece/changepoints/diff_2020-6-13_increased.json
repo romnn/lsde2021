@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 1100.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 1053.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 841.0,
+      "topic": "Men"
+    },
+    {
+      "diff": 837.0,
+      "topic": "Greek musicians"
+    },
+    {
+      "diff": 651.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 638.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 585.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 571.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 492.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 488.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 479.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 454.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 436.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 388.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": 388.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 354.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 326.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Delos"
+    }
+  ]
+}

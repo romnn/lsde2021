@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 402.0,
+      "topic": "History"
+    },
+    {
+      "diff": 362.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 344.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 312.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 159.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 134.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 88.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Historical eras"
+    }
+  ]
+}

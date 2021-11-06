@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -36294.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -36201.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -14897.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -14427.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -12657.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -11545.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -11543.0,
+      "topic": "State"
+    },
+    {
+      "diff": -10973.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -10941.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -9556.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -9296.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -7964.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -7593.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -7490.0,
+      "topic": "States"
+    },
+    {
+      "diff": -7416.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7078.0,
+      "topic": "Fungi"
+    },
+    {
+      "diff": -6642.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -6542.0,
+      "topic": "1930s disestablishments"
+    },
+    {
+      "diff": -6394.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": -6277.0,
+      "topic": "Second-level administrative divisions by country"
+    }
+  ]
+}

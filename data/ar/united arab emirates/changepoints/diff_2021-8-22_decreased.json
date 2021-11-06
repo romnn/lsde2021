@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -59545.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -38156.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -36998.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -36021.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -35807.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -24225.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -22351.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -21043.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -20029.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -14370.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -14193.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -14064.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -14042.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -12275.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5582.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5075.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4454.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -3997.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3928.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3627.0,
+      "topic": "6th century"
+    }
+  ]
+}

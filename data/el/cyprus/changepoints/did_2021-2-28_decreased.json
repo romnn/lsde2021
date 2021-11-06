@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -15615.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15429.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -14980.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -13061.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4704.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2886.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -2835.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -2792.0,
+      "topic": "States"
+    },
+    {
+      "diff": -2783.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": -2716.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2684.0,
+      "topic": "Argonauts"
+    },
+    {
+      "diff": -2616.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -2549.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -2523.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -2248.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1864.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -1600.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -1562.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1526.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Categories"
+    }
+  ]
+}

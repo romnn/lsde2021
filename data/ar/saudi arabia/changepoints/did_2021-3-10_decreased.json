@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -17567.0,
+      "topic": "History"
+    },
+    {
+      "diff": -10411.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9160.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -9147.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -8978.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -7666.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6868.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6764.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6648.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -6558.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6039.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -5987.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4710.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -4663.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -4612.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -4530.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4452.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -4445.0,
+      "topic": "People"
+    },
+    {
+      "diff": -4321.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4320.0,
+      "topic": "Subfields"
+    }
+  ]
+}

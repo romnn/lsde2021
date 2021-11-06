@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 2583.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2296.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": 2013.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": 2010.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": 1982.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 1982.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": 1777.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1506.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1482.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1479.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1434.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1408.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": 1401.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 1371.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": 1346.0,
+      "topic": "Security"
+    },
+    {
+      "diff": 1327.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 1275.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 1214.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1196.0,
+      "topic": "Thessaly"
+    },
+    {
+      "diff": 1176.0,
+      "topic": "Politics"
+    }
+  ]
+}

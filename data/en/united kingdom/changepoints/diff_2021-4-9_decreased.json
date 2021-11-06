@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -548572.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -436529.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -429795.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -365716.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -258926.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -258886.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -251383.0,
+      "topic": "India"
+    },
+    {
+      "diff": -251293.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -248512.0,
+      "topic": "Egypt"
+    },
+    {
+      "diff": -225859.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -221747.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -221335.0,
+      "topic": "State"
+    },
+    {
+      "diff": -221004.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -216298.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -213759.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -212116.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -197632.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -192693.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -191788.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -187553.0,
+      "topic": "Arab world"
+    }
+  ]
+}

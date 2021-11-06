@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -108133.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -104387.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -101601.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -101494.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -101321.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -59855.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -44058.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -43103.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -42865.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -42828.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -34773.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -21903.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -18709.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -18420.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -15162.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -13921.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -13708.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -13638.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -11904.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -10728.0,
+      "topic": "Nationality"
+    }
+  ]
+}

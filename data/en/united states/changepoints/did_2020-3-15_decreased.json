@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -865746.0,
+      "topic": "History"
+    },
+    {
+      "diff": -753103.0,
+      "topic": "Political congresses"
+    },
+    {
+      "diff": -752382.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": -744422.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -595472.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -513750.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -405945.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -357920.0,
+      "topic": "Medical or psychological condition"
+    },
+    {
+      "diff": -353415.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -344759.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -327966.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -314340.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -280706.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": -211859.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -200751.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -172417.0,
+      "topic": "Aircraft manufacturers"
+    },
+    {
+      "diff": -171542.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": -159116.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -142670.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -138594.0,
+      "topic": "Club"
+    }
+  ]
+}

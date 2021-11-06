@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 148419.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 86639.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 56758.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 56570.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 55632.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 52068.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 40639.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 40571.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 40272.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 39052.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 37614.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 36940.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 36262.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 35476.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 33248.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 27782.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 27150.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 26987.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 25807.0,
+      "topic": "History"
+    },
+    {
+      "diff": 25401.0,
+      "topic": "Social policy"
+    }
+  ]
+}

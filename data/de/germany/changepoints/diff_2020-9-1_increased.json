@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 4208.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": 4091.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 4001.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 3883.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3702.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 3669.0,
+      "topic": "Target organ system"
+    },
+    {
+      "diff": 3669.0,
+      "topic": "Pain"
+    },
+    {
+      "diff": 3385.0,
+      "topic": "Drugs"
+    },
+    {
+      "diff": 3355.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 3166.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 2928.0,
+      "topic": "Transport companies"
+    },
+    {
+      "diff": 2801.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 2793.0,
+      "topic": "Open-source movement"
+    },
+    {
+      "diff": 2778.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 2671.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 2593.0,
+      "topic": "Tradition"
+    },
+    {
+      "diff": 2541.0,
+      "topic": "Economics"
+    },
+    {
+      "diff": 2531.0,
+      "topic": "Mammal male reproductive system"
+    },
+    {
+      "diff": 2514.0,
+      "topic": "Human male reproductive system"
+    },
+    {
+      "diff": 2432.0,
+      "topic": "Artificial materials"
+    }
+  ]
+}

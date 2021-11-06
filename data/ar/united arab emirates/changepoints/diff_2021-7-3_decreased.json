@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -4521.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -4231.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4134.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4061.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4027.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -3921.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3780.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3215.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3143.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": -3137.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2979.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2916.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -2890.0,
+      "topic": "Iraq"
+    },
+    {
+      "diff": -2857.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": -2841.0,
+      "topic": "Lebanese people"
+    },
+    {
+      "diff": -2823.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2792.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -2719.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -2649.0,
+      "topic": "14th century"
+    },
+    {
+      "diff": -2628.0,
+      "topic": "Byzantine\u2013turkish wars"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -45.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Mass media companies based"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Running"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Interdisciplinary physics"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Empiricism"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Dublin (city)"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Humanities"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 176887.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 172342.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 170305.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 169121.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 168815.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 11063.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 7876.0,
+      "topic": "Finnish culture"
+    },
+    {
+      "diff": 7164.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": 6830.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": 6753.0,
+      "topic": "States"
+    },
+    {
+      "diff": 6547.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 6178.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": 6168.0,
+      "topic": "Distributed data storage"
+    },
+    {
+      "diff": 5983.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": 5761.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": 5678.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 5406.0,
+      "topic": "Television technology"
+    },
+    {
+      "diff": 5130.0,
+      "topic": "San francisco bay area"
+    },
+    {
+      "diff": 4889.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 4761.0,
+      "topic": "Macintosh operating systems"
+    }
+  ]
+}

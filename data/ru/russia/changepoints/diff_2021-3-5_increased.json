@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 34107.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 26108.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 22317.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 21027.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 19580.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 18607.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 12034.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 11042.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 10829.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 10539.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 10376.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": 6585.0,
+      "topic": "Days"
+    },
+    {
+      "diff": 6533.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": 6533.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": 6519.0,
+      "topic": "Seasonal holidays"
+    },
+    {
+      "diff": 6513.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": 6510.0,
+      "topic": "Week"
+    },
+    {
+      "diff": 6483.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 6342.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 6149.0,
+      "topic": "Syria"
+    }
+  ]
+}

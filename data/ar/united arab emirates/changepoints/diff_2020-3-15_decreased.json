@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -2383.0,
+      "topic": "Kuwait"
+    },
+    {
+      "diff": -2243.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -2221.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -2112.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -1925.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -1608.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1534.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -1520.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -1465.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -1416.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -1283.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "United arab emirates"
+    },
+    {
+      "diff": -1260.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1253.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1147.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -1138.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": -1090.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1075.0,
+      "topic": "Rights"
+    }
+  ]
+}

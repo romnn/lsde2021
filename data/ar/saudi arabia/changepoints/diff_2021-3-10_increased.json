@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 4685.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": 4652.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 4586.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 2328.0,
+      "topic": "Islamic belief"
+    },
+    {
+      "diff": 2251.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": 2128.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 1764.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 1731.0,
+      "topic": "Solid state engineering"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "Condensed matter physics"
+    },
+    {
+      "diff": 1689.0,
+      "topic": "Thermodynamics"
+    },
+    {
+      "diff": 1582.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 1560.0,
+      "topic": "Energy sources"
+    },
+    {
+      "diff": 1318.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1249.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 1208.0,
+      "topic": "Cambrian geology"
+    },
+    {
+      "diff": 1165.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 1147.0,
+      "topic": "Space technology"
+    },
+    {
+      "diff": 1133.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1127.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 1053.0,
+      "topic": "Supranational unions"
+    }
+  ]
+}

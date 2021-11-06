@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -1546.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1277.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1110.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1110.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1065.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -1065.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -960.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -937.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -924.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -786.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -698.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -602.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -572.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -561.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -538.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -507.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Humanities"
+    }
+  ]
+}

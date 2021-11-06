@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 14925.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 12167.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9882.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 8663.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 8332.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 7401.0,
+      "topic": "Southwestern europe"
+    },
+    {
+      "diff": 6170.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 6125.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 6011.0,
+      "topic": "North american culture"
+    },
+    {
+      "diff": 5952.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 5902.0,
+      "topic": "Latin america"
+    },
+    {
+      "diff": 4533.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 4435.0,
+      "topic": "Catalonia"
+    },
+    {
+      "diff": 4375.0,
+      "topic": "Lleida"
+    },
+    {
+      "diff": 3942.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 3328.0,
+      "topic": "South american culture"
+    },
+    {
+      "diff": 3181.0,
+      "topic": "Peru"
+    },
+    {
+      "diff": 3003.0,
+      "topic": "Colombia"
+    },
+    {
+      "diff": 2813.0,
+      "topic": "South america"
+    },
+    {
+      "diff": 2705.0,
+      "topic": "Toxicants"
+    }
+  ]
+}

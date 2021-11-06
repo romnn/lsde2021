@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -63727.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -60733.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -58156.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -56695.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -54531.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -35087.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -33556.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -31211.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -30313.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -22901.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6702.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -6436.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -5115.0,
+      "topic": "Public records"
+    },
+    {
+      "diff": -4716.0,
+      "topic": "Afghanistan"
+    },
+    {
+      "diff": -4259.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -4193.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": -4031.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -3682.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": -3656.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -3617.0,
+      "topic": "Cities"
+    }
+  ]
+}

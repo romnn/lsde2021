@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -107486.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -104768.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -101242.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -101090.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -101088.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -56889.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -43531.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -43479.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -43227.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -43099.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -24079.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -15863.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -13791.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -12918.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -9979.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -8044.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -7912.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7743.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -7107.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -7043.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

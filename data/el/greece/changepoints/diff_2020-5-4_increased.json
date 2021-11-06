@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 540.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 529.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 529.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 529.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 512.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 349.0,
+      "topic": "Judiciaries"
+    },
+    {
+      "diff": 278.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 243.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Biological classification"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Economic globalization"
+    },
+    {
+      "diff": 204.0,
+      "topic": "Gender studies"
+    },
+    {
+      "diff": 201.0,
+      "topic": "Conceptions"
+    },
+    {
+      "diff": 186.0,
+      "topic": "Pop rock"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 151.0,
+      "topic": "Adaptation"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 138.0,
+      "topic": "Cambrian geology"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Post-structuralism"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Constitutional law"
+    },
+    {
+      "diff": 124.0,
+      "topic": "Asterids"
+    }
+  ]
+}

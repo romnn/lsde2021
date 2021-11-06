@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1236.0,
+      "topic": "German music"
+    },
+    {
+      "diff": 1215.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 1200.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 1108.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 1081.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 416.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 408.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 395.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 372.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 292.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 262.0,
+      "topic": "Albanian people"
+    },
+    {
+      "diff": 239.0,
+      "topic": "People"
+    },
+    {
+      "diff": 236.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 209.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 209.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Electronic music genres"
+    }
+  ]
+}

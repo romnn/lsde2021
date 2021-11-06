@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1965.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 1945.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 1944.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 1940.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 272.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 254.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 239.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 237.0,
+      "topic": "Family"
+    },
+    {
+      "diff": 206.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 205.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 184.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 157.0,
+      "topic": "Left-wing politics"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Nationalism"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Social agreement"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 142.0,
+      "topic": "Political culture"
+    }
+  ]
+}

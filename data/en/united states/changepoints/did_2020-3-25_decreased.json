@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -258557.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -224949.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -217591.0,
+      "topic": "Aircraft manufacturers"
+    },
+    {
+      "diff": -206297.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -205709.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -179473.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -167149.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -147502.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -144981.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -122798.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -110095.0,
+      "topic": "Commercial crimes"
+    },
+    {
+      "diff": -103516.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -102396.0,
+      "topic": "Financial crimes"
+    },
+    {
+      "diff": -98865.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -98832.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -93419.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -91627.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -90782.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -90205.0,
+      "topic": "Ethnocentrism"
+    },
+    {
+      "diff": -89322.0,
+      "topic": "Injustice"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 2062.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1832.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1599.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 1591.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": 1545.0,
+      "topic": "Nondualism"
+    },
+    {
+      "diff": 958.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 896.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 861.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 846.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 792.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 770.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 732.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": 721.0,
+      "topic": "Art"
+    },
+    {
+      "diff": 672.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 642.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 642.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 633.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 630.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 584.0,
+      "topic": "Vehicle manufacturing companies"
+    }
+  ]
+}

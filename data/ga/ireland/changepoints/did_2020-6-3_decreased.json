@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -87.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -33.0,
+      "topic": "People"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Crafts"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Animal"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Behavior"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Extant gelasian first appearances"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Organ systems"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Human biology"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Interdisciplinary physics"
+    }
+  ]
+}

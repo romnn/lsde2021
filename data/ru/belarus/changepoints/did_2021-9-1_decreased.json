@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -63422.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -58132.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -57881.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -55687.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -51545.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -34077.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -30905.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -24118.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -13466.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -12842.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -10238.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -7888.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6598.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -6086.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -5719.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -5009.0,
+      "topic": "Public records"
+    },
+    {
+      "diff": -4867.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -4674.0,
+      "topic": "Afghanistan"
+    },
+    {
+      "diff": -4157.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -4110.0,
+      "topic": "Association football"
+    }
+  ]
+}

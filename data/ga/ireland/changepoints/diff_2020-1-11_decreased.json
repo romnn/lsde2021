@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -28.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Radiation"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -19.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -16.0,
+      "topic": "Running"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Dublin (city)"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Sport variants"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Business services companies"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Ports"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Baronies of dublin (city)"
+    },
+    {
+      "diff": -8.0,
+      "topic": "County dublin"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Human\u2013computer interaction"
+    }
+  ]
+}

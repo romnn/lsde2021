@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -6875.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6441.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -5781.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4123.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3718.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -3516.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": -3332.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3318.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -3310.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3008.0,
+      "topic": "Lifestyle"
+    },
+    {
+      "diff": -2848.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2817.0,
+      "topic": "Iraq"
+    },
+    {
+      "diff": -2808.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -2804.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2801.0,
+      "topic": "Lebanese people"
+    },
+    {
+      "diff": -2755.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2727.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -2710.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -2627.0,
+      "topic": "Byzantine\u2013turkish wars"
+    },
+    {
+      "diff": -2616.0,
+      "topic": "14th century"
+    }
+  ]
+}

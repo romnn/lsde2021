@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 8558.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 7168.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": 7127.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 6856.0,
+      "topic": "Motion (physics)"
+    },
+    {
+      "diff": 6688.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 1501.0,
+      "topic": "Weather"
+    },
+    {
+      "diff": 1501.0,
+      "topic": "Synoptic meteorology"
+    },
+    {
+      "diff": 1478.0,
+      "topic": "Events"
+    },
+    {
+      "diff": 765.0,
+      "topic": "Centuries in georgia (country)"
+    },
+    {
+      "diff": 763.0,
+      "topic": "1910s disestablishments"
+    },
+    {
+      "diff": 744.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 621.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 615.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 604.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 549.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 517.0,
+      "topic": "Gender studies"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Secrecy"
+    },
+    {
+      "diff": 431.0,
+      "topic": "Frankfurt school"
+    }
+  ]
+}

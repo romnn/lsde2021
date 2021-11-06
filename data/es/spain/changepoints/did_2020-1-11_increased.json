@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 176258.0,
+      "topic": "History"
+    },
+    {
+      "diff": 159572.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 157102.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 102030.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 101546.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 101060.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 100862.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 94800.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 93015.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 92987.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 92714.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 92447.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 87041.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 80295.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 79480.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 78022.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 71518.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 63094.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 61275.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 60981.0,
+      "topic": "Politics"
+    }
+  ]
+}

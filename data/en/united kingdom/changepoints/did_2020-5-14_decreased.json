@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2559687.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1753456.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1576396.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1549856.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1461495.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1297361.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1046992.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1021770.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -996315.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -943512.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -690264.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": -688556.0,
+      "topic": "State"
+    },
+    {
+      "diff": -673765.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -671229.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -646327.0,
+      "topic": "History"
+    },
+    {
+      "diff": -567623.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -534518.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -517282.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -459789.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -444546.0,
+      "topic": "Topic"
+    }
+  ]
+}

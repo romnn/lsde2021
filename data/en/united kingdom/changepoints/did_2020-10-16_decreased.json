@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -334324.0,
+      "topic": "Netherlands\u2013united states relations"
+    },
+    {
+      "diff": -290070.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -286167.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -249928.0,
+      "topic": "Society-related lists"
+    },
+    {
+      "diff": -233244.0,
+      "topic": "Technology-related lists"
+    },
+    {
+      "diff": -227963.0,
+      "topic": "History"
+    },
+    {
+      "diff": -225485.0,
+      "topic": "Hypertext"
+    },
+    {
+      "diff": -225233.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -215037.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": -208676.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": -208340.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -202599.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -201580.0,
+      "topic": "Literary motifs"
+    },
+    {
+      "diff": -197476.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -194274.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -184702.0,
+      "topic": "Murder"
+    },
+    {
+      "diff": -180041.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": -177395.0,
+      "topic": "Women's rights by continent"
+    },
+    {
+      "diff": -175106.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -174896.0,
+      "topic": "Musicians"
+    }
+  ]
+}

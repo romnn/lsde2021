@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 3377762.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2546709.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2377981.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2329933.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 2109683.0,
+      "topic": "People"
+    },
+    {
+      "diff": 2102549.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1760880.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1394262.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 1024428.0,
+      "topic": "State"
+    },
+    {
+      "diff": 1023081.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1022848.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 946649.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 935645.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 844862.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 770834.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 642127.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 555617.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 549299.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 534496.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 466776.0,
+      "topic": "Films"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -18198.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -18183.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -17794.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -16758.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -14768.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -8287.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -7824.0,
+      "topic": "Highest things"
+    },
+    {
+      "diff": -7221.0,
+      "topic": "Enzymes"
+    },
+    {
+      "diff": -6664.0,
+      "topic": "One-dimensional coordinate systems"
+    },
+    {
+      "diff": -6664.0,
+      "topic": "Mountain names"
+    },
+    {
+      "diff": -6608.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -6512.0,
+      "topic": "Function"
+    },
+    {
+      "diff": -5966.0,
+      "topic": "Proteins"
+    },
+    {
+      "diff": -5165.0,
+      "topic": "Molecular biology"
+    },
+    {
+      "diff": -4725.0,
+      "topic": "Belarus"
+    },
+    {
+      "diff": -4136.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3339.0,
+      "topic": "Military"
+    },
+    {
+      "diff": -3122.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -2799.0,
+      "topic": "Age"
+    },
+    {
+      "diff": -2653.0,
+      "topic": "Organized crime groups"
+    }
+  ]
+}

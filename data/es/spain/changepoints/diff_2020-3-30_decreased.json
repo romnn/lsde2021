@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -75264.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -57794.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -57440.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -56983.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -45821.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": -44958.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -41145.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": -38422.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -35985.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -35669.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -31927.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -30892.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -26965.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -26769.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -26342.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -24553.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -24435.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -23919.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -23840.0,
+      "topic": "Astrologers"
+    },
+    {
+      "diff": -23817.0,
+      "topic": "Esotericists"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 2352.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1835.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1222.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1197.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1095.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 967.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 960.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 915.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 873.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 813.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 808.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 778.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 767.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": 748.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 748.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 735.0,
+      "topic": "Information science"
+    },
+    {
+      "diff": 725.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 684.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 631.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

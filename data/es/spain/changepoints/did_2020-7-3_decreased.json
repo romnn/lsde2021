@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -55271.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -52456.0,
+      "topic": "History"
+    },
+    {
+      "diff": -49206.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -38366.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -33417.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -32939.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -31462.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -29849.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -28566.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -27431.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -27328.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -26597.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -25636.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -23648.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -23085.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -22842.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -22330.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -22244.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -21501.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -21359.0,
+      "topic": "Establishments"
+    }
+  ]
+}

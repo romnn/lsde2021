@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 739.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 726.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 581.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": 234.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 228.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 215.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 158.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 156.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Biota"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Rocks"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Conservation biology"
+    },
+    {
+      "diff": 111.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 109.0,
+      "topic": "Peru"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Neighbourhoods"
+    }
+  ]
+}

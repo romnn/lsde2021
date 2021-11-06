@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 14.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Legendary characters"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Animal anatomy"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Molecular biology"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Organ systems"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Rugby football"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Prehistoric arthropods"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Mesozoic animals"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Dental anatomy"
+    },
+    {
+      "diff": 5.0,
+      "topic": "County westmeath"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Syntax"
+    }
+  ]
+}

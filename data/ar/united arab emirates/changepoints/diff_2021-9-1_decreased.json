@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -32634.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -18620.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -17917.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -17724.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -17515.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -14928.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -14869.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -13675.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -13170.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -11241.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -11169.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -11031.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -10914.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -7843.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2326.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2312.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": -2311.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -2305.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": -2131.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -2129.0,
+      "topic": "Centuries"
+    }
+  ]
+}

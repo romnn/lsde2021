@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -159381.0,
+      "topic": "History"
+    },
+    {
+      "diff": -154004.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -153893.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -153585.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -153574.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": -4645.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4101.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3818.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3552.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3268.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2990.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2802.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2779.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2749.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2563.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -2548.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2510.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2319.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2274.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2264.0,
+      "topic": "Categories"
+    }
+  ]
+}

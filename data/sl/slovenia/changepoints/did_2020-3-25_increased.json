@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 2225.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1701.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1697.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1693.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1575.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1493.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1411.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1348.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1185.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1081.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 1079.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1061.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 914.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 906.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 897.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 864.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 861.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Anthropology"
+    }
+  ]
+}

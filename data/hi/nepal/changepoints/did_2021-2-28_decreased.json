@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -12495.0,
+      "topic": "India"
+    },
+    {
+      "diff": -8408.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -8265.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7579.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -7546.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -7384.0,
+      "topic": "Poets"
+    },
+    {
+      "diff": -5961.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -5888.0,
+      "topic": "Indian royalty"
+    },
+    {
+      "diff": -5825.0,
+      "topic": "17th-century asian people by nationality"
+    },
+    {
+      "diff": -5783.0,
+      "topic": "Caste"
+    },
+    {
+      "diff": -3802.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -2658.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2032.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2027.0,
+      "topic": "Afghanistan"
+    },
+    {
+      "diff": -1977.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -1655.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1561.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1482.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -1432.0,
+      "topic": "Rebellions"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Universe"
+    }
+  ]
+}

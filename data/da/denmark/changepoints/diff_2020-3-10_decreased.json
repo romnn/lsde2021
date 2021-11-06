@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2471.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2374.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -2122.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1272.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1187.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1116.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1053.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": -999.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -906.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -748.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -748.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -738.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -683.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -674.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Country"
+    }
+  ]
+}

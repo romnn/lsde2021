@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -177672.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -157785.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -157197.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -155060.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -155019.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -41259.0,
+      "topic": "History"
+    },
+    {
+      "diff": -32143.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -25937.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -24055.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -22667.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -22560.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -20647.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -19871.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -19462.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -18986.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -18572.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -18195.0,
+      "topic": "People"
+    },
+    {
+      "diff": -16793.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -15757.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -15536.0,
+      "topic": "Industry"
+    }
+  ]
+}

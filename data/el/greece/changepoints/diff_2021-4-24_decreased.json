@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -5160.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -4614.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -3948.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -3940.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3852.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3228.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -3090.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -3005.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2975.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2953.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2823.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2621.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -2613.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2593.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -2398.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2363.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2249.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2130.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -2043.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

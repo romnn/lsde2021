@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -17532.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15463.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -12536.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -12326.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -12326.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9980.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -8966.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": -8736.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -8333.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -8217.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -7933.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": -7524.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -7492.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -6788.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -6599.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -6559.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -6145.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": -6111.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -5892.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -5829.0,
+      "topic": "Late modern period"
+    }
+  ]
+}

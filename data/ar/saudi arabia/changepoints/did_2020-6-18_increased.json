@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 7607.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6835.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 5776.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5230.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4850.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 4346.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": 4104.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 3600.0,
+      "topic": "World heritage sites"
+    },
+    {
+      "diff": 3577.0,
+      "topic": "Ethiopia"
+    },
+    {
+      "diff": 2702.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2461.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2416.0,
+      "topic": "Otorhinolaryngology"
+    },
+    {
+      "diff": 2360.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 2347.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 2207.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": 1947.0,
+      "topic": "Economic globalization"
+    },
+    {
+      "diff": 1918.0,
+      "topic": "Ecoregions"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Islamic legendary creatures"
+    },
+    {
+      "diff": 1741.0,
+      "topic": "Old testament people"
+    }
+  ]
+}

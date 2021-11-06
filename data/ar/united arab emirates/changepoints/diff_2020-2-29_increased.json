@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 8948.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 8629.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 8255.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 8245.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8227.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 2679.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 2451.0,
+      "topic": "Kuwait"
+    },
+    {
+      "diff": 2187.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2144.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2143.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 2100.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1888.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": 1452.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": 1413.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 1359.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 1306.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 1228.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 1141.0,
+      "topic": "United arab emirates"
+    },
+    {
+      "diff": 1113.0,
+      "topic": "Arab world"
+    }
+  ]
+}

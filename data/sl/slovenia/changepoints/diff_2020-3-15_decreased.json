@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1005.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -853.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -837.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -791.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -709.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -511.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -405.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Maternal health"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Human pregnancy"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Puerto rican music"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Colombian music"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Latin pop"
+    },
+    {
+      "diff": -50.0,
+      "topic": "Record labels"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Bangladeshi people"
+    },
+    {
+      "diff": -41.0,
+      "topic": "State or territory"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Pleistocene events"
+    }
+  ]
+}

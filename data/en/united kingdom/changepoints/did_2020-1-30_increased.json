@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 3660211.0,
+      "topic": "Political congresses"
+    },
+    {
+      "diff": 3659508.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": 3644335.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": 3621177.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2785212.0,
+      "topic": "History"
+    },
+    {
+      "diff": 699375.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 693467.0,
+      "topic": "Open-source movement"
+    },
+    {
+      "diff": 653759.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 653259.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 647335.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": 348499.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 339844.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 330731.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 280845.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": 271776.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": 266840.0,
+      "topic": "Sony pictures entertainment"
+    },
+    {
+      "diff": 265512.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 255453.0,
+      "topic": "American political people"
+    },
+    {
+      "diff": 241254.0,
+      "topic": "Colombian music"
+    },
+    {
+      "diff": 237779.0,
+      "topic": "Film studios"
+    }
+  ]
+}

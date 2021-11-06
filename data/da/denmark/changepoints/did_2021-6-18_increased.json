@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 2657.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1997.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1891.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1827.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 1303.0,
+      "topic": "Centuries in georgia (country)"
+    },
+    {
+      "diff": 1302.0,
+      "topic": "1910s disestablishments"
+    },
+    {
+      "diff": 1299.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 875.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 711.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 654.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 586.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 491.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 487.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 454.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 424.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 383.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 383.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 323.0,
+      "topic": "Physiographic divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 409.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 310.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 275.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 264.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 262.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 256.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 242.0,
+      "topic": "Bosnia"
+    },
+    {
+      "diff": 239.0,
+      "topic": "Rivers"
+    },
+    {
+      "diff": 231.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": 204.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 201.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Herzegovina"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 177.0,
+      "topic": "Scottish traditions"
+    },
+    {
+      "diff": 175.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Celtic culture"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Slovenian society"
+    },
+    {
+      "diff": 159.0,
+      "topic": "Environment"
+    }
+  ]
+}

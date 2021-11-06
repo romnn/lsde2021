@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 38482.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 37984.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 37501.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 37170.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 36896.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 36424.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 31598.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 29182.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 28648.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 25332.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 20176.0,
+      "topic": "History"
+    },
+    {
+      "diff": 17915.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 17065.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": 15582.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 15538.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 14324.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 12873.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 12558.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 11577.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 11531.0,
+      "topic": "Clinical medicine"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -1153.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -779.0,
+      "topic": "Southern europe"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -659.0,
+      "topic": "Internet fraud"
+    },
+    {
+      "diff": -651.0,
+      "topic": "Hypertext transfer protocol clients"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -490.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -426.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -419.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -393.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -367.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -364.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": -328.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -318.0,
+      "topic": "Transport companies"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -272.0,
+      "topic": "Simple living"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2264.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1700.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1609.0,
+      "topic": "Format"
+    },
+    {
+      "diff": -1524.0,
+      "topic": "Writers"
+    },
+    {
+      "diff": -1458.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -1357.0,
+      "topic": "Music organizations based"
+    },
+    {
+      "diff": -1333.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1232.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": -1203.0,
+      "topic": "European music"
+    },
+    {
+      "diff": -1136.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1076.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -931.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -913.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -840.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -800.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Arctic cuisine"
+    },
+    {
+      "diff": -665.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -640.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Decades"
+    }
+  ]
+}

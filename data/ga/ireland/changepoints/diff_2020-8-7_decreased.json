@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -144.0,
+      "topic": "History"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -141.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Sun"
+    }
+  ]
+}

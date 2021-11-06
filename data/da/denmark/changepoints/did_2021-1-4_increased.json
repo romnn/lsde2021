@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 6374.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5713.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5194.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4646.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4504.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4086.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3920.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3266.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2991.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2794.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2670.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2604.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2505.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2316.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 2289.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2180.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2107.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 2031.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1790.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Discrimination"
+    }
+  ]
+}

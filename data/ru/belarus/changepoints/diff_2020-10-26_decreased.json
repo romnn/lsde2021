@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -7554.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6426.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6359.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4683.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -4197.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -4135.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4062.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -3950.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -3940.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3739.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3662.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -3549.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3376.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3341.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3280.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -3276.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -3257.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -3226.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -3090.0,
+      "topic": "Interdisciplinary subfields"
+    },
+    {
+      "diff": -2943.0,
+      "topic": "Physiographic divisions"
+    }
+  ]
+}

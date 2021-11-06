@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -2429.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1835.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -1831.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -1790.0,
+      "topic": "North africa"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "Football"
+    },
+    {
+      "diff": -1747.0,
+      "topic": "Association football competitions"
+    },
+    {
+      "diff": -1736.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": -1658.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1590.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1568.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1384.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -1356.0,
+      "topic": "Old testament people"
+    },
+    {
+      "diff": -1326.0,
+      "topic": "Islamic legendary creatures"
+    },
+    {
+      "diff": -1241.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -1159.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1088.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1082.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1037.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -1026.0,
+      "topic": "Physical quantities"
+    }
+  ]
+}

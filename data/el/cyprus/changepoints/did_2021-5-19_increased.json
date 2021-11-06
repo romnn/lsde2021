@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 4390.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 2104.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1814.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": 1812.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": 1810.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": 1725.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 1720.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1637.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 1489.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 1441.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1352.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1316.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": 1210.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1180.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 1145.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 1131.0,
+      "topic": "Ethnography"
+    },
+    {
+      "diff": 1123.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1119.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 993.0,
+      "topic": "Genre"
+    }
+  ]
+}

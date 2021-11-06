@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 19600.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 17169.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 16779.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 14782.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 14766.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 14080.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 14009.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 12226.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 11186.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": 10837.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 10802.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 9730.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 8985.0,
+      "topic": "France"
+    },
+    {
+      "diff": 8221.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": 7720.0,
+      "topic": "Northern european descent"
+    },
+    {
+      "diff": 7185.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 6478.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 6462.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": 6430.0,
+      "topic": "Southwestern europe"
+    },
+    {
+      "diff": 5823.0,
+      "topic": "Folk culture"
+    }
+  ]
+}

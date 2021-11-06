@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -8767.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -6900.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -6565.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -6185.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -6102.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -5890.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -5412.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": -5335.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -5255.0,
+      "topic": "Indian scholars"
+    },
+    {
+      "diff": -5241.0,
+      "topic": "Sex positivism"
+    },
+    {
+      "diff": -5235.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -5219.0,
+      "topic": "1970s beginnings"
+    },
+    {
+      "diff": -5193.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -4725.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -4695.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -4657.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -4564.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": -4550.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -4534.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": -4444.0,
+      "topic": "People"
+    }
+  ]
+}

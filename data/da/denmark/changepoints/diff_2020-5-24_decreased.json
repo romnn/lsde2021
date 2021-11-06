@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -1013.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -954.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -923.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -817.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -784.0,
+      "topic": "History"
+    },
+    {
+      "diff": -764.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -667.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -535.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -505.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -469.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -459.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -411.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": -400.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -388.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -372.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -357.0,
+      "topic": "Kingdom"
+    }
+  ]
+}

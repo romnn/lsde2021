@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 6363.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 5526.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 5459.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5375.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5146.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 5126.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4694.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": 4527.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 4119.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3976.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 3973.0,
+      "topic": "Angels"
+    },
+    {
+      "diff": 3970.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": 3955.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3712.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3535.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3429.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 3300.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 3298.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2937.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 2919.0,
+      "topic": "Geography"
+    }
+  ]
+}

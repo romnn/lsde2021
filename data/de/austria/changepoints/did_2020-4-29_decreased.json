@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -30321.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -27435.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -26335.0,
+      "topic": "Mountain range"
+    },
+    {
+      "diff": -25766.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -25595.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": -23830.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -22749.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -22358.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -21952.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -20440.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -19547.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -17389.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -17373.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -17371.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -17370.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -16220.0,
+      "topic": "Orbit"
+    },
+    {
+      "diff": -16038.0,
+      "topic": "Spacecraft"
+    },
+    {
+      "diff": -14787.0,
+      "topic": "Electronic engineering"
+    },
+    {
+      "diff": -14159.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -13803.0,
+      "topic": "Communication"
+    }
+  ]
+}

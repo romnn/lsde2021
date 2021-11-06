@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 13432.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 10384.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 9013.0,
+      "topic": "Defunct companies"
+    },
+    {
+      "diff": 8618.0,
+      "topic": "Soil tests"
+    },
+    {
+      "diff": 8521.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 7605.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 7573.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 7291.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 7167.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 6697.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 5785.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 5705.0,
+      "topic": "France"
+    },
+    {
+      "diff": 5515.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 5461.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": 4619.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 4580.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 4551.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 4224.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 4222.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 4151.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

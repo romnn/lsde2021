@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 301.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Drink preparation"
+    },
+    {
+      "diff": 298.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 251.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": 156.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Arabic-language culture"
+    },
+    {
+      "diff": 116.0,
+      "topic": "Egyptian culture"
+    },
+    {
+      "diff": 110.0,
+      "topic": "7th-century people"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Middle eastern people"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Home economics"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Dialects"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": 77.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Province"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Late modern period"
+    }
+  ]
+}

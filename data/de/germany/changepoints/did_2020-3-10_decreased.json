@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -54629.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -49746.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -30076.0,
+      "topic": "State"
+    },
+    {
+      "diff": -28202.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -19696.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -18808.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -17876.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -16121.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -15450.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -15389.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -15128.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -15115.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -12602.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -11730.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -10972.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -10595.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -10238.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -9940.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -9844.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -9573.0,
+      "topic": "Beginnings"
+    }
+  ]
+}

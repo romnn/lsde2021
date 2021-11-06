@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 10443.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8981.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 8802.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 8801.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 8800.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8556.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 7077.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 5163.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 5000.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 4991.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 4985.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2565.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2457.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 2392.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2328.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 2279.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 2278.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2251.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 2222.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2122.0,
+      "topic": "Language"
+    }
+  ]
+}

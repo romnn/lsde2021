@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 10870.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 10560.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 9786.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 9766.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 9733.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 5356.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3941.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 3634.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 3571.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 3313.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 3173.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3090.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3033.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 3013.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2903.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2891.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 2875.0,
+      "topic": "Military"
+    },
+    {
+      "diff": 2713.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 2643.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2455.0,
+      "topic": "Pharmacy"
+    }
+  ]
+}

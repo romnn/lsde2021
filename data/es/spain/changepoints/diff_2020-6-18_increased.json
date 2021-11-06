@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 6552.0,
+      "topic": "Communication software"
+    },
+    {
+      "diff": 5846.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 5700.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": 5373.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 5223.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": 4541.0,
+      "topic": "Public administration"
+    },
+    {
+      "diff": 4115.0,
+      "topic": "Global natural environment"
+    },
+    {
+      "diff": 3944.0,
+      "topic": "Natural regions"
+    },
+    {
+      "diff": 3792.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 3729.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": 3700.0,
+      "topic": "Rocks"
+    },
+    {
+      "diff": 3589.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 3268.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 3238.0,
+      "topic": "Word coinage"
+    },
+    {
+      "diff": 3190.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 3147.0,
+      "topic": "Slang"
+    },
+    {
+      "diff": 2869.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 2763.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "Voting theory"
+    },
+    {
+      "diff": 2580.0,
+      "topic": "Social classes"
+    }
+  ]
+}

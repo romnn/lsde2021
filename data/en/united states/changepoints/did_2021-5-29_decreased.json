@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1273499.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1050673.0,
+      "topic": "India"
+    },
+    {
+      "diff": -860978.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -852866.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -731530.0,
+      "topic": "History"
+    },
+    {
+      "diff": -718164.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -672142.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -655080.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -633977.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -608444.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -585091.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -569660.0,
+      "topic": "People"
+    },
+    {
+      "diff": -555502.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": -545646.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -539739.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -510327.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -495216.0,
+      "topic": "State"
+    },
+    {
+      "diff": -489840.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -481293.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -473832.0,
+      "topic": "Categories"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 1452.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1053.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1025.0,
+      "topic": "Performing arts in georgia (country)"
+    },
+    {
+      "diff": 1013.0,
+      "topic": "Greek music people"
+    },
+    {
+      "diff": 933.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 925.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 913.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 798.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 779.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 688.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 658.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 619.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Delos"
+    },
+    {
+      "diff": 538.0,
+      "topic": "Animal"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Musicians from the new york metropolitan area"
+    }
+  ]
+}

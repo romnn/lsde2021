@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -23501.0,
+      "topic": "Colombian styles"
+    },
+    {
+      "diff": -23230.0,
+      "topic": "Panamanian music"
+    },
+    {
+      "diff": -22428.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -21056.0,
+      "topic": "Reggae"
+    },
+    {
+      "diff": -19697.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -15412.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -14563.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -10054.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -9979.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -8191.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": -8161.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -8101.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -6465.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -5496.0,
+      "topic": "Archaeological cultures"
+    },
+    {
+      "diff": -5270.0,
+      "topic": "Central america"
+    },
+    {
+      "diff": -5206.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": -5087.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -4917.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": -4813.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -4716.0,
+      "topic": "Ethics"
+    }
+  ]
+}

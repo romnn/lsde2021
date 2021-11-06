@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -63.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -58.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -56.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -42.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -29.0,
+      "topic": "History"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Honorifics"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Abstraction"
+    },
+    {
+      "diff": -17.0,
+      "topic": "People"
+    }
+  ]
+}

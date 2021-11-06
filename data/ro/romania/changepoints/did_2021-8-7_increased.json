@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 6669.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6205.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5559.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 5522.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 5419.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 4553.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 4506.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 4423.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 4347.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 2886.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 2606.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2488.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2383.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2333.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1196.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 1138.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 999.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 986.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Categories"
+    }
+  ]
+}

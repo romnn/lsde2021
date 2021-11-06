@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-10",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 9723.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 6360.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 3801.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 3545.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": 3349.0,
+      "topic": "French scientists"
+    },
+    {
+      "diff": 3232.0,
+      "topic": "American zoologists"
+    },
+    {
+      "diff": 3061.0,
+      "topic": "Swedish scientists"
+    },
+    {
+      "diff": 3055.0,
+      "topic": "Paleogene life"
+    },
+    {
+      "diff": 2023.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 1691.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": 1619.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 1532.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1492.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 1339.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": 1244.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1203.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1162.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": 1085.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 1051.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 1029.0,
+      "topic": "Language"
+    }
+  ]
+}

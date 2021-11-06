@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -8153.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -7181.0,
+      "topic": "God"
+    },
+    {
+      "diff": -7046.0,
+      "topic": "Savior deities"
+    },
+    {
+      "diff": -6882.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6713.0,
+      "topic": "Theology"
+    },
+    {
+      "diff": -6356.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -5856.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -5394.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -4691.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3784.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -3293.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -3266.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -2069.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -1996.0,
+      "topic": "Personal development"
+    },
+    {
+      "diff": -1988.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1972.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -1863.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -1798.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1713.0,
+      "topic": "Motivation"
+    },
+    {
+      "diff": -1509.0,
+      "topic": "Systems ecology"
+    }
+  ]
+}

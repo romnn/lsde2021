@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -8113.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -8034.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -8028.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -7938.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -7835.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -7492.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6145.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6062.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5986.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5287.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -5233.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -5199.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -5121.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -4611.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -4301.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4272.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3768.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -3176.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2950.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2580.0,
+      "topic": "Sea or ocean"
+    }
+  ]
+}

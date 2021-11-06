@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 28291.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 26717.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": 26686.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": 26040.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": 25925.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 10651.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": 10399.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 9731.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 9480.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 6532.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 4575.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 4177.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": 3749.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 3613.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 3178.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 2551.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 2231.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 2195.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 2168.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2081.0,
+      "topic": "Funk"
+    }
+  ]
+}

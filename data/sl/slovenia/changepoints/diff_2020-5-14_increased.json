@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 280.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 264.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 228.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 213.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 189.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 183.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 175.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 153.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 141.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 140.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 137.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 121.0,
+      "topic": "Eastern europe"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Materials"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Ecological restoration"
+    }
+  ]
+}

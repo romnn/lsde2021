@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 9173.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 8624.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 8252.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 8243.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8222.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 3653.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3647.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2754.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 2449.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2330.0,
+      "topic": "Kuwait"
+    },
+    {
+      "diff": 2313.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 2243.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 2230.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1853.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": 1666.0,
+      "topic": "10th-century people"
+    },
+    {
+      "diff": 1598.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": 1536.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": 1533.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 1506.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 1485.0,
+      "topic": "Social networks"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -52153.0,
+      "topic": "History"
+    },
+    {
+      "diff": -43548.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -41742.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -35603.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -30673.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -27887.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -24860.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -24124.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -22950.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -22845.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -21604.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -21221.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -21125.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -20887.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -20770.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -20145.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -17686.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -17474.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -17426.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -17351.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

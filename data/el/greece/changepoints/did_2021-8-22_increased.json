@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 15672.0,
+      "topic": "State"
+    },
+    {
+      "diff": 15610.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 1896.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1377.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1167.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 1144.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 1100.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1090.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1039.0,
+      "topic": "Cooking technique"
+    },
+    {
+      "diff": 1035.0,
+      "topic": "Balkan culture"
+    },
+    {
+      "diff": 1027.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1015.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 980.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 965.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 957.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 901.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 891.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 883.0,
+      "topic": "People"
+    },
+    {
+      "diff": 796.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 757.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

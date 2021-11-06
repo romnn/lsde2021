@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 79317.0,
+      "topic": "History"
+    },
+    {
+      "diff": 72364.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 70059.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 48936.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 42950.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 42712.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 38863.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 37574.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 37399.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 30302.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 30150.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 29233.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 29171.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 28930.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 28919.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 25821.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 24909.0,
+      "topic": "People"
+    },
+    {
+      "diff": 24885.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 24271.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 24085.0,
+      "topic": "Regions"
+    }
+  ]
+}

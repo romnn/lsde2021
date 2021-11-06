@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -95490.0,
+      "topic": "History"
+    },
+    {
+      "diff": -76911.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -63487.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -54793.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -54423.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -52055.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -48879.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -44449.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -42699.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -36266.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -34405.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -29018.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -28802.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -28238.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -27683.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -27011.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -26240.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -24911.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -24870.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -24810.0,
+      "topic": "Occupation"
+    }
+  ]
+}

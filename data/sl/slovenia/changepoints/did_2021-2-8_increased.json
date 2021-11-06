@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 13690.0,
+      "topic": "History"
+    },
+    {
+      "diff": 11936.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 11748.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 11720.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 7374.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4176.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 3936.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 2898.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2744.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2499.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2272.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 1933.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 1876.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1846.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1613.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1589.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 1489.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1465.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1404.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": 1388.0,
+      "topic": "Musicians"
+    }
+  ]
+}

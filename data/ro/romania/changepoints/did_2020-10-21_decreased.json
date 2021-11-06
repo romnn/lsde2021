@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -2739.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -2502.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -1461.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -943.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -849.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -822.0,
+      "topic": "Substellar objects"
+    },
+    {
+      "diff": -813.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": -767.0,
+      "topic": "Scientific problems"
+    },
+    {
+      "diff": -680.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -676.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": -676.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": -676.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": -675.0,
+      "topic": "Scientific equipment"
+    },
+    {
+      "diff": -675.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": -592.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": -536.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Geological ages"
+    },
+    {
+      "diff": -485.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

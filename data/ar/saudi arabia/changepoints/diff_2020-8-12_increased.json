@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-12",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 15355.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 14966.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": 13582.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": 13523.0,
+      "topic": "People"
+    },
+    {
+      "diff": 7955.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 6628.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 6319.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 5449.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": 4305.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 4222.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3736.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3659.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2844.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2706.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 2690.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2494.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2437.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 2325.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2224.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2215.0,
+      "topic": "Technology"
+    }
+  ]
+}

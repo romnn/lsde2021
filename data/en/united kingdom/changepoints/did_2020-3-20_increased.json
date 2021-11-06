@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 6006821.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5162968.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 4507847.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4074140.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 3947121.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 3532919.0,
+      "topic": "People"
+    },
+    {
+      "diff": 2942189.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2283147.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2157839.0,
+      "topic": "State"
+    },
+    {
+      "diff": 1709864.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 1537370.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1437612.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 1311180.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1311104.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1181613.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 1096635.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 1074820.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 1049978.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 929860.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 900553.0,
+      "topic": "Arts"
+    }
+  ]
+}

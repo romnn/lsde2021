@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -212790.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -207455.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -207311.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -206021.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -206014.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -40107.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -33303.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -32121.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -30078.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -27452.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -27311.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": -26831.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -25298.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": -25250.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -24251.0,
+      "topic": "Defunct companies"
+    },
+    {
+      "diff": -23878.0,
+      "topic": "Soil tests"
+    },
+    {
+      "diff": -23663.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -23060.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -22880.0,
+      "topic": "History"
+    },
+    {
+      "diff": -19958.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

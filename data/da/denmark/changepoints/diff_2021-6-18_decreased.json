@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -1463.0,
+      "topic": "History"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -773.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -702.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -609.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -604.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -585.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -575.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -556.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -495.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -472.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -471.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -442.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -441.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Empiricism"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Fields"
+    }
+  ]
+}

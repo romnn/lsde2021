@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -2698.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -2464.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -2460.0,
+      "topic": "Arab society"
+    },
+    {
+      "diff": -2453.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -2200.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -2184.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2021.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2000.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1940.0,
+      "topic": "Applied disciplines"
+    },
+    {
+      "diff": -1920.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1678.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -1672.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1601.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -1527.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -1425.0,
+      "topic": "Ethology"
+    },
+    {
+      "diff": -1315.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -1301.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -1235.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1195.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -1144.0,
+      "topic": "Reproduction"
+    }
+  ]
+}

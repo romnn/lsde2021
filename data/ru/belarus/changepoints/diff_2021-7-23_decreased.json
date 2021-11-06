@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -15086.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -14536.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -14092.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -13458.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -13292.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -10186.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -8675.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6892.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -6345.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -6284.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -6111.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5466.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -5417.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": -5333.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5330.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": -5261.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -5155.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -5031.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -4953.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -4889.0,
+      "topic": "Populated places"
+    }
+  ]
+}

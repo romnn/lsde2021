@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -10148.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -6866.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -6836.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -6533.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5634.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5296.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -5235.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -5055.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3470.0,
+      "topic": "France"
+    },
+    {
+      "diff": -3424.0,
+      "topic": "Moldova"
+    },
+    {
+      "diff": -3253.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -2924.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -2779.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2259.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1372.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -1317.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -1295.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1197.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-30",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 372.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 367.0,
+      "topic": "History"
+    },
+    {
+      "diff": 361.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 190.0,
+      "topic": "Religious organizations"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Aeneid"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Parents"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Jesus"
+    },
+    {
+      "diff": 120.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Demigods"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Hebrew bible nations"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Language families"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Gangs"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 69.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

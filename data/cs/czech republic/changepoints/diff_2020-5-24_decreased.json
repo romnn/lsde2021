@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -1236.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1075.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1026.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -920.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": -916.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": -916.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": -916.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": -838.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -760.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -729.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -724.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -715.0,
+      "topic": "Decolonization"
+    },
+    {
+      "diff": -664.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -643.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -642.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -622.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -582.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -558.0,
+      "topic": "Warfare"
+    }
+  ]
+}

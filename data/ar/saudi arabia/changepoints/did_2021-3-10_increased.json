@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 8012.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 7960.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": 7943.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 4489.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 3891.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 2618.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 2388.0,
+      "topic": "Islamic belief"
+    },
+    {
+      "diff": 2310.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2281.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": 2203.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1892.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 1679.0,
+      "topic": "Solid state engineering"
+    },
+    {
+      "diff": 1665.0,
+      "topic": "Monocot genera"
+    },
+    {
+      "diff": 1665.0,
+      "topic": "Commelinids"
+    },
+    {
+      "diff": 1663.0,
+      "topic": "Condensed matter physics"
+    },
+    {
+      "diff": 1590.0,
+      "topic": "Habit"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1422.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1359.0,
+      "topic": "Plants"
+    }
+  ]
+}

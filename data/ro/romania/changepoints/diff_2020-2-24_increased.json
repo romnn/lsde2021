@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 10240.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8090.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 5415.0,
+      "topic": "France"
+    },
+    {
+      "diff": 3190.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2375.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": 2362.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2335.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": 2262.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 2212.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 1709.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1662.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1543.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1537.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1494.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1435.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1422.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1414.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1356.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1326.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 1295.0,
+      "topic": "Natural environment"
+    }
+  ]
+}

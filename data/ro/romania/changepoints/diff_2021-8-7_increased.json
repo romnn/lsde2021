@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 6360.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6312.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5632.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 5495.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 5492.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 4654.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 4558.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 4543.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 4534.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 4504.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 2025.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1996.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1777.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1755.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1455.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 1450.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1044.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1040.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 977.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 951.0,
+      "topic": "Area studies"
+    }
+  ]
+}

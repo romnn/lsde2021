@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 5147.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 3008.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 2203.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 2051.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": 1928.0,
+      "topic": "Land"
+    },
+    {
+      "diff": 1182.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 1082.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 1072.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 992.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": 894.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 850.0,
+      "topic": "Palestine (region)"
+    },
+    {
+      "diff": 794.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 774.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 657.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 625.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 576.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 539.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": 532.0,
+      "topic": "Legends"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 23.0,
+      "topic": "Empiricism"
+    },
+    {
+      "diff": 22.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 19.0,
+      "topic": "Southeast asia"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 16.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Dutch republic"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Place names"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Gaelic rulers"
+    },
+    {
+      "diff": 13.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Reality"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Functional groups"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Fashion"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 11.0,
+      "topic": "Osaka prefecture"
+    }
+  ]
+}

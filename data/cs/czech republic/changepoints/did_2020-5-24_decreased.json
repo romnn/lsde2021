@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -4408.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4297.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4261.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3722.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3541.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3458.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3406.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3151.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2477.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2433.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -1969.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1947.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1591.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1451.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -1413.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": -1391.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1339.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1279.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1263.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -1249.0,
+      "topic": "Life skills"
+    }
+  ]
+}

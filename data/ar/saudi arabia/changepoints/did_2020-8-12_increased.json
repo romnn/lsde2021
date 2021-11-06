@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-12",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 18099.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 15250.0,
+      "topic": "Egyptian people"
+    },
+    {
+      "diff": 15229.0,
+      "topic": "People"
+    },
+    {
+      "diff": 13805.0,
+      "topic": "Asian descent"
+    },
+    {
+      "diff": 8409.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 8075.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 7920.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 7711.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 7150.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6114.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5598.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": 5355.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5013.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4866.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4260.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 4174.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 4112.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 4065.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 3960.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 3922.0,
+      "topic": "Science"
+    }
+  ]
+}

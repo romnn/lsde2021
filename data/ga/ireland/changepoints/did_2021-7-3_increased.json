@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 450.0,
+      "topic": "Parenting"
+    },
+    {
+      "diff": 136.0,
+      "topic": "Wars"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 119.0,
+      "topic": "G protein-coupled receptors"
+    },
+    {
+      "diff": 111.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Ligands (biochemistry)"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 87.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 75.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 64.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Vehicle technology"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Transmembrane receptors"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Chemical engineering"
+    }
+  ]
+}

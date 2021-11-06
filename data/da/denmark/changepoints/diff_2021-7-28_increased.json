@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1136.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 983.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 915.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 802.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 788.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 727.0,
+      "topic": "Gaming"
+    },
+    {
+      "diff": 671.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 669.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 668.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 535.0,
+      "topic": "Outdoor recreation"
+    },
+    {
+      "diff": 500.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 480.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": 384.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 371.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 295.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 247.0,
+      "topic": "Islam"
+    }
+  ]
+}

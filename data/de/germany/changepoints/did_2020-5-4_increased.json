@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 387154.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 386999.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": 385895.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 385888.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 380736.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 25872.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 12704.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 12699.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 11997.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 11956.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 11727.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 11593.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 11401.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 9943.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 9512.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 9511.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 9484.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 9471.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 9174.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 8950.0,
+      "topic": "Jurisprudence"
+    }
+  ]
+}

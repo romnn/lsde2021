@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-23",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -992787.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -590734.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -566629.0,
+      "topic": "State"
+    },
+    {
+      "diff": -519850.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -470897.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -448197.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": -382560.0,
+      "topic": "People"
+    },
+    {
+      "diff": -378852.0,
+      "topic": "American football teams"
+    },
+    {
+      "diff": -350109.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": -312286.0,
+      "topic": "Television franchises"
+    },
+    {
+      "diff": -311412.0,
+      "topic": "Pbs kids shows"
+    },
+    {
+      "diff": -298475.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -293600.0,
+      "topic": "Horror fiction"
+    },
+    {
+      "diff": -290896.0,
+      "topic": "Fictional elements"
+    },
+    {
+      "diff": -288144.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -286317.0,
+      "topic": "National football league competitions"
+    },
+    {
+      "diff": -281550.0,
+      "topic": "German people"
+    },
+    {
+      "diff": -276414.0,
+      "topic": "Introduction"
+    },
+    {
+      "diff": -275633.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": -275361.0,
+      "topic": "California"
+    }
+  ]
+}

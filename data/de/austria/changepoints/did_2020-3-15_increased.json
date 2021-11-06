@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 111963.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 102139.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 94681.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 93832.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 93188.0,
+      "topic": "Computer security exploits"
+    },
+    {
+      "diff": 84281.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 83834.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 57611.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 55787.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 55696.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 54889.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 37249.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 35840.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 35723.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 34857.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 33653.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 29633.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 28926.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 28379.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 26275.0,
+      "topic": "Anthropology"
+    }
+  ]
+}

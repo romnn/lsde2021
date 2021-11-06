@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 599132.0,
+      "topic": "People"
+    },
+    {
+      "diff": 477066.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 456067.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": 311297.0,
+      "topic": "Welsh people"
+    },
+    {
+      "diff": 282608.0,
+      "topic": "Sri lanka"
+    },
+    {
+      "diff": 279989.0,
+      "topic": "Former monarchies"
+    },
+    {
+      "diff": 277504.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": 275239.0,
+      "topic": "Politicians"
+    },
+    {
+      "diff": 272009.0,
+      "topic": "Nigeria"
+    },
+    {
+      "diff": 248599.0,
+      "topic": "Northern european descent"
+    },
+    {
+      "diff": 246949.0,
+      "topic": "House of schleswig-holstein-sonderburg-beck"
+    },
+    {
+      "diff": 203356.0,
+      "topic": "Scottish people"
+    },
+    {
+      "diff": 196524.0,
+      "topic": "Major league baseball personnel"
+    },
+    {
+      "diff": 188034.0,
+      "topic": "Oldenburg"
+    },
+    {
+      "diff": 185013.0,
+      "topic": "Team"
+    },
+    {
+      "diff": 181564.0,
+      "topic": "German people"
+    },
+    {
+      "diff": 180849.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 177380.0,
+      "topic": "English descent"
+    },
+    {
+      "diff": 176890.0,
+      "topic": "City"
+    },
+    {
+      "diff": 159137.0,
+      "topic": "Medium"
+    }
+  ]
+}

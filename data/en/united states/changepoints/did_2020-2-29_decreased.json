@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -2455935.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1870661.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1843643.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1657011.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1482371.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1430307.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -1200571.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -1173536.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": -1164781.0,
+      "topic": "Political congresses"
+    },
+    {
+      "diff": -1132629.0,
+      "topic": "People"
+    },
+    {
+      "diff": -940155.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -892864.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -715204.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -697279.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -556401.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -502165.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -490159.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -477861.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -453910.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -420515.0,
+      "topic": "United kingdom"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-09",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 6233.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4806.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 4500.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3522.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3434.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3251.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3041.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2938.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2865.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2859.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 2847.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2834.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2665.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2635.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 2477.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2271.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2050.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 2015.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 1977.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1923.0,
+      "topic": "Molecules"
+    }
+  ]
+}

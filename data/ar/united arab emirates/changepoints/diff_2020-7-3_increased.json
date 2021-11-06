@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 1712.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1701.0,
+      "topic": "Cenozoic first appearances"
+    },
+    {
+      "diff": 1623.0,
+      "topic": "Neogene fossil record"
+    },
+    {
+      "diff": 1531.0,
+      "topic": "Biology terminology"
+    },
+    {
+      "diff": 1376.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 1332.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 937.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 911.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": 846.0,
+      "topic": "Otorhinolaryngology"
+    },
+    {
+      "diff": 813.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 788.0,
+      "topic": "Microbiology"
+    },
+    {
+      "diff": 762.0,
+      "topic": "Scientific terminology"
+    },
+    {
+      "diff": 750.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 742.0,
+      "topic": "Biological descriptions"
+    },
+    {
+      "diff": 478.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 467.0,
+      "topic": "Persian philosophy"
+    },
+    {
+      "diff": 467.0,
+      "topic": "Islamic mysticism"
+    },
+    {
+      "diff": 467.0,
+      "topic": "Religious service organizations"
+    },
+    {
+      "diff": 464.0,
+      "topic": "Esoteric schools"
+    },
+    {
+      "diff": 458.0,
+      "topic": "Roman empire"
+    }
+  ]
+}

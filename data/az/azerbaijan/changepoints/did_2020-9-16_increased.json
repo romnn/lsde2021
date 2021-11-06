@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 7493.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5565.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5352.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5305.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4732.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4524.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4419.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 4360.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4282.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4255.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4236.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 3592.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 3380.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": 3151.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 3079.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3017.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3000.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2957.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 2940.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 2929.0,
+      "topic": "Mental processes"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 4899.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4315.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3682.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3620.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3219.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 3154.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 2780.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2735.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 2618.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 2558.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2406.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2378.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 2371.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 2328.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 2217.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 2066.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 2034.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 1992.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1973.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1963.0,
+      "topic": "Therapy"
+    }
+  ]
+}

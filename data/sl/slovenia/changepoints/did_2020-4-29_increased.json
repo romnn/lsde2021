@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1222.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 877.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 794.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 776.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 648.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 571.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 536.0,
+      "topic": "Slovenia"
+    },
+    {
+      "diff": 520.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 518.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 446.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 444.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 416.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 358.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 343.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 287.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 281.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Geographical areas"
+    }
+  ]
+}

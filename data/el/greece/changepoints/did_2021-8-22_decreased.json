@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -9505.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9352.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -9168.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -8971.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -8125.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -8032.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -8026.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -7740.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -7641.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -6123.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -6084.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5986.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5325.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -5265.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -5188.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -4987.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4840.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4750.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -4731.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3879.0,
+      "topic": "Archipelagoes"
+    }
+  ]
+}

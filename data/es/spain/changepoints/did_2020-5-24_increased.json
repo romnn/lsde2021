@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 14758.0,
+      "topic": "Ancient roman theatre"
+    },
+    {
+      "diff": 14714.0,
+      "topic": "Classical latin literature"
+    },
+    {
+      "diff": 14684.0,
+      "topic": "Plays"
+    },
+    {
+      "diff": 14630.0,
+      "topic": "Latin-language literature"
+    },
+    {
+      "diff": 13521.0,
+      "topic": "Writer"
+    },
+    {
+      "diff": 11794.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 11732.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 11635.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 10662.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 10262.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 9787.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 9671.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 8770.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 7404.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 7241.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 7005.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 6995.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": 6971.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": 6679.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": 6626.0,
+      "topic": "Polyketones"
+    }
+  ]
+}

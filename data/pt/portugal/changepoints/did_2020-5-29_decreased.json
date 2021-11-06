@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -21864.0,
+      "topic": "History"
+    },
+    {
+      "diff": -13881.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -13695.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -13550.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": -13123.0,
+      "topic": "Halides"
+    },
+    {
+      "diff": -13024.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -12609.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -12485.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -12363.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -12250.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -9084.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -8950.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -8802.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -8466.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -8135.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -7896.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -7612.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -7550.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -7519.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -7462.0,
+      "topic": "Vertebrates"
+    }
+  ]
+}

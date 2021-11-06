@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 760.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": 744.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 743.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": 734.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 702.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 694.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 657.0,
+      "topic": "Botany"
+    },
+    {
+      "diff": 609.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Orchid taxonomy"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Asparagales genera"
+    },
+    {
+      "diff": 539.0,
+      "topic": "Morphology"
+    },
+    {
+      "diff": 517.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 447.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 355.0,
+      "topic": "Media organisations based"
+    },
+    {
+      "diff": 347.0,
+      "topic": "Communications"
+    },
+    {
+      "diff": 333.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 274.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 228.0,
+      "topic": "Eudicot genera"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 189.0,
+      "topic": "Clinical medicine"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -26439.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -15380.0,
+      "topic": "European musicians"
+    },
+    {
+      "diff": -15151.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": -14932.0,
+      "topic": "Music competition participants"
+    },
+    {
+      "diff": -13251.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -12644.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -12608.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -12011.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -11742.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -11380.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11027.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -9004.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -7760.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -7697.0,
+      "topic": "India"
+    },
+    {
+      "diff": -7605.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -7402.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -6576.0,
+      "topic": "Weapons"
+    },
+    {
+      "diff": -6088.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -5695.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5638.0,
+      "topic": "Defence companies"
+    }
+  ]
+}

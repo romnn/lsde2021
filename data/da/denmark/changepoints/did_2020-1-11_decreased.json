@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2197.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2007.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -1694.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -1640.0,
+      "topic": "Format"
+    },
+    {
+      "diff": -1607.0,
+      "topic": "Writers"
+    },
+    {
+      "diff": -1479.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -1252.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -1194.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -999.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -917.0,
+      "topic": "European music"
+    },
+    {
+      "diff": -915.0,
+      "topic": "Music organizations based"
+    },
+    {
+      "diff": -904.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -904.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -893.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -870.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -858.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -802.0,
+      "topic": "Performing arts"
+    }
+  ]
+}

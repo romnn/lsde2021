@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -2796.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2542.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -2446.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -2341.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -2269.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2212.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -2209.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -2201.0,
+      "topic": "Kuwait"
+    },
+    {
+      "diff": -2177.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -2172.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": -2137.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": -2057.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -2030.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -2029.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2019.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -1877.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1874.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -1818.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1810.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -1759.0,
+      "topic": "Universe"
+    }
+  ]
+}

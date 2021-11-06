@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -609.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -426.0,
+      "topic": "History"
+    },
+    {
+      "diff": -386.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -297.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -290.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -270.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -245.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -210.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -200.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -199.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -196.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -190.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -147.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -131.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Parasitic animals"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -106.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Evolution"
+    }
+  ]
+}

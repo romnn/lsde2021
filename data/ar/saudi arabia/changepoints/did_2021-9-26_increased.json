@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 17788.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13233.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 12744.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 11158.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 10811.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 10734.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 10501.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 8511.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 8243.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 7663.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 7652.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 7209.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 7204.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 6766.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 6715.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6653.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6590.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6525.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 6488.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 6277.0,
+      "topic": "Technology"
+    }
+  ]
+}

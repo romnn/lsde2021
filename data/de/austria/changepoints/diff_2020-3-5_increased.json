@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 122661.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 48300.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 43526.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 40352.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 40075.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 39171.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 39170.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 36395.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 30432.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 29669.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 29556.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 27839.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 20900.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": 20806.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 20537.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": 19566.0,
+      "topic": "History"
+    },
+    {
+      "diff": 18075.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 17603.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 16861.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 15305.0,
+      "topic": "Literary genres"
+    }
+  ]
+}

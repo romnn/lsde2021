@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -14.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -10.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -8.0,
+      "topic": "Pitch (music)"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Place names"
+    },
+    {
+      "diff": -7.0,
+      "topic": "People"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Ports"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Conceptual models"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Vertical position"
+    }
+  ]
+}

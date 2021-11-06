@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 265226.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 252118.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": 237103.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 230233.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 227094.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 204398.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 199869.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 191935.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 184158.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 182603.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 174110.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 171817.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 169126.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 152164.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 133034.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 132479.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 131442.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": 127322.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": 123381.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": 122566.0,
+      "topic": "Economy"
+    }
+  ]
+}

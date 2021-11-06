@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -1349.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Mammal taxa"
+    },
+    {
+      "diff": -721.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": -682.0,
+      "topic": "Vertebrate zoology"
+    },
+    {
+      "diff": -672.0,
+      "topic": "Kingdoms (biology)"
+    },
+    {
+      "diff": -615.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -557.0,
+      "topic": "Phases"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": -466.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": -360.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": -333.0,
+      "topic": "Engineering disciplines"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Herpetology"
+    },
+    {
+      "diff": -218.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -217.0,
+      "topic": "Mating"
+    },
+    {
+      "diff": -151.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Rank"
+    },
+    {
+      "diff": -131.0,
+      "topic": "American zoologists"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Histopathology"
+    },
+    {
+      "diff": -128.0,
+      "topic": "Visual arts materials"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Kurdistan"
+    }
+  ]
+}

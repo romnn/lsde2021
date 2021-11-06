@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 11017.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 10813.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 10749.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 10673.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 10563.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 10464.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 10441.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 10419.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 10243.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 10158.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 5228.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4819.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4811.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 4795.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 4597.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4394.0,
+      "topic": "Public records"
+    },
+    {
+      "diff": 4312.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": 2396.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1989.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1817.0,
+      "topic": "Decades"
+    }
+  ]
+}

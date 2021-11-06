@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -1203.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -1008.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -988.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -985.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -939.0,
+      "topic": "Religious comedy"
+    },
+    {
+      "diff": -937.0,
+      "topic": "Humour"
+    },
+    {
+      "diff": -878.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -859.0,
+      "topic": "Sociological theories"
+    },
+    {
+      "diff": -742.0,
+      "topic": "Environmental technology"
+    },
+    {
+      "diff": -742.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -733.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -715.0,
+      "topic": "Technology companies"
+    },
+    {
+      "diff": -705.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": -698.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -697.0,
+      "topic": "Social issues"
+    },
+    {
+      "diff": -681.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -673.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": -671.0,
+      "topic": "World history"
+    }
+  ]
+}

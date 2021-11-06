@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-29",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -4456.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -3769.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -3712.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -3592.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -3066.0,
+      "topic": "Female legendary creatures"
+    },
+    {
+      "diff": -2901.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -2538.0,
+      "topic": "Monotheism"
+    },
+    {
+      "diff": -2113.0,
+      "topic": "People"
+    },
+    {
+      "diff": -2005.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1790.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1720.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": -1699.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -1689.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1670.0,
+      "topic": "Islamic belief"
+    },
+    {
+      "diff": -1399.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1281.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1253.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -1173.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -1170.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -1169.0,
+      "topic": "Humanities"
+    }
+  ]
+}

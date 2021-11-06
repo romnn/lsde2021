@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -714.0,
+      "topic": "Slovenia"
+    },
+    {
+      "diff": -491.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -392.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -353.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -337.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -330.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -324.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": -288.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -287.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": -265.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -262.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -255.0,
+      "topic": "Greek royalty"
+    },
+    {
+      "diff": -250.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -236.0,
+      "topic": "Female legendary creatures"
+    },
+    {
+      "diff": -235.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": -226.0,
+      "topic": "Ancient greeks"
+    },
+    {
+      "diff": -222.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -221.0,
+      "topic": "Late modern period"
+    }
+  ]
+}

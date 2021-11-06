@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -4048.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2499.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2366.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -2048.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1994.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1973.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1966.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1853.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1849.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -1774.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1582.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1578.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -1574.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1518.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -1513.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1511.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -1509.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1503.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -1498.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -1339.0,
+      "topic": "Subfields"
+    }
+  ]
+}

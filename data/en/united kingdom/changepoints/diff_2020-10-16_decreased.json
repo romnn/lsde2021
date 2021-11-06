@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -327337.0,
+      "topic": "Netherlands\u2013united states relations"
+    },
+    {
+      "diff": -249465.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -232747.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -206992.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -197268.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": -188132.0,
+      "topic": "Women's rights by continent"
+    },
+    {
+      "diff": -181141.0,
+      "topic": "Murder"
+    },
+    {
+      "diff": -167541.0,
+      "topic": "American men"
+    },
+    {
+      "diff": -165661.0,
+      "topic": "Crimes against women"
+    },
+    {
+      "diff": -161422.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": -154254.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -151096.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": -123145.0,
+      "topic": "American politicians"
+    },
+    {
+      "diff": -122831.0,
+      "topic": "Tennis people"
+    },
+    {
+      "diff": -118926.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": -115217.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -112109.0,
+      "topic": "Civil services"
+    },
+    {
+      "diff": -111509.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": -109886.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -106144.0,
+      "topic": "Individual"
+    }
+  ]
+}

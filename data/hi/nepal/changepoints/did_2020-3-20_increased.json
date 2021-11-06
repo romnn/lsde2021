@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": 31876.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": 25296.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": 19908.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 10579.0,
+      "topic": "History"
+    },
+    {
+      "diff": 9609.0,
+      "topic": "Narrative poems"
+    },
+    {
+      "diff": 9546.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 9288.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 9102.0,
+      "topic": "Poetry"
+    },
+    {
+      "diff": 8743.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8731.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 8725.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 8048.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 6989.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6923.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 6751.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 6446.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": 6430.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 5691.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 5685.0,
+      "topic": "1st-millennium bc literature"
+    },
+    {
+      "diff": 5679.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

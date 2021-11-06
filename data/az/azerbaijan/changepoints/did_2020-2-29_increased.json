@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 2241.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 2001.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 1979.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 1854.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 1727.0,
+      "topic": "Forest products"
+    },
+    {
+      "diff": 1724.0,
+      "topic": "Manufactured goods"
+    },
+    {
+      "diff": 1445.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 1420.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": 841.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": 828.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 822.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 822.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": 803.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": 778.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 703.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": 676.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 657.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 651.0,
+      "topic": "Extant silurian first appearances"
+    },
+    {
+      "diff": 629.0,
+      "topic": "Botany"
+    },
+    {
+      "diff": 623.0,
+      "topic": "Sclerophorata"
+    }
+  ]
+}

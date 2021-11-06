@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -140579.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -140487.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": -140325.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -140307.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -138429.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9288.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -9031.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -9030.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -9030.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -9030.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -2403.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -2355.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -1275.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1070.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Athletic training"
+    },
+    {
+      "diff": -969.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -967.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -934.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -900.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

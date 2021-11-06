@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -6443.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -6440.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -6429.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -6174.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -5887.0,
+      "topic": "France"
+    },
+    {
+      "diff": -3507.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -3111.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -3082.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2843.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -2608.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -2446.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -2427.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -2381.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": -2376.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1944.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -1584.0,
+      "topic": "Web development"
+    },
+    {
+      "diff": -1575.0,
+      "topic": "Mobile computers"
+    },
+    {
+      "diff": -1566.0,
+      "topic": "California"
+    },
+    {
+      "diff": -1531.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1455.0,
+      "topic": "Esotericism"
+    }
+  ]
+}

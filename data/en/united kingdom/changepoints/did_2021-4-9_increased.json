@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 651140.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 556406.0,
+      "topic": "France"
+    },
+    {
+      "diff": 534388.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 480814.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 441725.0,
+      "topic": "Churches"
+    },
+    {
+      "diff": 421932.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": 402749.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": 381947.0,
+      "topic": "2010s american drama television series"
+    },
+    {
+      "diff": 339087.0,
+      "topic": "Welsh people"
+    },
+    {
+      "diff": 322512.0,
+      "topic": "American television"
+    },
+    {
+      "diff": 316749.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": 300396.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 270266.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 252716.0,
+      "topic": "Sri lanka"
+    },
+    {
+      "diff": 238477.0,
+      "topic": "Television series endings"
+    },
+    {
+      "diff": 236231.0,
+      "topic": "Scottish people"
+    },
+    {
+      "diff": 222888.0,
+      "topic": "Former monarchies"
+    },
+    {
+      "diff": 216160.0,
+      "topic": "Nigeria"
+    },
+    {
+      "diff": 215016.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 208916.0,
+      "topic": "English descent"
+    }
+  ]
+}

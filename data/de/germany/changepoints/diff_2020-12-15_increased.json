@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 20314.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 19365.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 15187.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 15174.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 14449.0,
+      "topic": "2020s television series"
+    },
+    {
+      "diff": 14243.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 14067.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 14057.0,
+      "topic": "American television shows"
+    },
+    {
+      "diff": 12154.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 11353.0,
+      "topic": "Fantasy tropes"
+    },
+    {
+      "diff": 11306.0,
+      "topic": "Works about folklore"
+    },
+    {
+      "diff": 11266.0,
+      "topic": "Heritage organizations"
+    },
+    {
+      "diff": 11196.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 10708.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 9853.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 9630.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 9486.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 9127.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 8753.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 8457.0,
+      "topic": "Water transport"
+    }
+  ]
+}

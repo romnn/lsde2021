@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -592.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -573.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -511.0,
+      "topic": "History"
+    },
+    {
+      "diff": -407.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -371.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -216.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -158.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Pakistani culture"
+    },
+    {
+      "diff": -140.0,
+      "topic": "Administrative unit"
+    },
+    {
+      "diff": -139.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -120.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Language geography"
+    },
+    {
+      "diff": -117.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": -116.0,
+      "topic": "Minority rights"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -97.0,
+      "topic": "Science"
+    }
+  ]
+}

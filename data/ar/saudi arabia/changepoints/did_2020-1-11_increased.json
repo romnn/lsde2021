@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 9512.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9010.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 8802.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 8802.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 8801.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 8692.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 7908.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7489.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 7287.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6750.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5766.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 5665.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 5123.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5110.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 5057.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 4892.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 4740.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 4051.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3642.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3468.0,
+      "topic": "Arab world"
+    }
+  ]
+}

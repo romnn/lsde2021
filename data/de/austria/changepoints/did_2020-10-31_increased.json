@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 66379.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 62613.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 56208.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 40521.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 31594.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 29245.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 25569.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 24822.0,
+      "topic": "History"
+    },
+    {
+      "diff": 24330.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 24222.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 24083.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 23335.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 22096.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 21449.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 20558.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 20160.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 19211.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 19130.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 17234.0,
+      "topic": "Power pop"
+    },
+    {
+      "diff": 17106.0,
+      "topic": "Music"
+    }
+  ]
+}

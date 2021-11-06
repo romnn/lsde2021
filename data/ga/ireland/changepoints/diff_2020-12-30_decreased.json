@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-30",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -323.0,
+      "topic": "Liverpool city region"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -201.0,
+      "topic": "Scotland"
+    },
+    {
+      "diff": -175.0,
+      "topic": "Memory"
+    },
+    {
+      "diff": -171.0,
+      "topic": "Charadriiformes"
+    },
+    {
+      "diff": -171.0,
+      "topic": "Tetrapod genera"
+    },
+    {
+      "diff": -155.0,
+      "topic": "Council area"
+    },
+    {
+      "diff": -150.0,
+      "topic": "British overseas territories"
+    },
+    {
+      "diff": -146.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -137.0,
+      "topic": "Vertebrate taxonomy"
+    },
+    {
+      "diff": -135.0,
+      "topic": "Ignorance"
+    },
+    {
+      "diff": -121.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Reptile taxa"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Rock musicians"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": -83.0,
+      "topic": "Country houses"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Former districts"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Hip hop"
+    }
+  ]
+}

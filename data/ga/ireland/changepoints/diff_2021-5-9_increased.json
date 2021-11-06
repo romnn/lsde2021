@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 63.0,
+      "topic": "Regionalism (politics) in the united kingdom"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Chelicerates"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Llandovery epoch"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Planaterga"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Geological period"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Warnermedia networks"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Latin american culture"
+    },
+    {
+      "diff": 55.0,
+      "topic": "History"
+    },
+    {
+      "diff": 55.0,
+      "topic": "New mexico"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Obsolescence"
+    },
+    {
+      "diff": 46.0,
+      "topic": "American film studios"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Country subdivision"
+    },
+    {
+      "diff": 46.0,
+      "topic": "Fiction literature"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Late cretaceous"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Cretaceous life"
+    },
+    {
+      "diff": 41.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 40.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Mental health"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Broadcasting companies"
+    },
+    {
+      "diff": 34.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    }
+  ]
+}

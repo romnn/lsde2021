@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -47962.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -43201.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -42442.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -39836.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -16304.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -15479.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -11828.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -11720.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": -11507.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -11441.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -9145.0,
+      "topic": "Pharmaceutics"
+    },
+    {
+      "diff": -9119.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -7440.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -6735.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -6109.0,
+      "topic": "Health care"
+    },
+    {
+      "diff": -5607.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -5265.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": -4426.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -4269.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -4078.0,
+      "topic": "Media ownership"
+    }
+  ]
+}

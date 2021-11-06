@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 50869.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 40114.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 39885.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 36597.0,
+      "topic": "History"
+    },
+    {
+      "diff": 31915.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 31636.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 28020.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 27597.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 25222.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 23393.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 23319.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 22873.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 22432.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 21649.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 21210.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 21131.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 19994.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 19474.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": 19323.0,
+      "topic": "South america"
+    },
+    {
+      "diff": 19112.0,
+      "topic": "Time"
+    }
+  ]
+}

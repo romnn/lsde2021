@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1677.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1547.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1483.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1444.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1299.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1278.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1272.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1208.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 1084.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": 1079.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 1061.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 955.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 948.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 872.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 845.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": 828.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 822.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": 814.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 769.0,
+      "topic": "Communication design"
+    },
+    {
+      "diff": 760.0,
+      "topic": "Cold war"
+    }
+  ]
+}

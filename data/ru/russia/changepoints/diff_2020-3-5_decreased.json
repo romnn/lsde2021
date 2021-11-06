@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -21715.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -21658.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -18706.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -17509.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -16128.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -14351.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -14076.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -14041.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": -13940.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -11152.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -9856.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -9855.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -9373.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -8797.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -7611.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -7572.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -7300.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -7104.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -7032.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6347.0,
+      "topic": "Establishment"
+    }
+  ]
+}

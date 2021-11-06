@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -12065.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9847.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -9804.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -9725.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -9725.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -9725.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -9725.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -9593.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -9587.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -9377.0,
+      "topic": "Islamic belief"
+    },
+    {
+      "diff": -9290.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -9058.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8803.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -8232.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -7768.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -7727.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7626.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -7476.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": -7011.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6524.0,
+      "topic": "Science"
+    }
+  ]
+}

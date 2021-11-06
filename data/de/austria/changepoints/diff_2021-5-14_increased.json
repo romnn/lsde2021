@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 32340.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 31037.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 30879.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 30742.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 30627.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 30362.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 30320.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 27922.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 22894.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 20721.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 19791.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 18902.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 18848.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 16568.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 16175.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 15347.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 15319.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 13169.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 11056.0,
+      "topic": "States"
+    },
+    {
+      "diff": 10265.0,
+      "topic": "Administrative divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 23919.0,
+      "topic": "Telecommunications law"
+    },
+    {
+      "diff": 23844.0,
+      "topic": "Reliability engineering"
+    },
+    {
+      "diff": 22507.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 21309.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": 20985.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 14670.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 13381.0,
+      "topic": "Hill ranges"
+    },
+    {
+      "diff": 10450.0,
+      "topic": "Mountain"
+    },
+    {
+      "diff": 9569.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 9161.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": 9003.0,
+      "topic": "State"
+    },
+    {
+      "diff": 8654.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 8260.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": 7839.0,
+      "topic": "France"
+    },
+    {
+      "diff": 7453.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 6831.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 6585.0,
+      "topic": "British films"
+    },
+    {
+      "diff": 6375.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 6235.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5920.0,
+      "topic": "20th century studios"
+    }
+  ]
+}

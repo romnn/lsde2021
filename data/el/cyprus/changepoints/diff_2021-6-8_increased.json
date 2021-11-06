@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 1223.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 1217.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 1210.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1171.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 1150.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 753.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Criminal homicide"
+    },
+    {
+      "diff": 729.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 728.0,
+      "topic": "Victims"
+    },
+    {
+      "diff": 720.0,
+      "topic": "Problem behavior"
+    },
+    {
+      "diff": 687.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": 664.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": 661.0,
+      "topic": "Artificial life"
+    },
+    {
+      "diff": 648.0,
+      "topic": "Celestial mechanics"
+    },
+    {
+      "diff": 608.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": 603.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 599.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 588.0,
+      "topic": "Telescopes"
+    },
+    {
+      "diff": 582.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 579.0,
+      "topic": "Star types"
+    }
+  ]
+}

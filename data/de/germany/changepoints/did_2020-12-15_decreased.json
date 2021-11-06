@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -108722.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -107408.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -95829.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": -57807.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -57260.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -48894.0,
+      "topic": "German people"
+    },
+    {
+      "diff": -46942.0,
+      "topic": "Progressive rock musicians"
+    },
+    {
+      "diff": -29077.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -26772.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -26144.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -25472.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -24763.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -22743.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -22584.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -21970.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -21584.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -21429.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -18189.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -18067.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15823.0,
+      "topic": "Humanities"
+    }
+  ]
+}

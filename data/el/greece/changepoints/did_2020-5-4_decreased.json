@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -7542.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6404.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6266.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3826.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3752.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3386.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3309.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2914.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2845.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -2682.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2677.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -2621.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -2418.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -2386.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -2179.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2172.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -2033.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2030.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -1980.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -1690.0,
+      "topic": "Categories"
+    }
+  ]
+}

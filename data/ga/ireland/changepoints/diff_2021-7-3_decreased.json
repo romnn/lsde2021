@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -57.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -54.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Plot (narrative)"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Financial reporting"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Length"
+    },
+    {
+      "diff": -27.0,
+      "topic": "West dunbartonshire"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Service industries"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Habitats"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Corporations"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Jargon"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Roman senate"
+    },
+    {
+      "diff": -19.0,
+      "topic": "North america"
+    }
+  ]
+}

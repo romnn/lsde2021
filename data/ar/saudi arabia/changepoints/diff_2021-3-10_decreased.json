@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-10",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -12298.0,
+      "topic": "History"
+    },
+    {
+      "diff": -8358.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8117.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -8068.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -5975.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4839.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4681.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4302.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4228.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -4031.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3927.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3846.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -3621.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3508.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3184.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -3078.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3001.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2970.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -2951.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2919.0,
+      "topic": "6th century"
+    }
+  ]
+}

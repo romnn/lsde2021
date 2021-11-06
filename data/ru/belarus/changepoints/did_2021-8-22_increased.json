@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 30593.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 21613.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 16733.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 15164.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 12733.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 11762.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 11164.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 10604.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 10110.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 9902.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 9328.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9195.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 8556.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 8476.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": 8317.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 8201.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8148.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 7975.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 7932.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 7875.0,
+      "topic": "Ethnic groups"
+    }
+  ]
+}

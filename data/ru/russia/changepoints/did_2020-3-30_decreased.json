@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -74698.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -59802.0,
+      "topic": "Ageing"
+    },
+    {
+      "diff": -59796.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -58926.0,
+      "topic": "Endocrine system"
+    },
+    {
+      "diff": -58471.0,
+      "topic": "Life extension"
+    },
+    {
+      "diff": -56178.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -51697.0,
+      "topic": "Heterocyclic compounds"
+    },
+    {
+      "diff": -44404.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -42218.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -36652.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -33470.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -32531.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -30289.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -28842.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -26885.0,
+      "topic": "Polycyclic organic compounds"
+    },
+    {
+      "diff": -26553.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -26160.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -25787.0,
+      "topic": "Aromatic compounds"
+    },
+    {
+      "diff": -24649.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -24223.0,
+      "topic": "Years"
+    }
+  ]
+}

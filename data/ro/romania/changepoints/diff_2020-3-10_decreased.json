@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -9129.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5825.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5782.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4793.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -3814.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3625.0,
+      "topic": "France"
+    },
+    {
+      "diff": -3299.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -3268.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -2933.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -2829.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -2752.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -2744.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2471.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2206.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -2065.0,
+      "topic": "Moldova"
+    },
+    {
+      "diff": -1969.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -1655.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1515.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1319.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -1302.0,
+      "topic": "Ecological restoration"
+    }
+  ]
+}

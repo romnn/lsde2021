@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 9486.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 9315.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 9278.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 9071.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 8588.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 8403.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 7943.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 7903.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 7748.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 6626.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 6621.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 6489.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 6222.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 6219.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 5130.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 5126.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 4966.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4878.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4779.0,
+      "topic": "South america"
+    },
+    {
+      "diff": 4600.0,
+      "topic": "Television"
+    }
+  ]
+}

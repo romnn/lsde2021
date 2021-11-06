@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -1910.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1800.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -1562.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -1537.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": -1499.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -1497.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -1492.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1491.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -1132.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -1085.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -989.0,
+      "topic": "Thrace"
+    },
+    {
+      "diff": -974.0,
+      "topic": "Eastern macedonia"
+    },
+    {
+      "diff": -958.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -878.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -774.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -770.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -663.0,
+      "topic": "Classical antiquity"
+    }
+  ]
+}

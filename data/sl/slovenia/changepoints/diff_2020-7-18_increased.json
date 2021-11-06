@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1674.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 1670.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 750.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 706.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 619.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 425.0,
+      "topic": "Wiki software"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 388.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 385.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 371.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 352.0,
+      "topic": "E-commerce websites"
+    },
+    {
+      "diff": 345.0,
+      "topic": "2000s introductions"
+    },
+    {
+      "diff": 336.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Types"
+    },
+    {
+      "diff": 301.0,
+      "topic": "Educational practices"
+    },
+    {
+      "diff": 295.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": 292.0,
+      "topic": "University or college"
+    },
+    {
+      "diff": 289.0,
+      "topic": "North america"
+    }
+  ]
+}

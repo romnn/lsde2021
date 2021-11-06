@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 9103.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 6819.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 6702.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 6587.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6485.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 6091.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 6009.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 5927.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 5870.0,
+      "topic": "Halides"
+    },
+    {
+      "diff": 5699.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 5461.0,
+      "topic": "Birds"
+    },
+    {
+      "diff": 5372.0,
+      "topic": "Endemic fauna"
+    },
+    {
+      "diff": 5213.0,
+      "topic": "Indonesia"
+    },
+    {
+      "diff": 5110.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": 5085.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 4917.0,
+      "topic": "Year"
+    },
+    {
+      "diff": 4722.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": 4684.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 4495.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4354.0,
+      "topic": "Language"
+    }
+  ]
+}

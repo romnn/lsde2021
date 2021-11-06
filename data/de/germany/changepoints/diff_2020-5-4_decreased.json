@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -38817.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -31784.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -25910.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -23961.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": -20977.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -20922.0,
+      "topic": "Mountain range"
+    },
+    {
+      "diff": -20561.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -20546.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -20440.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -20274.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -19454.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -18623.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -18337.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -17439.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -16136.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -16120.0,
+      "topic": "Electronic engineering"
+    },
+    {
+      "diff": -15960.0,
+      "topic": "Spacecraft"
+    },
+    {
+      "diff": -15937.0,
+      "topic": "Orbit"
+    },
+    {
+      "diff": -15746.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -15486.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2683.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2660.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2249.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -2133.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -2095.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -1740.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1718.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -1655.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -1644.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -1624.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -1579.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -1306.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1216.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1092.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -942.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -712.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -625.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -610.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Landforms"
+    }
+  ]
+}

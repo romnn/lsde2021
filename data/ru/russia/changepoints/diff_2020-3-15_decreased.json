@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -36638.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -34245.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -33716.0,
+      "topic": "Meaning (philosophy of language)"
+    },
+    {
+      "diff": -32426.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -31123.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -14429.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -9895.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -6048.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -5924.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -5820.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -5764.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -5647.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -5453.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -5101.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -5038.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": -4992.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -4962.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -4961.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -4552.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -4040.0,
+      "topic": "Indigenous peoples"
+    }
+  ]
+}

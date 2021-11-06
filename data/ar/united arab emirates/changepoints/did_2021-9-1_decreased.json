@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -18528.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -18026.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -17783.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -17173.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -16840.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -13516.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -10974.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -10794.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -10689.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -7382.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3049.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2690.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": -2566.0,
+      "topic": "Commelinids"
+    },
+    {
+      "diff": -2562.0,
+      "topic": "Monocot genera"
+    },
+    {
+      "diff": -2499.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -2454.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -2412.0,
+      "topic": "Habit"
+    },
+    {
+      "diff": -2386.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -2219.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2109.0,
+      "topic": "International organization"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -53849.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -28283.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -28242.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -26521.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -25369.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -24900.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -23563.0,
+      "topic": "Geology"
+    },
+    {
+      "diff": -22311.0,
+      "topic": "Mountain range"
+    },
+    {
+      "diff": -21491.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -21345.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -20247.0,
+      "topic": "Defunct companies"
+    },
+    {
+      "diff": -20024.0,
+      "topic": "Soil tests"
+    },
+    {
+      "diff": -19129.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -19057.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -19046.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -18409.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": -18123.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -17277.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -15888.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -15886.0,
+      "topic": "Establishments"
+    }
+  ]
+}

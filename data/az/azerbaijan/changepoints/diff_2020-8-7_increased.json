@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 254.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 133.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 80.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 63.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 51.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": 48.0,
+      "topic": "Days"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": 40.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Computer programming tools"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Domain-specific programming languages"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Lands inhabited"
+    },
+    {
+      "diff": 39.0,
+      "topic": "Object-oriented programming languages"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Scientific disciplines"
+    }
+  ]
+}

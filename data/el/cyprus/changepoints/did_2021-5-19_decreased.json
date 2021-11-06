@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -5695.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3832.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -3714.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -3704.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3368.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -3154.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -2784.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2532.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -2506.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2336.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -2280.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -2208.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2139.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -2115.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1985.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1654.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1443.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -1354.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -1332.0,
+      "topic": "Performing arts in georgia (country)"
+    },
+    {
+      "diff": -1286.0,
+      "topic": "Occupation"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 76503.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 44510.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 41910.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 40238.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 38622.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 36588.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 35348.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 35329.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 33127.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 31485.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 29366.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 28998.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 28787.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 28572.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 26429.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 25677.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 23069.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 21376.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 19306.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 19061.0,
+      "topic": "Humanities"
+    }
+  ]
+}

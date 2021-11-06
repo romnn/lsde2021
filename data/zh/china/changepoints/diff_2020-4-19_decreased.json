@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-19",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -37935.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -21499.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -11999.0,
+      "topic": "France"
+    },
+    {
+      "diff": -8783.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -8614.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -8253.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -7967.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -7928.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -7928.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -7928.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -7928.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -7706.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -7074.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -6295.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -6236.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5173.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -4979.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -4952.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4933.0,
+      "topic": "China"
+    },
+    {
+      "diff": -4777.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

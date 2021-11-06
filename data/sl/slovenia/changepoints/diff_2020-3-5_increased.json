@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1604.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1577.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1481.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1464.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1342.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1284.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1257.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1233.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 1112.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 1086.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": 1078.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 726.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 656.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 648.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 589.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 507.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 480.0,
+      "topic": "Epidemiology"
+    }
+  ]
+}

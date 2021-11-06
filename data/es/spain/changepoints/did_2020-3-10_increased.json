@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 124471.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 121883.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 118681.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 106324.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 105273.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 103485.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 103184.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 92960.0,
+      "topic": "History"
+    },
+    {
+      "diff": 89653.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 77833.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 67023.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 65641.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 60014.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": 55515.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 53709.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 51288.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 49979.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 47941.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 45829.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 44686.0,
+      "topic": "Pharmacy"
+    }
+  ]
+}

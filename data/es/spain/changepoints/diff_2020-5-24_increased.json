@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 12975.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 11937.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 11696.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 11678.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 11513.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 7971.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 7601.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 7424.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 7080.0,
+      "topic": "Heterocyclic compounds"
+    },
+    {
+      "diff": 7010.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 6700.0,
+      "topic": "Polyketones"
+    },
+    {
+      "diff": 6648.0,
+      "topic": "Funk"
+    },
+    {
+      "diff": 6637.0,
+      "topic": "Sedatives"
+    },
+    {
+      "diff": 6611.0,
+      "topic": "Electronic music genres"
+    },
+    {
+      "diff": 6597.0,
+      "topic": "Danish people"
+    },
+    {
+      "diff": 6501.0,
+      "topic": "Carbonyl compounds"
+    },
+    {
+      "diff": 6384.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 6366.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 6317.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 6118.0,
+      "topic": "Music people"
+    }
+  ]
+}

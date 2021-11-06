@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 143192.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 107829.0,
+      "topic": "History"
+    },
+    {
+      "diff": 88559.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 77499.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 76298.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 75279.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 74376.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 66588.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 62778.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 58012.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 57198.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 56356.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 55618.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 55174.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 54859.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 51633.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 48535.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 43541.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 43153.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 41147.0,
+      "topic": "Categories"
+    }
+  ]
+}

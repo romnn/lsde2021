@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 295.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 118.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 106.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 98.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 95.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 88.0,
+      "topic": "England"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Scotland"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 78.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 70.0,
+      "topic": "County"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 52.0,
+      "topic": "History"
+    }
+  ]
+}

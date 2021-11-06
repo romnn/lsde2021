@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2874.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2582.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1313.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1291.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1183.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -931.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -877.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -861.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -724.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -696.0,
+      "topic": "France"
+    },
+    {
+      "diff": -692.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -647.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -641.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -574.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -560.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -552.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -526.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -500.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -483.0,
+      "topic": "Years"
+    }
+  ]
+}

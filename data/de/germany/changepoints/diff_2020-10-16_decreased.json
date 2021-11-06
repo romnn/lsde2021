@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -26907.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -23556.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -20668.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -17482.0,
+      "topic": "State"
+    },
+    {
+      "diff": -13498.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -12196.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -9875.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9616.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9311.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -8549.0,
+      "topic": "Asian cuisine"
+    },
+    {
+      "diff": -8436.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -8347.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -8260.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -8240.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -7937.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -7930.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -7627.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -7461.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": -7373.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -6843.0,
+      "topic": "Borders"
+    }
+  ]
+}

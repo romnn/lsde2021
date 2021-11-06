@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1661326.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1651626.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1478162.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1440108.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1225954.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1152053.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -721003.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -704992.0,
+      "topic": "History"
+    },
+    {
+      "diff": -699588.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -689218.0,
+      "topic": "State"
+    },
+    {
+      "diff": -652487.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -560191.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -517457.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -482793.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -459158.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -436341.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -433849.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -427337.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -372626.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -358572.0,
+      "topic": "England"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 809882.0,
+      "topic": "People"
+    },
+    {
+      "diff": 610389.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 609908.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 520908.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 452190.0,
+      "topic": "Lists"
+    },
+    {
+      "diff": 406828.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 394560.0,
+      "topic": "Television series episodes"
+    },
+    {
+      "diff": 385930.0,
+      "topic": "Crime television series"
+    },
+    {
+      "diff": 381316.0,
+      "topic": "American drama television series"
+    },
+    {
+      "diff": 374567.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 370989.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 361473.0,
+      "topic": "National football league people"
+    },
+    {
+      "diff": 358802.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 355360.0,
+      "topic": "Postmodernism"
+    },
+    {
+      "diff": 340745.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": 334936.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": 333274.0,
+      "topic": "American football teams"
+    },
+    {
+      "diff": 329496.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 322586.0,
+      "topic": "Tennis people"
+    },
+    {
+      "diff": 309970.0,
+      "topic": "College football teams"
+    }
+  ]
+}

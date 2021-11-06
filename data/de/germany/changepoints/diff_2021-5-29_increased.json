@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 9231.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": 8616.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": 7042.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 5516.0,
+      "topic": "Literary archetypes"
+    },
+    {
+      "diff": 4740.0,
+      "topic": "British films"
+    },
+    {
+      "diff": 4118.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": 4107.0,
+      "topic": "Mythological creatures"
+    },
+    {
+      "diff": 4062.0,
+      "topic": "20th century studios"
+    },
+    {
+      "diff": 3904.0,
+      "topic": "Western (genre)"
+    },
+    {
+      "diff": 3832.0,
+      "topic": "Recurrent elements"
+    },
+    {
+      "diff": 3709.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 3541.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 3482.0,
+      "topic": "Norse paganism"
+    },
+    {
+      "diff": 3476.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 3374.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": 3256.0,
+      "topic": "New media"
+    },
+    {
+      "diff": 3190.0,
+      "topic": "Folklore studies"
+    },
+    {
+      "diff": 3051.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3016.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": 2911.0,
+      "topic": "European deities"
+    }
+  ]
+}

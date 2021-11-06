@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -8534.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4627.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4234.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4231.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3839.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3825.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3587.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3518.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -3500.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -3477.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3388.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -3362.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -3357.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -3196.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3091.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2996.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2780.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2702.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -2673.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -2622.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -12660.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -11686.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -11470.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -10295.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -10077.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -6689.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5975.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -5370.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5049.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -4835.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4606.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -4250.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -3983.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": -3772.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -3678.0,
+      "topic": "Ramayana"
+    },
+    {
+      "diff": -3481.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -3432.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -3195.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -3095.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -2963.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

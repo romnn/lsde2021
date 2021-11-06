@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 11144.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 9509.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 7875.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 7563.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 6766.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 6155.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 4930.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 4776.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": 4352.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4301.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 3915.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 3502.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 3378.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 3332.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 3326.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": 3278.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 3267.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 3244.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 3162.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 3139.0,
+      "topic": "Home automation"
+    }
+  ]
+}

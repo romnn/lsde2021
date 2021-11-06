@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -5735.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -4711.0,
+      "topic": "Iran"
+    },
+    {
+      "diff": -4476.0,
+      "topic": "Emergence"
+    },
+    {
+      "diff": -4106.0,
+      "topic": "Phenomenology"
+    },
+    {
+      "diff": -3154.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -2859.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": -2143.0,
+      "topic": "Islamic legendary creatures"
+    },
+    {
+      "diff": -2014.0,
+      "topic": "Old testament people"
+    },
+    {
+      "diff": -1947.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -1794.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -1717.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -1711.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -1312.0,
+      "topic": "Banking"
+    },
+    {
+      "diff": -1311.0,
+      "topic": "International finance"
+    },
+    {
+      "diff": -1307.0,
+      "topic": "Northern hemisphere"
+    },
+    {
+      "diff": -1252.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -1090.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Club"
+    }
+  ]
+}

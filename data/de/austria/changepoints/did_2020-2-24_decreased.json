@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -1033818.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -1033210.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -1032820.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -1032818.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -999917.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -59012.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -57045.0,
+      "topic": "Biblical geography"
+    },
+    {
+      "diff": -56733.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -48185.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -44217.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -12694.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -11506.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -11505.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -11493.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -11199.0,
+      "topic": "American art"
+    },
+    {
+      "diff": -10928.0,
+      "topic": "1920s architecture"
+    },
+    {
+      "diff": -9705.0,
+      "topic": "Asian cuisine"
+    },
+    {
+      "diff": -9618.0,
+      "topic": "Pharmacology"
+    },
+    {
+      "diff": -9598.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": -9166.0,
+      "topic": "Landforms"
+    }
+  ]
+}

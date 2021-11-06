@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -1967.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -1741.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1584.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1481.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1397.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1296.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -1269.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": -1260.0,
+      "topic": "1910s disestablishments"
+    },
+    {
+      "diff": -1249.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1239.0,
+      "topic": "Centuries in georgia (country)"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -1215.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1180.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1160.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1143.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1137.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -965.0,
+      "topic": "Transcaucasia"
+    }
+  ]
+}

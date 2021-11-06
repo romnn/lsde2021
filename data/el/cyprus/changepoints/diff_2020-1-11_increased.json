@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 3993.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3437.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2736.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 2726.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2684.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2618.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2480.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 2416.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 2402.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 2393.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 2334.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 1879.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1877.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": 1859.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1798.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1573.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1532.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1392.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1353.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1288.0,
+      "topic": "Health policy"
+    }
+  ]
+}

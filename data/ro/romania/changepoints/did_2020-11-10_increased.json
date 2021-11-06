@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 8022.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 7015.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 6897.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6311.0,
+      "topic": "Elementary arithmetic"
+    },
+    {
+      "diff": 5767.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5441.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 4874.0,
+      "topic": "Real numbers"
+    },
+    {
+      "diff": 4749.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4678.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4595.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4512.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 4324.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 4157.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4098.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 4020.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3999.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 3781.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3695.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3584.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3290.0,
+      "topic": "Chemical substances"
+    }
+  ]
+}

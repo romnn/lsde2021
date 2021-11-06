@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -3981.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3230.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2184.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2151.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2070.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1794.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1755.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1483.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1454.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1422.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1361.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1346.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -1338.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1280.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1218.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1174.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -1067.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1050.0,
+      "topic": "Turkey"
+    }
+  ]
+}

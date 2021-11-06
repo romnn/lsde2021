@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -1877.0,
+      "topic": "Balkan culture"
+    },
+    {
+      "diff": -1851.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": -1824.0,
+      "topic": "Moldova"
+    },
+    {
+      "diff": -1714.0,
+      "topic": "Biota"
+    },
+    {
+      "diff": -1692.0,
+      "topic": "Natural history"
+    },
+    {
+      "diff": -1661.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -1388.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -1226.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": -902.0,
+      "topic": "Vertical position"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -791.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -718.0,
+      "topic": "Information fields"
+    },
+    {
+      "diff": -712.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -592.0,
+      "topic": "Biological classification"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Personal life"
+    }
+  ]
+}

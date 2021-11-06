@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -1389.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1228.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -992.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -821.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -769.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -741.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -644.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -435.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -430.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -400.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -372.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -339.0,
+      "topic": "Asia"
+    }
+  ]
+}

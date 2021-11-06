@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 154.0,
+      "topic": "Slovenian society"
+    },
+    {
+      "diff": 152.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 145.0,
+      "topic": "Grape drinks"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Viticulture"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Fermented drinks"
+    },
+    {
+      "diff": 128.0,
+      "topic": "Disestablishments"
+    },
+    {
+      "diff": 124.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Croatia"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": 101.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": 99.0,
+      "topic": "Literary archetypes"
+    },
+    {
+      "diff": 93.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Surveillance"
+    },
+    {
+      "diff": 91.0,
+      "topic": "World history"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Scottish traditions"
+    },
+    {
+      "diff": 86.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Lifestyles"
+    },
+    {
+      "diff": 81.0,
+      "topic": "Celtic culture"
+    }
+  ]
+}

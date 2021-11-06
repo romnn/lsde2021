@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 18184.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 17154.0,
+      "topic": "Taiwanese musicians"
+    },
+    {
+      "diff": 16944.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 16098.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 15637.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 15350.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 13988.0,
+      "topic": "Sexual health"
+    },
+    {
+      "diff": 13680.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": 13470.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 11738.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 11533.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 8378.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 7808.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": 7568.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": 7006.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 6392.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 6372.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 6366.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": 6094.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 6056.0,
+      "topic": "Animal health"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -550.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -351.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -327.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -321.0,
+      "topic": "Former empires"
+    },
+    {
+      "diff": -310.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": -302.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -283.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": -258.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -256.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -249.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -246.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -229.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -219.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -212.0,
+      "topic": "Paraphilias"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Companies"
+    }
+  ]
+}

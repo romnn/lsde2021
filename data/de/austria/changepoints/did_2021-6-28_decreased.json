@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -21103.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -18896.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -14382.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -13020.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -12860.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -11475.0,
+      "topic": "History"
+    },
+    {
+      "diff": -10262.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -9544.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9361.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -8701.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -8640.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -8124.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -8034.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -7872.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7622.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -7412.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -7302.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -7291.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": -6880.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -6750.0,
+      "topic": "Science"
+    }
+  ]
+}

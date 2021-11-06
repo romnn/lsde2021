@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-12",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -10216.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -6327.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -5116.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -4375.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -3433.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3269.0,
+      "topic": "Conservation status"
+    },
+    {
+      "diff": -3011.0,
+      "topic": "Landscape ecology"
+    },
+    {
+      "diff": -2969.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -2967.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -2958.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": -2887.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2850.0,
+      "topic": "Oceania"
+    },
+    {
+      "diff": -2805.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -2674.0,
+      "topic": "Architectural styles"
+    },
+    {
+      "diff": -2671.0,
+      "topic": "Islamic literature"
+    },
+    {
+      "diff": -2632.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -2607.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -2570.0,
+      "topic": "Central semitic languages"
+    },
+    {
+      "diff": -2532.0,
+      "topic": "7th-century literature"
+    },
+    {
+      "diff": -2389.0,
+      "topic": "1st-millennium books"
+    }
+  ]
+}

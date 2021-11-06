@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 6.0,
+      "topic": "Rugby football"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Jewish royalty"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Suburbs"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Mathematical optimization"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Life extension"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Statistical mechanics"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Prehistoric arthropods"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Mesozoic animals"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Bacteria"
+    },
+    {
+      "diff": 5.0,
+      "topic": "European russia"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Computing"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Pests (organism)"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Biomolecules"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": 4.0,
+      "topic": "Video hosting"
+    }
+  ]
+}

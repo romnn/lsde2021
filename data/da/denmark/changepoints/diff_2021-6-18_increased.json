@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 3404.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2236.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2039.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1894.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 1834.0,
+      "topic": "Azerbaijani culture"
+    },
+    {
+      "diff": 1771.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1484.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1313.0,
+      "topic": "1910s disestablishments"
+    },
+    {
+      "diff": 1311.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 1309.0,
+      "topic": "Centuries in georgia (country)"
+    },
+    {
+      "diff": 1188.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 807.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 797.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 762.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": 393.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 383.0,
+      "topic": "21st century"
+    }
+  ]
+}

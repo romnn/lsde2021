@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 1075.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": 1065.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": 968.0,
+      "topic": "Animal reproductive system"
+    },
+    {
+      "diff": 923.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 613.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 496.0,
+      "topic": "Central macedonia"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 467.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 410.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 377.0,
+      "topic": "Men"
+    },
+    {
+      "diff": 296.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": 294.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 224.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 221.0,
+      "topic": "Greek society"
+    },
+    {
+      "diff": 220.0,
+      "topic": "Regional units of peloponnese (region)"
+    }
+  ]
+}

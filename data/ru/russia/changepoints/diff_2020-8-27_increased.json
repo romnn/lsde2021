@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 36826.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 35356.0,
+      "topic": "History"
+    },
+    {
+      "diff": 32372.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 26293.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 20154.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 19373.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 17303.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 17261.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 16762.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 16340.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 14109.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 14092.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 13514.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 13200.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 12142.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 12027.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 11242.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 11015.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 10858.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 10659.0,
+      "topic": "Academic discipline"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 95023.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 90722.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 89238.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 88771.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 87928.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 40904.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 40902.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 39071.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 38435.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 37648.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 19969.0,
+      "topic": "History"
+    },
+    {
+      "diff": 17297.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 13650.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 10808.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 9940.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 9866.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": 8744.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 8451.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 8076.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 7065.0,
+      "topic": "Culture"
+    }
+  ]
+}

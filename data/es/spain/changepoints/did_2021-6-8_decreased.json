@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -123448.0,
+      "topic": "History"
+    },
+    {
+      "diff": -88529.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -70903.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -70072.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -60530.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -49420.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -45729.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -45404.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -43817.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -42262.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -41965.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -39920.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -36399.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -35838.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -35763.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -35129.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -34802.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -34300.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -31577.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -30962.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

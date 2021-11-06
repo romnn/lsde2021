@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -14237.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -13175.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -11587.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -11317.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": -9338.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -8640.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -8524.0,
+      "topic": "Provinces of the people's republic of china"
+    },
+    {
+      "diff": -8214.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -8069.0,
+      "topic": "Summer sports competitions"
+    },
+    {
+      "diff": -7505.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -6335.0,
+      "topic": "Leisure activities"
+    },
+    {
+      "diff": -4169.0,
+      "topic": "War"
+    },
+    {
+      "diff": -3922.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -3786.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -3509.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -3250.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3166.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -3128.0,
+      "topic": "Dress codes"
+    },
+    {
+      "diff": -3084.0,
+      "topic": "Dispute resolution"
+    },
+    {
+      "diff": -3049.0,
+      "topic": "Oceania"
+    }
+  ]
+}

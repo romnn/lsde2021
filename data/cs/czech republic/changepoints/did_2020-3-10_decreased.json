@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -1948.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1210.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -1101.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -817.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -814.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -803.0,
+      "topic": "Recurring sporting events"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Southern europe"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -678.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -631.0,
+      "topic": "Internet fraud"
+    },
+    {
+      "diff": -620.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -618.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": -617.0,
+      "topic": "Hypertext transfer protocol clients"
+    },
+    {
+      "diff": -609.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": -588.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -422.0,
+      "topic": "Sociology"
+    },
+    {
+      "diff": -421.0,
+      "topic": "Slavic-language names"
+    },
+    {
+      "diff": -414.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Italy"
+    }
+  ]
+}

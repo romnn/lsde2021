@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 1440.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1433.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1428.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1260.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1211.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 766.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 724.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 673.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": 655.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 648.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 635.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 634.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 534.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 514.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 327.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 309.0,
+      "topic": "Cretaceous life"
+    }
+  ]
+}

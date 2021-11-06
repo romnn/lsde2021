@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -4617.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -4416.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -4222.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -4135.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -4110.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1199.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -602.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -574.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -449.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -402.0,
+      "topic": "Ancient hebrew texts"
+    },
+    {
+      "diff": -388.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": -385.0,
+      "topic": "1st-millennium books"
+    },
+    {
+      "diff": -382.0,
+      "topic": "Neuroanatomy"
+    },
+    {
+      "diff": -378.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": -342.0,
+      "topic": "Morphology"
+    },
+    {
+      "diff": -339.0,
+      "topic": "Systems"
+    },
+    {
+      "diff": -319.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -315.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -300.0,
+      "topic": "Christian denominations"
+    }
+  ]
+}

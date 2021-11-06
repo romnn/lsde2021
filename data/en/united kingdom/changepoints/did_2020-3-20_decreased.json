@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -281340.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -249961.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -226325.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": -202637.0,
+      "topic": "Aircraft manufacturers"
+    },
+    {
+      "diff": -187688.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -163489.0,
+      "topic": "Medical or psychological condition"
+    },
+    {
+      "diff": -159475.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -148890.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -129245.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": -117424.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": -113485.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -112708.0,
+      "topic": "Commercial crimes"
+    },
+    {
+      "diff": -99517.0,
+      "topic": "British isles"
+    },
+    {
+      "diff": -97182.0,
+      "topic": "Mongolia"
+    },
+    {
+      "diff": -96794.0,
+      "topic": "International club association football competitions"
+    },
+    {
+      "diff": -96166.0,
+      "topic": "Financial crimes"
+    },
+    {
+      "diff": -93854.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -90790.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -88820.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -88128.0,
+      "topic": "College men's basketball competitions in the united states"
+    }
+  ]
+}

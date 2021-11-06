@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -9799.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -8839.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -8030.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -7056.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -6901.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": -6494.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -5578.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -5457.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4769.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -4241.0,
+      "topic": "San francisco bay area"
+    },
+    {
+      "diff": -3888.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -3760.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3681.0,
+      "topic": "Human diseases"
+    },
+    {
+      "diff": -3504.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3456.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -3451.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -3378.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -3258.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3200.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3160.0,
+      "topic": "Animals"
+    }
+  ]
+}

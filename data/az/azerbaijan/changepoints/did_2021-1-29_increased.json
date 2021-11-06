@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 3144.0,
+      "topic": "Iranic culture"
+    },
+    {
+      "diff": 2683.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 2571.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 2345.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 1112.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": 603.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Horn african countries"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 433.0,
+      "topic": "Social groups"
+    },
+    {
+      "diff": 405.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 267.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 236.0,
+      "topic": "Works about religion"
+    },
+    {
+      "diff": 230.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": 222.0,
+      "topic": "Neuropsychological assessment"
+    },
+    {
+      "diff": 219.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 179.0,
+      "topic": "Oral communication"
+    },
+    {
+      "diff": 155.0,
+      "topic": "Emergence"
+    }
+  ]
+}

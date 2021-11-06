@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -13938.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13789.0,
+      "topic": "History"
+    },
+    {
+      "diff": -12459.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -10527.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -10383.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -10234.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9164.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8799.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8561.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -7968.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7593.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -6799.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -6614.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6175.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -6114.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -6085.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -6011.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -5935.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -5637.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5599.0,
+      "topic": "Universe"
+    }
+  ]
+}

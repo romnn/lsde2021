@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 5030.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4959.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4847.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3830.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3422.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3295.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 3172.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2948.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 2619.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2586.0,
+      "topic": "Kingdoms (biology)"
+    },
+    {
+      "diff": 2400.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2387.0,
+      "topic": "Vertebrate zoology"
+    },
+    {
+      "diff": 2381.0,
+      "topic": "Prozostrodontia"
+    },
+    {
+      "diff": 2342.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2227.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2130.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1964.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1887.0,
+      "topic": "Design"
+    },
+    {
+      "diff": 1756.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1755.0,
+      "topic": "Russia"
+    }
+  ]
+}

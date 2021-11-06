@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -2547838.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -2037145.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1905968.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1720924.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1131740.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -1095901.0,
+      "topic": "State"
+    },
+    {
+      "diff": -1094683.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1071163.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -972428.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -924316.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -848351.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": -803485.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -729765.0,
+      "topic": "History"
+    },
+    {
+      "diff": -720890.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -704043.0,
+      "topic": "2020s works"
+    },
+    {
+      "diff": -692694.0,
+      "topic": "1970s works"
+    },
+    {
+      "diff": -685366.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -677419.0,
+      "topic": "National football league people"
+    },
+    {
+      "diff": -663154.0,
+      "topic": "Japanese culture"
+    },
+    {
+      "diff": -661871.0,
+      "topic": "Parallel universes"
+    }
+  ]
+}

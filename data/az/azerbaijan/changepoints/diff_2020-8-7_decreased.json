@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -1001.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -747.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -724.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -723.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -712.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -431.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -361.0,
+      "topic": "History"
+    },
+    {
+      "diff": -353.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -309.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -292.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -267.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -252.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -246.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -244.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": -242.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -236.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": -213.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -210.0,
+      "topic": "People"
+    }
+  ]
+}

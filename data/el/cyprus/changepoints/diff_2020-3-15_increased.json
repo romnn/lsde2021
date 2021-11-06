@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 8144.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8017.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7725.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7022.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5987.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4909.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4220.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3912.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2631.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2569.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2385.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2306.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2090.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2079.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 2073.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2051.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 2032.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 2020.0,
+      "topic": "Arts awards"
+    },
+    {
+      "diff": 2019.0,
+      "topic": "Category"
+    },
+    {
+      "diff": 2019.0,
+      "topic": "Film awards"
+    }
+  ]
+}

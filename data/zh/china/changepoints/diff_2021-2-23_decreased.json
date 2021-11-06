@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-23",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -40580.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -32682.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -30065.0,
+      "topic": "France"
+    },
+    {
+      "diff": -12285.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -9915.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -8741.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -8719.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -7184.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -6838.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -6165.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4925.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -4637.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -4572.0,
+      "topic": "North dakota"
+    },
+    {
+      "diff": -3838.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3719.0,
+      "topic": "Departments of bourgogne-franche-comt\u00e9"
+    },
+    {
+      "diff": -3599.0,
+      "topic": "Climate"
+    },
+    {
+      "diff": -3507.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -3414.0,
+      "topic": "Trick-taking games"
+    },
+    {
+      "diff": -3406.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -3339.0,
+      "topic": "Card games"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -32852.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -30989.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -30325.0,
+      "topic": "France"
+    },
+    {
+      "diff": -25271.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -14727.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -11705.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -11586.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -9428.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -8462.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -6341.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -6276.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -5852.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -5645.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -5542.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -5181.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": -4660.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": -4528.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -3967.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": -3907.0,
+      "topic": "Military fiction"
+    },
+    {
+      "diff": -3906.0,
+      "topic": "Russian musicians"
+    }
+  ]
+}

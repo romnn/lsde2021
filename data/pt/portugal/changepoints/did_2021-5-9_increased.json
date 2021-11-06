@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 11884.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 11050.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 10781.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": 10504.0,
+      "topic": "Language family"
+    },
+    {
+      "diff": 10482.0,
+      "topic": "County tipperary"
+    },
+    {
+      "diff": 7641.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7365.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 7345.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 6983.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 6309.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 6265.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6114.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 6072.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 6012.0,
+      "topic": "Vertebrates"
+    },
+    {
+      "diff": 5954.0,
+      "topic": "Fauna"
+    },
+    {
+      "diff": 5770.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 5683.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 5668.0,
+      "topic": "Birds"
+    },
+    {
+      "diff": 5645.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5605.0,
+      "topic": "Endemic fauna"
+    }
+  ]
+}

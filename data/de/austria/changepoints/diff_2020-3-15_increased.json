@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 87290.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 85074.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 72573.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 55754.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 55653.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 55262.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 38463.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 36859.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 35780.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 35479.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 34698.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 32647.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 32563.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 30048.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 29453.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 28768.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 28417.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 28373.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 27316.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 23764.0,
+      "topic": "Literary genres"
+    }
+  ]
+}

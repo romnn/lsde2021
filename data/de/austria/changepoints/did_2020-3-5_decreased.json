@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -170456.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -170053.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -169939.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -169920.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -163856.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -81490.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -61923.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -59203.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -57356.0,
+      "topic": "Biblical geography"
+    },
+    {
+      "diff": -45584.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -41936.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -21332.0,
+      "topic": "State"
+    },
+    {
+      "diff": -21061.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -19629.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -19289.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -18942.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -13452.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10156.0,
+      "topic": "Asian cuisine"
+    },
+    {
+      "diff": -9649.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -9428.0,
+      "topic": "Nuts 3 statistical regions"
+    }
+  ]
+}

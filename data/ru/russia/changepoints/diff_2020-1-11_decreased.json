@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -15114.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -12825.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -11794.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -11693.0,
+      "topic": "France"
+    },
+    {
+      "diff": -11520.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -10389.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -9874.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9487.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -7808.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -7728.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -5175.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -3627.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3483.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": -3316.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": -3235.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -2841.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -2803.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -2795.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -2590.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": -2513.0,
+      "topic": "American literature"
+    }
+  ]
+}

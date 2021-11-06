@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -20926.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -16912.0,
+      "topic": "People"
+    },
+    {
+      "diff": -15378.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -15169.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -14549.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -13866.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -13768.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -13109.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -12947.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -12601.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -12491.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -12335.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -9633.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -9269.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -9258.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -8975.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -8485.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -8429.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -8134.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -7649.0,
+      "topic": "Weekday"
+    }
+  ]
+}

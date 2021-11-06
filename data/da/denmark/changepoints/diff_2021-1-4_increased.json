@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 3218.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2825.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2613.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2568.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2301.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2084.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1999.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1873.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1822.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1683.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 1679.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 1642.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 1559.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1508.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1477.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 1452.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 1441.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1434.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": 1424.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": 1292.0,
+      "topic": "Language"
+    }
+  ]
+}

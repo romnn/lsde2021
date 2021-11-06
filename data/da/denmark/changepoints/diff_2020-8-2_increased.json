@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-02",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1219.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1049.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 1013.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 793.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 607.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 599.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 589.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 547.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 542.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 533.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 472.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 472.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 415.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 411.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 374.0,
+      "topic": "Land"
+    },
+    {
+      "diff": 343.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 339.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 337.0,
+      "topic": "Chemical engineering"
+    }
+  ]
+}

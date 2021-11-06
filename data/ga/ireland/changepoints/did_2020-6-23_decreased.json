@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -106.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Ports"
+    },
+    {
+      "diff": -49.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -33.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -27.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Animals"
+    }
+  ]
+}

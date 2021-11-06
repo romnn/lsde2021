@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -8846.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -7513.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -7353.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -7229.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -7066.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2519.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -2476.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2399.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -2300.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -2195.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -2049.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -1995.0,
+      "topic": "Interdisciplinary physics"
+    },
+    {
+      "diff": -1985.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1979.0,
+      "topic": "Applied"
+    },
+    {
+      "diff": -1732.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -1705.0,
+      "topic": "Afghan culture"
+    },
+    {
+      "diff": -1699.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": -1632.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1594.0,
+      "topic": "Cultural depictions"
+    },
+    {
+      "diff": -1592.0,
+      "topic": "Business services companies"
+    }
+  ]
+}

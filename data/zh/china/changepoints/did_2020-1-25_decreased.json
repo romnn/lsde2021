@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -9557.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -8373.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7282.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -7108.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -6461.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -6087.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -5973.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -5593.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -5554.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5346.0,
+      "topic": "States with limited recognition"
+    },
+    {
+      "diff": -5279.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -5132.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -5125.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -5041.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -4963.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4932.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -4932.0,
+      "topic": "Nato"
+    },
+    {
+      "diff": -4768.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -4724.0,
+      "topic": "History of the people's republic of china"
+    },
+    {
+      "diff": -4637.0,
+      "topic": "Works"
+    }
+  ]
+}

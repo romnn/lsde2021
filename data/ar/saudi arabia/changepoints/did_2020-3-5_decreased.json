@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -17408.0,
+      "topic": "History"
+    },
+    {
+      "diff": -14165.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13726.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -8492.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -8342.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -8139.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -8064.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -7496.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -7490.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -7202.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -7029.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6486.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6330.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6277.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -5972.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -5860.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5560.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -5436.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -5403.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -5330.0,
+      "topic": "Animals"
+    }
+  ]
+}

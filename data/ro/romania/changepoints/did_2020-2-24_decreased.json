@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -2966.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2931.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -2889.0,
+      "topic": "Moldova"
+    },
+    {
+      "diff": -2858.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -2712.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -2635.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -2597.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -2545.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1419.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1339.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -1127.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1051.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -971.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -938.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -837.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -828.0,
+      "topic": "Animal anatomy"
+    },
+    {
+      "diff": -817.0,
+      "topic": "Distance"
+    },
+    {
+      "diff": -812.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": -786.0,
+      "topic": "Biological anthropology"
+    }
+  ]
+}

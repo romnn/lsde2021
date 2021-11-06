@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 11709.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 10205.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 9923.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9719.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 9670.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7307.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 6708.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 6553.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": 6221.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 6125.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 6118.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 6084.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5967.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 5621.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4569.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4020.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4018.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 3783.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 3774.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3770.0,
+      "topic": "Establishments"
+    }
+  ]
+}

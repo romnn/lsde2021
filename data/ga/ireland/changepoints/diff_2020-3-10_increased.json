@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 29.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Mysticism"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Osaka prefecture"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

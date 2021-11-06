@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 7394.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 6772.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 6559.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 6455.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 4705.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 4363.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 4320.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 4221.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 4166.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": 3243.0,
+      "topic": "1990s television series"
+    },
+    {
+      "diff": 3224.0,
+      "topic": "Nbcuniversal"
+    },
+    {
+      "diff": 3093.0,
+      "topic": "Television shows set"
+    },
+    {
+      "diff": 2522.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": 2478.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 2427.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": 2159.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 2047.0,
+      "topic": "Mass media regulation"
+    },
+    {
+      "diff": 2009.0,
+      "topic": "State"
+    },
+    {
+      "diff": 2004.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": 1868.0,
+      "topic": "Companies"
+    }
+  ]
+}

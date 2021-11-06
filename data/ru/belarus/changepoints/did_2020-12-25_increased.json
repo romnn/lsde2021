@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 19092.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 18554.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 18462.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 17712.0,
+      "topic": "France"
+    },
+    {
+      "diff": 17129.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 14830.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 14265.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 13832.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": 12879.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 9956.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 8520.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 7239.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 6922.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": 6226.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 5991.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 5636.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 5364.0,
+      "topic": "Ethnology"
+    },
+    {
+      "diff": 5362.0,
+      "topic": "Fruits originating"
+    },
+    {
+      "diff": 5056.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 4916.0,
+      "topic": "Cinema"
+    }
+  ]
+}

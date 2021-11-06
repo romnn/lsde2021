@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 52910.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 50013.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 49586.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 48816.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 48155.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 24224.0,
+      "topic": "Reliability engineering"
+    },
+    {
+      "diff": 23848.0,
+      "topic": "Telecommunications law"
+    },
+    {
+      "diff": 22829.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 22423.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 21608.0,
+      "topic": "Security engineering"
+    },
+    {
+      "diff": 17524.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 16924.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 15474.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 13964.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 12616.0,
+      "topic": "Hill ranges"
+    },
+    {
+      "diff": 10876.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 10460.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 10058.0,
+      "topic": "Mountain"
+    },
+    {
+      "diff": 8725.0,
+      "topic": "France"
+    },
+    {
+      "diff": 8276.0,
+      "topic": "Country"
+    }
+  ]
+}

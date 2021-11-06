@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -16362.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11184.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9772.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7144.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5457.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5415.0,
+      "topic": "People"
+    },
+    {
+      "diff": -5294.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4395.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4345.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -4334.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -4275.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4088.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -3918.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3897.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -3833.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3776.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -3749.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -3737.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3626.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -3626.0,
+      "topic": "Century"
+    }
+  ]
+}

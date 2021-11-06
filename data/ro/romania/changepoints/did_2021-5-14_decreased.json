@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -2403.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -2017.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1586.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1585.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1584.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1584.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -1393.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1318.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": -1252.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -1229.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -1221.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1125.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -1114.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -954.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": -816.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -751.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -720.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -588.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -574.0,
+      "topic": "Cuisine"
+    }
+  ]
+}

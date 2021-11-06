@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -185504.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -182835.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -181992.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -181161.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -181156.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -10811.0,
+      "topic": "France"
+    },
+    {
+      "diff": -10734.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -8801.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -8062.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -7774.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -7154.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -6705.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": -6619.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -6543.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -6404.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -6218.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -5553.0,
+      "topic": "International relations theory"
+    },
+    {
+      "diff": -4875.0,
+      "topic": "Metropolitan france"
+    },
+    {
+      "diff": -4759.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -4721.0,
+      "topic": "Works"
+    }
+  ]
+}

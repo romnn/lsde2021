@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -15699.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -15311.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -15064.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": -14805.0,
+      "topic": "Endings"
+    },
+    {
+      "diff": -12932.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -8571.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7708.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -7196.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4476.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -3536.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -3048.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -2957.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2885.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -2826.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -2748.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": -2727.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -2351.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -2332.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -2314.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "Populated places"
+    }
+  ]
+}

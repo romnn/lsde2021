@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1480.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 976.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 948.0,
+      "topic": "History"
+    },
+    {
+      "diff": 866.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 773.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 728.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 718.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 658.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 601.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 586.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 457.0,
+      "topic": "Western christianity"
+    },
+    {
+      "diff": 452.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": 423.0,
+      "topic": "Christianity studies"
+    },
+    {
+      "diff": 423.0,
+      "topic": "Protestant denominational families"
+    },
+    {
+      "diff": 407.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 385.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 350.0,
+      "topic": "State"
+    }
+  ]
+}

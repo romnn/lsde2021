@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -3413399.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -2748687.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2353600.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": -2127426.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1727571.0,
+      "topic": "Olympic games"
+    },
+    {
+      "diff": -1674020.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1631787.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -1507718.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": -1277930.0,
+      "topic": "Olympic competitors"
+    },
+    {
+      "diff": -1110526.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": -1109566.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -952991.0,
+      "topic": "Summer olympic sports"
+    },
+    {
+      "diff": -903811.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": -882290.0,
+      "topic": "People"
+    },
+    {
+      "diff": -857518.0,
+      "topic": "Host country"
+    },
+    {
+      "diff": -825794.0,
+      "topic": "Sportswomen"
+    },
+    {
+      "diff": -818946.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -760961.0,
+      "topic": "Competitors at multi-sport events by year"
+    },
+    {
+      "diff": -754346.0,
+      "topic": "Sports competitions"
+    },
+    {
+      "diff": -738236.0,
+      "topic": "Years"
+    }
+  ]
+}

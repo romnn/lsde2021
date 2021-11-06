@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -4697.0,
+      "topic": "Nato"
+    },
+    {
+      "diff": -4660.0,
+      "topic": "States with limited recognition"
+    },
+    {
+      "diff": -4497.0,
+      "topic": "World war ii"
+    },
+    {
+      "diff": -4353.0,
+      "topic": "History of the people's republic of china"
+    },
+    {
+      "diff": -2780.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2503.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -2312.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -2278.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2124.0,
+      "topic": "Meiji period"
+    },
+    {
+      "diff": -2116.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -1989.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -1807.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": -1760.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1590.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -1548.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1532.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1472.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1418.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -1386.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1344.0,
+      "topic": "Artificial intelligence"
+    }
+  ]
+}

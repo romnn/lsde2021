@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 19.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 9.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Systems science"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Pitch (music)"
+    },
+    {
+      "diff": 8.0,
+      "topic": "Surnames"
+    },
+    {
+      "diff": 8.0,
+      "topic": "European origin"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Gaelic-language surnames"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Place names"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 7.0,
+      "topic": "Conceptual models"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Scientific problems"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 6.0,
+      "topic": "England"
+    },
+    {
+      "diff": 6.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 6.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 5.0,
+      "topic": "Counties"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 19279.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 15969.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 15091.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 14236.0,
+      "topic": "Endings"
+    },
+    {
+      "diff": 13841.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": 12852.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 9871.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8952.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 8878.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 8507.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 8306.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 8185.0,
+      "topic": "Portugal"
+    },
+    {
+      "diff": 7637.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 7575.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 7491.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 7271.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6950.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 6858.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6807.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 6769.0,
+      "topic": "Branches"
+    }
+  ]
+}

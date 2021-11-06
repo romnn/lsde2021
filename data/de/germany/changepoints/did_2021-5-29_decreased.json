@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -168237.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -157666.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -156754.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -155027.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -155021.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -43794.0,
+      "topic": "History"
+    },
+    {
+      "diff": -35823.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -34079.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -29627.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -27676.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -26715.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -26676.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -26347.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -24907.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -21311.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -21304.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -21088.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -20486.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -20151.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -20115.0,
+      "topic": "Musicians"
+    }
+  ]
+}

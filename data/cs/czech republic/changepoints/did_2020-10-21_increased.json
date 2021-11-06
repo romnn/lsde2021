@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 159641.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": 159492.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 158992.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 158781.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 158447.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6056.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 5993.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 5495.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 5393.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 5381.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 4601.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4403.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4192.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 3244.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 2620.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2069.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2062.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1997.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 1829.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1769.0,
+      "topic": "Country"
+    }
+  ]
+}

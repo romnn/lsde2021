@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1347.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1153.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -871.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -560.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -436.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -360.0,
+      "topic": "France"
+    },
+    {
+      "diff": -358.0,
+      "topic": "History"
+    },
+    {
+      "diff": -335.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -304.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -264.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -216.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -185.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -170.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -157.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -155.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -148.0,
+      "topic": "\u0160umadija"
+    }
+  ]
+}

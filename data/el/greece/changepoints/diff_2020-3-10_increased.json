@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 5672.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 5669.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5607.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5463.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5147.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4759.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4697.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 4384.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 4048.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3988.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3702.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 3380.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 3328.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3313.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3249.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2409.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 2377.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2172.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 2146.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": 2031.0,
+      "topic": "Medicinal chemistry"
+    }
+  ]
+}

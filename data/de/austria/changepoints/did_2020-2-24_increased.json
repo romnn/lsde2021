@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 37902.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 37372.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 36878.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 36375.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 35042.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 31530.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 29593.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 28672.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 25834.0,
+      "topic": "History"
+    },
+    {
+      "diff": 19789.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 17448.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": 16866.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 16663.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 15207.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 14080.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 14052.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 12674.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 12036.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 11297.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 11200.0,
+      "topic": "Clinical medicine"
+    }
+  ]
+}

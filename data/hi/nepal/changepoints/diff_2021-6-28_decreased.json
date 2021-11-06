@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -2457.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -1718.0,
+      "topic": "Epistemology"
+    },
+    {
+      "diff": -1676.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -1465.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1452.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1295.0,
+      "topic": "Buddhism"
+    },
+    {
+      "diff": -1241.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1232.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1220.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": -1213.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -1179.0,
+      "topic": "Indology"
+    },
+    {
+      "diff": -1152.0,
+      "topic": "16th-century establishments by continent"
+    },
+    {
+      "diff": -1132.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1099.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1019.0,
+      "topic": "Weather events"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Computers"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -928.0,
+      "topic": "Concepts"
+    }
+  ]
+}

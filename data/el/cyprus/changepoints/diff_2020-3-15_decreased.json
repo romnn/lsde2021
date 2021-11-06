@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -1131.0,
+      "topic": "Emergency organizations"
+    },
+    {
+      "diff": -1017.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -988.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -926.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -874.0,
+      "topic": "Military forces"
+    },
+    {
+      "diff": -719.0,
+      "topic": "Thrace"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Eastern macedonia"
+    },
+    {
+      "diff": -617.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -597.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -547.0,
+      "topic": "Bilateral relations"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -464.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Transitional justice"
+    },
+    {
+      "diff": -430.0,
+      "topic": "Warfare"
+    },
+    {
+      "diff": -421.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -415.0,
+      "topic": "Seleucid empire"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Levant"
+    },
+    {
+      "diff": -393.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -384.0,
+      "topic": "Central macedonia"
+    }
+  ]
+}

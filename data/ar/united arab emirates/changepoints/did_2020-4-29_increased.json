@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 6226.0,
+      "topic": "People"
+    },
+    {
+      "diff": 5326.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 5092.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": 4668.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": 3673.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": 3568.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": 3563.0,
+      "topic": "Ghilman"
+    },
+    {
+      "diff": 3559.0,
+      "topic": "Slavery"
+    },
+    {
+      "diff": 3495.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 3482.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 3336.0,
+      "topic": "Ayyubid sultanate"
+    },
+    {
+      "diff": 3268.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 3252.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": 3206.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 3021.0,
+      "topic": "Mashriq"
+    },
+    {
+      "diff": 2780.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 2665.0,
+      "topic": "Meaning (philosophy of language)"
+    },
+    {
+      "diff": 2653.0,
+      "topic": "Fad diets"
+    },
+    {
+      "diff": 2653.0,
+      "topic": "Dogma"
+    },
+    {
+      "diff": 2647.0,
+      "topic": "North african diaspora"
+    }
+  ]
+}

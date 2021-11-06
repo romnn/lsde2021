@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -3379.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -3248.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3149.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2561.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2549.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -2515.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1097.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": -515.0,
+      "topic": "Systems ecology"
+    },
+    {
+      "diff": -443.0,
+      "topic": "Departments of bourgogne-franche-comt\u00e9"
+    },
+    {
+      "diff": -426.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -406.0,
+      "topic": "Departments of hauts-de-france"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -345.0,
+      "topic": "Biological interactions"
+    },
+    {
+      "diff": -331.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -312.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -307.0,
+      "topic": "Months"
+    }
+  ]
+}

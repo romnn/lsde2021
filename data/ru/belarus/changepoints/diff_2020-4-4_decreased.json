@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -64935.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -50469.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -44473.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -38499.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -34909.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -32376.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -31659.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -27831.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -23524.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -22926.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -22441.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -22379.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -19588.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -17849.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -15466.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -13230.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -10512.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -10483.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -9731.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -8384.0,
+      "topic": "Prevention"
+    }
+  ]
+}

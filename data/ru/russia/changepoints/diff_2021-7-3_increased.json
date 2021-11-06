@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 50243.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 41862.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 40320.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 38703.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 38352.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 38350.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 35470.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 35071.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 32348.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 30725.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 30226.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 26391.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 25950.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 25213.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 24455.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 24257.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 20127.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 20108.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 20101.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 18787.0,
+      "topic": "Europe"
+    }
+  ]
+}

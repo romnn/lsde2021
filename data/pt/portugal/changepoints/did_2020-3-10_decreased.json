@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -17859.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -17735.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -10541.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -7413.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": -6108.0,
+      "topic": "Parades"
+    },
+    {
+      "diff": -6075.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -5400.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": -5060.0,
+      "topic": "Cultural festivals"
+    },
+    {
+      "diff": -5052.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -4376.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -4226.0,
+      "topic": "City"
+    },
+    {
+      "diff": -4226.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -4166.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3995.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -3761.0,
+      "topic": "Eating behaviors"
+    },
+    {
+      "diff": -3340.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -3278.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -3264.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -3211.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -2992.0,
+      "topic": "South america"
+    }
+  ]
+}

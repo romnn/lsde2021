@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -3119068.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -2235129.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": -2201422.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2050786.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -1836411.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1790067.0,
+      "topic": "Olympic games"
+    },
+    {
+      "diff": -1595198.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1440545.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": -1244732.0,
+      "topic": "Olympic competitors"
+    },
+    {
+      "diff": -1208550.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1118852.0,
+      "topic": "Summer olympic sports"
+    },
+    {
+      "diff": -1076818.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": -906915.0,
+      "topic": "Host country"
+    },
+    {
+      "diff": -786167.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -764660.0,
+      "topic": "Sportswomen"
+    },
+    {
+      "diff": -746028.0,
+      "topic": "Events at the summer olympics"
+    },
+    {
+      "diff": -710185.0,
+      "topic": "Competitors at multi-sport events by year"
+    },
+    {
+      "diff": -708858.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": -705209.0,
+      "topic": "Multi-sport events by year"
+    },
+    {
+      "diff": -661587.0,
+      "topic": "Sports competitions"
+    }
+  ]
+}

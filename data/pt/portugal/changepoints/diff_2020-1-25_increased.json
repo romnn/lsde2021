@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 14468.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 13213.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 8480.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 7183.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": 7099.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5509.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 5044.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": 4625.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4599.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4200.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3881.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 3847.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3806.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": 3678.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 3593.0,
+      "topic": "Online content distribution"
+    },
+    {
+      "diff": 3586.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 3575.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 3526.0,
+      "topic": "Digital broadcasting"
+    },
+    {
+      "diff": 3454.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 3434.0,
+      "topic": "Traditional stories"
+    }
+  ]
+}

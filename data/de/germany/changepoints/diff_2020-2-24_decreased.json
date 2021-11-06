@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -59888.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -57524.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -57094.0,
+      "topic": "Biblical geography"
+    },
+    {
+      "diff": -54468.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -51469.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9691.0,
+      "topic": "France"
+    },
+    {
+      "diff": -9095.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -8581.0,
+      "topic": "Prejudice"
+    },
+    {
+      "diff": -8035.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -7912.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -7799.0,
+      "topic": "Burial sites"
+    },
+    {
+      "diff": -7795.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": -7767.0,
+      "topic": "European noble families"
+    },
+    {
+      "diff": -7703.0,
+      "topic": "French noble families"
+    },
+    {
+      "diff": -7270.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6486.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -6256.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -6217.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": -6169.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -6000.0,
+      "topic": "Structures"
+    }
+  ]
+}

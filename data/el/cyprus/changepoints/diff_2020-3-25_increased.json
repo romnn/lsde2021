@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 9334.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 7538.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7447.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 7346.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6738.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6394.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 5862.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5624.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4938.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4403.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3656.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3559.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3528.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3351.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 3276.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3154.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3111.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3075.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 2890.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": 2791.0,
+      "topic": "Turkey"
+    }
+  ]
+}

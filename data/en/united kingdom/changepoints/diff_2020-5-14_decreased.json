@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2809330.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1759117.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1705680.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1405948.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1341506.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1327879.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1033758.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -851250.0,
+      "topic": "India"
+    },
+    {
+      "diff": -736792.0,
+      "topic": "History"
+    },
+    {
+      "diff": -706395.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -703282.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -664866.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -616155.0,
+      "topic": "State"
+    },
+    {
+      "diff": -608338.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -605165.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -592857.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -579983.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -515578.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -501023.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -463617.0,
+      "topic": "Music"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -10758.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -7763.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -7179.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -6714.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -6636.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": -6263.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -5130.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -4546.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4161.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -3853.0,
+      "topic": "Human diseases"
+    },
+    {
+      "diff": -3673.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -3446.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3366.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -3070.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -3001.0,
+      "topic": "Disability"
+    },
+    {
+      "diff": -2997.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2751.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -2646.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -2624.0,
+      "topic": "Websites"
+    },
+    {
+      "diff": -2510.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

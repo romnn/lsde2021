@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -49764.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -43688.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -42853.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -42361.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -18791.0,
+      "topic": "History"
+    },
+    {
+      "diff": -17053.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": -16303.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -15358.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -14848.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -14202.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -13868.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -13340.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -11785.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -11698.0,
+      "topic": "Human rights instruments"
+    },
+    {
+      "diff": -11644.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -10674.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -9897.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -9424.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -9408.0,
+      "topic": "Health care"
+    },
+    {
+      "diff": -9186.0,
+      "topic": "Pharmaceutics"
+    }
+  ]
+}
