@@ -141,14 +141,11 @@ def split(
 ) -> Set[str]:
     # first, test for common patterns
     splitted, matched = split_by_pattern(s)
-    # print(splitted)
 
     # split recursively
     rec_splitted = flatten([split_by_pattern(ss)[0] for ss in splitted])
-    # print(rec_splitted)
     while recursive and set(splitted) != set(rec_splitted):
         splitted = rec_splitted[:]
-        # print(splitted)
         rec_splitted = flatten([split_by_pattern(ss)[0] for ss in splitted])
 
     if not matched:
@@ -161,7 +158,6 @@ def split(
     splitted_set = set(
         [sp.replace("_", " ") for sp in splitted if numeric.match(sp) is None]
     )
-    # print(s, splitted, matched)
 
     if singularize and pluralize:
         splitted_set = set([lang.singularize(sp) for sp in splitted_set]).union(
