@@ -1,4 +1,6 @@
 .DS_Store
+submission.zip
+submission/
 wikimedia_data/
 .ipynb_checkpoints/
 .coverage
