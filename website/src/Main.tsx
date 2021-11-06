@@ -110,6 +110,7 @@ class Main extends React.Component<MainProps, MainState> {
         }
       });
     });
+    // console.log(availableTags);
     shuffleArray(availableTags);
     this.state = {
       availableTags,
