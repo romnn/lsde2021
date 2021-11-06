@@ -86,13 +86,14 @@ def plot_changepoints(
     changepoints: List[datetime.datetime],
     title: Optional[str] = None,
     fontsize: int = 15,
+    figsize: Tuple[int, int] = (10, 3),
     savefig: Optional[str] = None,
 ) -> None:
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=figsize)
     ax.plot(country_stringency, color="blue", linestyle="-")
 
-    ax.tick_params(axis="both", which="major", labelsize=fontsize * 3 / 4)
-    ax.tick_params(axis="both", which="minor", labelsize=fontsize * 3 / 4)
+    ax.tick_params(axis="both", which="major", labelsize=fontsize * 5 / 5)
+    ax.tick_params(axis="both", which="minor", labelsize=fontsize * 5 / 5)
 
     plt.vlines(
         changepoints,
@@ -104,8 +105,8 @@ def plot_changepoints(
     )
     if title is not None:
         plt.title(title, fontsize=fontsize)
-    plt.xlabel("time")
-    plt.ylabel("stringency index")
+    plt.xlabel("time", fontsize=fontsize * 5/ 5)
+    plt.ylabel("stringency index", fontsize=fontsize * 5/ 5)
     plt.tight_layout()
     if savefig:
         Path(savefig).parent.mkdir(parents=True, exist_ok=True)
