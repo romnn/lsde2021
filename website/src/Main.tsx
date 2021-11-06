@@ -7,7 +7,9 @@ import { connect, ConnectedProps } from "react-redux";
 import { TagType, Tag } from "./store/reducers/tags";
 import { Action } from "./store/actions";
 import { RootState } from "./store";
+import { shuffleArray } from "./utils";
 import LANGUAGE_COUNTRIES from "./data/languages_countries.json";
+import SELECTED_TOPICS from "./data/selected_topics.json";
 import "./App.sass";
 
 const mapState = (state: RootState) => ({
@@ -58,56 +60,57 @@ class Main extends React.Component<MainProps, MainState> {
   constructor(props: MainProps) {
     super(props);
     const availableTags: Tag[] = [];
-    const topics = [
-      "Medicine",
-      "Sports",
-      "Vaccination",
-      "Television",
-      "Do-it-yourself",
-    ];
-
     const map = new Map();
     LANGUAGE_COUNTRIES.forEach((lc) => {
-      let title = `${lc.country.replaceAll(" ", "-")}:Stringency`;
+      const country = lc.country.toLowerCase();
+      const group = lc.group.toLowerCase();
+      const base = `data/${group}/${country}`;
+
+      let title = `${country.toUpperCase().replaceAll(" ", "-")}:STRINGENCY`;
       if (!map.has(title)) {
         availableTags.push({
           typ: TagType.CountryStringency,
           country: lc.country,
           lang: lc.group,
           iso3: lc.iso3,
-          url: `data/${lc.group}/${lc.country}/stringency_changepoints.json`,
+          url: `${base}/stringency_changepoints.json`,
           title,
-          // id: `${lc.country.replaceAll(" ", "-")}-stringency`,
         });
         map.set(title, true);
       }
-      title = `${lc.country.replaceAll(" ", "-")}:Total`;
+      title = `${country
+        .toUpperCase()
+        .replaceAll(" ", "-")
+        .toUpperCase()}:TOTAL`;
       if (!map.has(title)) {
         availableTags.push({
           typ: TagType.CountryTotal,
           country: lc.country,
           lang: lc.group,
           iso3: lc.iso3,
-          url: `data/${lc.group}/${lc.country}/total.json`,
+          url: `${base}/total.json`,
           title,
         });
         map.set(title, true);
       }
-      topics.forEach((topic) => {
-        title = `${lc.country.replaceAll(" ", "-")}:Topic:${topic}`;
+      SELECTED_TOPICS.forEach((topic) => {
+        title = `${country
+          .toUpperCase()
+          .replaceAll(" ", "-")}:TOPIC:${topic.toUpperCase()}`;
         if (!map.has(title)) {
           availableTags.push({
             typ: TagType.CountryTopicAttention,
             country: lc.country,
             lang: lc.group,
             iso3: lc.iso3,
-            url: `data/${lc.group}/${lc.country}/topic_${topic}.json`,
+            url: `${base}/topics/${topic.toLowerCase()}.json`,
             title,
           });
           map.set(title, true);
         }
       });
     });
+    shuffleArray(availableTags);
     this.state = {
       availableTags,
       searchText: "",
@@ -119,8 +122,10 @@ class Main extends React.Component<MainProps, MainState> {
   };
 
   componentDidMount() {
+    const initialSelection = ["ITALY:STRINGENCY", "ITALY:TOPIC:MEDICINE"];
+    // const initialSelection = ["GERMANY:STRINGENCY", "ITALY:TOPIC:MEDICINE"];
     this.state.availableTags
-      .filter((t) => t.title === "Germany:Stringency")
+      .filter((t) => initialSelection.includes(t.title))
       .filter((t) => !this.props.activeTags.some((tt) => t.title === tt.title))
       .forEach((t) => {
         console.log("adding", t);
@@ -159,15 +164,12 @@ class Main extends React.Component<MainProps, MainState> {
     });
 
     const longestPrefix = (words: string[]): number => {
-      // check border cases size 1 array and empty first word)
-
       if (!words[0]) return 0;
       if (words.length === 1) return words[0].length;
 
       let i = 0;
       let done = false;
-      // while (words[0][i] && words.every((w) => w[i] === words[0][i])) i++;
-      // avoid unsafe use of variable i by using a for loop:
+      // avoid unsafe use of variable i by using a for loop
       while (words[0][i]) {
         for (let w of words) {
           if (w[i] !== words[0][i]) {
@@ -210,21 +212,12 @@ class Main extends React.Component<MainProps, MainState> {
       .replaceAll(":", " ")
       .split(" ")
       .filter((s) => s.length > 0);
-    // console.log(searchPrefixes);
 
     const availableTags: [Tag, number][] = this.state.availableTags
       .filter((t) => {
         return !this.props.activeTags.map((tt) => tt.title).includes(t.title);
       })
       .map((t) => {
-        // const scored = [
-        //   t,
-        //   searchMatchScorer(
-        //     [...searchPrefixes],
-        //     t.title.toLowerCase().split(":")
-        //   ),
-        // ];
-        // console.log(scored);
         return [
           t,
           searchMatchScorer(
