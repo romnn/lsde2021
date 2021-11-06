@@ -3,6 +3,7 @@ import * as d3 from "d3";
 import { connect, ConnectedProps } from "react-redux";
 import { Action } from "./store/actions";
 import { RootState } from "./store";
+import { isSameDate, Country } from "./utils";
 
 const mapState = (state: RootState) => ({
   currentChangepoint: {
@@ -28,6 +29,14 @@ enum AttentionType {
   Decrease,
 }
 
+type TopicDiff = { topic: string; diff: number };
+
+type Diff = {
+  changepoint: Date;
+  country: Country;
+  topics: TopicDiff[];
+};
+
 type Margins = {
   top: number;
   right: number;
@@ -36,6 +45,7 @@ type Margins = {
 };
 
 type BarPlotProps = {
+  data: TopicDiff[];
   id: string;
   color: string;
   typ: AttentionType;
@@ -43,13 +53,7 @@ type BarPlotProps = {
   margins: Margins;
 };
 
-type TopicDiffs = { topic: string; diff: number };
-
-type BarPlotState = {
-  data: TopicDiffs[];
-};
-
-type TestCols = "Country" | "Value";
+type BarPlotState = {};
 
 class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
   container!: d3.Selection<HTMLDivElement, any, HTMLElement, any>;
@@ -58,15 +62,15 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
 
   constructor(props: BarPlotProps) {
     super(props);
-    this.state = {
-      data: [],
-    };
+    this.state = {};
   }
 
   update = (animated: boolean = false) => {
     console.log("update barplots");
+
     const bbox = this.container?.node()?.getBoundingClientRect();
     const width = bbox?.width ?? 0;
+
     this.svg.attr("width", width).attr("height", this.props.height);
     this.bounds.attr(
       "transform",
@@ -80,11 +84,15 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       )
       .attr("y", this.props.height - this.props.margins.top - 10);
 
+    const data = this.props.data.sort((x, y) => {
+      return d3.descending(x.diff, y.diff);
+    });
+
     // calculate extent
-    const xExtent = d3.extent(this.state.data, (d) => d.diff) as [
-      number,
-      number
-    ];
+    let xExtent = d3.extent(data, (d) => d.diff) as [number, number];
+    if (this.props.typ === AttentionType.Decrease) {
+      xExtent = [xExtent[1], xExtent[0]];
+    }
 
     // X axis
     const xScale = d3
@@ -114,7 +122,7 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
         0,
         this.props.height - this.props.margins.bottom - this.props.margins.top,
       ])
-      .domain(this.state.data.map((d) => d.topic))
+      .domain(data.map((d) => d.topic))
       .padding(0.1);
 
     this.bounds
@@ -125,10 +133,10 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       .selectAll("text")
       .style("text-anchor", "end");
 
-    //Bars
+    // Bars
     const bars = this.bounds
-      .selectAll<SVGRectElement, TopicDiffs>(".bar")
-      .data<TopicDiffs>(this.state.data);
+      .selectAll<SVGRectElement, TopicDiff>(".bar")
+      .data<TopicDiff>(data);
 
     bars.exit().remove();
     const newBar = bars.enter().append("g").attr("class", "bar");
@@ -136,7 +144,7 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
     newBar.append("rect");
     newBar.append("text");
 
-    const updated = this.bounds.selectAll<SVGRectElement, TopicDiffs>(".bar");
+    const updated = this.bounds.selectAll<SVGRectElement, TopicDiff>(".bar");
 
     updated
       .select("rect")
@@ -155,20 +163,20 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
       .attr("alignment-baseline", "middle")
       .attr("x", 0)
       .attr("y", (d) => (yScale(d.topic) ?? 0) + 0.5 * yScale.bandwidth())
-      .text("test");
+      .text(""); // todo: show percentual increase?
 
     const animation = this.bounds
-      .selectAll<SVGRectElement, TopicDiffs>(".bar")
+      .selectAll<SVGRectElement, TopicDiff>(".bar")
       .transition()
       .duration(animated ? 800 : 0)
       .delay((d, i) => (animated ? i * 100 : 0));
 
-    animation.select("rect").attr("width", (d) => Math.abs(xScale(d.diff)));
+    animation.select("rect").attr("width", (d) => xScale(d.diff));
 
     animation
       .select("text")
       .attr("opacity", (d) => (Math.abs(xScale(d.diff)) > 30 ? 1 : 0))
-      .attr("x", (d) => Math.abs(xScale(d.diff)) - 5);
+      .attr("x", (d) => xScale(d.diff));
   };
 
   addBarPlot = () => {
@@ -191,23 +199,25 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
 
     this.bounds.append("g").attr("class", "yAxis");
 
-    d3.csv<TestCols>(
-      "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv"
-    ).then((data) => {
-      this.setState({
-        data: data.map((d) => {
-          return { topic: d.Country ?? "missing", diff: Number(d.Value) ?? 0 };
-        }),
-      });
-      this.update(true);
-    });
-
     const resize = () => {
       console.log("bar resize");
       this.update();
     };
     window.addEventListener("resize", resize);
   };
+
+  componentDidUpdate(prevProps: BarPlotProps, prevState: BarPlotState) {
+    if (
+      this.props.data.length !== prevProps.data.length ||
+      this.props.data.some(
+        (v, i) =>
+          v.topic !== prevProps.data[i].topic ||
+          v.diff !== prevProps.data[i].diff
+      )
+    ) {
+      this.update(true);
+    }
+  }
 
   componentDidMount() {
     this.addBarPlot();
@@ -225,32 +235,78 @@ class BarPlot extends React.Component<BarPlotProps, BarPlotState> {
 
 interface TopicAttentionProps extends PropsFromRedux {}
 
-type TopicAttentionState = {};
+type TopicAttentionState = {
+  increased: Diff | undefined;
+  decreased: Diff | undefined;
+};
 
 class TopicAttention extends React.Component<
   TopicAttentionProps,
   TopicAttentionState
 > {
-  margins = { top: 30, right: 30, bottom: 60, left: 100 };
+  margins = { top: 30, right: 30, bottom: 60, left: 175 };
   height = 400;
 
   constructor(props: TopicAttentionProps) {
     super(props);
-    this.state = {};
+    this.state = {
+      increased: undefined,
+      decreased: undefined,
+    };
+  }
+
+  loadData<D>(url: string): Promise<D> {
+    return new Promise<D>((resolve, reject) => {
+      this.props.incrementLoading();
+      d3.json<D>(url)
+        .then((data) => {
+          if (data === undefined) return reject();
+          resolve(data);
+        })
+        .finally(() => this.props.decrementLoading());
+    });
   }
 
   componentDidUpdate(
     prevProps: TopicAttentionProps,
     prevState: TopicAttentionState
   ) {
-    if (this.props.currentChangepoint !== prevProps.currentChangepoint) {
-      // todo: load data here
-      // set the data as prop for the two bar plots
-      console.log(
-        "would load changepoint",
-        this.props.currentChangepoint,
-        "here now"
-      );
+    if (
+      !isSameDate(
+        this.props.currentChangepoint.changepoint,
+        prevProps.currentChangepoint.changepoint
+      ) ||
+      this.props.currentChangepoint.tag?.title !==
+        prevProps.currentChangepoint.tag?.title
+    ) {
+      const { tag, changepoint } = this.props.currentChangepoint;
+      if (tag === null || tag === undefined) return;
+      if (changepoint === null || changepoint === undefined) return;
+
+      const fmtDate = d3.timeFormat("%Y-%-m-%-d");
+      const lang = tag.lang.toLowerCase();
+      const country = tag.country.toLowerCase();
+      const baseUrl = `data/${lang}/${country}/changepoints`;
+
+      const increasedUrl = `${baseUrl}/did_${fmtDate(
+        changepoint
+      )}_increased.json`;
+
+      const decreasedUrl = `${baseUrl}/did_${fmtDate(
+        changepoint
+      )}_decreased.json`;
+
+      this.loadData<Diff>(increasedUrl).then((increased) => {
+        this.loadData<Diff>(decreasedUrl).then((decreased) => {
+          this.setState((state) => {
+            return {
+              ...state,
+              increased,
+              decreased,
+            };
+          });
+        });
+      });
     }
   }
 
@@ -259,6 +315,7 @@ class TopicAttention extends React.Component<
       <div className="flex">
         <div id="barplot-increase-container" className="w-1/2 inline-block">
           <BarPlot
+            data={this.state.increased?.topics ?? []}
             id="inc"
             height={this.height}
             color="#34D399"
@@ -268,6 +325,7 @@ class TopicAttention extends React.Component<
         </div>
         <div id="barplot-decrease-container" className="w-1/2 inline-block">
           <BarPlot
+            data={this.state.decreased?.topics ?? []}
             id="dec"
             color="#F87171"
             height={this.height}

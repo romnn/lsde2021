@@ -4,31 +4,25 @@ import { connect, ConnectedProps } from "react-redux";
 import { Action } from "./store/actions";
 import { Tag, TagType } from "./store/reducers/tags";
 import { RootState } from "./store";
-import { isSameDate } from "./utils";
+import { isSameDate, Country } from "./utils";
 
+// raw stringency JSON type
 type Stringency = {
   Date: string;
   StringencyIndex: number;
   Notes: string[];
 };
 
-type Country = {
-  code: string;
-  group: string;
-  name: string;
+// raw pageview JSON type
+type Pageview = {
+  date: string;
+  views: string;
 };
-
-type Changepoints = string[];
 
 type CountryStringency = {
   country: Country;
-  changepoints: Changepoints;
+  changepoints: string[];
   stringency: Stringency[];
-};
-
-type Pageview = {
-  date: Date;
-  views: number;
 };
 
 type CountryTopicAttention = {
@@ -72,18 +66,15 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
   container!: d3.Selection<HTMLDivElement, any, HTMLElement, any>;
   svg!: d3.Selection<SVGSVGElement, any, HTMLElement, any>;
   bounds!: d3.Selection<SVGGElement, any, HTMLElement, any>;
-  listeningRect!: d3.Selection<SVGRectElement, any, HTMLElement, any>;
-  xScale!: d3.ScaleTime<number, number>;
-  xAxis!: d3.Selection<SVGGElement, any, HTMLElement, any>;
-  yAxisStringency!: d3.Selection<SVGGElement, any, HTMLElement, any>;
-  yAxisPageViews!: d3.Selection<SVGGElement, any, HTMLElement, any>;
-  yScaleStringency!: d3.ScaleLinear<number, number>;
-  yScalePageViews!: d3.ScaleLinear<number, number>;
+  content!: d3.Selection<SVGGElement, any, HTMLElement, any>;
+  interaction!: d3.Selection<SVGGElement, any, HTMLElement, any>;
+  ui!: d3.Selection<SVGGElement, any, HTMLElement, any>;
+
   hoverLine!: d3.Selection<SVGRectElement, any, HTMLElement, any>;
   hoverLabel!: d3.Selection<SVGTextElement, any, HTMLElement, any>;
 
   hoverEnabled: boolean = true;
-  margin = { top: 10, right: 40, bottom: 35, left: 30 };
+  margin = { top: 10, right: 60, bottom: 35, left: 30 };
   height = 300;
 
   constructor(props: TimelineProps) {
@@ -105,7 +96,8 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       "transform",
       `translate(${this.margin.left}, ${this.margin.top})`
     );
-    this.listeningRect
+    this.svg
+      .select(".listeningRect")
       .attr("width", width - this.margin.left - this.margin.right)
       .attr("height", this.height - this.margin.top - this.margin.bottom);
 
@@ -121,29 +113,35 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     // data types
     type ChangepointGraph = { date: Date; id: string };
 
-    type StringencyGraph = {
-      id: string;
-      stringency: {
-        date: Date;
-        value: number;
-        notes: string[];
-      }[];
-      changepoints: ChangepointGraph[];
+    type TimeSeriesDatapoint = {
+      date: Date;
+      value: number;
     };
 
-    type PageviewGraph = {
+    interface StringencyGraphValue extends TimeSeriesDatapoint {
+      notes: string[];
+    }
+
+    type Graph = {
       id: string;
-      traffic: Pageview[];
+      values: TimeSeriesDatapoint[];
     };
+
+    interface StringencyGraph extends Graph {
+      values: StringencyGraphValue[];
+      changepoints: ChangepointGraph[];
+    }
+
+    interface PageviewGraph extends Graph {}
 
     const stringencies: StringencyGraph[] = Array.from(
       this.state.stringencies.entries()
     ).map(([tag, s]) => {
       return {
         id: tag,
-        stringency: s.stringency.map((d) => {
+        values: s.stringency.map((d) => {
           return {
-            date: new Date(d?.Date),
+            date: new Date(d.Date),
             value: Number(d.StringencyIndex),
             notes: d.Notes,
           };
@@ -159,15 +157,17 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
     ).map(([tag, t]) => {
       return {
         id: tag,
-        traffic: t.traffic,
+        values: t.traffic.map((t) => {
+          return { date: new Date(t.date), value: Number(t.views) };
+        }),
       };
     });
 
-    this.bounds
+    this.ui
       .select(".yLabelStringency")
       .attr("opacity", stringencies.length > 0 ? 1 : 0);
 
-    this.bounds
+    this.ui
       .select(".yLabelPageviews")
       .attr("opacity", pageviews.length > 0 ? 1 : 0)
       .attr(
@@ -181,28 +181,18 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .scaleOrdinal(d3.schemeCategory10)
       .domain([...stringencies, ...pageviews].map((s) => s.id));
 
-    // compute the total x domain (stringency and pageviews combined)
-    const xExtentStringencies = [
-      d3.min(stringencies, (s) => d3.min(s.stringency, (d) => d.date)),
-      d3.max(stringencies, (s) => d3.max(s.stringency, (d) => d.date)),
+    const combinedData = [...stringencies, ...pageviews];
+    const xExtent = [
+      d3.min(combinedData, (s) => d3.min(s.values, (d) => d.date)),
+      d3.max(combinedData, (s) => d3.max(s.values, (d) => d.date)),
     ] as [Date, Date];
-
-    const xExtentPageviews = [
-      d3.min(pageviews, (s) => d3.min(s.traffic, (d) => d.date)),
-      d3.max(pageviews, (s) => d3.max(s.traffic, (d) => d.date)),
-    ] as [Date, Date];
-
-    const xExtent = d3.extent([
-      ...xExtentStringencies,
-      ...xExtentPageviews,
-    ]) as [Date, Date];
 
     const xScale = d3
       .scaleTime()
       .range([0, width - this.margin.left - this.margin.right])
       .domain(xExtent);
 
-    this.bounds
+    this.ui
       .selectAll<SVGGElement, any>(".xAxis")
       .attr(
         "transform",
@@ -217,8 +207,8 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
 
     // compute the total y domain (stringency and pageviews separately)
     const yExtentStringency = [
-      d3.min(stringencies, (s) => d3.min(s.stringency, (d) => d.value)),
-      d3.max(stringencies, (s) => d3.max(s.stringency, (d) => d.value)),
+      d3.min(stringencies, (s) => d3.min(s.values, (d) => d.value)),
+      d3.max(stringencies, (s) => d3.max(s.values, (d) => d.value)),
     ] as [number, number];
 
     const yScaleStringency = d3
@@ -226,7 +216,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .range([this.height - this.margin.top - this.margin.bottom, 0])
       .domain(yExtentStringency);
 
-    this.bounds
+    this.ui
       .selectAll<SVGGElement, any>(".yAxisStringency")
       .transition()
       .duration(animated ? 100 : 0)
@@ -235,8 +225,8 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .style("text-anchor", "end");
 
     const yExtentPageviews = [
-      d3.min(pageviews, (s) => d3.min(s.traffic, (d) => d.views)),
-      d3.max(pageviews, (s) => d3.max(s.traffic, (d) => d.views)),
+      d3.min(pageviews, (s) => d3.min(s.values, (d) => d.value)),
+      d3.max(pageviews, (s) => d3.max(s.values, (d) => d.value)),
     ] as [number, number];
 
     const yScalePageviews = d3
@@ -244,7 +234,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .range([this.height - this.margin.top - this.margin.bottom, 0])
       .domain(yExtentPageviews);
 
-    this.bounds
+    this.ui
       .selectAll<SVGGElement, any>(".yAxisPageviews")
       .attr(
         "transform",
@@ -256,7 +246,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .selectAll("text")
       .style("text-anchor", "start");
 
-    const stringenciesProj = this.bounds
+    const stringenciesProj = this.content
       .selectAll<SVGGElement, StringencyGraph>(".stringency")
       .data(stringencies, (s) => s.id);
 
@@ -266,52 +256,72 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
       .append("g")
       .attr("class", (s) => `stringency ${s.id}`);
 
-    stringenciesProjContainer.append("path").attr("class", "line");
-    stringenciesProjContainer
-      .append("text")
-      .attr("class", (s) => `legend-${s.id}`)
-      .attr("text-anchor", "end")
-      .style("font-size", "10px")
-      .attr("fill", (d) => color(d.id))
-      .attr("x", width - this.margin.left - this.margin.right - 10)
-      .attr(
-        "y",
-        (d, i) =>
-          this.height - this.margin.top - this.margin.bottom - 35 - 15 * i
-      )
-      .text((d) => d.id);
-
-    const line = d3
-      .line<{ date: Date; value: number }>()
-      .x((d) => xScale(d.date))
-      .y((d) => yScaleStringency(d.value));
+    stringenciesProjContainer.append("path").attr("class", "stringencyLine");
 
     const lineID = (title: string) => {
       return title.toLowerCase().replaceAll(":", "-");
     };
 
-    this.bounds
-      .selectAll<SVGPathElement, StringencyGraph>(".line")
+    // render topics
+    const pageviewsProj = this.content
+      .selectAll<SVGGElement, PageviewGraph>(".pageviews")
+      .data(pageviews, (s) => s.id);
+
+    pageviewsProj.exit().remove();
+    const pageviewsProjContainer = pageviewsProj
+      .enter()
+      .append("g")
+      .attr("class", (s) => `pageviews ${s.id}`);
+
+    pageviewsProjContainer.append("path").attr("class", "pageviewLine");
+
+    // plot lines for stringencies
+    const stringencyLine = d3
+      .line<TimeSeriesDatapoint>()
+      .x((d) => xScale(d.date))
+      .y((d) => yScaleStringency(d.value));
+
+    this.content
+      .selectAll<SVGPathElement, Graph>(".stringencyLine")
       .attr("stroke-dasharray", "3, 3")
       .attr("fill", "none")
       .attr("id", (d, i) => lineID(d.id))
       .attr("stroke-width", 2)
       .attr("stroke-linecap", "round")
       .attr("d", (d, i) => {
-        return line(d.stringency);
+        return stringencyLine(d.values);
       })
       .style("stroke", (d) => color(d.id));
 
-    const changepoints = stringenciesProjContainer
-      .append("g")
-      .attr("class", "changepoints")
+    // plot lines for pageviews
+    const pageviewLine = d3
+      .line<TimeSeriesDatapoint>()
+      .x((d) => xScale(d.date))
+      .y((d) => yScalePageviews(d.value));
+
+    this.content
+      .selectAll<SVGPathElement, Graph>(".pageviewLine")
+      .attr("fill", "none")
+      .attr("id", (d, i) => lineID(d.id))
+      .attr("stroke-width", 1)
+      .attr("stroke-linecap", "round")
+      .attr("d", (d, i) => {
+        return pageviewLine(
+          d.values.sort((x, y) => {
+            return d3.ascending(x.date, y.date);
+          })
+        );
+      })
+      .style("stroke", (d) => color(d.id));
+
+    const changepoints = this.interaction
       .selectAll<SVGRectElement, ChangepointGraph>(".changepoint")
-      .data<ChangepointGraph>((d) => d.changepoints);
+      .data(stringencies.map((s) => s.changepoints).flat());
 
     changepoints.exit().remove();
     changepoints.enter().append("rect").attr("class", "changepoint");
 
-    this.bounds
+    this.interaction
       .selectAll<SVGRectElement, ChangepointGraph>(".changepoint")
       .attr("width", "5px")
       .attr("cursor", "pointer")
@@ -358,10 +368,31 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         );
       });
 
-    d3.selectAll<SVGPathElement, StringencyGraph>(".line").each((d, i) => {
+    // plot legend for both pageviews and stringencies
+    const labels = this.ui
+      .selectAll<SVGGElement, { id: string }>(".legend")
+      .data(combinedData, (s) => s.id);
+
+    labels.exit().remove();
+    labels
+      .enter()
+      .append("text")
+      .attr("class", (s) => `legend legend-${s.id}`);
+
+    this.ui
+      .selectAll<SVGTextElement, { id: string }>(".legend")
+      .attr("text-anchor", "start")
+      .style("font-size", "10px")
+      .attr("fill", (d) => color(d.id))
+      .attr("x", this.margin.left + 10)
+      .attr("y", (d, i) => this.margin.top + 5 + 15 * i)
+      .text((d) => d.id);
+
+    // animate to show pageview and stringency graphs
+    this.content.selectAll<SVGPathElement, Graph>(".line").each((d, i) => {
       var totalLength =
         d3
-          .select<SVGPathElement, StringencyGraph>("#" + lineID(d.id))
+          .select<SVGPathElement, Graph>("#" + lineID(d.id))
           ?.node()
           ?.getTotalLength() ?? width;
 
@@ -375,7 +406,8 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         .attr("stroke-dashoffset", 0);
     });
 
-    this.listeningRect
+    this.svg
+      .select(".listeningRect")
       .on("click", (event, d) => {
         // toggle hovering to be able to read about restrictions
         this.hoverEnabled = !this.hoverEnabled;
@@ -398,7 +430,7 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         const dist = (d: { date: Date }): number =>
           Math.abs((d.date?.getTime() ?? 0) - hoveredDate.getTime());
         const firstStringency: StringencyGraph = stringencies[0];
-        const stringencyWithNotes = firstStringency.stringency.filter(
+        const stringencyWithNotes = firstStringency.values.filter(
           (s) => s.notes.length > 0
         );
         const closestIndexWithNotes: number | undefined = d3.leastIndex(
@@ -427,39 +459,49 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
   addTimeline = () => {
     this.container = d3.select<HTMLDivElement, any>("#timeline-container");
     this.svg = this.container.append("svg").attr("x", 0).attr("y", 0);
+
     this.bounds = this.svg.append("g");
 
-    this.bounds.append("g").attr("class", "xAxis");
+    // static graphs
+    this.content = this.bounds.append("g");
 
-    this.bounds.append("g").attr("class", "yAxisStringency");
-    this.bounds.append("g").attr("class", "yAxisPageviews");
+    // readable ui code, legends
+    this.ui = this.bounds.append("g");
 
+    // for controlling the hover effects
     this.bounds
+      .append("rect")
+      .attr("class", "listeningRect")
+      .attr("fill", "transparent");
+
+    // changepoints must be selecable
+    this.interaction = this.bounds.append("g");
+
+    this.ui.append("g").attr("class", "xAxis");
+    this.ui.append("g").attr("class", "yAxisStringency");
+    this.ui.append("g").attr("class", "yAxisPageviews");
+
+    this.ui
       .append("text")
       .attr("class", "yLabelStringency")
       .attr("text-anchor", "end")
       .attr("transform", "translate(15,0)rotate(-90)")
       .text("stringency index");
 
-    this.bounds
+    this.ui
       .append("text")
       .attr("class", "yLabelPageviews")
       .attr("text-anchor", "end")
       .text("pageviews");
 
-    this.listeningRect = this.bounds
-      .append("rect")
-      .attr("class", "listening-rect")
-      .attr("fill", "transparent");
-
-    this.hoverLine = this.bounds
+    this.hoverLine = this.ui
       .append("g")
       .append("rect")
       .attr("class", "hoverline")
       .attr("stroke-width", "1px")
       .attr("width", ".5px");
 
-    this.hoverLabel = this.bounds.append("svg:text");
+    this.hoverLabel = this.ui.append("svg:text");
 
     this.hoverLabel
       .text("")
@@ -509,7 +551,6 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
         switch (tag.typ) {
           case TagType.CountryStringency:
             if (!(tag.title in this.state.topics)) {
-              // load the stringency
               this.loadData<CountryStringency>(tag).then((data) => {
                 this.setState((state) => {
                   state.stringencies.set(tag.title, data);
@@ -521,21 +562,24 @@ class Timeline extends React.Component<TimelineProps, TimelineState> {
             break;
           case TagType.CountryTotal:
             if (!(tag.title in this.state.topics)) {
-              // load the total traffic
               this.loadData<CountryTopicAttention>(tag).then((data) => {
                 this.setState((state) => {
                   state.topics.set(tag.title, data);
                   return state;
                 });
-                this.update();
+                this.update(true);
               });
             }
             break;
           case TagType.CountryTopicAttention:
             if (!(tag.title in this.state.topics)) {
-              // load the topic attention
-              // todo
-              this.update();
+              this.loadData<CountryTopicAttention>(tag).then((data) => {
+                this.setState((state) => {
+                  state.topics.set(tag.title, data);
+                  return state;
+                });
+                this.update(true);
+              });
             }
             break;
           default:
