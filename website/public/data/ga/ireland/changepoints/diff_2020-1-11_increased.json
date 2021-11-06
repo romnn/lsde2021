@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 436.0,
+      "topic": "History"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 293.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 144.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 123.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 103.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 91.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 89.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 86.0,
+      "topic": "England"
+    },
+    {
+      "diff": 84.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 79.0,
+      "topic": "County"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

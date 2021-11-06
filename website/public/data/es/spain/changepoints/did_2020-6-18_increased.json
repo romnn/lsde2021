@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 9204.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 9045.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 7428.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 7273.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": 6450.0,
+      "topic": "Communication software"
+    },
+    {
+      "diff": 6207.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 5719.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 5700.0,
+      "topic": "2016\u201317 in concacaf football"
+    },
+    {
+      "diff": 5638.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": 5072.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": 5015.0,
+      "topic": "Slang"
+    },
+    {
+      "diff": 4939.0,
+      "topic": "Word coinage"
+    },
+    {
+      "diff": 4284.0,
+      "topic": "Seasonality"
+    },
+    {
+      "diff": 4138.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 4043.0,
+      "topic": "Latin american people"
+    },
+    {
+      "diff": 4017.0,
+      "topic": "Public administration"
+    },
+    {
+      "diff": 3693.0,
+      "topic": "Football clubs"
+    },
+    {
+      "diff": 3639.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": 3231.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 2804.0,
+      "topic": "Former monarchies"
+    }
+  ]
+}

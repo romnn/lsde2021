@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 17445.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 17081.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 14430.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 7884.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 7589.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 7325.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 7313.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 6863.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 6415.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 5500.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": 4827.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 4671.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 4525.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4445.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": 4259.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 4238.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": 3825.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3727.0,
+      "topic": "Maternal health"
+    },
+    {
+      "diff": 3726.0,
+      "topic": "Human pregnancy"
+    },
+    {
+      "diff": 3281.0,
+      "topic": "Robots"
+    }
+  ]
+}

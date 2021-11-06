@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -19.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Mysticism"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -6.0,
+      "topic": "West dunbartonshire"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Children's health"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Euthenics"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Pilote"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Nasdaq"
+    },
+    {
+      "diff": -5.0,
+      "topic": "Stock exchanges"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Scientific exploration"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": -4.0,
+      "topic": "Statistical methods"
+    },
+    {
+      "diff": -4.0,
+      "topic": "1880s establishments"
+    },
+    {
+      "diff": -4.0,
+      "topic": "6th-century european people"
+    }
+  ]
+}

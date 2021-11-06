@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 1301.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1272.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 1240.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 1138.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 1137.0,
+      "topic": "Celtic culture"
+    },
+    {
+      "diff": 452.0,
+      "topic": "10th century"
+    },
+    {
+      "diff": 361.0,
+      "topic": "9th century"
+    },
+    {
+      "diff": 347.0,
+      "topic": "Neoplasia"
+    },
+    {
+      "diff": 312.0,
+      "topic": "History"
+    },
+    {
+      "diff": 266.0,
+      "topic": "Irish music"
+    },
+    {
+      "diff": 266.0,
+      "topic": "Celtic folklore"
+    },
+    {
+      "diff": 237.0,
+      "topic": "European kings"
+    },
+    {
+      "diff": 236.0,
+      "topic": "British isles given names"
+    },
+    {
+      "diff": 231.0,
+      "topic": "Saint kitts"
+    },
+    {
+      "diff": 231.0,
+      "topic": "West indies federation"
+    },
+    {
+      "diff": 231.0,
+      "topic": "British windward islands"
+    },
+    {
+      "diff": 220.0,
+      "topic": "Community building"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Antigua"
+    },
+    {
+      "diff": 204.0,
+      "topic": "Reptile taxa"
+    },
+    {
+      "diff": 196.0,
+      "topic": "Medieval people"
+    }
+  ]
+}

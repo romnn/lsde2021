@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 3053.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2239.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1900.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1889.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1808.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1391.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1319.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 1251.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 1226.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": 1187.0,
+      "topic": "Discipline"
+    },
+    {
+      "diff": 1169.0,
+      "topic": "Information science"
+    },
+    {
+      "diff": 1092.0,
+      "topic": "Linnaean taxonomic rank"
+    },
+    {
+      "diff": 1091.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 942.0,
+      "topic": "Paleogene life"
+    },
+    {
+      "diff": 926.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 901.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 887.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 875.0,
+      "topic": "1910s disestablishments"
+    },
+    {
+      "diff": 865.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 860.0,
+      "topic": "Centuries in georgia (country)"
+    }
+  ]
+}

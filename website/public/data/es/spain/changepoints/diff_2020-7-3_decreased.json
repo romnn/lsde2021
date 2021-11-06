@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -31293.0,
+      "topic": "History"
+    },
+    {
+      "diff": -28615.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -22040.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -18691.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -18487.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -17867.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -17865.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -17012.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -16983.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -15630.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -15594.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -15436.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -14762.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -14759.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -14560.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -14494.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -13637.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -13216.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -12217.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -10948.0,
+      "topic": "Subfields"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -38015.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -33439.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -15688.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -15667.0,
+      "topic": "State"
+    },
+    {
+      "diff": -13787.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -12384.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -11281.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -10646.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -8769.0,
+      "topic": "States"
+    },
+    {
+      "diff": -7968.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -6795.0,
+      "topic": "Second-level administrative divisions by country"
+    },
+    {
+      "diff": -6125.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -5479.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -5359.0,
+      "topic": "1st-century people"
+    },
+    {
+      "diff": -5328.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -5062.0,
+      "topic": "Literary motifs"
+    },
+    {
+      "diff": -5023.0,
+      "topic": "Wars involving italic peoples"
+    },
+    {
+      "diff": -4924.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -4795.0,
+      "topic": "East germany"
+    },
+    {
+      "diff": -4698.0,
+      "topic": "Buildings"
+    }
+  ]
+}

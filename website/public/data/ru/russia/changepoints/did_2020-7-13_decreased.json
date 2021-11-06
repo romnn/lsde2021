@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -26623.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -23613.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -22588.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -22521.0,
+      "topic": "Information"
+    },
+    {
+      "diff": -21475.0,
+      "topic": "Data transmission"
+    },
+    {
+      "diff": -8384.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -8221.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -6677.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6629.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -6428.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -6404.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6228.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6015.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -5780.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5692.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -5552.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -5128.0,
+      "topic": "Space science"
+    },
+    {
+      "diff": -5073.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": -5069.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -5048.0,
+      "topic": "Organizations"
+    }
+  ]
+}

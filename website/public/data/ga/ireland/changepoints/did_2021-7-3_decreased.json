@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -232.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -175.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -162.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -112.0,
+      "topic": "History"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -54.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -44.0,
+      "topic": "Plot (narrative)"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -30.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Length"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -25.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -24.0,
+      "topic": "England"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Service industries"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Corporations"
+    },
+    {
+      "diff": -22.0,
+      "topic": "Northeast asian countries"
+    }
+  ]
+}

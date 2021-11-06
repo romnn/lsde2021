@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1739.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 1724.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": 1716.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": 1615.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 1598.0,
+      "topic": "England"
+    },
+    {
+      "diff": 1586.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1233.0,
+      "topic": "German music"
+    },
+    {
+      "diff": 1193.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 1000.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 917.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": 510.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 431.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 399.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 381.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 372.0,
+      "topic": "Video game industry"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Organizer"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Esports competitions"
+    },
+    {
+      "diff": 353.0,
+      "topic": "Pleistocene life"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 350.0,
+      "topic": "Cenozoic tetrapods"
+    }
+  ]
+}

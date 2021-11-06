@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1391.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1331.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1293.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1292.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1262.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1239.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1135.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 958.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 838.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 802.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 493.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 410.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Esports competitions"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Organizer"
+    },
+    {
+      "diff": 403.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": 396.0,
+      "topic": "Video game industry"
+    },
+    {
+      "diff": 373.0,
+      "topic": "Past"
+    },
+    {
+      "diff": 361.0,
+      "topic": "Sport"
+    }
+  ]
+}

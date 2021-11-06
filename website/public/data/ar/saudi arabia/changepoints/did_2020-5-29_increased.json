@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 4729.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": 4692.0,
+      "topic": "Monocot genera"
+    },
+    {
+      "diff": 4690.0,
+      "topic": "Commelinids"
+    },
+    {
+      "diff": 4656.0,
+      "topic": "Habit"
+    },
+    {
+      "diff": 2736.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 2335.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 2200.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2133.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 1656.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 1614.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": 1614.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": 1594.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": 1555.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": 1531.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1503.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 1452.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 1447.0,
+      "topic": "North american culture"
+    },
+    {
+      "diff": 1371.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": 1346.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 1324.0,
+      "topic": "Regions"
+    }
+  ]
+}

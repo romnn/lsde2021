@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-28",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1228.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 884.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 876.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 809.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": 796.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 688.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 688.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 668.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": 667.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": 664.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": 640.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 593.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 593.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 529.0,
+      "topic": "Outdoor recreation"
+    },
+    {
+      "diff": 487.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 474.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 460.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 458.0,
+      "topic": "Meaning (philosophy of language)"
+    }
+  ]
+}

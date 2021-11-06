@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 610.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 594.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 568.0,
+      "topic": "History"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 484.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 483.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 477.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 382.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 352.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 348.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 347.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 342.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 342.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 329.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 322.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 321.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 318.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 305.0,
+      "topic": "Subfields"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 92739.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": 92288.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 90435.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": 65724.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 64915.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 63848.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 63805.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 63464.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 62137.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 59321.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 52407.0,
+      "topic": "Progressive rock musicians"
+    },
+    {
+      "diff": 49868.0,
+      "topic": "German people"
+    },
+    {
+      "diff": 49216.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 48395.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 47256.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 42176.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 41513.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 29925.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 27365.0,
+      "topic": "History"
+    },
+    {
+      "diff": 21725.0,
+      "topic": "Europe"
+    }
+  ]
+}

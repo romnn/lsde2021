@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -2136.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -2123.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -1973.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -1970.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -1876.0,
+      "topic": "Ancient history"
+    },
+    {
+      "diff": -1765.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -1676.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -1639.0,
+      "topic": "Northern cyprus"
+    },
+    {
+      "diff": -1569.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -1471.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1363.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -1285.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -1269.0,
+      "topic": "Levant"
+    },
+    {
+      "diff": -1206.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1191.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1153.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -1110.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1067.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -1033.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -992.0,
+      "topic": "Gender"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 20616.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 18903.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 17286.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 14460.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 12547.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 11825.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 10901.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 10662.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 10496.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 8578.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 8040.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 6581.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 5991.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 5775.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 5428.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 4500.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 4474.0,
+      "topic": "Justice"
+    },
+    {
+      "diff": 4457.0,
+      "topic": "Clinical psychology"
+    },
+    {
+      "diff": 4311.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 4084.0,
+      "topic": "Counties"
+    }
+  ]
+}

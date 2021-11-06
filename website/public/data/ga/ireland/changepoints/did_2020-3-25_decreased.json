@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -24.0,
+      "topic": "Problem solving"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Term logic"
+    },
+    {
+      "diff": -24.0,
+      "topic": "Reality"
+    },
+    {
+      "diff": -23.0,
+      "topic": "Empiricism"
+    },
+    {
+      "diff": -20.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -12.0,
+      "topic": "Fashion"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -11.0,
+      "topic": "Functional groups"
+    },
+    {
+      "diff": -11.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -10.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Interactive media"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Newspapers"
+    },
+    {
+      "diff": -9.0,
+      "topic": "Euthenics"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Fluid mechanics"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -7.0,
+      "topic": "Somerset"
+    },
+    {
+      "diff": -6.0,
+      "topic": "Regional planning"
+    }
+  ]
+}

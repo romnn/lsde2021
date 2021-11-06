@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -606.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -442.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -247.0,
+      "topic": "Natural environment based therapies"
+    },
+    {
+      "diff": -198.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -108.0,
+      "topic": "North macedonia"
+    },
+    {
+      "diff": -96.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Herzegovina descent"
+    },
+    {
+      "diff": -93.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Greek royalty"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Croatian culture"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Anti-fascism"
+    }
+  ]
+}

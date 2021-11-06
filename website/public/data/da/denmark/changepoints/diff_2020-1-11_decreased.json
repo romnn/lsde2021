@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -867.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -847.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -843.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -805.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -782.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -754.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -723.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -689.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -543.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -534.0,
+      "topic": "Imperialism"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -472.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -432.0,
+      "topic": "Discrimination"
+    }
+  ]
+}

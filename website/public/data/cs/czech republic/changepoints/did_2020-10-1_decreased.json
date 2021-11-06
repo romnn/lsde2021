@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-01",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -1784.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -1740.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1034.0,
+      "topic": "Second hundred years' war"
+    },
+    {
+      "diff": -1034.0,
+      "topic": "Andorran people"
+    },
+    {
+      "diff": -1030.0,
+      "topic": "Order"
+    },
+    {
+      "diff": -1018.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -716.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -637.0,
+      "topic": "Drinks"
+    },
+    {
+      "diff": -562.0,
+      "topic": "1930s"
+    },
+    {
+      "diff": -559.0,
+      "topic": "France"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -449.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": -441.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": -419.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": -418.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": -400.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": -391.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -379.0,
+      "topic": "Biogeographic realm"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 85197.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 83129.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 67746.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 66596.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 65215.0,
+      "topic": "Computer security exploits"
+    },
+    {
+      "diff": 62974.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 48528.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 38824.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": 36891.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 34913.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 33512.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 30988.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 29095.0,
+      "topic": "Financial management"
+    },
+    {
+      "diff": 26667.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 25615.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 24980.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 24741.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 22314.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 21662.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 20257.0,
+      "topic": "Regions"
+    }
+  ]
+}

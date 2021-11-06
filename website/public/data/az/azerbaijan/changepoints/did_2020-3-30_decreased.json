@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -2954.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": -2875.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -2831.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2670.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": -2423.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -209.0,
+      "topic": "Forest products"
+    },
+    {
+      "diff": -208.0,
+      "topic": "Manufactured goods"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -144.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Cypriot culture"
+    },
+    {
+      "diff": -102.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -89.0,
+      "topic": "British india"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Punjab"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Hindi"
+    },
+    {
+      "diff": -60.0,
+      "topic": "Religious writers"
+    },
+    {
+      "diff": -57.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -55.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": -50.0,
+      "topic": "7th-century beginnings"
+    }
+  ]
+}

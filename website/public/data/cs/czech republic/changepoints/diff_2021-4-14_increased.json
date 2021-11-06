@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 2236.0,
+      "topic": "Bilateral relations"
+    },
+    {
+      "diff": 2212.0,
+      "topic": "Military organization"
+    },
+    {
+      "diff": 2211.0,
+      "topic": "Foreign trade"
+    },
+    {
+      "diff": 2211.0,
+      "topic": "Espionage"
+    },
+    {
+      "diff": 1831.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1510.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1494.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1363.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1313.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1218.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1120.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 1111.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 1104.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1032.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1023.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1019.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 959.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 915.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 889.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 882.0,
+      "topic": "Villages"
+    }
+  ]
+}

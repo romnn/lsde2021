@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 1745.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": 1722.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": 1698.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": 1472.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1415.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1402.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 1354.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 1212.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 992.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 983.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": 908.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 754.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 699.0,
+      "topic": "Social democracy"
+    },
+    {
+      "diff": 681.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": 632.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 631.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 605.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": 601.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": 578.0,
+      "topic": "Modern greece"
+    },
+    {
+      "diff": 574.0,
+      "topic": "1990s"
+    }
+  ]
+}

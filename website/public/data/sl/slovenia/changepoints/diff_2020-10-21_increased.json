@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 750.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 665.0,
+      "topic": "History"
+    },
+    {
+      "diff": 606.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 552.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 496.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 414.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 408.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 386.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 356.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 338.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 325.0,
+      "topic": "State"
+    },
+    {
+      "diff": 324.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 307.0,
+      "topic": "French cuisine"
+    },
+    {
+      "diff": 306.0,
+      "topic": "Alcohol"
+    },
+    {
+      "diff": 298.0,
+      "topic": "Drinks"
+    },
+    {
+      "diff": 287.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Level"
+    },
+    {
+      "diff": 264.0,
+      "topic": "Switzerland"
+    }
+  ]
+}

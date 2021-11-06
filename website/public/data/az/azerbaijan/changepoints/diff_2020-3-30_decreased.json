@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -995.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": -885.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -853.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": -791.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -621.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -478.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -412.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -263.0,
+      "topic": "Manufactured goods"
+    },
+    {
+      "diff": -259.0,
+      "topic": "Forest products"
+    },
+    {
+      "diff": -167.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -135.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -126.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -86.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Religious writers"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": -66.0,
+      "topic": "Postmodern theory"
+    }
+  ]
+}

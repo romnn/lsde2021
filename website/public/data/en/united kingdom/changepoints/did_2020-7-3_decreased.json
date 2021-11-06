@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -331894.0,
+      "topic": "American civil war"
+    },
+    {
+      "diff": -312067.0,
+      "topic": "Indian actors"
+    },
+    {
+      "diff": -302238.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": -285993.0,
+      "topic": "Colonization history"
+    },
+    {
+      "diff": -263779.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -253615.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -220400.0,
+      "topic": "Fiction-writing mode"
+    },
+    {
+      "diff": -172100.0,
+      "topic": "Writers"
+    },
+    {
+      "diff": -163922.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": -157532.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -149216.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -130326.0,
+      "topic": "Hindi-language culture"
+    },
+    {
+      "diff": -129848.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -129004.0,
+      "topic": "Macos"
+    },
+    {
+      "diff": -120852.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -120144.0,
+      "topic": "Suicides"
+    },
+    {
+      "diff": -118887.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -117575.0,
+      "topic": "Controversies"
+    },
+    {
+      "diff": -117006.0,
+      "topic": "Electronic games"
+    },
+    {
+      "diff": -112200.0,
+      "topic": "African descent"
+    }
+  ]
+}

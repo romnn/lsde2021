@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 5779.0,
+      "topic": "Peru"
+    },
+    {
+      "diff": 5229.0,
+      "topic": "Pharmaceutical companies"
+    },
+    {
+      "diff": 4858.0,
+      "topic": "Natural products"
+    },
+    {
+      "diff": 4483.0,
+      "topic": "Creative works"
+    },
+    {
+      "diff": 4298.0,
+      "topic": "Argentina"
+    },
+    {
+      "diff": 4296.0,
+      "topic": "Typography"
+    },
+    {
+      "diff": 4094.0,
+      "topic": "Medical research"
+    },
+    {
+      "diff": 3663.0,
+      "topic": "Public administration"
+    },
+    {
+      "diff": 3480.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": 3298.0,
+      "topic": "Printing"
+    },
+    {
+      "diff": 3089.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 3083.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2075.0,
+      "topic": "Americas"
+    },
+    {
+      "diff": 2023.0,
+      "topic": "Abnormal psychology"
+    },
+    {
+      "diff": 1976.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 1945.0,
+      "topic": "Exercise physiology"
+    },
+    {
+      "diff": 1795.0,
+      "topic": "Reality"
+    },
+    {
+      "diff": 1684.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": 1568.0,
+      "topic": "American civil war"
+    }
+  ]
+}

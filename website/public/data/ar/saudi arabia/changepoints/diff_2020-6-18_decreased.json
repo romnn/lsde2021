@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -13268.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11250.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -9899.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7736.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -6936.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -6100.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5686.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5652.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5314.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -5090.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -5086.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4750.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4683.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4482.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4447.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4397.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -4255.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4191.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -4078.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3794.0,
+      "topic": "Asia"
+    }
+  ]
+}

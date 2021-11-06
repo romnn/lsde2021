@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -2648.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -1461.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -1405.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": -1355.0,
+      "topic": "Indian rulers"
+    },
+    {
+      "diff": -1265.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1005.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -975.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -910.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -906.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": -803.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -755.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": -754.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -718.0,
+      "topic": "Hindu mythology"
+    },
+    {
+      "diff": -716.0,
+      "topic": "Savior deities"
+    },
+    {
+      "diff": -691.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -655.0,
+      "topic": "Microscopy"
+    }
+  ]
+}

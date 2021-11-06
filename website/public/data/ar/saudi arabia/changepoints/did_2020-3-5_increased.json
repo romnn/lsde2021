@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 10817.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 10534.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 9774.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 9755.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 9725.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 5702.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 4314.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 3428.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 3231.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3228.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 3209.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 3111.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 2930.0,
+      "topic": "Environmental education"
+    },
+    {
+      "diff": 2875.0,
+      "topic": "Military"
+    },
+    {
+      "diff": 2717.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 2684.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2662.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 2629.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2610.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2518.0,
+      "topic": "Russian culture"
+    }
+  ]
+}

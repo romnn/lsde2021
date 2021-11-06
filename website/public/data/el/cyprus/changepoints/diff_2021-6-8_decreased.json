@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -2772.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2178.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -2016.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -2010.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -1814.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1738.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1568.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1353.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1308.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1260.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1253.0,
+      "topic": "Western culture"
+    },
+    {
+      "diff": -1163.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1162.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1154.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": -1138.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": -1095.0,
+      "topic": "Ethnography"
+    }
+  ]
+}

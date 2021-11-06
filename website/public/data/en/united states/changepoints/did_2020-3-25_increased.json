@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 6731924.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5442275.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 4332252.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4082158.0,
+      "topic": "People"
+    },
+    {
+      "diff": 4033391.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 3930758.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 3828278.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2480762.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2348702.0,
+      "topic": "State"
+    },
+    {
+      "diff": 1843565.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 1538407.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 1468579.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1434264.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1416257.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1377864.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1270306.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1219584.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 1072156.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1067541.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 1032173.0,
+      "topic": "Establishments"
+    }
+  ]
+}

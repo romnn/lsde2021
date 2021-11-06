@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -4997.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -4946.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": -4666.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -4506.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -4349.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -4329.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -4317.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -4122.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -2332.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -2260.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -1728.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -1659.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1590.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -1504.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1376.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1291.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -1282.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -1278.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -1245.0,
+      "topic": "Germanic words"
+    }
+  ]
+}

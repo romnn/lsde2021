@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -2681.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1409.0,
+      "topic": "Norway"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1192.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -999.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -950.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Scientific equipment"
+    },
+    {
+      "diff": -708.0,
+      "topic": "France"
+    },
+    {
+      "diff": -653.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -649.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": -649.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": -649.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": -648.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": -608.0,
+      "topic": "Ethers"
+    },
+    {
+      "diff": -594.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -589.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Health care management"
+    },
+    {
+      "diff": -577.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -527.0,
+      "topic": "Continuum mechanics"
+    }
+  ]
+}

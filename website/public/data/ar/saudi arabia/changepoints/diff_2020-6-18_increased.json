@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 2954.0,
+      "topic": "World heritage sites"
+    },
+    {
+      "diff": 2912.0,
+      "topic": "Ethiopia"
+    },
+    {
+      "diff": 2380.0,
+      "topic": "Otorhinolaryngology"
+    },
+    {
+      "diff": 2123.0,
+      "topic": "Neurology"
+    },
+    {
+      "diff": 1560.0,
+      "topic": "Drainage basins"
+    },
+    {
+      "diff": 1525.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1497.0,
+      "topic": "Sudan"
+    },
+    {
+      "diff": 1400.0,
+      "topic": "Islamic legendary creatures"
+    },
+    {
+      "diff": 1387.0,
+      "topic": "Old testament people"
+    },
+    {
+      "diff": 1332.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 1160.0,
+      "topic": "Word play"
+    },
+    {
+      "diff": 1025.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 895.0,
+      "topic": "Communication software"
+    },
+    {
+      "diff": 883.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 819.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 798.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": 787.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 786.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 765.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 730.0,
+      "topic": "Social networks"
+    }
+  ]
+}

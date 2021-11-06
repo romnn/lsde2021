@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 528286.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": 431553.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": 405886.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 393539.0,
+      "topic": "Works set at sea"
+    },
+    {
+      "diff": 365139.0,
+      "topic": "India"
+    },
+    {
+      "diff": 321161.0,
+      "topic": "Rock musicians"
+    },
+    {
+      "diff": 316206.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 315006.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 306873.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 294346.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 281676.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": 271753.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 260338.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 253453.0,
+      "topic": "Basketball people"
+    },
+    {
+      "diff": 234394.0,
+      "topic": "Formula one"
+    },
+    {
+      "diff": 231873.0,
+      "topic": "Motorsport"
+    },
+    {
+      "diff": 222053.0,
+      "topic": "Egypt"
+    },
+    {
+      "diff": 221894.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 216158.0,
+      "topic": "Educational organizations"
+    },
+    {
+      "diff": 205673.0,
+      "topic": "Arab world"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -138205.0,
+      "topic": "History"
+    },
+    {
+      "diff": -88516.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -80500.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -76384.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -65177.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -63309.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -56965.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -52735.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -51690.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -50540.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -47071.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -44617.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -44208.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -43470.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -43326.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -43319.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -42600.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -42205.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -41848.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -40172.0,
+      "topic": "Centuries"
+    }
+  ]
+}

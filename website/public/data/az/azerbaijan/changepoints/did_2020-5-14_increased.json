@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 1294.0,
+      "topic": "Drink preparation"
+    },
+    {
+      "diff": 1284.0,
+      "topic": "Grains"
+    },
+    {
+      "diff": 1280.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 1229.0,
+      "topic": "Kingdoms"
+    },
+    {
+      "diff": 1223.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": 1219.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": 1209.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": 1206.0,
+      "topic": "Empires"
+    },
+    {
+      "diff": 1177.0,
+      "topic": "India"
+    },
+    {
+      "diff": 1045.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 880.0,
+      "topic": "7th-century people"
+    },
+    {
+      "diff": 872.0,
+      "topic": "Middle eastern people"
+    },
+    {
+      "diff": 842.0,
+      "topic": "Iranian people"
+    },
+    {
+      "diff": 747.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 703.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 566.0,
+      "topic": "Planemos"
+    },
+    {
+      "diff": 560.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 540.0,
+      "topic": "Taxa"
+    },
+    {
+      "diff": 527.0,
+      "topic": "Formal description"
+    },
+    {
+      "diff": 521.0,
+      "topic": "Prehistoric life"
+    }
+  ]
+}

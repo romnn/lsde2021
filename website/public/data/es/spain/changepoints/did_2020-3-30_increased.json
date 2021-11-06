@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 54682.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 42384.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 37545.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 32252.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 27334.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 24792.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 24341.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 23750.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 23723.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 22958.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 21940.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 20756.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 20506.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 20267.0,
+      "topic": "History"
+    },
+    {
+      "diff": 19945.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": 19929.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": 19929.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": 19929.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": 19540.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 19312.0,
+      "topic": "Mashriq"
+    }
+  ]
+}

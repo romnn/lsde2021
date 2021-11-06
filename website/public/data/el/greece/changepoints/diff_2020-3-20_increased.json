@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 9209.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8804.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8657.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 8631.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 8245.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6888.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5604.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5359.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 4948.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4515.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 4451.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 4135.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 2937.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2842.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2817.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2738.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 2700.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 2586.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2505.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2492.0,
+      "topic": "Supranational unions"
+    }
+  ]
+}

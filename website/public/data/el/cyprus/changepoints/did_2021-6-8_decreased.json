@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -4384.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2485.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -2302.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2112.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1916.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -1798.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1795.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -1782.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -1673.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -1661.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -1615.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": -1567.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1439.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -1407.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": -1392.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -1390.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": -1349.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1329.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -1323.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Humanities"
+    }
+  ]
+}

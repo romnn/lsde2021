@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 117494.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 109477.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 102212.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 102207.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 93728.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 80627.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 79263.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 76792.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 71930.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 56647.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": 55151.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 47666.0,
+      "topic": "History"
+    },
+    {
+      "diff": 44252.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 42000.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 41216.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 39729.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 38549.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 38523.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 36490.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 35589.0,
+      "topic": "Territorial entities"
+    }
+  ]
+}

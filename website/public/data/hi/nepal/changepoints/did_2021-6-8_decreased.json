@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -2047.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -1330.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -1293.0,
+      "topic": "Indian rulers"
+    },
+    {
+      "diff": -1228.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": -1062.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -938.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -841.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -777.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": -769.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -746.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -715.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -711.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -681.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -675.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -668.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Hindu mythology"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Savior deities"
+    },
+    {
+      "diff": -620.0,
+      "topic": "Microscopy"
+    },
+    {
+      "diff": -616.0,
+      "topic": "God"
+    }
+  ]
+}

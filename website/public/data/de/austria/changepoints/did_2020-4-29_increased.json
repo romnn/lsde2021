@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 367754.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 362958.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": 362227.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 361313.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 361286.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 53181.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 29413.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 27617.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 25568.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": 25140.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 25025.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 24849.0,
+      "topic": "History"
+    },
+    {
+      "diff": 24234.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 23716.0,
+      "topic": "People"
+    },
+    {
+      "diff": 22643.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 22533.0,
+      "topic": "Defunct companies"
+    },
+    {
+      "diff": 22336.0,
+      "topic": "Soil tests"
+    },
+    {
+      "diff": 21610.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 20291.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 19110.0,
+      "topic": "United kingdom"
+    }
+  ]
+}

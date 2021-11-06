@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -12341.0,
+      "topic": "History"
+    },
+    {
+      "diff": -11950.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -11708.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -11358.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -10493.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -9887.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -9675.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9068.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -9045.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -8544.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -8461.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -8276.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -7745.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -7650.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -7456.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -7268.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": -7052.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -7027.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6984.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6894.0,
+      "topic": "Technology"
+    }
+  ]
+}

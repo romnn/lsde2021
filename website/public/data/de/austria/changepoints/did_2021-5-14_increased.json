@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 35061.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 31451.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 31308.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 31168.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 30486.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 30100.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 29325.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 21863.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 21700.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 20259.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 19493.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 19346.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 18651.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 18265.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 18029.0,
+      "topic": "Blogs"
+    },
+    {
+      "diff": 17925.0,
+      "topic": "Installation art"
+    },
+    {
+      "diff": 17823.0,
+      "topic": "Format"
+    },
+    {
+      "diff": 17812.0,
+      "topic": "Video"
+    },
+    {
+      "diff": 17396.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 17182.0,
+      "topic": "Publications"
+    }
+  ]
+}

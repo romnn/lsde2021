@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 2743.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 2725.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 2629.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 2130.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 1484.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 876.0,
+      "topic": "European cuisine"
+    },
+    {
+      "diff": 858.0,
+      "topic": "Ottoman culture"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 780.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": 773.0,
+      "topic": "Asian studies"
+    },
+    {
+      "diff": 460.0,
+      "topic": "Social philosophy"
+    },
+    {
+      "diff": 379.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 375.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": 206.0,
+      "topic": "African-american music"
+    },
+    {
+      "diff": 180.0,
+      "topic": "Supernatural healing"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 172.0,
+      "topic": "Ethnic or national descent"
+    },
+    {
+      "diff": 161.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 161.0,
+      "topic": "Moldovan culture"
+    },
+    {
+      "diff": 149.0,
+      "topic": "Health disasters"
+    }
+  ]
+}

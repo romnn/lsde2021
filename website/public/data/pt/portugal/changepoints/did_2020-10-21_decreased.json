@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -15776.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -10397.0,
+      "topic": "Cultural depictions"
+    },
+    {
+      "diff": -10343.0,
+      "topic": "Hybrid animals"
+    },
+    {
+      "diff": -9995.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -7610.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -7040.0,
+      "topic": "Savior deities"
+    },
+    {
+      "diff": -7030.0,
+      "topic": "God"
+    },
+    {
+      "diff": -6989.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -6733.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -6531.0,
+      "topic": "Theology"
+    },
+    {
+      "diff": -5133.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -5102.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -4069.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -3741.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -3714.0,
+      "topic": "Death"
+    },
+    {
+      "diff": -3126.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": -3123.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": -3111.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -2675.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -2459.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -42411.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -39726.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -38637.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -37887.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -36287.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -26388.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -24983.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -23641.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -22736.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -16709.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -16157.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -15297.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -11239.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -9922.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -9567.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -8332.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -7986.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -7790.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -7571.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -7443.0,
+      "topic": "Association football"
+    }
+  ]
+}

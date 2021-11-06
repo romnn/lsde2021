@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 396954.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 283988.0,
+      "topic": "Disasters"
+    },
+    {
+      "diff": 280864.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": 198726.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 175617.0,
+      "topic": "American men"
+    },
+    {
+      "diff": 132469.0,
+      "topic": "Boroughs"
+    },
+    {
+      "diff": 127929.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": 124445.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 119640.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 109280.0,
+      "topic": "History of the people's republic of china"
+    },
+    {
+      "diff": 100902.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 98137.0,
+      "topic": "China"
+    },
+    {
+      "diff": 95487.0,
+      "topic": "European-jewish culture in north america"
+    },
+    {
+      "diff": 91910.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": 91606.0,
+      "topic": "2nd millennium in georgia (country)"
+    },
+    {
+      "diff": 87450.0,
+      "topic": "Asian political people"
+    },
+    {
+      "diff": 84201.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 83866.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 76427.0,
+      "topic": "Pandemics"
+    },
+    {
+      "diff": 74973.0,
+      "topic": "Martial arts organizations"
+    }
+  ]
+}

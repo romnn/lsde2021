@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 7242.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 4501.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": 3156.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 2778.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": 2642.0,
+      "topic": "Land"
+    },
+    {
+      "diff": 1621.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 1414.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 1331.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": 1269.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 1259.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 1179.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 1173.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 1166.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 1106.0,
+      "topic": "Palestine (region)"
+    },
+    {
+      "diff": 1018.0,
+      "topic": "Second temple period"
+    },
+    {
+      "diff": 998.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 993.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 868.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 855.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": 844.0,
+      "topic": "1st century"
+    }
+  ]
+}

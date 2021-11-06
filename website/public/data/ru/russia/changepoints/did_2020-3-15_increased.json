@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 87803.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 69786.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 64722.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 61514.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 58427.0,
+      "topic": "Heterocyclic compounds"
+    },
+    {
+      "diff": 57177.0,
+      "topic": "Endocrine system"
+    },
+    {
+      "diff": 57134.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 56366.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 54685.0,
+      "topic": "Ageing"
+    },
+    {
+      "diff": 54175.0,
+      "topic": "Life extension"
+    },
+    {
+      "diff": 53875.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 52784.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 50547.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 49697.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 49556.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 47766.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 47318.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 46662.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 44463.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 42631.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

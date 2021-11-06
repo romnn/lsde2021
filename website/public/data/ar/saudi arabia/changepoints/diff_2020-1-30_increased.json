@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 5139.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4013.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 3426.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 3218.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3197.0,
+      "topic": "People"
+    },
+    {
+      "diff": 3107.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2714.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 2668.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 2455.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2367.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 2275.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2180.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 1943.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1913.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1880.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 1827.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1811.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1782.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 1778.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 1742.0,
+      "topic": "Branches"
+    }
+  ]
+}

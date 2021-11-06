@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 3926.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3900.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3873.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3108.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 3007.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2862.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2743.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 2677.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2517.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2476.0,
+      "topic": "Kingdoms (biology)"
+    },
+    {
+      "diff": 2387.0,
+      "topic": "Vertebrate zoology"
+    },
+    {
+      "diff": 2382.0,
+      "topic": "Prozostrodontia"
+    },
+    {
+      "diff": 2237.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2030.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1986.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1983.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1891.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1730.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1704.0,
+      "topic": "Design"
+    },
+    {
+      "diff": 1588.0,
+      "topic": "Political history"
+    }
+  ]
+}

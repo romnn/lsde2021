@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 875596.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 843442.0,
+      "topic": "Afghanistan"
+    },
+    {
+      "diff": 773698.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 727228.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 695197.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 639473.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 547566.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 546904.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 530147.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 506149.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 490349.0,
+      "topic": "State"
+    },
+    {
+      "diff": 472893.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 467813.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 465907.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 442699.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 408333.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 387844.0,
+      "topic": "Demographics"
+    },
+    {
+      "diff": 375620.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 363710.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 350944.0,
+      "topic": "Geography"
+    }
+  ]
+}

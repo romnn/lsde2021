@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -8075.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -7268.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": -6295.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -6146.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -5968.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -4966.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3368.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -3162.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -3149.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -3084.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -3073.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -2528.0,
+      "topic": "Esotericists"
+    },
+    {
+      "diff": -2515.0,
+      "topic": "Astrologers"
+    },
+    {
+      "diff": -2511.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -2480.0,
+      "topic": "Building engineering"
+    },
+    {
+      "diff": -2419.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": -2367.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -2322.0,
+      "topic": "Criminal homicide"
+    },
+    {
+      "diff": -2314.0,
+      "topic": "Parades"
+    },
+    {
+      "diff": -2213.0,
+      "topic": "Country subdivision"
+    }
+  ]
+}

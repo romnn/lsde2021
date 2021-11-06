@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-04",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -65005.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -50458.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -43855.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -39148.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -38568.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -32264.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -31484.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": -27610.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -27289.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -24047.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -22813.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -22597.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -21886.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -19724.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -19140.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -16931.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -15644.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -12862.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": -12413.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -11374.0,
+      "topic": "Endocrine system"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-23",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 834003.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 766299.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 401825.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 394011.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 350883.0,
+      "topic": "India"
+    },
+    {
+      "diff": 307427.0,
+      "topic": "History"
+    },
+    {
+      "diff": 300203.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 277289.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 256494.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 250031.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 238113.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 226896.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 226732.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 225127.0,
+      "topic": "Lists"
+    },
+    {
+      "diff": 223868.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 192130.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 192106.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 182273.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 179102.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 178826.0,
+      "topic": "The walt disney studios"
+    }
+  ]
+}

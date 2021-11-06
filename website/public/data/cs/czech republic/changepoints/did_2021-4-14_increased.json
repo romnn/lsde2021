@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 2213.0,
+      "topic": "Foreign trade"
+    },
+    {
+      "diff": 2208.0,
+      "topic": "Espionage"
+    },
+    {
+      "diff": 2205.0,
+      "topic": "Military organization"
+    },
+    {
+      "diff": 2197.0,
+      "topic": "Bilateral relations"
+    },
+    {
+      "diff": 1443.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": 1305.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 1018.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 933.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 909.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 891.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 883.0,
+      "topic": "Low franconian languages"
+    },
+    {
+      "diff": 878.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": 876.0,
+      "topic": "Zl\u00edn region"
+    },
+    {
+      "diff": 825.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Villages"
+    },
+    {
+      "diff": 753.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 737.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 732.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 698.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 686.0,
+      "topic": "Scandinavia"
+    }
+  ]
+}

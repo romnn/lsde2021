@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-30",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -325.0,
+      "topic": "Liverpool city region"
+    },
+    {
+      "diff": -187.0,
+      "topic": "Scotland"
+    },
+    {
+      "diff": -174.0,
+      "topic": "Memory"
+    },
+    {
+      "diff": -171.0,
+      "topic": "Tetrapod genera"
+    },
+    {
+      "diff": -150.0,
+      "topic": "British overseas territories"
+    },
+    {
+      "diff": -147.0,
+      "topic": "Council area"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Vertebrate taxonomy"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Ignorance"
+    },
+    {
+      "diff": -132.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -122.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -115.0,
+      "topic": "Reptile taxa"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Rock musicians"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Former districts"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": -63.0,
+      "topic": "British musicians"
+    },
+    {
+      "diff": -62.0,
+      "topic": "Scottish society"
+    },
+    {
+      "diff": -59.0,
+      "topic": "Crown dependencies"
+    }
+  ]
+}

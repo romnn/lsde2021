@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 11558.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 9666.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 8852.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 8228.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7834.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 6096.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5808.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 5753.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 5113.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4623.0,
+      "topic": "Wars involving greece"
+    },
+    {
+      "diff": 4481.0,
+      "topic": "Greek rebellions against the ottoman empire"
+    },
+    {
+      "diff": 4132.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 3660.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": 3527.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 3467.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 3414.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 3323.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 3103.0,
+      "topic": "19th-century religious leaders"
+    },
+    {
+      "diff": 3016.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 2901.0,
+      "topic": "Germany"
+    }
+  ]
+}

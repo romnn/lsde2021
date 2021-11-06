@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -59045.0,
+      "topic": "History"
+    },
+    {
+      "diff": -39677.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -29933.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -29253.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -29091.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -28790.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -28436.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -24800.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -24315.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -22858.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -20625.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -20573.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -19101.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -17556.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -17377.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -17154.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -16862.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -16637.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -16407.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -16161.0,
+      "topic": "Politics"
+    }
+  ]
+}

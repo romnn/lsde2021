@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 6703.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 6066.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5729.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 5694.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 5673.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 5515.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 5011.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4995.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 4146.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3760.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3589.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3404.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3137.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 2745.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2569.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 2524.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2496.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 2341.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 2333.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2238.0,
+      "topic": "Zoology"
+    }
+  ]
+}

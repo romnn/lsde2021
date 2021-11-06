@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -2676.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -2638.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -2637.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -2637.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -2637.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1551.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -1520.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -1442.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1376.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1325.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -1099.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -1062.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": -986.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -964.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -960.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": -872.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -848.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -823.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -822.0,
+      "topic": "Disorders"
+    }
+  ]
+}

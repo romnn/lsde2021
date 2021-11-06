@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 7876639.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5249972.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 5224468.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 4942899.0,
+      "topic": "People"
+    },
+    {
+      "diff": 3996786.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 3185315.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 2739347.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 2557863.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 2174523.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 2106886.0,
+      "topic": "State"
+    },
+    {
+      "diff": 1946703.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1630890.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 1614768.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1202331.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 1093470.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 1087171.0,
+      "topic": "Film"
+    },
+    {
+      "diff": 1064189.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 1064010.0,
+      "topic": "History"
+    },
+    {
+      "diff": 992605.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": 925333.0,
+      "topic": "City"
+    }
+  ]
+}

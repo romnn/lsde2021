@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 30218.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 29449.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 24634.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 23952.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 15534.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 14320.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12436.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 10814.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 10640.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 10322.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 9311.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 9042.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 9001.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 8998.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 8566.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 8454.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 7987.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 7870.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 7800.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 7786.0,
+      "topic": "Halides"
+    }
+  ]
+}

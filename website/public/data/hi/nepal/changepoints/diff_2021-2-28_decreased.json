@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -5848.0,
+      "topic": "India"
+    },
+    {
+      "diff": -5210.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -5194.0,
+      "topic": "Poets"
+    },
+    {
+      "diff": -5104.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -4635.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -3680.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -3678.0,
+      "topic": "17th-century asian people by nationality"
+    },
+    {
+      "diff": -3622.0,
+      "topic": "Indian royalty"
+    },
+    {
+      "diff": -3593.0,
+      "topic": "Caste"
+    },
+    {
+      "diff": -3450.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2429.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -1848.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1067.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Molecular genetics"
+    },
+    {
+      "diff": -972.0,
+      "topic": "Genetics"
+    },
+    {
+      "diff": -954.0,
+      "topic": "Oceans"
+    },
+    {
+      "diff": -859.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Ethology"
+    },
+    {
+      "diff": -556.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": -407.0,
+      "topic": "Subfields"
+    }
+  ]
+}

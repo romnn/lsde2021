@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 978.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 973.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 719.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 708.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 576.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": 530.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 520.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 519.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 494.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 445.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 428.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 427.0,
+      "topic": "Video game industry"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Organizer"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Esports competitions"
+    },
+    {
+      "diff": 400.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": 353.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Words"
+    }
+  ]
+}

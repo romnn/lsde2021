@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 363.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": 171.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Human pregnancy"
+    },
+    {
+      "diff": 170.0,
+      "topic": "Maternal health"
+    },
+    {
+      "diff": 151.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 94.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": 92.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 88.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 85.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 72.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 56.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 54.0,
+      "topic": "Religious writers"
+    },
+    {
+      "diff": 53.0,
+      "topic": "Environment"
+    }
+  ]
+}

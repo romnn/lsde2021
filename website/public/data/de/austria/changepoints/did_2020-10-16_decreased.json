@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -46753.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -40827.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -28467.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -24869.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -23605.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -23422.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -22882.0,
+      "topic": "Cultural heritage"
+    },
+    {
+      "diff": -21789.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -19267.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -18483.0,
+      "topic": "State"
+    },
+    {
+      "diff": -17172.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -17170.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -17017.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -15398.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -15327.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -15119.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -15001.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -14969.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -13528.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -13418.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 114606.0,
+      "topic": "History"
+    },
+    {
+      "diff": 112121.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": 111894.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": 111879.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": 111841.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 15763.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 15034.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 14796.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 14795.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 14794.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 4068.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3724.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2845.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2115.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 2108.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 1969.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1968.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1957.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1949.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1872.0,
+      "topic": "Branches"
+    }
+  ]
+}

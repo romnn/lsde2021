@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -5070.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -5015.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4847.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4802.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3656.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3597.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -3413.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3024.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2570.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2529.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -1877.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1864.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1806.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1801.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -1698.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1636.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1633.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -1499.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1426.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -1350.0,
+      "topic": "Europe"
+    }
+  ]
+}

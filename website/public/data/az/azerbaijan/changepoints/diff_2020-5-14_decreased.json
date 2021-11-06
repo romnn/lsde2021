@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -2764.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1674.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1615.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1454.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -1350.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1300.0,
+      "topic": "Armenia"
+    },
+    {
+      "diff": -1134.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1111.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -976.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -727.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -694.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -662.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -647.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -558.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -544.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -522.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

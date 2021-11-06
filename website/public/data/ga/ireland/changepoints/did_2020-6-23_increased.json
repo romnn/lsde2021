@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 52.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 26.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 24.0,
+      "topic": "History"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 23.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Wales"
+    },
+    {
+      "diff": 17.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 15.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 14.0,
+      "topic": "Indo-european culture"
+    },
+    {
+      "diff": 13.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 12.0,
+      "topic": "Dogs"
+    }
+  ]
+}

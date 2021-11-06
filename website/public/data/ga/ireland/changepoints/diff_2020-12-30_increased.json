@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-30",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 189.0,
+      "topic": "Religious organizations"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Parents"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Aeneid"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Jesus"
+    },
+    {
+      "diff": 133.0,
+      "topic": "European music"
+    },
+    {
+      "diff": 112.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Demigods"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Deuterostome taxa"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 100.0,
+      "topic": "Hebrew bible nations"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Language families"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Gangs"
+    },
+    {
+      "diff": 82.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 69.0,
+      "topic": "History"
+    },
+    {
+      "diff": 65.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 58.0,
+      "topic": "Classical mythology"
+    },
+    {
+      "diff": 55.0,
+      "topic": "Dublin (city)"
+    }
+  ]
+}

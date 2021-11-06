@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -78.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -48.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Normative ethics"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Consensus reality"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Social conventions"
+    },
+    {
+      "diff": -27.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Magic gods"
+    },
+    {
+      "diff": -26.0,
+      "topic": "Wisdom gods"
+    },
+    {
+      "diff": -21.0,
+      "topic": "Open-source movement"
+    },
+    {
+      "diff": -19.0,
+      "topic": "1920s"
+    },
+    {
+      "diff": -19.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Death gods"
+    },
+    {
+      "diff": -17.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Jovian deities"
+    },
+    {
+      "diff": -15.0,
+      "topic": "Thunder gods"
+    },
+    {
+      "diff": -14.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -13.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -12.0,
+      "topic": "International archipelagoes"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -707881.0,
+      "topic": "People"
+    },
+    {
+      "diff": -696234.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -575709.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -512118.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -476378.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -444156.0,
+      "topic": "American men"
+    },
+    {
+      "diff": -440614.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -385152.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -332440.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": -324452.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -319774.0,
+      "topic": "State"
+    },
+    {
+      "diff": -299728.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -297645.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -242537.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -236604.0,
+      "topic": "Global politics"
+    },
+    {
+      "diff": -232590.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -227208.0,
+      "topic": "Critical theory"
+    },
+    {
+      "diff": -225296.0,
+      "topic": "German people"
+    },
+    {
+      "diff": -220981.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -220981.0,
+      "topic": "Libertarian socialism"
+    }
+  ]
+}

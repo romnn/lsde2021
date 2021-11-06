@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -9879.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -9582.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9131.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -8393.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -8055.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -6384.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4138.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -3682.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": -3672.0,
+      "topic": "1990s establishments"
+    },
+    {
+      "diff": -3505.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -3458.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -3428.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": -3245.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3108.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": -2936.0,
+      "topic": "Global politics"
+    },
+    {
+      "diff": -2882.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -2763.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -2670.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2632.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -2394.0,
+      "topic": "Continent"
+    }
+  ]
+}

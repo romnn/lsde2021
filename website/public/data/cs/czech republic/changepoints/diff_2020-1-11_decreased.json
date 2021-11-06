@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -3976.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -3027.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2944.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -2897.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1815.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1497.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1284.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1242.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -1011.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -883.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -882.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": -830.0,
+      "topic": "Data management"
+    },
+    {
+      "diff": -777.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -721.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": -666.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -664.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -618.0,
+      "topic": "Habsburg monarchy"
+    }
+  ]
+}

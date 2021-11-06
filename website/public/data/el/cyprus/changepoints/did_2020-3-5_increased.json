@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 4993.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4662.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 4347.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3994.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 3924.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 3653.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 3301.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3240.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 2937.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 2927.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2830.0,
+      "topic": "History"
+    },
+    {
+      "diff": 2614.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 2583.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 2253.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 2233.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1906.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": 1904.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": 1753.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 1707.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 1693.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

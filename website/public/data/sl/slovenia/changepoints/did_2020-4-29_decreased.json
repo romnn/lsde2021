@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1604.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1604.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1604.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1604.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -1597.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1088.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -558.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -502.0,
+      "topic": "France"
+    },
+    {
+      "diff": -478.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -438.0,
+      "topic": "Psychological concepts"
+    },
+    {
+      "diff": -402.0,
+      "topic": "Arthropodology"
+    },
+    {
+      "diff": -401.0,
+      "topic": "Insect-related occupations or hobbies"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Phases"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Architectural design"
+    },
+    {
+      "diff": -331.0,
+      "topic": "Hera"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -310.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -309.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Cognitive science"
+    }
+  ]
+}

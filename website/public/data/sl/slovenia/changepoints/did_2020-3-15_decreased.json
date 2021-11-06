@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1027.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -878.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -788.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -768.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -692.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -657.0,
+      "topic": "Telescopes"
+    },
+    {
+      "diff": -653.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Star types"
+    },
+    {
+      "diff": -591.0,
+      "topic": "Astronomy"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -546.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -454.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -372.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -359.0,
+      "topic": "Algebraic curves"
+    },
+    {
+      "diff": -353.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Manifolds"
+    },
+    {
+      "diff": -278.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -273.0,
+      "topic": "Creativity techniques"
+    }
+  ]
+}

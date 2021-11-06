@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -20543.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -15813.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -14259.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -13990.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -5498.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -5129.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -4569.0,
+      "topic": "Arabic-language culture"
+    },
+    {
+      "diff": -4547.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -3975.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -3852.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -3743.0,
+      "topic": "Egyptian culture"
+    },
+    {
+      "diff": -3384.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -3363.0,
+      "topic": "2nd millennium"
+    },
+    {
+      "diff": -3289.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -3224.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3222.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -3093.0,
+      "topic": "Astrologers"
+    },
+    {
+      "diff": -3081.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -3066.0,
+      "topic": "Esotericists"
+    },
+    {
+      "diff": -2912.0,
+      "topic": "Denmark"
+    }
+  ]
+}

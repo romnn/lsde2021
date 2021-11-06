@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 17788.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 14498.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 12836.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 11319.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 10987.0,
+      "topic": "1st-century people"
+    },
+    {
+      "diff": 10455.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 10203.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 10179.0,
+      "topic": "Literary motifs"
+    },
+    {
+      "diff": 10084.0,
+      "topic": "Wars involving italic peoples"
+    },
+    {
+      "diff": 9532.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 9260.0,
+      "topic": "People"
+    },
+    {
+      "diff": 7585.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7353.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 6635.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 6575.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 6549.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6360.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": 6332.0,
+      "topic": "0s"
+    },
+    {
+      "diff": 5834.0,
+      "topic": "European people"
+    },
+    {
+      "diff": 5432.0,
+      "topic": "The walt disney studios"
+    }
+  ]
+}

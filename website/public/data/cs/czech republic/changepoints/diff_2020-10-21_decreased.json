@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -1691.0,
+      "topic": "Issue"
+    },
+    {
+      "diff": -1558.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -1531.0,
+      "topic": "Law"
+    },
+    {
+      "diff": -1433.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -1301.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1297.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1208.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -1177.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1075.0,
+      "topic": "Azerbaijan"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -1003.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -964.0,
+      "topic": "Borders"
+    },
+    {
+      "diff": -959.0,
+      "topic": "Transcaucasia"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -730.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -664.0,
+      "topic": "States"
+    },
+    {
+      "diff": -596.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -582.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Epidemiology"
+    }
+  ]
+}

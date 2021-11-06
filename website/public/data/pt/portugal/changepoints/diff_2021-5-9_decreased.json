@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -10485.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -10351.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -10336.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -10271.0,
+      "topic": "Southern united states"
+    },
+    {
+      "diff": -10239.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -9998.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -9981.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -9678.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -8386.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -6287.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3736.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -2831.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -2193.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2102.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -1776.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -1753.0,
+      "topic": "Communication"
+    },
+    {
+      "diff": -1671.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1622.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1590.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": -1326.0,
+      "topic": "South america"
+    }
+  ]
+}

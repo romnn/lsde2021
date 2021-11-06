@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -3609.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -2758.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -2256.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": -2241.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": -2234.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -1565.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1359.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1355.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1006.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -962.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -928.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -808.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -691.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -616.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -615.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -595.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -555.0,
+      "topic": "21st century"
+    }
+  ]
+}

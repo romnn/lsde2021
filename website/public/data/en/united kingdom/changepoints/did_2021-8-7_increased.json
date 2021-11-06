@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-07",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1393538.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1001555.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 969950.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 825054.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 821984.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 760688.0,
+      "topic": "Afghanistan"
+    },
+    {
+      "diff": 691512.0,
+      "topic": "State"
+    },
+    {
+      "diff": 606674.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 602817.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 540440.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 511573.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 502994.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 489651.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 480554.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 479904.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": 441769.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 429614.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 417573.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 380101.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 377585.0,
+      "topic": "Forms"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-15",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -18924.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15814.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -15666.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -12937.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -12925.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -12531.0,
+      "topic": "China"
+    },
+    {
+      "diff": -11849.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -11830.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -11472.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -11464.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -10686.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -10368.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -10290.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -10281.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -10238.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -10039.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -9437.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -9336.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -9035.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -8701.0,
+      "topic": "Marxist theory"
+    }
+  ]
+}

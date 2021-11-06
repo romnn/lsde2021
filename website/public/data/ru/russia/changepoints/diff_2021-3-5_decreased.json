@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -12456.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -12427.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -11098.0,
+      "topic": "History"
+    },
+    {
+      "diff": -10817.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -6326.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -5970.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -5817.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -5375.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -5338.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -5165.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -4956.0,
+      "topic": "Weapons"
+    },
+    {
+      "diff": -4923.0,
+      "topic": "Astronomical sub-disciplines"
+    },
+    {
+      "diff": -4474.0,
+      "topic": "Defence companies"
+    },
+    {
+      "diff": -4072.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -3959.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -3912.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -3851.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -3805.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": -3758.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -3634.0,
+      "topic": "World wide web"
+    }
+  ]
+}

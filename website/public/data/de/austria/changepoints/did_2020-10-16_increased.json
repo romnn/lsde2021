@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 34799.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 32205.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 29947.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 28598.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 20783.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 14350.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 12873.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 11301.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 10895.0,
+      "topic": "1st-century people"
+    },
+    {
+      "diff": 10811.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 10748.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 10536.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 9978.0,
+      "topic": "Wars involving italic peoples"
+    },
+    {
+      "diff": 9935.0,
+      "topic": "Literary motifs"
+    },
+    {
+      "diff": 8735.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8352.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 7932.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 7690.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 7271.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7158.0,
+      "topic": "Observances"
+    }
+  ]
+}

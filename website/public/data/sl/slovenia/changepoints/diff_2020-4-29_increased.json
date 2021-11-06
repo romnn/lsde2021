@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 422.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 396.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 395.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 351.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 340.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 322.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 313.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 297.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 250.0,
+      "topic": "Biogeographic realms"
+    },
+    {
+      "diff": 240.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 221.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": 214.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 207.0,
+      "topic": "Ecological restoration"
+    },
+    {
+      "diff": 192.0,
+      "topic": "Animals"
+    },
+    {
+      "diff": 188.0,
+      "topic": "Behavioural sciences"
+    },
+    {
+      "diff": 176.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 172.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Evolution"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Millennium"
+    }
+  ]
+}

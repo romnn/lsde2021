@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -3982.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3472.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -3343.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -2949.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -2467.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -2370.0,
+      "topic": "Wars involving greece"
+    },
+    {
+      "diff": -2339.0,
+      "topic": "Greek rebellions against the ottoman empire"
+    },
+    {
+      "diff": -1888.0,
+      "topic": "Monarchies"
+    },
+    {
+      "diff": -1751.0,
+      "topic": "19th-century religious leaders"
+    },
+    {
+      "diff": -1705.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -1688.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -1600.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -1597.0,
+      "topic": "European union"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -1504.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -1458.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -1450.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Pharmaceutical industry"
+    },
+    {
+      "diff": -1432.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -1425.0,
+      "topic": "Medicinal chemistry"
+    }
+  ]
+}

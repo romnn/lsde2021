@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 3117.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 2275.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 2003.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 1990.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1818.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 1727.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1670.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 1660.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 1588.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 1434.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1229.0,
+      "topic": "Albania"
+    },
+    {
+      "diff": 1070.0,
+      "topic": "Serbia"
+    },
+    {
+      "diff": 1036.0,
+      "topic": "Western culture"
+    },
+    {
+      "diff": 1020.0,
+      "topic": "Ethnography"
+    },
+    {
+      "diff": 773.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 746.0,
+      "topic": "State"
+    },
+    {
+      "diff": 563.0,
+      "topic": "Nbcuniversal"
+    },
+    {
+      "diff": 561.0,
+      "topic": "Regional units of peloponnese (region)"
+    },
+    {
+      "diff": 559.0,
+      "topic": "Television shows set"
+    },
+    {
+      "diff": 559.0,
+      "topic": "1990s television series"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 14156.0,
+      "topic": "History"
+    },
+    {
+      "diff": 12082.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 11873.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 11872.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 7464.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4102.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4001.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 2885.0,
+      "topic": "France"
+    },
+    {
+      "diff": 2859.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2546.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 2271.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 1945.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1944.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 1897.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1646.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 1570.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": 1502.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": 1440.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": 1118.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1072.0,
+      "topic": "Sun"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -4057.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -3527.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -3370.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -3059.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -2490.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1760.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -1759.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -1655.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -1634.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -1480.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": -1464.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1441.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -1440.0,
+      "topic": "Pharmaceutical industry"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -1019.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -956.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": -908.0,
+      "topic": "Medicine"
+    }
+  ]
+}

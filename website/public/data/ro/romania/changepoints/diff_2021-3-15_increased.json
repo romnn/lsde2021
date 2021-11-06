@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 4094.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3431.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 3057.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2839.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 2709.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2679.0,
+      "topic": "Angels"
+    },
+    {
+      "diff": 2677.0,
+      "topic": "1st-century christianity"
+    },
+    {
+      "diff": 2670.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 2622.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 2323.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2193.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2181.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2055.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": 1972.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 1818.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1702.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1626.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1576.0,
+      "topic": "Zoologists"
+    },
+    {
+      "diff": 1507.0,
+      "topic": "Thermodynamics"
+    },
+    {
+      "diff": 1503.0,
+      "topic": "Entertainment"
+    }
+  ]
+}

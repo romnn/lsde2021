@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-29",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -4334.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -3696.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -3581.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -2993.0,
+      "topic": "Female legendary creatures"
+    },
+    {
+      "diff": -2585.0,
+      "topic": "Monotheism"
+    },
+    {
+      "diff": -2288.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1990.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -1882.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -1763.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -1616.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1556.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Intentional living"
+    },
+    {
+      "diff": -1491.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -1485.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1436.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1420.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1394.0,
+      "topic": "Chemical engineering"
+    },
+    {
+      "diff": -1369.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -1311.0,
+      "topic": "Physiology"
+    },
+    {
+      "diff": -1253.0,
+      "topic": "Information management"
+    }
+  ]
+}

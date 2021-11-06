@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 635531.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 409884.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 365009.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 334572.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 289209.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 270697.0,
+      "topic": "International association football competitions"
+    },
+    {
+      "diff": 230627.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 227933.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": 221816.0,
+      "topic": "Host"
+    },
+    {
+      "diff": 215700.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": 191620.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 183709.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": 174821.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 173741.0,
+      "topic": "Tennis people"
+    },
+    {
+      "diff": 156163.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": 155217.0,
+      "topic": "France"
+    },
+    {
+      "diff": 150586.0,
+      "topic": "Month"
+    },
+    {
+      "diff": 139208.0,
+      "topic": "Confederation"
+    },
+    {
+      "diff": 125499.0,
+      "topic": "1980s works"
+    },
+    {
+      "diff": 125454.0,
+      "topic": "Medalists at multi-sport events"
+    }
+  ]
+}

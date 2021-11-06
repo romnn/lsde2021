@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-07",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 264.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": 202.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 172.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": 161.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 150.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 146.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": 136.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 134.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 132.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 104.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Sexuality and gender-related prejudices"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 83.0,
+      "topic": "Perception"
+    },
+    {
+      "diff": 81.0,
+      "topic": "Mythological powers"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Soups"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Dining"
+    },
+    {
+      "diff": 80.0,
+      "topic": "Political ideologies"
+    }
+  ]
+}

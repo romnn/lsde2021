@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 5153.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3582.0,
+      "topic": "International criminal law"
+    },
+    {
+      "diff": 3581.0,
+      "topic": "Penal imprisonment"
+    },
+    {
+      "diff": 3211.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 3152.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 3033.0,
+      "topic": "Mind"
+    },
+    {
+      "diff": 2856.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 2505.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2470.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 2224.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 2025.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 1922.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": 1895.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1889.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 1844.0,
+      "topic": "Year"
+    },
+    {
+      "diff": 1730.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 1561.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": 1548.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1532.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 1451.0,
+      "topic": "German music"
+    }
+  ]
+}

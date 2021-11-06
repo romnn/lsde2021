@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 3881492.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2905796.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 2804459.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 2330313.0,
+      "topic": "People"
+    },
+    {
+      "diff": 2084222.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 1487798.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1251752.0,
+      "topic": "State"
+    },
+    {
+      "diff": 1227902.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1199513.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 1074749.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1006254.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 827178.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 802354.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 704909.0,
+      "topic": "History"
+    },
+    {
+      "diff": 674867.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 606596.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 568504.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 561941.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 525551.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 494872.0,
+      "topic": "British diaspora"
+    }
+  ]
+}

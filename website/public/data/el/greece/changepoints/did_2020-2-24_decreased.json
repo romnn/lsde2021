@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -2617.0,
+      "topic": "History"
+    },
+    {
+      "diff": -2157.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1918.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1689.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1422.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1401.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1382.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1302.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -1299.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1223.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1214.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -1193.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1138.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1125.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -1117.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1114.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1087.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1047.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1045.0,
+      "topic": "Occupation"
+    }
+  ]
+}

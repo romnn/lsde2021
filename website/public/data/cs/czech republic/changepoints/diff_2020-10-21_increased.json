@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 4338.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3947.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3866.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 3204.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 2953.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 2621.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2454.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 2287.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 2240.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 2239.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2052.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1749.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 1703.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 1448.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1326.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1247.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1230.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1091.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 755.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Populated places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 1604.0,
+      "topic": "European cuisine"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "Ottoman culture"
+    },
+    {
+      "diff": 1564.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 1540.0,
+      "topic": "Asian studies"
+    },
+    {
+      "diff": 1510.0,
+      "topic": "Supernatural healing"
+    },
+    {
+      "diff": 1454.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": 1381.0,
+      "topic": "Ceremonies"
+    },
+    {
+      "diff": 1375.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 1374.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 1139.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 547.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 461.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 426.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 418.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 400.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 280.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": 279.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": 278.0,
+      "topic": "Medieval people"
+    },
+    {
+      "diff": 274.0,
+      "topic": "Fatimid caliphate"
+    }
+  ]
+}

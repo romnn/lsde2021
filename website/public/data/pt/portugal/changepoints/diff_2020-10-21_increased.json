@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 18538.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 18297.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 18162.0,
+      "topic": "Alcoholic drinks"
+    },
+    {
+      "diff": 17718.0,
+      "topic": "Brewing"
+    },
+    {
+      "diff": 13494.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12953.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 12574.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 10716.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 10355.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 9933.0,
+      "topic": "History"
+    },
+    {
+      "diff": 9542.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 9270.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 8852.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 8403.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 8186.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 7806.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 6468.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 6038.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5744.0,
+      "topic": "People"
+    },
+    {
+      "diff": 5330.0,
+      "topic": "Portugal"
+    }
+  ]
+}

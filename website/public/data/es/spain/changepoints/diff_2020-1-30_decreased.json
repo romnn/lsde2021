@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -77445.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -77379.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -77368.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -77348.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -76789.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -12906.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9681.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -8808.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -6562.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -6149.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5723.0,
+      "topic": "France"
+    },
+    {
+      "diff": -5704.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -5507.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -4020.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": -3975.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -3806.0,
+      "topic": "Province"
+    },
+    {
+      "diff": -3792.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": -3726.0,
+      "topic": "Mexican society"
+    },
+    {
+      "diff": -3477.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -3024.0,
+      "topic": "Spanish television shows"
+    }
+  ]
+}

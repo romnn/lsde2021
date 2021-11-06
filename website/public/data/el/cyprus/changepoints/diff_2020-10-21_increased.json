@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 1709.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 1697.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 1664.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 1215.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 1147.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 950.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 834.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 750.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Ancient greek cities"
+    },
+    {
+      "diff": 644.0,
+      "topic": "Classical anatolia"
+    },
+    {
+      "diff": 615.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 596.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 520.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Port cities"
+    },
+    {
+      "diff": 472.0,
+      "topic": "Towns"
+    },
+    {
+      "diff": 472.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 470.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 457.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 453.0,
+      "topic": "Security"
+    }
+  ]
+}

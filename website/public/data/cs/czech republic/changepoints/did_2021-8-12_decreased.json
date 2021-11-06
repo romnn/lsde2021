@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -3391.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -2360.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2067.0,
+      "topic": "Personal life"
+    },
+    {
+      "diff": -1985.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1380.0,
+      "topic": "Biological classification"
+    },
+    {
+      "diff": -1338.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -1321.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1312.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1210.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -1201.0,
+      "topic": "International relations theory"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -1093.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1059.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -1050.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -1016.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": -1012.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -957.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -875.0,
+      "topic": "Sport"
+    }
+  ]
+}

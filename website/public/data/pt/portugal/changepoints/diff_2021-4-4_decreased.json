@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -6363.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -6075.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -6075.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -6067.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -6063.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -5670.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -4613.0,
+      "topic": "Old testament places"
+    },
+    {
+      "diff": -3803.0,
+      "topic": "Mind"
+    },
+    {
+      "diff": -3681.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -3615.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -3389.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -3279.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -3278.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -3168.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3038.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": -3022.0,
+      "topic": "Stock characters"
+    },
+    {
+      "diff": -3021.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -2975.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": -2821.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -2748.0,
+      "topic": "Multimedia"
+    }
+  ]
+}

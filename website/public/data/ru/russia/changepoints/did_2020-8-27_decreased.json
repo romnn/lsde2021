@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -17268.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -16124.0,
+      "topic": "Product introductions"
+    },
+    {
+      "diff": -15592.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -14301.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -12603.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -12519.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -10851.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7835.0,
+      "topic": "Highest things"
+    },
+    {
+      "diff": -7416.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -7181.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -7017.0,
+      "topic": "Enzymes"
+    },
+    {
+      "diff": -6664.0,
+      "topic": "One-dimensional coordinate systems"
+    },
+    {
+      "diff": -6664.0,
+      "topic": "Mountain names"
+    },
+    {
+      "diff": -6520.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -6305.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6111.0,
+      "topic": "Topography"
+    },
+    {
+      "diff": -5611.0,
+      "topic": "Function"
+    },
+    {
+      "diff": -5599.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": -5549.0,
+      "topic": "Soviet union"
+    },
+    {
+      "diff": -5091.0,
+      "topic": "Human behavior"
+    }
+  ]
+}

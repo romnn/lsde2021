@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-18",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 67.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": 62.0,
+      "topic": "Asian cuisine"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Top-level stub categories"
+    },
+    {
+      "diff": 50.0,
+      "topic": "Dress codes"
+    },
+    {
+      "diff": 49.0,
+      "topic": "Causality"
+    },
+    {
+      "diff": 49.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": 45.0,
+      "topic": "8th century"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Function"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Symbols"
+    },
+    {
+      "diff": 43.0,
+      "topic": "French language"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Late antique writers"
+    },
+    {
+      "diff": 36.0,
+      "topic": "Medical aspects"
+    },
+    {
+      "diff": 35.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 32.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Clothing"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Agricultural science"
+    },
+    {
+      "diff": 27.0,
+      "topic": "Internet standards"
+    },
+    {
+      "diff": 26.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 24.0,
+      "topic": "Territorial disputes"
+    }
+  ]
+}

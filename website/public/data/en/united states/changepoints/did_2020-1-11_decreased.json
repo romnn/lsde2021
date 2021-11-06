@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1884373.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1239495.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -1069546.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -925512.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -918290.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -874904.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -758650.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -749712.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -646930.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -640627.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -579932.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -544534.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -531338.0,
+      "topic": "State"
+    },
+    {
+      "diff": -399645.0,
+      "topic": "England"
+    },
+    {
+      "diff": -397782.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -387683.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -383552.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -373679.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -356814.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": -324557.0,
+      "topic": "Fiction"
+    }
+  ]
+}

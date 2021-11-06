@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -14463.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -14434.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -12053.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -11676.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -11034.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -10736.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -10677.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -10118.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -9985.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -9477.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -9300.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -7318.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -7036.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": -6961.0,
+      "topic": "Goods (economics)"
+    },
+    {
+      "diff": -6738.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -6733.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -6539.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -6445.0,
+      "topic": "Chemical compounds"
+    },
+    {
+      "diff": -6426.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -6195.0,
+      "topic": "Business"
+    }
+  ]
+}

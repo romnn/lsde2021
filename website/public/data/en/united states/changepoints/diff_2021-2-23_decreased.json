@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-23",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1017699.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -516569.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -430811.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -394108.0,
+      "topic": "People"
+    },
+    {
+      "diff": -390764.0,
+      "topic": "State"
+    },
+    {
+      "diff": -345514.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": -296967.0,
+      "topic": "California"
+    },
+    {
+      "diff": -295899.0,
+      "topic": "American football teams"
+    },
+    {
+      "diff": -246809.0,
+      "topic": "National football league competitions"
+    },
+    {
+      "diff": -211174.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -204620.0,
+      "topic": "National football league people"
+    },
+    {
+      "diff": -201076.0,
+      "topic": "Swedish people"
+    },
+    {
+      "diff": -194048.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": -192774.0,
+      "topic": "German people"
+    },
+    {
+      "diff": -190287.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -184780.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -175661.0,
+      "topic": "Tennis people"
+    },
+    {
+      "diff": -167405.0,
+      "topic": "American football people"
+    },
+    {
+      "diff": -154502.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": -152430.0,
+      "topic": "Advertising"
+    }
+  ]
+}

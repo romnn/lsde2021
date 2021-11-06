@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 23425.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 19989.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 19769.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 6229.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 6174.0,
+      "topic": "Hell"
+    },
+    {
+      "diff": 5904.0,
+      "topic": "Political entities"
+    },
+    {
+      "diff": 5839.0,
+      "topic": "Jewish mythology"
+    },
+    {
+      "diff": 5621.0,
+      "topic": "Canaan"
+    },
+    {
+      "diff": 4921.0,
+      "topic": "Sports governing bodies"
+    },
+    {
+      "diff": 4620.0,
+      "topic": "Latin american people"
+    },
+    {
+      "diff": 4391.0,
+      "topic": "Seasonality"
+    },
+    {
+      "diff": 4229.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 3886.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 3793.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 3624.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": 3325.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 2959.0,
+      "topic": "Netherlands antilles"
+    },
+    {
+      "diff": 2844.0,
+      "topic": "Country subdivision"
+    },
+    {
+      "diff": 2757.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": 2751.0,
+      "topic": "Expatriates"
+    }
+  ]
+}

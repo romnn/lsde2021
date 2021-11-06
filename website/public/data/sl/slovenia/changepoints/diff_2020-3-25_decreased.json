@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1273.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1060.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -1037.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1025.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -931.0,
+      "topic": "Biostatistics"
+    },
+    {
+      "diff": -863.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -700.0,
+      "topic": "Communication design"
+    },
+    {
+      "diff": -693.0,
+      "topic": "Interior design"
+    },
+    {
+      "diff": -676.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -468.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -409.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -407.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": -391.0,
+      "topic": "Security"
+    },
+    {
+      "diff": -381.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": -298.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": -289.0,
+      "topic": "Medicinal chemistry"
+    }
+  ]
+}

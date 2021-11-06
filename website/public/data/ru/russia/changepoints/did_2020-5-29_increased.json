@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 26675.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 19916.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 16408.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 15895.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 13112.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 12842.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 11863.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 11555.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 10946.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 10086.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": 10031.0,
+      "topic": "Soviet states"
+    },
+    {
+      "diff": 7405.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 5321.0,
+      "topic": "City"
+    },
+    {
+      "diff": 4830.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 4741.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 3720.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 2679.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 2312.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": 2312.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 2300.0,
+      "topic": "Performance art"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -2600.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2462.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -1364.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -963.0,
+      "topic": "Thrace"
+    },
+    {
+      "diff": -958.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -945.0,
+      "topic": "Eastern macedonia"
+    },
+    {
+      "diff": -918.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -792.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -770.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -768.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": -730.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -725.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -706.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -694.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -659.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -646.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -639.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -614.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -613.0,
+      "topic": "Ancient greeks"
+    }
+  ]
+}

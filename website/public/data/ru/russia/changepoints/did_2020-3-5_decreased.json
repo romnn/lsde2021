@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -32216.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -29567.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -25496.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -16387.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -15877.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -15632.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -15629.0,
+      "topic": "Lent"
+    },
+    {
+      "diff": -15492.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -14737.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -14721.0,
+      "topic": "European musicians"
+    },
+    {
+      "diff": -14403.0,
+      "topic": "Music competition participants"
+    },
+    {
+      "diff": -14006.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -13993.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -13195.0,
+      "topic": "Ukrainian musicians"
+    },
+    {
+      "diff": -12627.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -12564.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -12014.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -11475.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -11366.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -11054.0,
+      "topic": "Science"
+    }
+  ]
+}

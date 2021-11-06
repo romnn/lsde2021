@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -74551.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -59704.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -56399.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -47148.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -28805.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -27569.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -27394.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -27019.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -26620.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -23115.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": -20354.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -17544.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -16494.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -15407.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -14382.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -13844.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -9738.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -8675.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": -8333.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -7531.0,
+      "topic": "Prevention"
+    }
+  ]
+}

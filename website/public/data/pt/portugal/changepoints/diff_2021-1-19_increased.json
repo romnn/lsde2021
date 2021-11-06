@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 25299.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 25293.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 18968.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": 18915.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": 18730.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 18620.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": 18509.0,
+      "topic": "Lifestyle"
+    },
+    {
+      "diff": 12732.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 11719.0,
+      "topic": "Families"
+    },
+    {
+      "diff": 11590.0,
+      "topic": "Mythological people"
+    },
+    {
+      "diff": 11177.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 10702.0,
+      "topic": "Christian saints"
+    },
+    {
+      "diff": 9827.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 9332.0,
+      "topic": "Old testament people"
+    },
+    {
+      "diff": 8834.0,
+      "topic": "Legends"
+    },
+    {
+      "diff": 8777.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 8725.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 8158.0,
+      "topic": "Couples"
+    },
+    {
+      "diff": 7318.0,
+      "topic": "Murder"
+    },
+    {
+      "diff": 7284.0,
+      "topic": "Television soap operas"
+    }
+  ]
+}

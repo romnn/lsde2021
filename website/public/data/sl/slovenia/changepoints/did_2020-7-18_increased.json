@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1726.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 1700.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 782.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 709.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 650.0,
+      "topic": "History"
+    },
+    {
+      "diff": 595.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 481.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 454.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 449.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 442.0,
+      "topic": "Electronics companies"
+    },
+    {
+      "diff": 425.0,
+      "topic": "Wiki software"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 390.0,
+      "topic": "Online companies"
+    },
+    {
+      "diff": 380.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 368.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 354.0,
+      "topic": "E-commerce websites"
+    },
+    {
+      "diff": 352.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 347.0,
+      "topic": "2000s introductions"
+    },
+    {
+      "diff": 345.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 333.0,
+      "topic": "Water"
+    }
+  ]
+}

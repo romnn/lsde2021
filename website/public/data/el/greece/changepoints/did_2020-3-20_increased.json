@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 11808.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 11434.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 9870.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 9187.0,
+      "topic": "History"
+    },
+    {
+      "diff": 9096.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 8094.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7793.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 6635.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 6391.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5993.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 5426.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 4283.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 4168.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 3914.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 3811.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 3800.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3663.0,
+      "topic": "Wars involving greece"
+    },
+    {
+      "diff": 3522.0,
+      "topic": "Greek rebellions against the ottoman empire"
+    },
+    {
+      "diff": 3508.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3252.0,
+      "topic": "Germany"
+    }
+  ]
+}

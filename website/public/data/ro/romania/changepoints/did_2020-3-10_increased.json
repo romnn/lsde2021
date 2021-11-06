@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 8755.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 8194.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 7470.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 7024.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5899.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5568.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 5387.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 5190.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 5149.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 5087.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5081.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4613.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 4403.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4206.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 4039.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 3637.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 3453.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3305.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 2882.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 2805.0,
+      "topic": "Disorders"
+    }
+  ]
+}

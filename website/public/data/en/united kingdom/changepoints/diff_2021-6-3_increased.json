@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 780594.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 447487.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 435052.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 431923.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 383526.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 346845.0,
+      "topic": "International association football competitions"
+    },
+    {
+      "diff": 336056.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 305095.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 300439.0,
+      "topic": "Host"
+    },
+    {
+      "diff": 292108.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 275830.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 251563.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 217698.0,
+      "topic": "Republics"
+    },
+    {
+      "diff": 216180.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": 194454.0,
+      "topic": "Confederation"
+    },
+    {
+      "diff": 174627.0,
+      "topic": "Month"
+    },
+    {
+      "diff": 174447.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 168172.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": 166912.0,
+      "topic": "Italian people"
+    },
+    {
+      "diff": 149519.0,
+      "topic": "Tennis people"
+    }
+  ]
+}

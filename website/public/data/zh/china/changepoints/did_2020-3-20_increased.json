@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 23940.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 18398.0,
+      "topic": "Northeast asian countries"
+    },
+    {
+      "diff": 18094.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 14514.0,
+      "topic": "2010s"
+    },
+    {
+      "diff": 9771.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 9142.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 8919.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 8182.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 7816.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 7704.0,
+      "topic": "People"
+    },
+    {
+      "diff": 7691.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 7281.0,
+      "topic": "China"
+    },
+    {
+      "diff": 6274.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 6085.0,
+      "topic": "Veterinary medicine"
+    },
+    {
+      "diff": 6069.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": 5654.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 5405.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 5218.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": 4848.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 4828.0,
+      "topic": "South korean musicians"
+    }
+  ]
+}

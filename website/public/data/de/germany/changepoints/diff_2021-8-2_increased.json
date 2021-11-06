@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 65355.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": 65019.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 63234.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": 62916.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 62686.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 62057.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": 59566.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 49440.0,
+      "topic": "Government"
+    },
+    {
+      "diff": 48653.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": 47607.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": 29756.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 15811.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13968.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 11944.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 11134.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 10830.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 10012.0,
+      "topic": "Cities"
+    },
+    {
+      "diff": 9656.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": 9566.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": 9061.0,
+      "topic": "Events"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1936.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1903.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1866.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1622.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1591.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1566.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1546.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1546.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1542.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1384.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1316.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1269.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 1178.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 1137.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 1125.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1114.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1103.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 998.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 947.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 922.0,
+      "topic": "Molecules"
+    }
+  ]
+}

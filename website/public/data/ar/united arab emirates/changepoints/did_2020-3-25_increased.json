@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 27488.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 23769.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 20436.0,
+      "topic": "History"
+    },
+    {
+      "diff": 18105.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 17123.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 16409.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 15177.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 13987.0,
+      "topic": "Doctrine"
+    },
+    {
+      "diff": 13808.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 12171.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 12051.0,
+      "topic": "Islamic belief"
+    },
+    {
+      "diff": 11620.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 11280.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 10725.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 10300.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 9360.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 9100.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 8810.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 7998.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 7976.0,
+      "topic": "Language"
+    }
+  ]
+}

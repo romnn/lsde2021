@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -53486.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -36969.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -35967.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -35746.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -35623.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -24093.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -19740.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -18352.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -16896.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -15588.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -15324.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -14196.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -14056.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -13990.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -8922.0,
+      "topic": "History"
+    },
+    {
+      "diff": -7489.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -7178.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -5506.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3799.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -3569.0,
+      "topic": "Western asia"
+    }
+  ]
+}

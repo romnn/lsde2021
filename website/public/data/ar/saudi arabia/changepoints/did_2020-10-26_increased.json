@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 17200.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 16078.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 15634.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 15565.0,
+      "topic": "Arab culture"
+    },
+    {
+      "diff": 15259.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 15256.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 15046.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 15017.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 14879.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 14867.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 10583.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 10109.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": 9787.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 9575.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 8066.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 6561.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 5856.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 5043.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 3906.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 3202.0,
+      "topic": "Industry"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1807707.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -925199.0,
+      "topic": "State"
+    },
+    {
+      "diff": -922544.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -830740.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -604997.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": -523408.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -465631.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -451990.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": -400198.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -348166.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -344863.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -341442.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -335626.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -296591.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -293052.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -282021.0,
+      "topic": "Rock musicians"
+    },
+    {
+      "diff": -262618.0,
+      "topic": "Basketball people"
+    },
+    {
+      "diff": -259117.0,
+      "topic": "Burials"
+    },
+    {
+      "diff": -253896.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -237491.0,
+      "topic": "India"
+    }
+  ]
+}

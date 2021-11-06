@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 2107.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 2106.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 2105.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 2105.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 2058.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 1003.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 798.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 765.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 737.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": 712.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 701.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 643.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 604.0,
+      "topic": "Mass media regulation"
+    },
+    {
+      "diff": 481.0,
+      "topic": "2010s fads"
+    },
+    {
+      "diff": 480.0,
+      "topic": "Alternative rock"
+    },
+    {
+      "diff": 478.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 471.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 423.0,
+      "topic": "Trends"
+    },
+    {
+      "diff": 406.0,
+      "topic": "Animal sexuality"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 43711.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 39518.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 39196.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 37291.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 36557.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 36403.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 34780.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 32714.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 32080.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 31790.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 30102.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 29591.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 26722.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 25269.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 23944.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": 23878.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 22774.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 22283.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": 21665.0,
+      "topic": "Data transmission"
+    },
+    {
+      "diff": 21060.0,
+      "topic": "Populated places"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -1464.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -1385.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1130.0,
+      "topic": "Emergency organizations"
+    },
+    {
+      "diff": -1060.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": -1035.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -1033.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -949.0,
+      "topic": "International organizations"
+    },
+    {
+      "diff": -944.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -921.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -917.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -853.0,
+      "topic": "Military forces"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -834.0,
+      "topic": "Bulgaria"
+    },
+    {
+      "diff": -757.0,
+      "topic": "Thrace"
+    },
+    {
+      "diff": -744.0,
+      "topic": "Eastern macedonia"
+    },
+    {
+      "diff": -698.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": -698.0,
+      "topic": "Palestine (region)"
+    },
+    {
+      "diff": -632.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -590.0,
+      "topic": "Leisure"
+    }
+  ]
+}

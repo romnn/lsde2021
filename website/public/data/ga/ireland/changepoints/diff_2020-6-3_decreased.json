@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -148.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -126.0,
+      "topic": "History"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -45.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -35.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -32.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -31.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -29.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Zoology"
+    }
+  ]
+}

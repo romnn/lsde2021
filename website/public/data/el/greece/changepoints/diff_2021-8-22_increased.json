@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 15674.0,
+      "topic": "State"
+    },
+    {
+      "diff": 15613.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 15609.0,
+      "topic": "American singers"
+    },
+    {
+      "diff": 15609.0,
+      "topic": "Entertainers from new york city"
+    },
+    {
+      "diff": 1245.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1142.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1031.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 911.0,
+      "topic": "People"
+    },
+    {
+      "diff": 760.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 695.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 676.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 636.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 526.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 522.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 519.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 516.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 510.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 497.0,
+      "topic": "Social sciences"
+    }
+  ]
+}

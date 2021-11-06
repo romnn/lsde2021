@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-18",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -154.0,
+      "topic": "Natural environment based therapies"
+    },
+    {
+      "diff": -137.0,
+      "topic": "Self-care"
+    },
+    {
+      "diff": -92.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -82.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -75.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -72.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -69.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -65.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": -63.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -61.0,
+      "topic": "Economic liberalism"
+    },
+    {
+      "diff": -53.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -51.0,
+      "topic": "Slovenian society"
+    },
+    {
+      "diff": -46.0,
+      "topic": "Cultural assimilation"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -40.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": -38.0,
+      "topic": "Century"
+    }
+  ]
+}

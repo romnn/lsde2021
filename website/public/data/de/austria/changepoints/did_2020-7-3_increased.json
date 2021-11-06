@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 44077.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 43986.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 23408.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 21883.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 18193.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 17615.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 14246.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 13747.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 13105.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 12627.0,
+      "topic": "France"
+    },
+    {
+      "diff": 12608.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 12527.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 12058.0,
+      "topic": "State"
+    },
+    {
+      "diff": 11876.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 11790.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 11468.0,
+      "topic": "History"
+    },
+    {
+      "diff": 11284.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": 10285.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 10030.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": 9443.0,
+      "topic": "Establishments"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -871.0,
+      "topic": "Sweden"
+    },
+    {
+      "diff": -780.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -656.0,
+      "topic": "German music"
+    },
+    {
+      "diff": -651.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": -638.0,
+      "topic": "Dance music"
+    },
+    {
+      "diff": -615.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -612.0,
+      "topic": "Cuisine"
+    },
+    {
+      "diff": -598.0,
+      "topic": "Arctic cuisine"
+    },
+    {
+      "diff": -562.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -515.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -488.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -435.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -360.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -348.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -309.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Housing"
+    },
+    {
+      "diff": -273.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -268.0,
+      "topic": "Caribbean cuisine"
+    }
+  ]
+}

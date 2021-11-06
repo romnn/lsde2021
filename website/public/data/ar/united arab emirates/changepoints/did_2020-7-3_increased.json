@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 9061.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 7550.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 6786.0,
+      "topic": "Place"
+    },
+    {
+      "diff": 4303.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2878.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 2869.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 2744.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 2528.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": 2282.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1876.0,
+      "topic": "Former territorial entities"
+    },
+    {
+      "diff": 1741.0,
+      "topic": "1700s establishments"
+    },
+    {
+      "diff": 1721.0,
+      "topic": "Cenozoic first appearances"
+    },
+    {
+      "diff": 1693.0,
+      "topic": "Great britain"
+    },
+    {
+      "diff": 1685.0,
+      "topic": "England"
+    },
+    {
+      "diff": 1652.0,
+      "topic": "Neogene fossil record"
+    },
+    {
+      "diff": 1573.0,
+      "topic": "Biology terminology"
+    },
+    {
+      "diff": 1551.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1549.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 1185.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 1087.0,
+      "topic": "Azerbaijani culture"
+    }
+  ]
+}

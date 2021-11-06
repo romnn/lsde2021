@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 11224.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 10457.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 9548.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 9414.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": 9184.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": 8219.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 8180.0,
+      "topic": "Names"
+    },
+    {
+      "diff": 8090.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 8082.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": 6655.0,
+      "topic": "Germanic words"
+    },
+    {
+      "diff": 6625.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 6365.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": 5795.0,
+      "topic": "Arts"
+    },
+    {
+      "diff": 5391.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": 5268.0,
+      "topic": "American art"
+    },
+    {
+      "diff": 5265.0,
+      "topic": "1920s architecture"
+    },
+    {
+      "diff": 4788.0,
+      "topic": "Censorship"
+    },
+    {
+      "diff": 4633.0,
+      "topic": "Surveillance"
+    },
+    {
+      "diff": 4469.0,
+      "topic": "Television"
+    },
+    {
+      "diff": 4460.0,
+      "topic": "Phrases"
+    }
+  ]
+}

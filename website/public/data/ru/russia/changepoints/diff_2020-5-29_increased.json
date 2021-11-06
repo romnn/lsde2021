@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 10267.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 10045.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 9744.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 6908.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 5233.0,
+      "topic": "Aviation organizations"
+    },
+    {
+      "diff": 5203.0,
+      "topic": "Megapolitan areas"
+    },
+    {
+      "diff": 4739.0,
+      "topic": "Vehicle manufacturing companies"
+    },
+    {
+      "diff": 2760.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 2407.0,
+      "topic": "Performance art"
+    },
+    {
+      "diff": 1925.0,
+      "topic": "Spacecraft"
+    },
+    {
+      "diff": 1835.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": 1784.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 1766.0,
+      "topic": "Engine manufacturers"
+    },
+    {
+      "diff": 1765.0,
+      "topic": "Orbit"
+    },
+    {
+      "diff": 1710.0,
+      "topic": "Space industry"
+    },
+    {
+      "diff": 1504.0,
+      "topic": "Space programs"
+    },
+    {
+      "diff": 1480.0,
+      "topic": "Theme"
+    },
+    {
+      "diff": 1438.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": 1397.0,
+      "topic": "Millennium"
+    }
+  ]
+}

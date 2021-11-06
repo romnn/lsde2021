@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -76290.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -72122.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -63440.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -61355.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -51935.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": -44822.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -42872.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -42255.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": -38270.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -35829.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -35829.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": -35693.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -33661.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -32544.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -26976.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -26786.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -26325.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -26321.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -25643.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -24846.0,
+      "topic": "Social policy"
+    }
+  ]
+}

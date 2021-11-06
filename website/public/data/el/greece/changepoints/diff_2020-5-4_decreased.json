@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -7158.0,
+      "topic": "History"
+    },
+    {
+      "diff": -6513.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5079.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -4901.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4288.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3296.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3047.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -2739.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2613.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2545.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2439.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2370.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2113.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -2039.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1994.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -1946.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1772.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -1763.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1674.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -1644.0,
+      "topic": "Land"
+    }
+  ]
+}

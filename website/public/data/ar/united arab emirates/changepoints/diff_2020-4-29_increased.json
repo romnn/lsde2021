@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 6923.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5067.0,
+      "topic": "People"
+    },
+    {
+      "diff": 5031.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 4870.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 4697.0,
+      "topic": "Rulers"
+    },
+    {
+      "diff": 4454.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 4117.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": 3855.0,
+      "topic": "Ottoman empire"
+    },
+    {
+      "diff": 3539.0,
+      "topic": "Slavery"
+    },
+    {
+      "diff": 3538.0,
+      "topic": "Ghilman"
+    },
+    {
+      "diff": 3515.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": 3424.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": 3403.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3257.0,
+      "topic": "Ayyubid sultanate"
+    },
+    {
+      "diff": 3027.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 3010.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 2725.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 2658.0,
+      "topic": "North african diaspora"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "French people"
+    },
+    {
+      "diff": 2601.0,
+      "topic": "Environment"
+    }
+  ]
+}

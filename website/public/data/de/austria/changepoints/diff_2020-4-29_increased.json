@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 35564.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 12986.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 12052.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": 10890.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 10866.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 10863.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 7069.0,
+      "topic": "Middle eastern diaspora"
+    },
+    {
+      "diff": 6937.0,
+      "topic": "Arab diaspora"
+    },
+    {
+      "diff": 6687.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 6416.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 6411.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 6406.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 6371.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 6308.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 6209.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": 5772.0,
+      "topic": "Psychedelic music"
+    },
+    {
+      "diff": 5695.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 5687.0,
+      "topic": "People"
+    },
+    {
+      "diff": 5431.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": 5390.0,
+      "topic": "Nazism"
+    }
+  ]
+}

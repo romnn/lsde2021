@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 48764.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 47405.0,
+      "topic": "History"
+    },
+    {
+      "diff": 45044.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 33389.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 28051.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 26785.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 24174.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 23098.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 20507.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 17620.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 17574.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 17542.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 17384.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 15630.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 15075.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 14905.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 14528.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 13875.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 13719.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 13443.0,
+      "topic": "Academic discipline"
+    }
+  ]
+}

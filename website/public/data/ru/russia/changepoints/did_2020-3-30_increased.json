@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-30",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 75872.0,
+      "topic": "History"
+    },
+    {
+      "diff": 73156.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 70530.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 52063.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 51677.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 44734.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 34869.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 33070.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 32185.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 31503.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 31500.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 28455.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 26675.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 24835.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 23964.0,
+      "topic": "People"
+    },
+    {
+      "diff": 23676.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 22409.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 21405.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": 21349.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 20690.0,
+      "topic": "Jewish messiah claimants"
+    }
+  ]
+}

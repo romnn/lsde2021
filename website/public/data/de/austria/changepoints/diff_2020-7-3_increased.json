@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 18042.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 17208.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 10963.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 9449.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 8817.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 8337.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8102.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 7228.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6415.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": 6271.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 5660.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5599.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 5539.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5471.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 5454.0,
+      "topic": "Arminian denominations"
+    },
+    {
+      "diff": 5356.0,
+      "topic": "Mountain ranges"
+    },
+    {
+      "diff": 5095.0,
+      "topic": "France"
+    },
+    {
+      "diff": 5065.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": 5010.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 4956.0,
+      "topic": "Drink"
+    }
+  ]
+}

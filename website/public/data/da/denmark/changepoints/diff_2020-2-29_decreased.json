@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2482.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2380.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -2282.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -2221.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -2045.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1837.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1259.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1212.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -1023.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1015.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -929.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -921.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -885.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -883.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -882.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -776.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -767.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -750.0,
+      "topic": "History"
+    },
+    {
+      "diff": -704.0,
+      "topic": "Arts organizations"
+    }
+  ]
+}

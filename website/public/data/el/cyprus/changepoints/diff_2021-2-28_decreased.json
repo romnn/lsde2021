@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -14725.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -13628.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -13401.0,
+      "topic": "History"
+    },
+    {
+      "diff": -12588.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4427.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -2773.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": -2742.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -2685.0,
+      "topic": "States"
+    },
+    {
+      "diff": -2676.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": -2666.0,
+      "topic": "Argonauts"
+    },
+    {
+      "diff": -2570.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2395.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -2321.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -2093.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -2027.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1800.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -1572.0,
+      "topic": "Late middle ages"
+    },
+    {
+      "diff": -1428.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1273.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -1187.0,
+      "topic": "Atlantic ocean"
+    }
+  ]
+}

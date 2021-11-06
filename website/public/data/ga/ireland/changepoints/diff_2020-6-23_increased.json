@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 181.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 172.0,
+      "topic": "History"
+    },
+    {
+      "diff": 148.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 66.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 47.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 38.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 37.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 33.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 30.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 28.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 25.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 25.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 21.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 20.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 20.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": 18.0,
+      "topic": "Conwy county borough"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 2412.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 2155.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 1797.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 1499.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1276.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 1024.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 989.0,
+      "topic": "Greek musicians"
+    },
+    {
+      "diff": 977.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": 945.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 932.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 902.0,
+      "topic": "Men"
+    },
+    {
+      "diff": 842.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 819.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 784.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 775.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 737.0,
+      "topic": "Units"
+    },
+    {
+      "diff": 737.0,
+      "topic": "Delos"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Northern cyprus"
+    },
+    {
+      "diff": 510.0,
+      "topic": "Geopolitical rivalry"
+    }
+  ]
+}

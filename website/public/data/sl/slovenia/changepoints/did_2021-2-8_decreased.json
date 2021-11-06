@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -493.0,
+      "topic": "Poets"
+    },
+    {
+      "diff": -463.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -446.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -375.0,
+      "topic": "Ceramic art"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Kidnapping"
+    },
+    {
+      "diff": -286.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -281.0,
+      "topic": "Greek mythology"
+    },
+    {
+      "diff": -277.0,
+      "topic": "Violent crime"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Visual arts theory"
+    },
+    {
+      "diff": -266.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -234.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -234.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -234.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -229.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -225.0,
+      "topic": "Sculpture"
+    },
+    {
+      "diff": -216.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -210.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -180.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -161.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -146.0,
+      "topic": "Deities"
+    }
+  ]
+}

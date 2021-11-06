@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 7379749.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 5611410.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 4645879.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4583696.0,
+      "topic": "People"
+    },
+    {
+      "diff": 4516013.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 4312328.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 4003162.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 2368979.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 2334442.0,
+      "topic": "State"
+    },
+    {
+      "diff": 2098144.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 1900794.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1801328.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1600941.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1599019.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 1590400.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 1223669.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 1217237.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 1209694.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 1090685.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 1073201.0,
+      "topic": "Years"
+    }
+  ]
+}

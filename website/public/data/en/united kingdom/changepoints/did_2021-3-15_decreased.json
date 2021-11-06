@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -2709914.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1592289.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1346510.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1241358.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1199100.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -814087.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -659143.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -615597.0,
+      "topic": "History"
+    },
+    {
+      "diff": -613393.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -561659.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -509741.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -499842.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -496590.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -464637.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -430927.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -420978.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -418253.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -374146.0,
+      "topic": "Medical or psychological condition"
+    },
+    {
+      "diff": -369921.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -318523.0,
+      "topic": "Setting"
+    }
+  ]
+}

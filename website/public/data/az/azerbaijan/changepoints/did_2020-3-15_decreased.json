@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -2237.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -2057.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -1939.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1848.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": -1820.0,
+      "topic": "Manufactured goods"
+    },
+    {
+      "diff": -1812.0,
+      "topic": "Forest products"
+    },
+    {
+      "diff": -1517.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1496.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1232.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1153.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1114.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1027.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -953.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -950.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -898.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": -877.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -856.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -831.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -822.0,
+      "topic": "Persian people"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Political theories"
+    }
+  ]
+}

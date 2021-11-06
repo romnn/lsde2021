@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1517431.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -934615.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -834095.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -723701.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -693848.0,
+      "topic": "People"
+    },
+    {
+      "diff": -651344.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -601125.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -528502.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -386561.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -377719.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -371103.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -362778.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -321296.0,
+      "topic": "History"
+    },
+    {
+      "diff": -292152.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -264593.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -240716.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -211937.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": -210405.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -205473.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -204170.0,
+      "topic": "Setting"
+    }
+  ]
+}

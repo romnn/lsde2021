@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 148347.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 125281.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 115357.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 110733.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 108306.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 106987.0,
+      "topic": "Computer security exploits"
+    },
+    {
+      "diff": 106818.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 96308.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 88357.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 85286.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 83106.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 80062.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": 56776.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 56624.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 55528.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 52362.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 40649.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 40047.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 40031.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 39958.0,
+      "topic": "Manufacturing"
+    }
+  ]
+}

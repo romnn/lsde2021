@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": 12151.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 10303.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 8420.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 8412.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 8364.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5812.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 5487.0,
+      "topic": "India"
+    },
+    {
+      "diff": 5467.0,
+      "topic": "Majority\u2013minority relations"
+    },
+    {
+      "diff": 5344.0,
+      "topic": "Imperialism studies"
+    },
+    {
+      "diff": 5040.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 4951.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 4745.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 4604.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 4497.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4380.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 4140.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 4133.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3439.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3301.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": 3300.0,
+      "topic": "Sports"
+    }
+  ]
+}

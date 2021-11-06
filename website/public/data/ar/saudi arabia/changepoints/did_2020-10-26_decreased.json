@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -21815.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": -21694.0,
+      "topic": "Developmental biology"
+    },
+    {
+      "diff": -21438.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -21437.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -21411.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -11862.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9304.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -6330.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4956.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -4922.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -4332.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -4116.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -3974.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -3891.0,
+      "topic": "Africa"
+    },
+    {
+      "diff": -3589.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3571.0,
+      "topic": "Western asia"
+    },
+    {
+      "diff": -3538.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -3395.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3358.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -3336.0,
+      "topic": "Arab society"
+    }
+  ]
+}

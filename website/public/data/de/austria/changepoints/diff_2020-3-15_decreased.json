@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -30921.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -21085.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -18184.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -16816.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -15756.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -11157.0,
+      "topic": "State"
+    },
+    {
+      "diff": -10382.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -10007.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -9504.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -8195.0,
+      "topic": "Sustainable architecture"
+    },
+    {
+      "diff": -7859.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -7596.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -7484.0,
+      "topic": "Civil engineering"
+    },
+    {
+      "diff": -6994.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -6895.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -6483.0,
+      "topic": "Landscape architecture"
+    },
+    {
+      "diff": -6157.0,
+      "topic": "France"
+    },
+    {
+      "diff": -5643.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -5499.0,
+      "topic": "Nazi germany"
+    },
+    {
+      "diff": -5087.0,
+      "topic": "Mountain ranges"
+    }
+  ]
+}

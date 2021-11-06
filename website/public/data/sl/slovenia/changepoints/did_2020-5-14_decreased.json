@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1088.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -726.0,
+      "topic": "History"
+    },
+    {
+      "diff": -672.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -666.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -547.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -503.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -473.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -470.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -451.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -431.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -388.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -341.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -331.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -313.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -308.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -298.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -295.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    }
+  ]
+}

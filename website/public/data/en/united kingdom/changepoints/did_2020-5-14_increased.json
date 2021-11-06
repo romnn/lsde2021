@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 384456.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 379770.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 360725.0,
+      "topic": "American men"
+    },
+    {
+      "diff": 251038.0,
+      "topic": "Ukraine"
+    },
+    {
+      "diff": 242029.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 208506.0,
+      "topic": "Coalition governments"
+    },
+    {
+      "diff": 176015.0,
+      "topic": "Belarus"
+    },
+    {
+      "diff": 173548.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 158070.0,
+      "topic": "Nationalism"
+    },
+    {
+      "diff": 158013.0,
+      "topic": "Right-wing parties by continent"
+    },
+    {
+      "diff": 144432.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 134552.0,
+      "topic": "India"
+    },
+    {
+      "diff": 128914.0,
+      "topic": "Year"
+    },
+    {
+      "diff": 127474.0,
+      "topic": "Legislators"
+    },
+    {
+      "diff": 125825.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 123772.0,
+      "topic": "Political office-holders in india"
+    },
+    {
+      "diff": 115391.0,
+      "topic": "Asian political people"
+    },
+    {
+      "diff": 111651.0,
+      "topic": "Left-wing parties by country"
+    },
+    {
+      "diff": 111432.0,
+      "topic": "Disasters"
+    },
+    {
+      "diff": 109980.0,
+      "topic": "2nd millennium in georgia (country)"
+    }
+  ]
+}

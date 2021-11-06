@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -273.0,
+      "topic": "History"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -228.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -179.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -173.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -109.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": -107.0,
+      "topic": "Theoretical physics"
+    },
+    {
+      "diff": -104.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -100.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -94.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -80.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -79.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -74.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -74.0,
+      "topic": "European families"
+    },
+    {
+      "diff": -67.0,
+      "topic": "G protein-coupled receptors"
+    }
+  ]
+}

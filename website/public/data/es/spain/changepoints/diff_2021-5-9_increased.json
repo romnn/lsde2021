@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 42391.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 26915.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 26658.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 23656.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 22535.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 21929.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 20959.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 20561.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 19380.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 19042.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 17456.0,
+      "topic": "1990s"
+    },
+    {
+      "diff": 17384.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 17036.0,
+      "topic": "Lgbt people"
+    },
+    {
+      "diff": 16785.0,
+      "topic": "Norse people"
+    },
+    {
+      "diff": 16585.0,
+      "topic": "Art"
+    },
+    {
+      "diff": 13691.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 13553.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 13515.0,
+      "topic": "States"
+    },
+    {
+      "diff": 13409.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 10911.0,
+      "topic": "Genre"
+    }
+  ]
+}

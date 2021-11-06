@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 329.0,
+      "topic": "History"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 269.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 266.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 245.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 113.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 112.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 73.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Scotland"
+    },
+    {
+      "diff": 71.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 68.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 65.0,
+      "topic": "County"
+    },
+    {
+      "diff": 62.0,
+      "topic": "England"
+    },
+    {
+      "diff": 61.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 60.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 60.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 59.0,
+      "topic": "Earth sciences"
+    }
+  ]
+}

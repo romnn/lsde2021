@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -102208.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -67246.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -65223.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -59919.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -57500.0,
+      "topic": "Biblical geography"
+    },
+    {
+      "diff": -53457.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -29575.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -22327.0,
+      "topic": "State"
+    },
+    {
+      "diff": -15529.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -13118.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -11842.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -11101.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -11007.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -10525.0,
+      "topic": "France"
+    },
+    {
+      "diff": -9960.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -9434.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -9334.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": -9286.0,
+      "topic": "Burial sites"
+    },
+    {
+      "diff": -9241.0,
+      "topic": "European noble families"
+    },
+    {
+      "diff": -9199.0,
+      "topic": "French noble families"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 2185.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 2153.0,
+      "topic": "Canadian diaspora"
+    },
+    {
+      "diff": 2140.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2137.0,
+      "topic": "Women's rights"
+    },
+    {
+      "diff": 2115.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 964.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 937.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 880.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 875.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 853.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 692.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 581.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 580.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 543.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 513.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 483.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 448.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 430.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 412.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 377.0,
+      "topic": "German music"
+    }
+  ]
+}

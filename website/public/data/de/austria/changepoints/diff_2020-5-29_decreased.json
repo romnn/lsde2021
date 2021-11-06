@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -24073.0,
+      "topic": "History"
+    },
+    {
+      "diff": -16186.0,
+      "topic": "People"
+    },
+    {
+      "diff": -16164.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -14680.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -14634.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -13649.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -13311.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -12583.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -12002.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -11879.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -11418.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -10334.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -9650.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -9539.0,
+      "topic": "Arab diaspora"
+    },
+    {
+      "diff": -9313.0,
+      "topic": "Middle eastern diaspora"
+    },
+    {
+      "diff": -9311.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -9152.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -8552.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": -8475.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -8275.0,
+      "topic": "Categories"
+    }
+  ]
+}

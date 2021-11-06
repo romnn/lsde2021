@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-31",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 65968.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 57827.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 54501.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 34687.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 24790.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 23049.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 22004.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 21532.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 21293.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 21280.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 20877.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": 20157.0,
+      "topic": "Trade"
+    },
+    {
+      "diff": 19723.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 14463.0,
+      "topic": "History"
+    },
+    {
+      "diff": 13688.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 12757.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 12741.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 12017.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 11589.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 11579.0,
+      "topic": "Humanities"
+    }
+  ]
+}

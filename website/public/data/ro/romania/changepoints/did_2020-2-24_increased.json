@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 9009.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 7339.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 6264.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 6087.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": 6080.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": 6056.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": 5021.0,
+      "topic": "France"
+    },
+    {
+      "diff": 4023.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3154.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 2607.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2327.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1944.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": 1761.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 1757.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": 1726.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1675.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 1649.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1640.0,
+      "topic": "Moldovan culture"
+    },
+    {
+      "diff": 1608.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1544.0,
+      "topic": "Chronology"
+    }
+  ]
+}

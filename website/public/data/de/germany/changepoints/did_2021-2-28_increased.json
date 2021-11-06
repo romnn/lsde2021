@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 50410.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 48348.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 48037.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 47886.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": 46629.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 34356.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 33492.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 28106.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 18189.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 16156.0,
+      "topic": "History"
+    },
+    {
+      "diff": 15603.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 14292.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 13799.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 13215.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 13160.0,
+      "topic": "State"
+    },
+    {
+      "diff": 12542.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 11861.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 11444.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 11277.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 11253.0,
+      "topic": "Information management"
+    }
+  ]
+}

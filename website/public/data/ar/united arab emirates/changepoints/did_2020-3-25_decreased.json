@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -13875.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -10670.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -10633.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -10623.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -10596.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -7357.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -5379.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": -5145.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -4869.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": -3363.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -3187.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -3087.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -2777.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -2715.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -2292.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -2232.0,
+      "topic": "Iucn red list endangered species"
+    },
+    {
+      "diff": -2177.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -2071.0,
+      "topic": "Disease transmission"
+    },
+    {
+      "diff": -1465.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1410.0,
+      "topic": "Health promotion"
+    }
+  ]
+}

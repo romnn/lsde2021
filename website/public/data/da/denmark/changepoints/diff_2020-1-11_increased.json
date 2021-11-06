@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1340.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1074.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1048.0,
+      "topic": "History"
+    },
+    {
+      "diff": 924.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 850.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 805.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 800.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 753.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 723.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 678.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 644.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 622.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 620.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 554.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 542.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 539.0,
+      "topic": "Natural materials"
+    },
+    {
+      "diff": 526.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 491.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 481.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 473.0,
+      "topic": "Philosophy"
+    }
+  ]
+}

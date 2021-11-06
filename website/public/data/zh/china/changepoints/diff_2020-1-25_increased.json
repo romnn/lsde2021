@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 20650.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 17244.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 17086.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 17030.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 17008.0,
+      "topic": "Taiwanese musicians"
+    },
+    {
+      "diff": 16361.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 16309.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 14884.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 14123.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 14046.0,
+      "topic": "Sexual health"
+    },
+    {
+      "diff": 13890.0,
+      "topic": "Animal locomotion"
+    },
+    {
+      "diff": 13815.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 13614.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 11658.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 11594.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 10807.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 10081.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 9918.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 9877.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": 9696.0,
+      "topic": "Therapy"
+    }
+  ]
+}

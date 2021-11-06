@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": -7904.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": -7538.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": -7484.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": -7228.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": -6495.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": -5579.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": -5525.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -5246.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -4942.0,
+      "topic": "Disorders"
+    },
+    {
+      "diff": -4923.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -4880.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -4864.0,
+      "topic": "Animal diseases"
+    },
+    {
+      "diff": -4667.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -4508.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -4355.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -4023.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -3991.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3780.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -3207.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": -3129.0,
+      "topic": "Physics"
+    }
+  ]
+}

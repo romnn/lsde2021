@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 4166.0,
+      "topic": "Ethnobotany"
+    },
+    {
+      "diff": 4158.0,
+      "topic": "Wood"
+    },
+    {
+      "diff": 3984.0,
+      "topic": "Museology"
+    },
+    {
+      "diff": 3698.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 3672.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 3454.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 3338.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": 3161.0,
+      "topic": "Condensed matter"
+    },
+    {
+      "diff": 2904.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 2205.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 1468.0,
+      "topic": "Home economics"
+    },
+    {
+      "diff": 1415.0,
+      "topic": "Denomination"
+    },
+    {
+      "diff": 1106.0,
+      "topic": "Equipment"
+    },
+    {
+      "diff": 878.0,
+      "topic": "European cuisine"
+    },
+    {
+      "diff": 840.0,
+      "topic": "Ottoman culture"
+    },
+    {
+      "diff": 771.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": 762.0,
+      "topic": "Asian studies"
+    },
+    {
+      "diff": 755.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 704.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": 701.0,
+      "topic": "Living arrangements"
+    }
+  ]
+}

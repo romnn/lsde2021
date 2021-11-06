@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 8701.0,
+      "topic": "Health law"
+    },
+    {
+      "diff": 8559.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 8414.0,
+      "topic": "Medical"
+    },
+    {
+      "diff": 7902.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 7619.0,
+      "topic": "Organic compounds"
+    },
+    {
+      "diff": 6009.0,
+      "topic": "Fractions (mathematics)"
+    },
+    {
+      "diff": 4998.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 4392.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 3973.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 3463.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 3202.0,
+      "topic": "Discrete mathematics"
+    },
+    {
+      "diff": 3006.0,
+      "topic": "Economic history"
+    },
+    {
+      "diff": 2861.0,
+      "topic": "Algebraic structures"
+    },
+    {
+      "diff": 2593.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 2417.0,
+      "topic": "Art"
+    },
+    {
+      "diff": 2303.0,
+      "topic": "Health care"
+    },
+    {
+      "diff": 2136.0,
+      "topic": "Postmodern theory"
+    },
+    {
+      "diff": 1978.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1968.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 1962.0,
+      "topic": "Linguistic turn"
+    }
+  ]
+}

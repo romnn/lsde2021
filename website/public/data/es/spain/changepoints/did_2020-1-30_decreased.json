@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -82666.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -77420.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -77322.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -77316.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -74269.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -17043.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -16273.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -15800.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -12570.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -12001.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -10631.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -10404.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -9981.0,
+      "topic": "Autonomous community"
+    },
+    {
+      "diff": -9063.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -8178.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -8158.0,
+      "topic": "Robots"
+    },
+    {
+      "diff": -8085.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -7452.0,
+      "topic": "Cuisine"
+    },
+    {
+      "diff": -7134.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -6950.0,
+      "topic": "North american cuisine"
+    }
+  ]
+}

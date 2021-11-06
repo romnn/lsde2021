@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-26",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -4636.0,
+      "topic": "Emergence"
+    },
+    {
+      "diff": -4542.0,
+      "topic": "Phenomenology"
+    },
+    {
+      "diff": -3799.0,
+      "topic": "Moral psychology"
+    },
+    {
+      "diff": -3686.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -3014.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2303.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -1322.0,
+      "topic": "Banking"
+    },
+    {
+      "diff": -1319.0,
+      "topic": "International finance"
+    },
+    {
+      "diff": -1310.0,
+      "topic": "Northern hemisphere"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "Books"
+    },
+    {
+      "diff": -1239.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": -1200.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": -1125.0,
+      "topic": "Old testament people"
+    },
+    {
+      "diff": -1076.0,
+      "topic": "Islamic legendary creatures"
+    },
+    {
+      "diff": -965.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -798.0,
+      "topic": "Morocco"
+    },
+    {
+      "diff": -780.0,
+      "topic": "World wide web"
+    },
+    {
+      "diff": -757.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": -747.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -744.0,
+      "topic": "Politics"
+    }
+  ]
+}

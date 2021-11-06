@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -156659.0,
+      "topic": "American folklore"
+    },
+    {
+      "diff": -136628.0,
+      "topic": "Male martial artists"
+    },
+    {
+      "diff": -109400.0,
+      "topic": "Computational neuroscience"
+    },
+    {
+      "diff": -107016.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -101115.0,
+      "topic": "Islamism"
+    },
+    {
+      "diff": -100733.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": -86729.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -82603.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -78993.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -76645.0,
+      "topic": "Alphabet inc."
+    },
+    {
+      "diff": -71367.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -67063.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -65331.0,
+      "topic": "Speculative fiction"
+    },
+    {
+      "diff": -63918.0,
+      "topic": "Motorsport"
+    },
+    {
+      "diff": -63859.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -63092.0,
+      "topic": "Murder"
+    },
+    {
+      "diff": -60659.0,
+      "topic": "Musician nationality"
+    },
+    {
+      "diff": -60538.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -59770.0,
+      "topic": "Drama"
+    },
+    {
+      "diff": -57897.0,
+      "topic": "Religion"
+    }
+  ]
+}

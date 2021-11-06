@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -11866.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": -9058.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -8972.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6937.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -6892.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -5692.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": -5568.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -5479.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -5447.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4527.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -4430.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -4361.0,
+      "topic": "State"
+    },
+    {
+      "diff": -4076.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -3682.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -3469.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -3285.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -3197.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -3163.0,
+      "topic": "Eating behaviors"
+    },
+    {
+      "diff": -3084.0,
+      "topic": "People"
+    },
+    {
+      "diff": -3023.0,
+      "topic": "City"
+    }
+  ]
+}

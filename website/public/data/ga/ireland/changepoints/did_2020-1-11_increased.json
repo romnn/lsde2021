@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 466.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 452.0,
+      "topic": "History"
+    },
+    {
+      "diff": 409.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 395.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 391.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 223.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 176.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 168.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 166.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 161.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 147.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 144.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 143.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 139.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 123.0,
+      "topic": "County"
+    },
+    {
+      "diff": 110.0,
+      "topic": "England"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 103.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 90.0,
+      "topic": "Earth sciences"
+    }
+  ]
+}

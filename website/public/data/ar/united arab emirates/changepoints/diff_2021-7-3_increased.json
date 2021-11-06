@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-03",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 11512.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 10169.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": 4939.0,
+      "topic": "New spain"
+    },
+    {
+      "diff": 4785.0,
+      "topic": "15th century"
+    },
+    {
+      "diff": 4555.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 4401.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 4140.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": 3896.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3845.0,
+      "topic": "Telecommunications"
+    },
+    {
+      "diff": 3786.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": 3755.0,
+      "topic": "Digital television"
+    },
+    {
+      "diff": 3739.0,
+      "topic": "Video hosting"
+    },
+    {
+      "diff": 3431.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 3306.0,
+      "topic": "Virtual communities"
+    },
+    {
+      "diff": 3212.0,
+      "topic": "Electronic publishing"
+    },
+    {
+      "diff": 3101.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 3075.0,
+      "topic": "Social networks"
+    },
+    {
+      "diff": 3061.0,
+      "topic": "Home automation"
+    },
+    {
+      "diff": 3045.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 2937.0,
+      "topic": "It infrastructure"
+    }
+  ]
+}

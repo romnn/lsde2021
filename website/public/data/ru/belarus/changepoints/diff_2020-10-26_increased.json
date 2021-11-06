@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 26298.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 26272.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 24434.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 24030.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 23174.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 13888.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 12137.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 8851.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 7159.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 7086.0,
+      "topic": "Armenia"
+    },
+    {
+      "diff": 6636.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 6500.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 6314.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 6288.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 6266.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 6118.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 5669.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": 5367.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": 4715.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 4676.0,
+      "topic": "Country"
+    }
+  ]
+}

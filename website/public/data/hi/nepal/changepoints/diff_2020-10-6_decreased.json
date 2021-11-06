@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-06",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -4551.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4358.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -4010.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -3989.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3114.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -2888.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -2499.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -2193.0,
+      "topic": "Psychotherapy"
+    },
+    {
+      "diff": -2125.0,
+      "topic": "Offences against the person"
+    },
+    {
+      "diff": -2122.0,
+      "topic": "Violent crime"
+    },
+    {
+      "diff": -2061.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -1989.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -1895.0,
+      "topic": "Life"
+    },
+    {
+      "diff": -1843.0,
+      "topic": "French architecture"
+    },
+    {
+      "diff": -1829.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1792.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -1776.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": -1743.0,
+      "topic": "Knowledge"
+    },
+    {
+      "diff": -1627.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -1546.0,
+      "topic": "Politics"
+    }
+  ]
+}

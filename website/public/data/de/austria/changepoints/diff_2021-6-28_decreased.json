@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -12679.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -10770.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -9984.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9569.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -9158.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -8831.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -8702.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -8038.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7890.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -7467.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": -7216.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -7076.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": -7074.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6660.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -6581.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -6568.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -6406.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -6357.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6173.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -5617.0,
+      "topic": "Century"
+    }
+  ]
+}

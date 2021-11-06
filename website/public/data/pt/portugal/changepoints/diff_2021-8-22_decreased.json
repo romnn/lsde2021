@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -22296.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -22030.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -22006.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -21828.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -20896.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -16691.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -13960.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -13752.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -12927.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -12483.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -12149.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -12069.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -11859.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -11312.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -11303.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -5413.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4920.0,
+      "topic": "Abraham"
+    },
+    {
+      "diff": -4567.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -3727.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3267.0,
+      "topic": "Language"
+    }
+  ]
+}

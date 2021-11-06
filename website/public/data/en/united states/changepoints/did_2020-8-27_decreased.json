@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1018565.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -616298.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -572514.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -537306.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -503581.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -470436.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -407527.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -397392.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": -383563.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -380958.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -365837.0,
+      "topic": "India"
+    },
+    {
+      "diff": -363085.0,
+      "topic": "American political people"
+    },
+    {
+      "diff": -352124.0,
+      "topic": "State"
+    },
+    {
+      "diff": -328972.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -328591.0,
+      "topic": "History"
+    },
+    {
+      "diff": -320252.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -310286.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -305876.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -300376.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": -299246.0,
+      "topic": "German people"
+    }
+  ]
+}

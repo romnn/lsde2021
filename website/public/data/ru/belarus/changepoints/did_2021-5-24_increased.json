@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 21743.0,
+      "topic": "Geographic history"
+    },
+    {
+      "diff": 16340.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": 14986.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": 13502.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 11952.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": 10100.0,
+      "topic": "Nuclear energy"
+    },
+    {
+      "diff": 8926.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 8454.0,
+      "topic": "Energy"
+    },
+    {
+      "diff": 8359.0,
+      "topic": "City"
+    },
+    {
+      "diff": 7188.0,
+      "topic": "Soviet states"
+    },
+    {
+      "diff": 7185.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 6897.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 5591.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 4686.0,
+      "topic": "Performing arts"
+    },
+    {
+      "diff": 4654.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 4628.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 4488.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 4289.0,
+      "topic": "Open content"
+    },
+    {
+      "diff": 4084.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": 3229.0,
+      "topic": "Nbcuniversal"
+    }
+  ]
+}

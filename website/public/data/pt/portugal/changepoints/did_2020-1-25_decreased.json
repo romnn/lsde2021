@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -15409.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -15090.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -15011.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": -14511.0,
+      "topic": "Endings"
+    },
+    {
+      "diff": -14081.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -5869.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -5509.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -4830.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4594.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -4522.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3904.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -3723.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -3607.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -3558.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3402.0,
+      "topic": "Robots"
+    },
+    {
+      "diff": -3392.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -2846.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -2818.0,
+      "topic": "Global policy organizations"
+    },
+    {
+      "diff": -2743.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -2703.0,
+      "topic": "Genre"
+    }
+  ]
+}

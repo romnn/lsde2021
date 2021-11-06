@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 1451.0,
+      "topic": "Federalism"
+    },
+    {
+      "diff": 1206.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 1204.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 1204.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 1204.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 1184.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 916.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 839.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": 819.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": 738.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 731.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": 719.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 661.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 482.0,
+      "topic": "Musical groups"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Animal sexuality"
+    },
+    {
+      "diff": 385.0,
+      "topic": "Lifestyles"
+    },
+    {
+      "diff": 381.0,
+      "topic": "Sex positivism"
+    },
+    {
+      "diff": 377.0,
+      "topic": "Mountain range"
+    },
+    {
+      "diff": 374.0,
+      "topic": "Toxicants"
+    }
+  ]
+}

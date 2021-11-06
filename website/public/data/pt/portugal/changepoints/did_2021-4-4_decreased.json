@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -19711.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -19490.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -18066.0,
+      "topic": "History"
+    },
+    {
+      "diff": -15478.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -14164.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -13884.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -13704.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -13620.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -12867.0,
+      "topic": "19th-century works"
+    },
+    {
+      "diff": -12837.0,
+      "topic": "European music"
+    },
+    {
+      "diff": -12690.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -12173.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": -10451.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -8950.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -8810.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -8656.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -8516.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -7879.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -7614.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -7543.0,
+      "topic": "Ethics"
+    }
+  ]
+}

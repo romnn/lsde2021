@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 5420.0,
+      "topic": "Anti-communism"
+    },
+    {
+      "diff": 4162.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3763.0,
+      "topic": "Dutch caribbean"
+    },
+    {
+      "diff": 2583.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 2450.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 2282.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 2257.0,
+      "topic": "American civil war"
+    },
+    {
+      "diff": 2253.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": 2199.0,
+      "topic": "Colonization history"
+    },
+    {
+      "diff": 1731.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 1549.0,
+      "topic": "Benelux"
+    },
+    {
+      "diff": 1519.0,
+      "topic": "South american football"
+    },
+    {
+      "diff": 1441.0,
+      "topic": "Countries"
+    },
+    {
+      "diff": 1412.0,
+      "topic": "Country subdivision"
+    },
+    {
+      "diff": 1408.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": 1375.0,
+      "topic": "London"
+    },
+    {
+      "diff": 1374.0,
+      "topic": "Argentine culture"
+    },
+    {
+      "diff": 1342.0,
+      "topic": "Western europe"
+    },
+    {
+      "diff": 1339.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 1217.0,
+      "topic": "Netherlands antilles"
+    }
+  ]
+}

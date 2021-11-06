@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -171.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -162.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -158.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -157.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -143.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -132.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -128.0,
+      "topic": "History"
+    },
+    {
+      "diff": -124.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -96.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": -95.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -91.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -88.0,
+      "topic": "Luxembourg"
+    },
+    {
+      "diff": -87.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -85.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -76.0,
+      "topic": "Environmental health"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -70.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -67.0,
+      "topic": "Leisure"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 3614.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 3496.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 3178.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 2951.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2803.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 1689.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 1605.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 1470.0,
+      "topic": "Harbours"
+    },
+    {
+      "diff": 1458.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 1406.0,
+      "topic": "Ports"
+    },
+    {
+      "diff": 1276.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1229.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1188.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 1160.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 1155.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 964.0,
+      "topic": "Judea"
+    },
+    {
+      "diff": 963.0,
+      "topic": "Biblical rulers"
+    },
+    {
+      "diff": 922.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 828.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 718.0,
+      "topic": "Azerbaijani culture"
+    }
+  ]
+}

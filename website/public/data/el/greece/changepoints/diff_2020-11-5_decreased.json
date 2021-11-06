@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-05",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -2139.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": -1998.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": -1903.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": -1479.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -1415.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1230.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -759.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -593.0,
+      "topic": "Ancient greek cities"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": -566.0,
+      "topic": "Classical anatolia"
+    },
+    {
+      "diff": -539.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -532.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -498.0,
+      "topic": "Regional units in epirus (region)"
+    },
+    {
+      "diff": -460.0,
+      "topic": "Archaeological sites"
+    },
+    {
+      "diff": -422.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": -417.0,
+      "topic": "Human populations"
+    },
+    {
+      "diff": -397.0,
+      "topic": "Thessaly"
+    },
+    {
+      "diff": -386.0,
+      "topic": "Central greece"
+    },
+    {
+      "diff": -374.0,
+      "topic": "Greece"
+    }
+  ]
+}

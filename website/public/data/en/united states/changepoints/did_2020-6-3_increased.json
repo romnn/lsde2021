@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 1023423.0,
+      "topic": "Indian actors"
+    },
+    {
+      "diff": 676360.0,
+      "topic": "Hindi-language culture"
+    },
+    {
+      "diff": 675490.0,
+      "topic": "Suicides"
+    },
+    {
+      "diff": 642786.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 346130.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 333571.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 309525.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 285627.0,
+      "topic": "American civil war"
+    },
+    {
+      "diff": 280218.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 279902.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 273607.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 257701.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 236396.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": 229436.0,
+      "topic": "Colonization history"
+    },
+    {
+      "diff": 213485.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 210174.0,
+      "topic": "People from karnataka"
+    },
+    {
+      "diff": 208920.0,
+      "topic": "English people"
+    },
+    {
+      "diff": 197372.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 190568.0,
+      "topic": "Cricket"
+    },
+    {
+      "diff": 190506.0,
+      "topic": "Social history"
+    }
+  ]
+}

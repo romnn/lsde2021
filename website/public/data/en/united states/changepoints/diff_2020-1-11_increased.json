@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 885895.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 832561.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 810310.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 603836.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": 600598.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": 588923.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 588119.0,
+      "topic": "Men's national sports teams by country"
+    },
+    {
+      "diff": 522782.0,
+      "topic": "History"
+    },
+    {
+      "diff": 403721.0,
+      "topic": "Criminals"
+    },
+    {
+      "diff": 313038.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 299794.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 279338.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 278592.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 276518.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 275257.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 274287.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 263044.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 239205.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": 223909.0,
+      "topic": "Music"
+    },
+    {
+      "diff": 216262.0,
+      "topic": "Ethnic or national origin"
+    }
+  ]
+}

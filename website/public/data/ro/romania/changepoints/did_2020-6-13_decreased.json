@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -11147.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -10392.0,
+      "topic": "History"
+    },
+    {
+      "diff": -9597.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -9113.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -8245.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7659.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -6991.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -6662.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -6572.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -5448.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5267.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -4985.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -4843.0,
+      "topic": "Condensed matter"
+    },
+    {
+      "diff": -4815.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4751.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4712.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -4521.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -4433.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -4118.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -4004.0,
+      "topic": "Wood"
+    }
+  ]
+}

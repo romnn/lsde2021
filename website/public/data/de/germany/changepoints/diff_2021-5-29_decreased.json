@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-29",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -35434.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": -33975.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -33733.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": -33625.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": -33456.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": -28936.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -27269.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -26607.0,
+      "topic": "History"
+    },
+    {
+      "diff": -26092.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -24376.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -22393.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -20774.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -20716.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -20322.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -19844.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -18566.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -18118.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -17394.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -17314.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -15389.0,
+      "topic": "Netherlands"
+    }
+  ]
+}

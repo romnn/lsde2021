@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -72085.0,
+      "topic": "History"
+    },
+    {
+      "diff": -53294.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -42719.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -42571.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -40430.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -36529.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -31837.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -30417.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -30172.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -29095.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -27979.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -27836.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -27347.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -26686.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -26313.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -25615.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -25341.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -22636.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": -22629.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -21130.0,
+      "topic": "Human behavior"
+    }
+  ]
+}

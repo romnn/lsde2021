@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -6662.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -6419.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -6348.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -4376.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -4051.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -2552.0,
+      "topic": "France"
+    },
+    {
+      "diff": -2489.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2334.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1801.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1767.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1543.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -1523.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -1255.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -1151.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -1135.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -980.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -950.0,
+      "topic": "Conservation"
+    },
+    {
+      "diff": -939.0,
+      "topic": "Provinces"
+    },
+    {
+      "diff": -908.0,
+      "topic": "Genres"
+    },
+    {
+      "diff": -907.0,
+      "topic": "Italy"
+    }
+  ]
+}

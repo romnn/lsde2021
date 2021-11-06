@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 26550.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 19258.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 17829.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 17389.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 17382.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 16765.0,
+      "topic": "Portugal"
+    },
+    {
+      "diff": 14662.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 13339.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 10066.0,
+      "topic": "Public law"
+    },
+    {
+      "diff": 9380.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 9057.0,
+      "topic": "Architecture"
+    },
+    {
+      "diff": 8545.0,
+      "topic": "Violence"
+    },
+    {
+      "diff": 8337.0,
+      "topic": "Water"
+    },
+    {
+      "diff": 8162.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 7894.0,
+      "topic": "Building engineering"
+    },
+    {
+      "diff": 7807.0,
+      "topic": "Fresh water"
+    },
+    {
+      "diff": 7768.0,
+      "topic": "Structural engineering"
+    },
+    {
+      "diff": 7730.0,
+      "topic": "History"
+    },
+    {
+      "diff": 7135.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 7110.0,
+      "topic": "Moral psychology"
+    }
+  ]
+}

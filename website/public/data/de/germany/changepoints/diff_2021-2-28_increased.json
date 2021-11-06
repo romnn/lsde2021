@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 20841.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 13174.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 12987.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 10869.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 9411.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 9352.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8048.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 7888.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 7821.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 7684.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 7129.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 6952.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6822.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 6702.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 6356.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 6321.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 6179.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 6115.0,
+      "topic": "State"
+    },
+    {
+      "diff": 5980.0,
+      "topic": "Health"
+    },
+    {
+      "diff": 5824.0,
+      "topic": "Decade"
+    }
+  ]
+}

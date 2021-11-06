@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -3542.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -2455.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -2186.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2170.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1848.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1665.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1524.0,
+      "topic": "Germanic culture"
+    },
+    {
+      "diff": -1462.0,
+      "topic": "2010s television series"
+    },
+    {
+      "diff": -1310.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1124.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -982.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -973.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -950.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -943.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": -763.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -693.0,
+      "topic": "Foods"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -614.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -607.0,
+      "topic": "Supranational unions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -39268.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -33201.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -31496.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -31346.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -30027.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -19055.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -16258.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -11750.0,
+      "topic": "France"
+    },
+    {
+      "diff": -11242.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -9797.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -9617.0,
+      "topic": "Marvel entertainment"
+    },
+    {
+      "diff": -8799.0,
+      "topic": "Fictional characters"
+    },
+    {
+      "diff": -7886.0,
+      "topic": "Disability"
+    },
+    {
+      "diff": -7488.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -7208.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": -6470.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": -5754.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": -5750.0,
+      "topic": "Mental health"
+    },
+    {
+      "diff": -5656.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": -5496.0,
+      "topic": "Superheroes"
+    }
+  ]
+}

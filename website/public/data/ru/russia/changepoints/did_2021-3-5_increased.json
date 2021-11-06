@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 58050.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 57851.0,
+      "topic": "Heterocyclic compounds"
+    },
+    {
+      "diff": 56976.0,
+      "topic": "Ageing"
+    },
+    {
+      "diff": 56637.0,
+      "topic": "Life extension"
+    },
+    {
+      "diff": 56160.0,
+      "topic": "Endocrine system"
+    },
+    {
+      "diff": 34300.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 30134.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": 29167.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 27590.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 27271.0,
+      "topic": "Polycyclic organic compounds"
+    },
+    {
+      "diff": 27252.0,
+      "topic": "Aromatic compounds"
+    },
+    {
+      "diff": 26857.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 20925.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 20757.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 20485.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 18624.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 18191.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 15321.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 13346.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 11658.0,
+      "topic": "Medicine"
+    }
+  ]
+}

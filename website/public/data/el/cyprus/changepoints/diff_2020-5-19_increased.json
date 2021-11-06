@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 620.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 606.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 497.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 448.0,
+      "topic": "State governments"
+    },
+    {
+      "diff": 442.0,
+      "topic": "Counties"
+    },
+    {
+      "diff": 357.0,
+      "topic": "Service companies"
+    },
+    {
+      "diff": 355.0,
+      "topic": "Jewellery"
+    },
+    {
+      "diff": 315.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 283.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 271.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 256.0,
+      "topic": "Thermodynamics"
+    },
+    {
+      "diff": 239.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 238.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": 235.0,
+      "topic": "Delos"
+    },
+    {
+      "diff": 229.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Indigenous languages"
+    },
+    {
+      "diff": 212.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": 210.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": 202.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Vehicles"
+    }
+  ]
+}

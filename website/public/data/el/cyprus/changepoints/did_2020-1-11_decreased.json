@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -5611.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -3802.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -3267.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -2451.0,
+      "topic": "Attica"
+    },
+    {
+      "diff": -2242.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -2234.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2216.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -1933.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1609.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -1590.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1515.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -1483.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": -1425.0,
+      "topic": "Scientific phenomena"
+    },
+    {
+      "diff": -1417.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1347.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": -1318.0,
+      "topic": "Administrative regions"
+    },
+    {
+      "diff": -1140.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": -1094.0,
+      "topic": "Level"
+    },
+    {
+      "diff": -1084.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "Ancient greek law"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-08",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 2880.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 2869.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 2335.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 1378.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 1031.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 936.0,
+      "topic": "Geopolitical rivalry"
+    },
+    {
+      "diff": 885.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": 857.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 854.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": 822.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 818.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": 811.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 804.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 799.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 796.0,
+      "topic": "Games"
+    },
+    {
+      "diff": 789.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 782.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 760.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 756.0,
+      "topic": "Delos"
+    },
+    {
+      "diff": 752.0,
+      "topic": "Criminal homicide"
+    }
+  ]
+}

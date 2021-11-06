@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": 8702.0,
+      "topic": "Health law"
+    },
+    {
+      "diff": 8384.0,
+      "topic": "Organic compounds"
+    },
+    {
+      "diff": 8379.0,
+      "topic": "Medical"
+    },
+    {
+      "diff": 8295.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 8090.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 2844.0,
+      "topic": "Art"
+    },
+    {
+      "diff": 2533.0,
+      "topic": "Critical theory"
+    },
+    {
+      "diff": 2292.0,
+      "topic": "Linguistic turn"
+    },
+    {
+      "diff": 2291.0,
+      "topic": "Postmodern theory"
+    },
+    {
+      "diff": 2245.0,
+      "topic": "Semiotics"
+    },
+    {
+      "diff": 1733.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 1661.0,
+      "topic": "Humour"
+    },
+    {
+      "diff": 1656.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": 1594.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1554.0,
+      "topic": "Noble families"
+    },
+    {
+      "diff": 1545.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1505.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 1486.0,
+      "topic": "Governments"
+    },
+    {
+      "diff": 1412.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": 1405.0,
+      "topic": "Arts"
+    }
+  ]
+}

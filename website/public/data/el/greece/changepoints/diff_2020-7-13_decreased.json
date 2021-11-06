@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-13",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -1091.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1074.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": -1071.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": -1042.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -995.0,
+      "topic": "Animal reproductive system"
+    },
+    {
+      "diff": -867.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -747.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -653.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -578.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -529.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -523.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -519.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -516.0,
+      "topic": "Central macedonia"
+    },
+    {
+      "diff": -492.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -479.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -467.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -454.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -397.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -371.0,
+      "topic": "Zoology"
+    }
+  ]
+}

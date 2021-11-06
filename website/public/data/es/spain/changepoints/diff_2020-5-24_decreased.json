@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -47030.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -32939.0,
+      "topic": "History"
+    },
+    {
+      "diff": -26093.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -24863.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -23971.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -22508.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -21344.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -20997.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -20292.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -18797.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -18734.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -18205.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -17320.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -17151.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -16574.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -16216.0,
+      "topic": "American people"
+    },
+    {
+      "diff": -16152.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -15720.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -15458.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": -15358.0,
+      "topic": "Latino american"
+    }
+  ]
+}

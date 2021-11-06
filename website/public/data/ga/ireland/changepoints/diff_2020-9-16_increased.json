@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": 1225.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 966.0,
+      "topic": "History"
+    },
+    {
+      "diff": 774.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 596.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 596.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 593.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 565.0,
+      "topic": "Ireland"
+    },
+    {
+      "diff": 494.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 435.0,
+      "topic": "Republic"
+    },
+    {
+      "diff": 417.0,
+      "topic": "Tourism"
+    },
+    {
+      "diff": 404.0,
+      "topic": "Scotland"
+    },
+    {
+      "diff": 386.0,
+      "topic": "England"
+    },
+    {
+      "diff": 342.0,
+      "topic": "County"
+    },
+    {
+      "diff": 296.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 287.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 283.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 257.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 237.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 198.0,
+      "topic": "Council area"
+    },
+    {
+      "diff": 174.0,
+      "topic": "Taxonomy (biology)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -11795.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -11396.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -10185.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -10177.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -9030.0,
+      "topic": "Sanskrit literature"
+    },
+    {
+      "diff": -8713.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -8247.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -6485.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -6461.0,
+      "topic": "Ramayana"
+    },
+    {
+      "diff": -6336.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -6192.0,
+      "topic": "Indigenous culture"
+    },
+    {
+      "diff": -5487.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -5096.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -4572.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -3685.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -3491.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -3179.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -3177.0,
+      "topic": "Indian religious texts"
+    },
+    {
+      "diff": -3124.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -2732.0,
+      "topic": "Epic poems"
+    }
+  ]
+}

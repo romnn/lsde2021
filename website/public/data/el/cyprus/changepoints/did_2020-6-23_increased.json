@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-23",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 1547.0,
+      "topic": "European political history"
+    },
+    {
+      "diff": 1486.0,
+      "topic": "Political movements"
+    },
+    {
+      "diff": 1390.0,
+      "topic": "Political parties"
+    },
+    {
+      "diff": 1349.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 1143.0,
+      "topic": "Subject"
+    },
+    {
+      "diff": 1038.0,
+      "topic": "Sexuality"
+    },
+    {
+      "diff": 1034.0,
+      "topic": "Human reproductive system"
+    },
+    {
+      "diff": 946.0,
+      "topic": "Animal reproductive system"
+    },
+    {
+      "diff": 720.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 714.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": 709.0,
+      "topic": "Men"
+    },
+    {
+      "diff": 645.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 549.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": 515.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 512.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 501.0,
+      "topic": "Social democracy"
+    },
+    {
+      "diff": 479.0,
+      "topic": "2000s"
+    },
+    {
+      "diff": 446.0,
+      "topic": "European union"
+    },
+    {
+      "diff": 413.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 399.0,
+      "topic": "2010s establishments"
+    }
+  ]
+}

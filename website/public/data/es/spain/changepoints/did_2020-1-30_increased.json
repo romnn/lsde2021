@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 90138.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 85626.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 74348.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 65842.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 63885.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 63440.0,
+      "topic": "History"
+    },
+    {
+      "diff": 49442.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 44395.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 44262.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 38285.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 35408.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 34155.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 33861.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 33663.0,
+      "topic": "Concepts"
+    },
+    {
+      "diff": 32524.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": 30674.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 29491.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 29428.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 29409.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 28579.0,
+      "topic": "Anthropology"
+    }
+  ]
+}

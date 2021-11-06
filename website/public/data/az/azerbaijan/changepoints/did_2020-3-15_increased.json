@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 1298.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1135.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 1037.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 844.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 704.0,
+      "topic": "Cretaceous life"
+    },
+    {
+      "diff": 699.0,
+      "topic": "Early cretaceous"
+    },
+    {
+      "diff": 697.0,
+      "topic": "Hymenoptera"
+    },
+    {
+      "diff": 693.0,
+      "topic": "Mesozoic first appearances"
+    },
+    {
+      "diff": 595.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 586.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 479.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": 464.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 462.0,
+      "topic": "Physical oceanography"
+    },
+    {
+      "diff": 450.0,
+      "topic": "Computational biology"
+    },
+    {
+      "diff": 448.0,
+      "topic": "Biomes"
+    },
+    {
+      "diff": 444.0,
+      "topic": "Natural regions"
+    },
+    {
+      "diff": 411.0,
+      "topic": "Eukaryotes"
+    },
+    {
+      "diff": 386.0,
+      "topic": "Vertebrate zoology"
+    },
+    {
+      "diff": 386.0,
+      "topic": "Mammal taxa"
+    },
+    {
+      "diff": 334.0,
+      "topic": "Kingdoms (biology)"
+    }
+  ]
+}

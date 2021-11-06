@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -6096.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -4924.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -4214.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4199.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -4027.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -3626.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -3439.0,
+      "topic": "Entertainment events"
+    },
+    {
+      "diff": -3357.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -2850.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -2817.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -2768.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -2680.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -2660.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": -2610.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -2561.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -2540.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -2493.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -2422.0,
+      "topic": "Fields"
+    },
+    {
+      "diff": -2405.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -2396.0,
+      "topic": "Sports"
+    }
+  ]
+}

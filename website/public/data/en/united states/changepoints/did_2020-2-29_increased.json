@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 370883.0,
+      "topic": "Medical or psychological condition"
+    },
+    {
+      "diff": 262115.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 262100.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": 260056.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 250434.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": 231421.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 215618.0,
+      "topic": "Aircraft manufacturers"
+    },
+    {
+      "diff": 214368.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 211584.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 200536.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 192643.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 184412.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": 184349.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 182782.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 173099.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 163811.0,
+      "topic": "Mammals"
+    },
+    {
+      "diff": 155876.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 145337.0,
+      "topic": "Law"
+    },
+    {
+      "diff": 139310.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 138834.0,
+      "topic": "Comics"
+    }
+  ]
+}

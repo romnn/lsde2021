@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -1667265.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1452440.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1394172.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -1355500.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -1347724.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1290741.0,
+      "topic": "India"
+    },
+    {
+      "diff": -1247469.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1060441.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -929765.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -917463.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -876199.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -787794.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -787535.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -748903.0,
+      "topic": "History"
+    },
+    {
+      "diff": -717302.0,
+      "topic": "State"
+    },
+    {
+      "diff": -662392.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -620221.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -615459.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -615256.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -597948.0,
+      "topic": "Elections"
+    }
+  ]
+}

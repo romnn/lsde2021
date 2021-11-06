@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 48330.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 47495.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 26810.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 26808.0,
+      "topic": "History"
+    },
+    {
+      "diff": 25975.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 23268.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 22601.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 21673.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 20472.0,
+      "topic": "Environmental social science"
+    },
+    {
+      "diff": 19963.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 19383.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 19215.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 17483.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 16043.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 15747.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 13212.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 12348.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 12228.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 10880.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 10220.0,
+      "topic": "Prevention"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 1027.0,
+      "topic": "Iranic culture"
+    },
+    {
+      "diff": 546.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 409.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 218.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 178.0,
+      "topic": "Departments of auvergne-rh\u00f4ne-alpes"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Horn african countries"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Mythology"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": 119.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 114.0,
+      "topic": "Eurasia"
+    },
+    {
+      "diff": 79.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": 74.0,
+      "topic": "Social groups"
+    },
+    {
+      "diff": 57.0,
+      "topic": "Caribbean"
+    },
+    {
+      "diff": 51.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": 45.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 45.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 44.0,
+      "topic": "France"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Religious culture"
+    },
+    {
+      "diff": 44.0,
+      "topic": "Performing groups"
+    }
+  ]
+}

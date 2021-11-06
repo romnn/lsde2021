@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-19",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -5221.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -3379.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -3251.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -2950.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -2748.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -2440.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -2272.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -2224.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": -2089.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": -1483.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1327.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1319.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -1135.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -1120.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1021.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -1007.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -996.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -953.0,
+      "topic": "History"
+    },
+    {
+      "diff": -736.0,
+      "topic": "Separatism"
+    },
+    {
+      "diff": -733.0,
+      "topic": "Independence"
+    }
+  ]
+}

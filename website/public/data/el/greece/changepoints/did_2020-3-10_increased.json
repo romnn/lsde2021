@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": 9055.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 6976.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 6809.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 6220.0,
+      "topic": "History"
+    },
+    {
+      "diff": 5741.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 5577.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 5013.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4605.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 4369.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 4198.0,
+      "topic": "Wars involving greece"
+    },
+    {
+      "diff": 4119.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4084.0,
+      "topic": "Greek rebellions against the ottoman empire"
+    },
+    {
+      "diff": 4047.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 3360.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 3248.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 3149.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": 2883.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 2858.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 2790.0,
+      "topic": "19th-century religious leaders"
+    },
+    {
+      "diff": 2788.0,
+      "topic": "Military history"
+    }
+  ]
+}

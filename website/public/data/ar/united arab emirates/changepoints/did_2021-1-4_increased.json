@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-04",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 14547.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 12297.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 11778.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 11167.0,
+      "topic": "Cultural events"
+    },
+    {
+      "diff": 10933.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 10506.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 8205.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 7004.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5336.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5051.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5046.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4814.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": 4236.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 4193.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 4133.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": 4041.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": 3867.0,
+      "topic": "Places"
+    },
+    {
+      "diff": 3865.0,
+      "topic": "Algeria"
+    },
+    {
+      "diff": 3756.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": 3694.0,
+      "topic": "International relations"
+    }
+  ]
+}

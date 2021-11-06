@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 12460.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": 11007.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 8882.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 8451.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 8170.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": 7961.0,
+      "topic": "Therapy"
+    },
+    {
+      "diff": 7634.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": 6912.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": 5865.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 5191.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5093.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5093.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 5059.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": 4925.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 4476.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 4390.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 4375.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 4289.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 4134.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 3840.0,
+      "topic": "Physiographic divisions"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1475823.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1152188.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 1141302.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 970088.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 533046.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 461005.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 448091.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 445463.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 405166.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 391286.0,
+      "topic": "People"
+    },
+    {
+      "diff": 377701.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 324090.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": 315229.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 306415.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 304304.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 290563.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 244771.0,
+      "topic": "City"
+    },
+    {
+      "diff": 241496.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 233448.0,
+      "topic": "California"
+    },
+    {
+      "diff": 233097.0,
+      "topic": "Setting"
+    }
+  ]
+}

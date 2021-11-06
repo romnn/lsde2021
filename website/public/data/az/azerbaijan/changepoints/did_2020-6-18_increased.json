@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-18",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": 765.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 746.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 682.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 432.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": 349.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 201.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": 195.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 169.0,
+      "topic": "Demography"
+    },
+    {
+      "diff": 163.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Human pregnancy"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Maternal health"
+    },
+    {
+      "diff": 162.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": 144.0,
+      "topic": "History"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Early modern period"
+    },
+    {
+      "diff": 129.0,
+      "topic": "Period"
+    },
+    {
+      "diff": 126.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": 122.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 107.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 97.0,
+      "topic": "Russia"
+    }
+  ]
+}

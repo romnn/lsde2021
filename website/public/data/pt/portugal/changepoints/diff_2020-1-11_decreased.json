@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -9982.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -8557.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -8536.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -8218.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -8071.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -4655.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3971.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": -3352.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2735.0,
+      "topic": "1990s establishments"
+    },
+    {
+      "diff": -2250.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -2131.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -2009.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1858.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -1787.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": -1727.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -1644.0,
+      "topic": "2nd millennium"
+    },
+    {
+      "diff": -1559.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -1546.0,
+      "topic": "Sun"
+    },
+    {
+      "diff": -1530.0,
+      "topic": "Egyptian culture"
+    },
+    {
+      "diff": -1526.0,
+      "topic": "Portuguese law"
+    }
+  ]
+}

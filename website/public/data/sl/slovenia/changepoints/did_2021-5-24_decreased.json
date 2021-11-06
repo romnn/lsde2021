@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1359.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1272.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1240.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1199.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1039.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -914.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": -837.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": -836.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -793.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -793.0,
+      "topic": "Composers"
+    },
+    {
+      "diff": -637.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -627.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -614.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -511.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -497.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -455.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -441.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -402.0,
+      "topic": "Biology"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-09",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -1833.0,
+      "topic": "French actors"
+    },
+    {
+      "diff": -1785.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -1637.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1459.0,
+      "topic": "Turkish culture"
+    },
+    {
+      "diff": -1237.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -1231.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -1065.0,
+      "topic": "Magic (supernatural)"
+    },
+    {
+      "diff": -1045.0,
+      "topic": "Fairy tales"
+    },
+    {
+      "diff": -1039.0,
+      "topic": "Card games"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Risk"
+    },
+    {
+      "diff": -998.0,
+      "topic": "Bulgarian culture"
+    },
+    {
+      "diff": -955.0,
+      "topic": "Gaming"
+    },
+    {
+      "diff": -946.0,
+      "topic": "Applications"
+    },
+    {
+      "diff": -909.0,
+      "topic": "Mechanism"
+    },
+    {
+      "diff": -884.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -825.0,
+      "topic": "Serbian culture"
+    },
+    {
+      "diff": -811.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -762.0,
+      "topic": "Thailand"
+    },
+    {
+      "diff": -750.0,
+      "topic": "21st-century works"
+    }
+  ]
+}

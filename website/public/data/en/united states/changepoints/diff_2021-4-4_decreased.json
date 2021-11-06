@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-04",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -475074.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -402556.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -251384.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": -249465.0,
+      "topic": "Works set at sea"
+    },
+    {
+      "diff": -226127.0,
+      "topic": "Egypt"
+    },
+    {
+      "diff": -202955.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -189844.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": -183659.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -179255.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": -177790.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": -177029.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": -170626.0,
+      "topic": "Basketball people"
+    },
+    {
+      "diff": -163114.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": -154991.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -149363.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -136237.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -134206.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -128810.0,
+      "topic": "Motorsport"
+    },
+    {
+      "diff": -118901.0,
+      "topic": "Basketball teams"
+    },
+    {
+      "diff": -118162.0,
+      "topic": "American basketball people"
+    }
+  ]
+}

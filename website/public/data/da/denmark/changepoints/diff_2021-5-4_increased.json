@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-04",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 982.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": 765.0,
+      "topic": "Arab"
+    },
+    {
+      "diff": 734.0,
+      "topic": "Mediterranean"
+    },
+    {
+      "diff": 674.0,
+      "topic": "Jordan"
+    },
+    {
+      "diff": 670.0,
+      "topic": "Palestine"
+    },
+    {
+      "diff": 600.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": 557.0,
+      "topic": "Nazism"
+    },
+    {
+      "diff": 555.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": 531.0,
+      "topic": "Zionism"
+    },
+    {
+      "diff": 371.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 370.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 359.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 220.0,
+      "topic": "Power status"
+    },
+    {
+      "diff": 219.0,
+      "topic": "States"
+    },
+    {
+      "diff": 212.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 197.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 184.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 181.0,
+      "topic": "Jews"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 100410.0,
+      "topic": "History"
+    },
+    {
+      "diff": 92553.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 85590.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 63126.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 54414.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 47863.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 47689.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 46941.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 36063.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 35129.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 35008.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 34313.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 33619.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 32138.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 30253.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 29457.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 29131.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 28349.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 28040.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 27195.0,
+      "topic": "Academic discipline"
+    }
+  ]
+}

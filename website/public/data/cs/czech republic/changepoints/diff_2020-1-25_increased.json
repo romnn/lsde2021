@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": 15483.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 15124.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 15117.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": 15117.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": 15041.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 991.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 825.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": 817.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": 817.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": 816.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": 693.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 617.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 612.0,
+      "topic": "Health policy"
+    },
+    {
+      "diff": 608.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 589.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 589.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": 586.0,
+      "topic": "Metropolitan areas"
+    },
+    {
+      "diff": 583.0,
+      "topic": "Capitals"
+    },
+    {
+      "diff": 574.0,
+      "topic": "Prevention"
+    }
+  ]
+}

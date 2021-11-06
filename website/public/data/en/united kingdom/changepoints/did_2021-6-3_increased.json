@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 840844.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 795153.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 685080.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 506953.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 471052.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 424511.0,
+      "topic": "Host"
+    },
+    {
+      "diff": 421357.0,
+      "topic": "International association football competitions"
+    },
+    {
+      "diff": 417950.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 396867.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": 354839.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 304905.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": 261539.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 248552.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 247955.0,
+      "topic": "Medalists at multi-sport events"
+    },
+    {
+      "diff": 232254.0,
+      "topic": "Confederation"
+    },
+    {
+      "diff": 231371.0,
+      "topic": "Month"
+    },
+    {
+      "diff": 215443.0,
+      "topic": "Tennis people"
+    },
+    {
+      "diff": 212730.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": 202462.0,
+      "topic": "Republics"
+    },
+    {
+      "diff": 194642.0,
+      "topic": "Club"
+    }
+  ]
+}

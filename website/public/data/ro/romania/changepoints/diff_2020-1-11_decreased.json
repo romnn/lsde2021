@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -3683.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -3041.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -3029.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -2973.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1732.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -666.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": -652.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -634.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -559.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -545.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -454.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -442.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -420.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": -401.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -380.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Videotelephony"
+    },
+    {
+      "diff": -333.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -325.0,
+      "topic": "Hollywood history"
+    },
+    {
+      "diff": -320.0,
+      "topic": "Musical subgenres"
+    },
+    {
+      "diff": -307.0,
+      "topic": "Dutch caribbean"
+    }
+  ]
+}

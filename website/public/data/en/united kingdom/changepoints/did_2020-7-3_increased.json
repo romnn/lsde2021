@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 2956596.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 2218710.0,
+      "topic": "People"
+    },
+    {
+      "diff": 1787142.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 1674869.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 1584328.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 916651.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 902412.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 853046.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 775181.0,
+      "topic": "State"
+    },
+    {
+      "diff": 768641.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 663680.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 660418.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 647742.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 626103.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 612308.0,
+      "topic": "21st-century women musicians"
+    },
+    {
+      "diff": 565826.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 560102.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 525476.0,
+      "topic": "Jewish descent"
+    },
+    {
+      "diff": 514876.0,
+      "topic": "City"
+    },
+    {
+      "diff": 513560.0,
+      "topic": "Sportspeople"
+    }
+  ]
+}

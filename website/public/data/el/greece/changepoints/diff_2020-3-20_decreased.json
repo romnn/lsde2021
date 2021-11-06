@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -2012.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1993.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1927.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1429.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -1361.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1328.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1272.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -1266.0,
+      "topic": "Pharmaceutical industry"
+    },
+    {
+      "diff": -1265.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -1247.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": -941.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -840.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -830.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -570.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -570.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -569.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -532.0,
+      "topic": "Emergency organizations"
+    },
+    {
+      "diff": -524.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -507.0,
+      "topic": "Medical specialties"
+    },
+    {
+      "diff": -471.0,
+      "topic": "Microscopy"
+    }
+  ]
+}

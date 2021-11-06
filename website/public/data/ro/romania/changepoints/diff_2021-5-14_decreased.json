@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -1640.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1463.0,
+      "topic": "Festivals"
+    },
+    {
+      "diff": -1169.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1168.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1168.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1168.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -1070.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -858.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -809.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": -806.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -735.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -730.0,
+      "topic": "Arabic languages"
+    },
+    {
+      "diff": -670.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -669.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -581.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -540.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -524.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -435.0,
+      "topic": "Fascism"
+    },
+    {
+      "diff": -431.0,
+      "topic": "Syria"
+    },
+    {
+      "diff": -424.0,
+      "topic": "Zionism"
+    }
+  ]
+}

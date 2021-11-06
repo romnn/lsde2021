@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 10525.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 10318.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 9881.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 9464.0,
+      "topic": "France"
+    },
+    {
+      "diff": 6909.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 5571.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": 5455.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 4864.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 4787.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 4741.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 4732.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 3866.0,
+      "topic": "Crops"
+    },
+    {
+      "diff": 3455.0,
+      "topic": "Ghosts"
+    },
+    {
+      "diff": 3330.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 3251.0,
+      "topic": "Fruits originating"
+    },
+    {
+      "diff": 3232.0,
+      "topic": "Music people"
+    },
+    {
+      "diff": 3160.0,
+      "topic": "Prepared foods"
+    },
+    {
+      "diff": 3030.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 2976.0,
+      "topic": "2020s television series"
+    },
+    {
+      "diff": 2971.0,
+      "topic": "Ethnology"
+    }
+  ]
+}

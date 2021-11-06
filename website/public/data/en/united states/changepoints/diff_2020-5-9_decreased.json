@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-09",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -2347174.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1876105.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1798744.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1583057.0,
+      "topic": "United states"
+    },
+    {
+      "diff": -1129618.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -980653.0,
+      "topic": "India"
+    },
+    {
+      "diff": -815364.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -805972.0,
+      "topic": "People"
+    },
+    {
+      "diff": -791309.0,
+      "topic": "History"
+    },
+    {
+      "diff": -774154.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -677684.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -669416.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -669083.0,
+      "topic": "Civil awards"
+    },
+    {
+      "diff": -661190.0,
+      "topic": "Japanese culture"
+    },
+    {
+      "diff": -658887.0,
+      "topic": "Decorations"
+    },
+    {
+      "diff": -656602.0,
+      "topic": "Cinema"
+    },
+    {
+      "diff": -642624.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -639608.0,
+      "topic": "State"
+    },
+    {
+      "diff": -601069.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -597650.0,
+      "topic": "Categories"
+    }
+  ]
+}

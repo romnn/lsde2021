@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-24",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 370.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 308.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 299.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 225.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 202.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 193.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 187.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": 152.0,
+      "topic": "Copy editing"
+    },
+    {
+      "diff": 149.0,
+      "topic": "Parent-only stub categories"
+    },
+    {
+      "diff": 141.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 131.0,
+      "topic": "Information"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 130.0,
+      "topic": "Rock music groups"
+    },
+    {
+      "diff": 117.0,
+      "topic": "Ancient athenians"
+    },
+    {
+      "diff": 116.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": 110.0,
+      "topic": "Physical phenomena"
+    },
+    {
+      "diff": 108.0,
+      "topic": "Quaternary south america"
+    },
+    {
+      "diff": 106.0,
+      "topic": "Pleistocene life"
+    },
+    {
+      "diff": 105.0,
+      "topic": "Cenozoic tetrapods"
+    },
+    {
+      "diff": 104.0,
+      "topic": "Teaching"
+    }
+  ]
+}

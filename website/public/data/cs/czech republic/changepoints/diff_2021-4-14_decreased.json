@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-14",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -6579.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -6357.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -6357.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -6356.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -6356.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1444.0,
+      "topic": "Israel"
+    },
+    {
+      "diff": -1269.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -1260.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -1235.0,
+      "topic": "Jews"
+    },
+    {
+      "diff": -1099.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -1048.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -1030.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": -983.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -957.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": -955.0,
+      "topic": "Bible student movement"
+    },
+    {
+      "diff": -890.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": -877.0,
+      "topic": "Computer engineering"
+    },
+    {
+      "diff": -800.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -641.0,
+      "topic": "Apple inc."
+    },
+    {
+      "diff": -524.0,
+      "topic": "Cuisine"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": 1817.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 1735.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 1637.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 1634.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 1595.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 1582.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 1508.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 1256.0,
+      "topic": "History"
+    },
+    {
+      "diff": 1228.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 1218.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1137.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 1102.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 1068.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 1025.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1006.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 931.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 928.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 759.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 642.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 628.0,
+      "topic": "Culture"
+    }
+  ]
+}

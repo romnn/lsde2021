@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 847275.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 782245.0,
+      "topic": "People"
+    },
+    {
+      "diff": 504596.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 239907.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 200758.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 146696.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 145204.0,
+      "topic": "Films"
+    },
+    {
+      "diff": 141094.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 134165.0,
+      "topic": "National football league people"
+    },
+    {
+      "diff": 132041.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 127798.0,
+      "topic": "Tennis"
+    },
+    {
+      "diff": 127563.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 126829.0,
+      "topic": "Films set"
+    },
+    {
+      "diff": 126828.0,
+      "topic": "Geographic setting"
+    },
+    {
+      "diff": 122860.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": 120538.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 120494.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": 118245.0,
+      "topic": "American men"
+    },
+    {
+      "diff": 115249.0,
+      "topic": "Lgbt-related films"
+    },
+    {
+      "diff": 113598.0,
+      "topic": "American literature"
+    }
+  ]
+}

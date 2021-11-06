@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -156.0,
+      "topic": "History"
+    },
+    {
+      "diff": -144.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -142.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -131.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -84.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -78.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -73.0,
+      "topic": "Late antiquity"
+    },
+    {
+      "diff": -71.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -52.0,
+      "topic": "International relations"
+    },
+    {
+      "diff": -52.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -47.0,
+      "topic": "Supranational unions"
+    },
+    {
+      "diff": -42.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -41.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -39.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -37.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -36.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -34.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -28.0,
+      "topic": "Europe"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -4030.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -3096.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -2939.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -2937.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -2370.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2057.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1957.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1843.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -1155.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -1149.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -1038.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -1026.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1021.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -972.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -928.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -899.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": -874.0,
+      "topic": "Statistical data"
+    },
+    {
+      "diff": -843.0,
+      "topic": "Habsburg monarchy"
+    },
+    {
+      "diff": -829.0,
+      "topic": "Spiritualism"
+    },
+    {
+      "diff": -826.0,
+      "topic": "Fiction"
+    }
+  ]
+}

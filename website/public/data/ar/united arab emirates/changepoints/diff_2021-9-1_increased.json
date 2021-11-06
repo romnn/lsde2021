@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-09-01",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 6844.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 6155.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 5513.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": 5422.0,
+      "topic": "Components"
+    },
+    {
+      "diff": 5385.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": 5335.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 5274.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": 5188.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 4034.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 3994.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3916.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3781.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3686.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 3524.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 3517.0,
+      "topic": "Matter"
+    },
+    {
+      "diff": 3488.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3024.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 2846.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2683.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 2631.0,
+      "topic": "Moral psychology"
+    }
+  ]
+}

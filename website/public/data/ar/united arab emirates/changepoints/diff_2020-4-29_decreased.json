@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-04-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -20019.0,
+      "topic": "Simple living"
+    },
+    {
+      "diff": -19755.0,
+      "topic": "Religious festivals"
+    },
+    {
+      "diff": -17154.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -17054.0,
+      "topic": "Drink culture"
+    },
+    {
+      "diff": -16393.0,
+      "topic": "Faith"
+    },
+    {
+      "diff": -5804.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -3847.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -3814.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -3511.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -3502.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -3502.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -3502.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -3502.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -3405.0,
+      "topic": "Primate behavior"
+    },
+    {
+      "diff": -3394.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3261.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": -3147.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -3105.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -2953.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -2945.0,
+      "topic": "Festivals"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -3237.0,
+      "topic": "Human geography"
+    },
+    {
+      "diff": -3006.0,
+      "topic": "Eastern mediterranean"
+    },
+    {
+      "diff": -2937.0,
+      "topic": "Corporate groups"
+    },
+    {
+      "diff": -2903.0,
+      "topic": "Arab society"
+    },
+    {
+      "diff": -2898.0,
+      "topic": "Iranian society"
+    },
+    {
+      "diff": -2674.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -2344.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": -2272.0,
+      "topic": "Ancient history"
+    },
+    {
+      "diff": -2205.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2203.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2079.0,
+      "topic": "History"
+    },
+    {
+      "diff": -1954.0,
+      "topic": "Mediterranean sea"
+    },
+    {
+      "diff": -1919.0,
+      "topic": "Millennia"
+    },
+    {
+      "diff": -1904.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": -1877.0,
+      "topic": "Indo-european deities"
+    },
+    {
+      "diff": -1867.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1818.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -1777.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -1743.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -1710.0,
+      "topic": "Post-soviet states"
+    }
+  ]
+}

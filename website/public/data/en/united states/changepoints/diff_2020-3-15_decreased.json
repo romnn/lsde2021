@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -782561.0,
+      "topic": "Continent"
+    },
+    {
+      "diff": -755502.0,
+      "topic": "Political congresses"
+    },
+    {
+      "diff": -754202.0,
+      "topic": "Government institutions"
+    },
+    {
+      "diff": -717909.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -571445.0,
+      "topic": "History"
+    },
+    {
+      "diff": -391647.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": -317417.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -310359.0,
+      "topic": "Manufacturing"
+    },
+    {
+      "diff": -291975.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": -267371.0,
+      "topic": "Information technology"
+    },
+    {
+      "diff": -226880.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -204028.0,
+      "topic": "Units"
+    },
+    {
+      "diff": -181705.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -164127.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -133975.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -133672.0,
+      "topic": "Political events"
+    },
+    {
+      "diff": -123035.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -109470.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -108017.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": -107478.0,
+      "topic": "Interpersonal relationships"
+    }
+  ]
+}

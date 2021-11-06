@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 42395.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 38941.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 37563.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 32917.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 32625.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 29490.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 17746.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 16654.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 16460.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 16116.0,
+      "topic": "History"
+    },
+    {
+      "diff": 16036.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 15822.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 14436.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 13577.0,
+      "topic": "19th-century works"
+    },
+    {
+      "diff": 13123.0,
+      "topic": "Poland"
+    },
+    {
+      "diff": 12961.0,
+      "topic": "European music"
+    },
+    {
+      "diff": 12961.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 12630.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 12403.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 11551.0,
+      "topic": "Works"
+    }
+  ]
+}

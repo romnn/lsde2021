@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": 19469.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 19461.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 18717.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 18107.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 14676.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 13393.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 13366.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 12863.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 12633.0,
+      "topic": "Former country"
+    },
+    {
+      "diff": 12390.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 12100.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 11909.0,
+      "topic": "Classification"
+    },
+    {
+      "diff": 11788.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": 10958.0,
+      "topic": "Military"
+    },
+    {
+      "diff": 10820.0,
+      "topic": "Pharmacy"
+    },
+    {
+      "diff": 10112.0,
+      "topic": "Anti-infective agents"
+    },
+    {
+      "diff": 9129.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": 9056.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 8863.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 8729.0,
+      "topic": "Decade"
+    }
+  ]
+}

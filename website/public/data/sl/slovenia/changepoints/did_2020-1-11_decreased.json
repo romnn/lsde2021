@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -346.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -317.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -270.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -267.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -170.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -160.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -150.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -145.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Visual arts"
+    },
+    {
+      "diff": -130.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -129.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Adaptation"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -121.0,
+      "topic": "New age"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Area studies"
+    },
+    {
+      "diff": -114.0,
+      "topic": "Mechanism"
+    },
+    {
+      "diff": -112.0,
+      "topic": "Ukraine"
+    }
+  ]
+}

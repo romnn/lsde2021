@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -19876.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -15528.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -13059.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -12165.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -6436.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -6005.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -5970.0,
+      "topic": "Southwestern european countries"
+    },
+    {
+      "diff": -5827.0,
+      "topic": "Iberian peninsula"
+    },
+    {
+      "diff": -5392.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": -5316.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": -5183.0,
+      "topic": "Italian cuisine"
+    },
+    {
+      "diff": -5146.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -5105.0,
+      "topic": "Costa rican cuisine"
+    },
+    {
+      "diff": -5105.0,
+      "topic": "Portuguese cuisine"
+    },
+    {
+      "diff": -5015.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -4902.0,
+      "topic": "Ecuador"
+    },
+    {
+      "diff": -4706.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -4693.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -4558.0,
+      "topic": "Arabic-language culture"
+    },
+    {
+      "diff": -4307.0,
+      "topic": "Performing groups"
+    }
+  ]
+}

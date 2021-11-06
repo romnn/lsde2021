@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -3032.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -2478.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1844.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1741.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -1595.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -1569.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": -1563.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": -1562.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": -1385.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1294.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": -1156.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1128.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": -1098.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -1089.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -1089.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -940.0,
+      "topic": "Sea or ocean"
+    },
+    {
+      "diff": -832.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -750.0,
+      "topic": "Protected areas"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Populated places by first-level administrative country subdivision"
+    },
+    {
+      "diff": -739.0,
+      "topic": "Ancient greeks"
+    }
+  ]
+}

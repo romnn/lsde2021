@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 76187.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 73081.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 72180.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": 70881.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": 69501.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 67282.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 66520.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 66328.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 64246.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 52744.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 50022.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 43252.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 39442.0,
+      "topic": "History"
+    },
+    {
+      "diff": 37593.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 35598.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 31715.0,
+      "topic": "Archaeology"
+    },
+    {
+      "diff": 31530.0,
+      "topic": "Meaning (philosophy of language)"
+    },
+    {
+      "diff": 30449.0,
+      "topic": "The arts"
+    },
+    {
+      "diff": 27609.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 14551.0,
+      "topic": "Prevention"
+    }
+  ]
+}

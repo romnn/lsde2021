@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -11468.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -10721.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -8909.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -8335.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -8321.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -8254.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -7964.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -7684.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -7245.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -7206.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -6482.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -6262.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -6233.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -5613.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -5578.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -5003.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4516.0,
+      "topic": "Home appliances"
+    },
+    {
+      "diff": -4469.0,
+      "topic": "Computer hardware"
+    },
+    {
+      "diff": -4425.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -4292.0,
+      "topic": "Television series"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 40319.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 31562.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 31333.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 24502.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 21589.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 20916.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 20836.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 20105.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 18682.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 15144.0,
+      "topic": "Culture-related controversies"
+    },
+    {
+      "diff": 13653.0,
+      "topic": "Latin america"
+    },
+    {
+      "diff": 13596.0,
+      "topic": "Folklore"
+    },
+    {
+      "diff": 12832.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 11615.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 11040.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 10055.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 9868.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 9799.0,
+      "topic": "Health research"
+    },
+    {
+      "diff": 9795.0,
+      "topic": "Women"
+    },
+    {
+      "diff": 9721.0,
+      "topic": "Research organizations"
+    }
+  ]
+}

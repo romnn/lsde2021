@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -45811.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -43758.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -42126.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": -42077.0,
+      "topic": "Business services companies"
+    },
+    {
+      "diff": -40177.0,
+      "topic": "Financial services"
+    },
+    {
+      "diff": -10499.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -9439.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -8428.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -7909.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -7632.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -7152.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -7081.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -6910.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6277.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": -6160.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": -5621.0,
+      "topic": "Business"
+    },
+    {
+      "diff": -5606.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -5501.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -5441.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -5405.0,
+      "topic": "Public health"
+    }
+  ]
+}

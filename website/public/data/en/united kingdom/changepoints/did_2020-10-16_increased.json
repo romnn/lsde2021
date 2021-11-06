@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-16",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1312229.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 1138915.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 974057.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 770093.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 597751.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 542010.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 478168.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": 443127.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 411570.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 400987.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 389873.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 367584.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 353849.0,
+      "topic": "Social media"
+    },
+    {
+      "diff": 346269.0,
+      "topic": "Internet"
+    },
+    {
+      "diff": 335623.0,
+      "topic": "Crowdsourcing"
+    },
+    {
+      "diff": 335468.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 324793.0,
+      "topic": "Open-source movement"
+    },
+    {
+      "diff": 323904.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": 319537.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 310819.0,
+      "topic": "Genre"
+    }
+  ]
+}

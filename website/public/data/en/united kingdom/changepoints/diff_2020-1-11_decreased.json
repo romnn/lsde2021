@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -636377.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": -543431.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -523976.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -433128.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -417189.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -364824.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -360169.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -359904.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -326470.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -281244.0,
+      "topic": "Frankfurt school"
+    },
+    {
+      "diff": -265058.0,
+      "topic": "Arab winter"
+    },
+    {
+      "diff": -251605.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -247901.0,
+      "topic": "Iraqi insurgency (2011\u20132013)"
+    },
+    {
+      "diff": -235856.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -221073.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": -212214.0,
+      "topic": "Film"
+    },
+    {
+      "diff": -208402.0,
+      "topic": "Political history"
+    },
+    {
+      "diff": -208117.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -207953.0,
+      "topic": "Constitutional law"
+    },
+    {
+      "diff": -203274.0,
+      "topic": "Medium"
+    }
+  ]
+}

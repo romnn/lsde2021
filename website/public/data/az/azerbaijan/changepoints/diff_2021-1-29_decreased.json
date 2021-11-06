@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-29",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -20080.0,
+      "topic": "History"
+    },
+    {
+      "diff": -13849.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -11157.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -9641.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -8645.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -7760.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -6687.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6564.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -6493.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -6158.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6006.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -5855.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -5790.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -5729.0,
+      "topic": "Cartography"
+    },
+    {
+      "diff": -5626.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -5606.0,
+      "topic": "Surveying"
+    },
+    {
+      "diff": -5315.0,
+      "topic": "Geographical areas"
+    },
+    {
+      "diff": -5239.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": -5067.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -4850.0,
+      "topic": "Interpretation (philosophy)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-03-15",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 500946.0,
+      "topic": "Film studios"
+    },
+    {
+      "diff": 395555.0,
+      "topic": "Seas"
+    },
+    {
+      "diff": 389143.0,
+      "topic": "Works set at sea"
+    },
+    {
+      "diff": 286558.0,
+      "topic": "Artificial intelligence"
+    },
+    {
+      "diff": 247959.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 222684.0,
+      "topic": "Egypt"
+    },
+    {
+      "diff": 208289.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": 208177.0,
+      "topic": "Motorsport"
+    },
+    {
+      "diff": 202874.0,
+      "topic": "Near east"
+    },
+    {
+      "diff": 200289.0,
+      "topic": "Formula one"
+    },
+    {
+      "diff": 181956.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 177022.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": 167160.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 127631.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": 125106.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": 115798.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": 114746.0,
+      "topic": "Basketball people"
+    },
+    {
+      "diff": 111936.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 108064.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 104715.0,
+      "topic": "Taiwan"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 3818.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 3814.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 3729.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 2955.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 2720.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 1276.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 1011.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 887.0,
+      "topic": "Crime"
+    },
+    {
+      "diff": 876.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 824.0,
+      "topic": "Mode"
+    },
+    {
+      "diff": 774.0,
+      "topic": "Security"
+    },
+    {
+      "diff": 733.0,
+      "topic": "Transport"
+    },
+    {
+      "diff": 623.0,
+      "topic": "Ancient greek cities"
+    },
+    {
+      "diff": 598.0,
+      "topic": "Classical anatolia"
+    },
+    {
+      "diff": 570.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 552.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 531.0,
+      "topic": "Islands"
+    },
+    {
+      "diff": 499.0,
+      "topic": "Property law"
+    },
+    {
+      "diff": 477.0,
+      "topic": "World wars"
+    },
+    {
+      "diff": 464.0,
+      "topic": "Military"
+    }
+  ]
+}

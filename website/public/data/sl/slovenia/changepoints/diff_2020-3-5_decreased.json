@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -872.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -872.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -824.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -647.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -444.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -336.0,
+      "topic": "Writing systems"
+    },
+    {
+      "diff": -333.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -332.0,
+      "topic": "Index (publishing)"
+    },
+    {
+      "diff": -332.0,
+      "topic": "Linguistics terminology"
+    },
+    {
+      "diff": -331.0,
+      "topic": "Orthography"
+    },
+    {
+      "diff": -291.0,
+      "topic": "Humans"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -251.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -240.0,
+      "topic": "Eastern christianity"
+    },
+    {
+      "diff": -239.0,
+      "topic": "Religious buildings"
+    },
+    {
+      "diff": -237.0,
+      "topic": "Christian denominations"
+    },
+    {
+      "diff": -230.0,
+      "topic": "France"
+    },
+    {
+      "diff": -230.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Slavic-language names"
+    },
+    {
+      "diff": -203.0,
+      "topic": "Western christianity"
+    }
+  ]
+}

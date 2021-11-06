@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-27",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -24489.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -14350.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -13276.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -9873.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -9829.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -9037.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -8949.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -8844.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": -8716.0,
+      "topic": "Phrases"
+    },
+    {
+      "diff": -7967.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -7628.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -7614.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -7455.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -7231.0,
+      "topic": "Post-soviet states"
+    },
+    {
+      "diff": -6976.0,
+      "topic": "Federations"
+    },
+    {
+      "diff": -6793.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -6724.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -5714.0,
+      "topic": "Performing groups"
+    },
+    {
+      "diff": -5447.0,
+      "topic": "Disestablishment"
+    },
+    {
+      "diff": -5374.0,
+      "topic": "Pop musicians"
+    }
+  ]
+}

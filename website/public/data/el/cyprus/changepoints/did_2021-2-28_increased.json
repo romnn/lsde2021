@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 2618.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 1936.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": 1736.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": 1674.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": 1665.0,
+      "topic": "Christian events"
+    },
+    {
+      "diff": 1664.0,
+      "topic": "Autumn events"
+    },
+    {
+      "diff": 1634.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": 1619.0,
+      "topic": "Southern european countries"
+    },
+    {
+      "diff": 1530.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": 1474.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 1398.0,
+      "topic": "Water transport"
+    },
+    {
+      "diff": 1380.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 1355.0,
+      "topic": "Geological history"
+    },
+    {
+      "diff": 1347.0,
+      "topic": "Classical mechanics"
+    },
+    {
+      "diff": 1332.0,
+      "topic": "Earth"
+    },
+    {
+      "diff": 1330.0,
+      "topic": "Security"
+    },
+    {
+      "diff": 1322.0,
+      "topic": "Risk management"
+    },
+    {
+      "diff": 1303.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 1201.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": 1184.0,
+      "topic": "Phrases"
+    }
+  ]
+}

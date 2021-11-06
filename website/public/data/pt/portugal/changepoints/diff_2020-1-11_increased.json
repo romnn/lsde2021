@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 15852.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 14729.0,
+      "topic": "Beginnings"
+    },
+    {
+      "diff": 13978.0,
+      "topic": "Endings"
+    },
+    {
+      "diff": 13835.0,
+      "topic": "Categories by first-level administrative country subdivision"
+    },
+    {
+      "diff": 6549.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 6366.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 5351.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5085.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4976.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 4678.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 4644.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 4577.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 4535.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 4458.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4166.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 4130.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 4111.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3876.0,
+      "topic": "South america"
+    },
+    {
+      "diff": 3785.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3601.0,
+      "topic": "Brazilian people"
+    }
+  ]
+}

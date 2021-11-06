@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 24938.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": 24938.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 24908.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 19510.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 18991.0,
+      "topic": "Septuagint"
+    },
+    {
+      "diff": 18921.0,
+      "topic": "Texts"
+    },
+    {
+      "diff": 18638.0,
+      "topic": "Animal law"
+    },
+    {
+      "diff": 18421.0,
+      "topic": "Lifestyle"
+    },
+    {
+      "diff": 18388.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 16635.0,
+      "topic": "17th century"
+    },
+    {
+      "diff": 15717.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 15605.0,
+      "topic": "Portugal"
+    },
+    {
+      "diff": 11957.0,
+      "topic": "Hebrew bible"
+    },
+    {
+      "diff": 11639.0,
+      "topic": "Families"
+    },
+    {
+      "diff": 11508.0,
+      "topic": "Mythological people"
+    },
+    {
+      "diff": 10651.0,
+      "topic": "Christian saints"
+    },
+    {
+      "diff": 9964.0,
+      "topic": "Books"
+    },
+    {
+      "diff": 9576.0,
+      "topic": "Abuse"
+    },
+    {
+      "diff": 9387.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 9216.0,
+      "topic": "Human behavior"
+    }
+  ]
+}

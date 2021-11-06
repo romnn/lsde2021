@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-13",
+  "country": {
+    "code": "RUS",
+    "group": "ru",
+    "name": "Russia"
+  },
+  "topics": [
+    {
+      "diff": 12180.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": 10889.0,
+      "topic": "Theism"
+    },
+    {
+      "diff": 10847.0,
+      "topic": "Christianity"
+    },
+    {
+      "diff": 10727.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": 9682.0,
+      "topic": "Roman empire"
+    },
+    {
+      "diff": 7596.0,
+      "topic": "Millennium"
+    },
+    {
+      "diff": 6467.0,
+      "topic": "Classical antiquity"
+    },
+    {
+      "diff": 6089.0,
+      "topic": "Introductions"
+    },
+    {
+      "diff": 5740.0,
+      "topic": "Biochemistry"
+    },
+    {
+      "diff": 5439.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 5138.0,
+      "topic": "Archipelagoes"
+    },
+    {
+      "diff": 4616.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 4090.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 4060.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": 3927.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": 3661.0,
+      "topic": "Deities"
+    },
+    {
+      "diff": 3049.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": 2968.0,
+      "topic": "2010s fads"
+    },
+    {
+      "diff": 2917.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": 2856.0,
+      "topic": "Alternative rock"
+    }
+  ]
+}

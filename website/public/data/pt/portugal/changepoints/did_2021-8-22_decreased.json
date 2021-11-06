@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -22428.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -21930.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -21849.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -21820.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -20570.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -16864.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -16085.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -14716.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -14198.0,
+      "topic": "Women"
+    },
+    {
+      "diff": -12672.0,
+      "topic": "Diplomacy"
+    },
+    {
+      "diff": -11971.0,
+      "topic": "African female royalty"
+    },
+    {
+      "diff": -11775.0,
+      "topic": "Forms"
+    },
+    {
+      "diff": -11408.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -10197.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -9606.0,
+      "topic": "Decades"
+    },
+    {
+      "diff": -5956.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5671.0,
+      "topic": "History"
+    },
+    {
+      "diff": -4939.0,
+      "topic": "Abraham"
+    },
+    {
+      "diff": -4651.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -4240.0,
+      "topic": "Names"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -990.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -815.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -737.0,
+      "topic": "Political theories"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -712.0,
+      "topic": "Social inequality"
+    },
+    {
+      "diff": -709.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": -708.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -659.0,
+      "topic": "Botany"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -644.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -606.0,
+      "topic": "Morphology"
+    },
+    {
+      "diff": -596.0,
+      "topic": "Plants"
+    },
+    {
+      "diff": -588.0,
+      "topic": "Orchid taxonomy"
+    },
+    {
+      "diff": -583.0,
+      "topic": "Asparagales genera"
+    },
+    {
+      "diff": -490.0,
+      "topic": "Subdivisions"
+    },
+    {
+      "diff": -472.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -465.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -457.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -394.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -364.0,
+      "topic": "United kingdom"
+    }
+  ]
+}

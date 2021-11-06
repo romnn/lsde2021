@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-16",
+  "country": {
+    "code": "AZE",
+    "group": "az",
+    "name": "Azerbaijan"
+  },
+  "topics": [
+    {
+      "diff": -607.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -591.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -553.0,
+      "topic": "Family history"
+    },
+    {
+      "diff": -552.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": -480.0,
+      "topic": "Arab world"
+    },
+    {
+      "diff": -292.0,
+      "topic": "7th-century beginnings"
+    },
+    {
+      "diff": -292.0,
+      "topic": "Political professionals"
+    },
+    {
+      "diff": -257.0,
+      "topic": "Food"
+    },
+    {
+      "diff": -249.0,
+      "topic": "Asian monarchs"
+    },
+    {
+      "diff": -164.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -153.0,
+      "topic": "Hadith"
+    },
+    {
+      "diff": -126.0,
+      "topic": "Expatriates"
+    },
+    {
+      "diff": -113.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -111.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -103.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -101.0,
+      "topic": "Islamic ethics"
+    },
+    {
+      "diff": -99.0,
+      "topic": "Medieval arabic texts"
+    },
+    {
+      "diff": -97.0,
+      "topic": "7th-century books"
+    },
+    {
+      "diff": -97.0,
+      "topic": "Islamic texts"
+    },
+    {
+      "diff": -96.0,
+      "topic": "Components"
+    }
+  ]
+}

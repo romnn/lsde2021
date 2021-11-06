@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-29",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -14666.0,
+      "topic": "History"
+    },
+    {
+      "diff": -10362.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -10108.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6988.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -6529.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -6108.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -5781.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -5746.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -5641.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5526.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -5508.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -5264.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4753.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -4675.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -4556.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -4385.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -3895.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -3893.0,
+      "topic": "Middle east"
+    },
+    {
+      "diff": -3854.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3465.0,
+      "topic": "Establishments"
+    }
+  ]
+}

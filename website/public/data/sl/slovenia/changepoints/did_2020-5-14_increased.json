@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": 1067.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 970.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 911.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": 891.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 860.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 771.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 732.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": 722.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 695.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": 662.0,
+      "topic": "Composers"
+    },
+    {
+      "diff": 653.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": 486.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 468.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 377.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 335.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 331.0,
+      "topic": "Words"
+    },
+    {
+      "diff": 330.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": 310.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 288.0,
+      "topic": "Universe"
+    }
+  ]
+}

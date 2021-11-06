@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": 9320.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 8260.0,
+      "topic": "History"
+    },
+    {
+      "diff": 6749.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 6624.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 5992.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": 5741.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 5497.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 5130.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5018.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4119.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 4054.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 4042.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 3988.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 3959.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 3570.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3547.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 3191.0,
+      "topic": "Turkey"
+    },
+    {
+      "diff": 3163.0,
+      "topic": "Regional units"
+    },
+    {
+      "diff": 3049.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": 3017.0,
+      "topic": "Centuries"
+    }
+  ]
+}

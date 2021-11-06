@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-21",
+  "country": {
+    "code": "IRL",
+    "group": "ga",
+    "name": "Ireland"
+  },
+  "topics": [
+    {
+      "diff": -403.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -395.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -341.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -340.0,
+      "topic": "Geography of eure-et-loir"
+    },
+    {
+      "diff": -340.0,
+      "topic": "Aedui"
+    },
+    {
+      "diff": -242.0,
+      "topic": "Ukrainian soviet socialist republic"
+    },
+    {
+      "diff": -242.0,
+      "topic": "Dnieper basin"
+    },
+    {
+      "diff": -217.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -214.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -211.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -205.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -195.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -169.0,
+      "topic": "Sequani"
+    },
+    {
+      "diff": -168.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -164.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -163.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -139.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Human communication"
+    },
+    {
+      "diff": -136.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -123.0,
+      "topic": "Video technology"
+    }
+  ]
+}

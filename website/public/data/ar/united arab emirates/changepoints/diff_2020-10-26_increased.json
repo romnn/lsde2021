@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": 9295.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 8613.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 7975.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 7126.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 6989.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 6766.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 6530.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 6201.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": 5931.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 5670.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 5629.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 4994.0,
+      "topic": "Divination"
+    },
+    {
+      "diff": 4706.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": 4705.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 4464.0,
+      "topic": "6th century"
+    },
+    {
+      "diff": 4333.0,
+      "topic": "Middle eastern culture"
+    },
+    {
+      "diff": 3995.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3811.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3784.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": 3756.0,
+      "topic": "Arab culture"
+    }
+  ]
+}

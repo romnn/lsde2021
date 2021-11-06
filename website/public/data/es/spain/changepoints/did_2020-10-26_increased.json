@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 50597.0,
+      "topic": "North america"
+    },
+    {
+      "diff": 44471.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 40060.0,
+      "topic": "Ritual"
+    },
+    {
+      "diff": 39582.0,
+      "topic": "Folk culture"
+    },
+    {
+      "diff": 36263.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 32672.0,
+      "topic": "Society"
+    },
+    {
+      "diff": 31905.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": 31510.0,
+      "topic": "Culture-related controversies"
+    },
+    {
+      "diff": 30438.0,
+      "topic": "Folklore"
+    },
+    {
+      "diff": 27544.0,
+      "topic": "Latin america"
+    },
+    {
+      "diff": 18066.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 16582.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 9497.0,
+      "topic": "Literature"
+    },
+    {
+      "diff": 9492.0,
+      "topic": "British culture"
+    },
+    {
+      "diff": 9401.0,
+      "topic": "Country"
+    },
+    {
+      "diff": 9189.0,
+      "topic": "Research organizations"
+    },
+    {
+      "diff": 9005.0,
+      "topic": "Health research"
+    },
+    {
+      "diff": 8504.0,
+      "topic": "Chemicals"
+    },
+    {
+      "diff": 8235.0,
+      "topic": "Association football people"
+    },
+    {
+      "diff": 8216.0,
+      "topic": "Gender"
+    }
+  ]
+}

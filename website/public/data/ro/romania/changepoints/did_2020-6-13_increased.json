@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-13",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 2863.0,
+      "topic": "Supernatural healing"
+    },
+    {
+      "diff": 2473.0,
+      "topic": "Ceremonies"
+    },
+    {
+      "diff": 2466.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": 2460.0,
+      "topic": "Jewish messiah claimants"
+    },
+    {
+      "diff": 1860.0,
+      "topic": "Traditional stories"
+    },
+    {
+      "diff": 1602.0,
+      "topic": "European cuisine"
+    },
+    {
+      "diff": 1572.0,
+      "topic": "Ottoman culture"
+    },
+    {
+      "diff": 1542.0,
+      "topic": "Turkic culture"
+    },
+    {
+      "diff": 1447.0,
+      "topic": "Asian studies"
+    },
+    {
+      "diff": 1338.0,
+      "topic": "Western asian culture"
+    },
+    {
+      "diff": 1081.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 910.0,
+      "topic": "Paranormal"
+    },
+    {
+      "diff": 688.0,
+      "topic": "New age"
+    },
+    {
+      "diff": 422.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 386.0,
+      "topic": "Indo-european legends"
+    },
+    {
+      "diff": 302.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 290.0,
+      "topic": "Moldovan culture"
+    },
+    {
+      "diff": 281.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": 273.0,
+      "topic": "2010s fads"
+    },
+    {
+      "diff": 271.0,
+      "topic": "Trends"
+    }
+  ]
+}

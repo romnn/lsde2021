@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-29",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": 27887.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": 26766.0,
+      "topic": "Anti-fascism"
+    },
+    {
+      "diff": 26740.0,
+      "topic": "Libertarian socialism"
+    },
+    {
+      "diff": 26242.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": 25916.0,
+      "topic": "Socialism"
+    },
+    {
+      "diff": 18866.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": 16671.0,
+      "topic": "Signal transduction"
+    },
+    {
+      "diff": 14804.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": 13704.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": 11546.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 10668.0,
+      "topic": "Marxism"
+    },
+    {
+      "diff": 10263.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 9785.0,
+      "topic": "Communism"
+    },
+    {
+      "diff": 9472.0,
+      "topic": "Political science terminology"
+    },
+    {
+      "diff": 6545.0,
+      "topic": "Social theories"
+    },
+    {
+      "diff": 6036.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 5777.0,
+      "topic": "London"
+    },
+    {
+      "diff": 5691.0,
+      "topic": "International sports competitions"
+    },
+    {
+      "diff": 5459.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 5231.0,
+      "topic": "South american football"
+    }
+  ]
+}

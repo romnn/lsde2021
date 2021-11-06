@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 123343.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 74679.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 52836.0,
+      "topic": "Business"
+    },
+    {
+      "diff": 52801.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 49750.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 49574.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": 48361.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": 47855.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": 44691.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 43273.0,
+      "topic": "Engineering"
+    },
+    {
+      "diff": 42491.0,
+      "topic": "Computer security exploits"
+    },
+    {
+      "diff": 42450.0,
+      "topic": "Information management"
+    },
+    {
+      "diff": 42152.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 40308.0,
+      "topic": "Government aid programs"
+    },
+    {
+      "diff": 40104.0,
+      "topic": "Decentralization"
+    },
+    {
+      "diff": 39198.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 38715.0,
+      "topic": "Corporatism"
+    },
+    {
+      "diff": 37924.0,
+      "topic": "History"
+    },
+    {
+      "diff": 37816.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 31300.0,
+      "topic": "Natural sciences"
+    }
+  ]
+}

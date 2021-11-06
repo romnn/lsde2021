@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-24",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1447.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Liturgical calendars"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Weekday"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Catholic liturgical law"
+    },
+    {
+      "diff": -1217.0,
+      "topic": "Protestant holy days"
+    },
+    {
+      "diff": -1190.0,
+      "topic": "Jewish observances"
+    },
+    {
+      "diff": -1092.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -993.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -905.0,
+      "topic": "History"
+    },
+    {
+      "diff": -857.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -832.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -807.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -786.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -771.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -742.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -702.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -617.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -616.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -608.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -590.0,
+      "topic": "Artificial materials"
+    }
+  ]
+}

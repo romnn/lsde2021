@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-05",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -1880.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1678.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1215.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -802.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -783.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -750.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -719.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -682.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -656.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -602.0,
+      "topic": "Pop musicians"
+    },
+    {
+      "diff": -600.0,
+      "topic": "Composers"
+    },
+    {
+      "diff": -549.0,
+      "topic": "France"
+    },
+    {
+      "diff": -484.0,
+      "topic": "Municipalities"
+    },
+    {
+      "diff": -476.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -409.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -358.0,
+      "topic": "Greek alphabet"
+    },
+    {
+      "diff": -354.0,
+      "topic": "Earth sciences"
+    },
+    {
+      "diff": -345.0,
+      "topic": "Writing systems"
+    },
+    {
+      "diff": -339.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    }
+  ]
+}

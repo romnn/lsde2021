@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-15",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 40285.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 29595.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 24261.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 22946.0,
+      "topic": "Food"
+    },
+    {
+      "diff": 21090.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 17276.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": 16860.0,
+      "topic": "Period television series"
+    },
+    {
+      "diff": 15745.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": 15509.0,
+      "topic": "Drink"
+    },
+    {
+      "diff": 14864.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": 14583.0,
+      "topic": "2020s television series"
+    },
+    {
+      "diff": 14011.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": 13934.0,
+      "topic": "American television shows"
+    },
+    {
+      "diff": 13371.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": 13020.0,
+      "topic": "British empire"
+    },
+    {
+      "diff": 13008.0,
+      "topic": "Literary genres"
+    },
+    {
+      "diff": 12733.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": 12726.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 12168.0,
+      "topic": "Works about folklore"
+    },
+    {
+      "diff": 12114.0,
+      "topic": "Heritage organizations"
+    }
+  ]
+}

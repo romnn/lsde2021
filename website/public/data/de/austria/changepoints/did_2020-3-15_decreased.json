@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-15",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": -36857.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -22854.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -22693.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -21698.0,
+      "topic": "State"
+    },
+    {
+      "diff": -18126.0,
+      "topic": "Tree of life (biology)"
+    },
+    {
+      "diff": -16896.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -16808.0,
+      "topic": "Virology"
+    },
+    {
+      "diff": -15525.0,
+      "topic": "Qualia"
+    },
+    {
+      "diff": -15334.0,
+      "topic": "Organisms"
+    },
+    {
+      "diff": -12604.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -12469.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -12426.0,
+      "topic": "Health sciences"
+    },
+    {
+      "diff": -10894.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -10118.0,
+      "topic": "Austria"
+    },
+    {
+      "diff": -9685.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -9659.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -8621.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -8615.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -8338.0,
+      "topic": "Sustainable architecture"
+    },
+    {
+      "diff": -8231.0,
+      "topic": "Nazi germany"
+    }
+  ]
+}

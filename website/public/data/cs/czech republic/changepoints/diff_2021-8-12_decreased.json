@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-12",
+  "country": {
+    "code": "CZE",
+    "group": "cs",
+    "name": "Czech Republic"
+  },
+  "topics": [
+    {
+      "diff": -3393.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -1409.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1316.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -1165.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -1054.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1052.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -1047.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -1044.0,
+      "topic": "Greece"
+    },
+    {
+      "diff": -1002.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -874.0,
+      "topic": "Czech republic"
+    },
+    {
+      "diff": -851.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": -774.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -765.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -694.0,
+      "topic": "Genealogies"
+    },
+    {
+      "diff": -693.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -693.0,
+      "topic": "Individuals"
+    },
+    {
+      "diff": -690.0,
+      "topic": "Chinese culture"
+    },
+    {
+      "diff": -678.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Legends"
+    }
+  ]
+}

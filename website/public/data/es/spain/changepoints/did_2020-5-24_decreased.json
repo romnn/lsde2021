@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-24",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -56033.0,
+      "topic": "History"
+    },
+    {
+      "diff": -47272.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -37612.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -37307.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -34964.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -32600.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -32120.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -29511.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -28259.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -27391.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -25728.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -24570.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -23686.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -23374.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -23280.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -23191.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -22689.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -22622.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -22384.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -21734.0,
+      "topic": "Europe"
+    }
+  ]
+}

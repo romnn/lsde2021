@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "GRC",
+    "group": "el",
+    "name": "Greece"
+  },
+  "topics": [
+    {
+      "diff": -1980.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1967.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -1846.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": -1340.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1310.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1268.0,
+      "topic": "Pharmaceutical industry"
+    },
+    {
+      "diff": -1261.0,
+      "topic": "Health care companies"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "Medicinal chemistry"
+    },
+    {
+      "diff": -1148.0,
+      "topic": "Switzerland"
+    },
+    {
+      "diff": -903.0,
+      "topic": "Environmental issues"
+    },
+    {
+      "diff": -842.0,
+      "topic": "Life skills"
+    },
+    {
+      "diff": -804.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Travel"
+    },
+    {
+      "diff": -748.0,
+      "topic": "Formal wear"
+    },
+    {
+      "diff": -606.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": -567.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -566.0,
+      "topic": "Animal welfare"
+    },
+    {
+      "diff": -531.0,
+      "topic": "Emergency organizations"
+    }
+  ]
+}

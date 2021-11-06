@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -3669.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -2465.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2170.0,
+      "topic": "Buddhism"
+    },
+    {
+      "diff": -1823.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1771.0,
+      "topic": "Epistemology"
+    },
+    {
+      "diff": -1618.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": -1571.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -1450.0,
+      "topic": "Epic poems"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": -1383.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": -1275.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1250.0,
+      "topic": "Philosophical concepts"
+    },
+    {
+      "diff": -1221.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -1174.0,
+      "topic": "Critical thinking"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Weather events"
+    },
+    {
+      "diff": -1158.0,
+      "topic": "16th-century establishments by continent"
+    },
+    {
+      "diff": -1118.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1113.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": -1090.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -1081.0,
+      "topic": "Indology"
+    }
+  ]
+}

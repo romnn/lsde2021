@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-09-01",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 23119.0,
+      "topic": "Materials"
+    },
+    {
+      "diff": 22150.0,
+      "topic": "Artificial objects"
+    },
+    {
+      "diff": 21464.0,
+      "topic": "Retail formats"
+    },
+    {
+      "diff": 9683.0,
+      "topic": "Organizations"
+    },
+    {
+      "diff": 8269.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 6847.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": 6297.0,
+      "topic": "Computer systems"
+    },
+    {
+      "diff": 5720.0,
+      "topic": "Semantics"
+    },
+    {
+      "diff": 5505.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 5487.0,
+      "topic": "Software"
+    },
+    {
+      "diff": 5155.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 4948.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 4904.0,
+      "topic": "Biotechnology"
+    },
+    {
+      "diff": 4532.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 4456.0,
+      "topic": "Lexical units"
+    },
+    {
+      "diff": 4242.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 4240.0,
+      "topic": "Neurophysiology"
+    },
+    {
+      "diff": 4216.0,
+      "topic": "Intellectualism"
+    },
+    {
+      "diff": 4155.0,
+      "topic": "Research"
+    },
+    {
+      "diff": 4117.0,
+      "topic": "Science"
+    }
+  ]
+}

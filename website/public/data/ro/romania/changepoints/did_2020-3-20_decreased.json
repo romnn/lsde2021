@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -3157.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -3045.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -2692.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -1692.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1613.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -1230.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1129.0,
+      "topic": "Western cuisine"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -942.0,
+      "topic": "Southeastern europe"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Environmental chemistry"
+    },
+    {
+      "diff": -889.0,
+      "topic": "Genres"
+    },
+    {
+      "diff": -844.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -829.0,
+      "topic": "Southern european culture"
+    },
+    {
+      "diff": -764.0,
+      "topic": "Restoration"
+    },
+    {
+      "diff": -746.0,
+      "topic": "Conservation"
+    },
+    {
+      "diff": -726.0,
+      "topic": "Visual arts theory"
+    },
+    {
+      "diff": -713.0,
+      "topic": "Ethnic group"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Moldovan culture"
+    },
+    {
+      "diff": -658.0,
+      "topic": "Balkan countries"
+    },
+    {
+      "diff": -604.0,
+      "topic": "Arts"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-02-24",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": -2520.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -1588.0,
+      "topic": "Love"
+    },
+    {
+      "diff": -1518.0,
+      "topic": "Subjective experience"
+    },
+    {
+      "diff": -1491.0,
+      "topic": "Moldova"
+    },
+    {
+      "diff": -1107.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -999.0,
+      "topic": "Geometric measurement"
+    },
+    {
+      "diff": -952.0,
+      "topic": "Gender"
+    },
+    {
+      "diff": -896.0,
+      "topic": "Animal anatomy"
+    },
+    {
+      "diff": -891.0,
+      "topic": "Reproduction"
+    },
+    {
+      "diff": -841.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -796.0,
+      "topic": "Sexual reproduction"
+    },
+    {
+      "diff": -743.0,
+      "topic": "Distance"
+    },
+    {
+      "diff": -732.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": -699.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -695.0,
+      "topic": "Biological anthropology"
+    },
+    {
+      "diff": -690.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -678.0,
+      "topic": "Oceanography"
+    },
+    {
+      "diff": -670.0,
+      "topic": "Creativity"
+    },
+    {
+      "diff": -661.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -649.0,
+      "topic": "Interstellar media"
+    }
+  ]
+}

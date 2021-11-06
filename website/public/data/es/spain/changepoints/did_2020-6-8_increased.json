@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-08",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 23311.0,
+      "topic": "Qatari culture"
+    },
+    {
+      "diff": 21499.0,
+      "topic": "Israeli culture"
+    },
+    {
+      "diff": 19082.0,
+      "topic": "Asian culture"
+    },
+    {
+      "diff": 6729.0,
+      "topic": "Months"
+    },
+    {
+      "diff": 6124.0,
+      "topic": "Argentina"
+    },
+    {
+      "diff": 5037.0,
+      "topic": "Peru"
+    },
+    {
+      "diff": 4972.0,
+      "topic": "Pharmaceutical companies"
+    },
+    {
+      "diff": 4821.0,
+      "topic": "Seasonality"
+    },
+    {
+      "diff": 4646.0,
+      "topic": "Latin american people"
+    },
+    {
+      "diff": 4086.0,
+      "topic": "Typography"
+    },
+    {
+      "diff": 4078.0,
+      "topic": "Sports governing bodies"
+    },
+    {
+      "diff": 3982.0,
+      "topic": "Club"
+    },
+    {
+      "diff": 3937.0,
+      "topic": "Natural products"
+    },
+    {
+      "diff": 3522.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": 3355.0,
+      "topic": "Public administration"
+    },
+    {
+      "diff": 3251.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": 3251.0,
+      "topic": "Americas"
+    },
+    {
+      "diff": 2771.0,
+      "topic": "Women singers"
+    },
+    {
+      "diff": 2650.0,
+      "topic": "Expatriates"
+    },
+    {
+      "diff": 2643.0,
+      "topic": "Printing"
+    }
+  ]
+}

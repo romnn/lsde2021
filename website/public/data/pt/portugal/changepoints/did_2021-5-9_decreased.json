@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-09",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -17367.0,
+      "topic": "Government"
+    },
+    {
+      "diff": -17044.0,
+      "topic": "Heads"
+    },
+    {
+      "diff": -15985.0,
+      "topic": "Popular culture"
+    },
+    {
+      "diff": -15916.0,
+      "topic": "Extraterrestrial life"
+    },
+    {
+      "diff": -15274.0,
+      "topic": "Fiction about magic"
+    },
+    {
+      "diff": -10071.0,
+      "topic": "Southern united states"
+    },
+    {
+      "diff": -9956.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -9874.0,
+      "topic": "Art history"
+    },
+    {
+      "diff": -9650.0,
+      "topic": "Historic sites"
+    },
+    {
+      "diff": -9593.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -9493.0,
+      "topic": "Former federations"
+    },
+    {
+      "diff": -9432.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -9375.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -9266.0,
+      "topic": "North america"
+    },
+    {
+      "diff": -5012.0,
+      "topic": "Land"
+    },
+    {
+      "diff": -4983.0,
+      "topic": "Canaan"
+    },
+    {
+      "diff": -4505.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -3591.0,
+      "topic": "Marvel entertainment"
+    },
+    {
+      "diff": -3561.0,
+      "topic": "Phoenicia"
+    },
+    {
+      "diff": -3462.0,
+      "topic": "Nationality"
+    }
+  ]
+}

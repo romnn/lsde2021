@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-09",
+  "country": {
+    "code": "CYP",
+    "group": "el",
+    "name": "Cyprus"
+  },
+  "topics": [
+    {
+      "diff": -877.0,
+      "topic": "Turkish culture"
+    },
+    {
+      "diff": -774.0,
+      "topic": "Men"
+    },
+    {
+      "diff": -743.0,
+      "topic": "21st-century works"
+    },
+    {
+      "diff": -742.0,
+      "topic": "Macintosh operating systems"
+    },
+    {
+      "diff": -728.0,
+      "topic": "Card games"
+    },
+    {
+      "diff": -715.0,
+      "topic": "Risk"
+    },
+    {
+      "diff": -710.0,
+      "topic": "Greek musicians"
+    },
+    {
+      "diff": -672.0,
+      "topic": "Gaming"
+    },
+    {
+      "diff": -672.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -660.0,
+      "topic": "Applications"
+    },
+    {
+      "diff": -633.0,
+      "topic": "Mechanism"
+    },
+    {
+      "diff": -609.0,
+      "topic": "Magic (supernatural)"
+    },
+    {
+      "diff": -580.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -570.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -559.0,
+      "topic": "Fairy tales"
+    },
+    {
+      "diff": -551.0,
+      "topic": "Bulgarian culture"
+    },
+    {
+      "diff": -530.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -512.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -484.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -471.0,
+      "topic": "Home automation"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-02",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -8448.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -6924.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -4432.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -4406.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -3654.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -2593.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -2550.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -2525.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -2349.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -2288.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -2015.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -1991.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1818.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1816.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -1651.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -1620.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -1533.0,
+      "topic": "France"
+    },
+    {
+      "diff": -1424.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -1417.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -1407.0,
+      "topic": "Structures"
+    }
+  ]
+}

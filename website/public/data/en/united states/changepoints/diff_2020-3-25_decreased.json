@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -260993.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -221872.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -205553.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -205057.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -184919.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -179386.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -154290.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -143063.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": -127853.0,
+      "topic": "Disease outbreaks"
+    },
+    {
+      "diff": -107042.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": -97077.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -92269.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": -91023.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -88513.0,
+      "topic": "Gynaecology"
+    },
+    {
+      "diff": -86717.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -84296.0,
+      "topic": "Interpersonal relationships"
+    },
+    {
+      "diff": -83142.0,
+      "topic": "Infectious diseases"
+    },
+    {
+      "diff": -78280.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -76943.0,
+      "topic": "Epidemics"
+    },
+    {
+      "diff": -76703.0,
+      "topic": "Global governance"
+    }
+  ]
+}

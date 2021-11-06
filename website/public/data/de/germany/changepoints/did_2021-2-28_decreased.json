@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-28",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -379636.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": -379628.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -375989.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": -375971.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": -372071.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -10048.0,
+      "topic": "Outer space"
+    },
+    {
+      "diff": -9925.0,
+      "topic": "Asian cuisine"
+    },
+    {
+      "diff": -9804.0,
+      "topic": "American art"
+    },
+    {
+      "diff": -9777.0,
+      "topic": "Jewellery"
+    },
+    {
+      "diff": -9521.0,
+      "topic": "1920s architecture"
+    },
+    {
+      "diff": -9051.0,
+      "topic": "Naturopathy"
+    },
+    {
+      "diff": -9046.0,
+      "topic": "Pharmacology"
+    },
+    {
+      "diff": -8434.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -8409.0,
+      "topic": "Cultural studies"
+    },
+    {
+      "diff": -7389.0,
+      "topic": "Planetary systems"
+    },
+    {
+      "diff": -6845.0,
+      "topic": "Biodiversity"
+    },
+    {
+      "diff": -6212.0,
+      "topic": "Words"
+    },
+    {
+      "diff": -6122.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -6071.0,
+      "topic": "Types"
+    },
+    {
+      "diff": -5877.0,
+      "topic": "Astronomical sub-disciplines"
+    }
+  ]
+}

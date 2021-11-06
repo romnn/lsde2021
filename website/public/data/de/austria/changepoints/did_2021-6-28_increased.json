@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-06-28",
+  "country": {
+    "code": "AUT",
+    "group": "de",
+    "name": "Austria"
+  },
+  "topics": [
+    {
+      "diff": 508417.0,
+      "topic": "Dyes"
+    },
+    {
+      "diff": 508392.0,
+      "topic": "Polyphenols"
+    },
+    {
+      "diff": 508017.0,
+      "topic": "A priori"
+    },
+    {
+      "diff": 507281.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": 496396.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 18311.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 16883.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 13420.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": 11412.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 11069.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 10870.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": 9223.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 9131.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": 9100.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": 9049.0,
+      "topic": "Defunct companies"
+    },
+    {
+      "diff": 8922.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 8691.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": 8679.0,
+      "topic": "State"
+    },
+    {
+      "diff": 8584.0,
+      "topic": "Soil tests"
+    },
+    {
+      "diff": 8076.0,
+      "topic": "Nuts 3 statistical regions"
+    }
+  ]
+}

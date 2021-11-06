@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-23",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 995661.0,
+      "topic": "Works"
+    },
+    {
+      "diff": 886849.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": 648836.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 534656.0,
+      "topic": "History"
+    },
+    {
+      "diff": 473195.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 448460.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 432374.0,
+      "topic": "Vehicles"
+    },
+    {
+      "diff": 424091.0,
+      "topic": "India"
+    },
+    {
+      "diff": 404584.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 404288.0,
+      "topic": "Century"
+    },
+    {
+      "diff": 386040.0,
+      "topic": "The walt disney studios"
+    },
+    {
+      "diff": 375782.0,
+      "topic": "Medical or psychological condition"
+    },
+    {
+      "diff": 370252.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": 348154.0,
+      "topic": "Years"
+    },
+    {
+      "diff": 343778.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": 339475.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": 314618.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 309930.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": 284123.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 279470.0,
+      "topic": "Mass media"
+    }
+  ]
+}

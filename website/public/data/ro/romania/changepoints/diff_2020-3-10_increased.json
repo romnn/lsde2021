@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 6077.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5809.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": 5169.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4993.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": 4840.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 4764.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": 4663.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 4556.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": 4510.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 4112.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 4098.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": 3971.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": 3706.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": 3570.0,
+      "topic": "Social policy"
+    },
+    {
+      "diff": 2421.0,
+      "topic": "Nutrition"
+    },
+    {
+      "diff": 2416.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": 2347.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2208.0,
+      "topic": "Toxicants"
+    },
+    {
+      "diff": 1972.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": 1956.0,
+      "topic": "History"
+    }
+  ]
+}

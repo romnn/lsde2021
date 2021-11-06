@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-18",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -2328.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -1728.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -1574.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -1463.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -1461.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -1128.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -1106.0,
+      "topic": "History"
+    },
+    {
+      "diff": -997.0,
+      "topic": "Names"
+    },
+    {
+      "diff": -985.0,
+      "topic": "Recreation"
+    },
+    {
+      "diff": -895.0,
+      "topic": "Holidays"
+    },
+    {
+      "diff": -859.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -859.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -859.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -859.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -837.0,
+      "topic": "Olympic sports"
+    },
+    {
+      "diff": -833.0,
+      "topic": "Sports at multi-sport events by competition"
+    },
+    {
+      "diff": -833.0,
+      "topic": "Competitive games"
+    },
+    {
+      "diff": -831.0,
+      "topic": "Athletics (track and field) competitions"
+    },
+    {
+      "diff": -804.0,
+      "topic": "European culture"
+    },
+    {
+      "diff": -763.0,
+      "topic": "Scandinavia"
+    }
+  ]
+}

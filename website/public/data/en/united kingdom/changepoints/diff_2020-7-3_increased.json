@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 1055086.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 1024296.0,
+      "topic": "People"
+    },
+    {
+      "diff": 878367.0,
+      "topic": "Ethnic or national origin"
+    },
+    {
+      "diff": 622075.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 619386.0,
+      "topic": "United states"
+    },
+    {
+      "diff": 580560.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 564599.0,
+      "topic": "21st-century women musicians"
+    },
+    {
+      "diff": 554070.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 530931.0,
+      "topic": "British diaspora"
+    },
+    {
+      "diff": 491073.0,
+      "topic": "American revolutionary war"
+    },
+    {
+      "diff": 473808.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": 466935.0,
+      "topic": "Puerto rican people"
+    },
+    {
+      "diff": 410488.0,
+      "topic": "Instrument"
+    },
+    {
+      "diff": 394254.0,
+      "topic": "Political party"
+    },
+    {
+      "diff": 388864.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": 388370.0,
+      "topic": "Actors"
+    },
+    {
+      "diff": 364125.0,
+      "topic": "Rebellions"
+    },
+    {
+      "diff": 359179.0,
+      "topic": "Thirteen colonies"
+    },
+    {
+      "diff": 352543.0,
+      "topic": "American musicians"
+    },
+    {
+      "diff": 336911.0,
+      "topic": "Northern european descent"
+    }
+  ]
+}

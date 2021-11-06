@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-01-19",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -10412.0,
+      "topic": "Products introduced"
+    },
+    {
+      "diff": -9505.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -9181.0,
+      "topic": "Period"
+    },
+    {
+      "diff": -8601.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -8277.0,
+      "topic": "Human\u2013computer interaction"
+    },
+    {
+      "diff": -7958.0,
+      "topic": "Consciousness"
+    },
+    {
+      "diff": -6781.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": -6550.0,
+      "topic": "Centuries"
+    },
+    {
+      "diff": -6448.0,
+      "topic": "Software engineering"
+    },
+    {
+      "diff": -5813.0,
+      "topic": "Historical eras"
+    },
+    {
+      "diff": -5178.0,
+      "topic": "Time"
+    },
+    {
+      "diff": -4536.0,
+      "topic": "Home appliances"
+    },
+    {
+      "diff": -4510.0,
+      "topic": "Setting"
+    },
+    {
+      "diff": -4499.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -4443.0,
+      "topic": "Computer hardware"
+    },
+    {
+      "diff": -4398.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": -4316.0,
+      "topic": "Television series"
+    },
+    {
+      "diff": -4260.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -4257.0,
+      "topic": "American television shows"
+    },
+    {
+      "diff": -4248.0,
+      "topic": "Period television series"
+    }
+  ]
+}

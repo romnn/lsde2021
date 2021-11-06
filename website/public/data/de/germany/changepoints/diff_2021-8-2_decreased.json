@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-02",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": -7612.0,
+      "topic": "Water"
+    },
+    {
+      "diff": -7458.0,
+      "topic": "Netherlands"
+    },
+    {
+      "diff": -6622.0,
+      "topic": "Bodies"
+    },
+    {
+      "diff": -5109.0,
+      "topic": "Rivers of bas-rhin"
+    },
+    {
+      "diff": -4775.0,
+      "topic": "France"
+    },
+    {
+      "diff": -4659.0,
+      "topic": "Physical exercise"
+    },
+    {
+      "diff": -4346.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -3806.0,
+      "topic": "Physiographic divisions"
+    },
+    {
+      "diff": -3774.0,
+      "topic": "Metropolitan france"
+    },
+    {
+      "diff": -3607.0,
+      "topic": "Rhenish massif"
+    },
+    {
+      "diff": -3503.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -3351.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -3253.0,
+      "topic": "Singers"
+    },
+    {
+      "diff": -2571.0,
+      "topic": "Arts organizations"
+    },
+    {
+      "diff": -2545.0,
+      "topic": "Brazilian culture"
+    },
+    {
+      "diff": -2511.0,
+      "topic": "Spain"
+    },
+    {
+      "diff": -2429.0,
+      "topic": "Languages"
+    },
+    {
+      "diff": -2316.0,
+      "topic": "Television shows"
+    },
+    {
+      "diff": -2310.0,
+      "topic": "Environment"
+    },
+    {
+      "diff": -2290.0,
+      "topic": "Science"
+    }
+  ]
+}

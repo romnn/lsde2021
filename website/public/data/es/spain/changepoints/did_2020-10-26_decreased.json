@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-10-26",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": -53692.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -38588.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -33084.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -30435.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -27188.0,
+      "topic": "History"
+    },
+    {
+      "diff": -26686.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -26383.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -25564.0,
+      "topic": "Anthropology"
+    },
+    {
+      "diff": -24939.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -23601.0,
+      "topic": "Inequality"
+    },
+    {
+      "diff": -23567.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -22474.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -22255.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -22248.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -21759.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -20837.0,
+      "topic": "People"
+    },
+    {
+      "diff": -20265.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": -19986.0,
+      "topic": "Criminal law"
+    },
+    {
+      "diff": -19659.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": -19159.0,
+      "topic": "Human rights instruments"
+    }
+  ]
+}

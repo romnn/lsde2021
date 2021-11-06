@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 1018608.0,
+      "topic": "Indian actors"
+    },
+    {
+      "diff": 681215.0,
+      "topic": "Suicides"
+    },
+    {
+      "diff": 674408.0,
+      "topic": "Hindi-language culture"
+    },
+    {
+      "diff": 510079.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": 418814.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 333139.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 288376.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 259441.0,
+      "topic": "American civil war"
+    },
+    {
+      "diff": 242830.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": 225131.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": 218121.0,
+      "topic": "Colonization history"
+    },
+    {
+      "diff": 209005.0,
+      "topic": "People from karnataka"
+    },
+    {
+      "diff": 190666.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": 179331.0,
+      "topic": "Law enforcement controversies"
+    },
+    {
+      "diff": 179301.0,
+      "topic": "Social history"
+    },
+    {
+      "diff": 175251.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": 166466.0,
+      "topic": "British christians"
+    },
+    {
+      "diff": 154721.0,
+      "topic": "English people"
+    },
+    {
+      "diff": 141457.0,
+      "topic": "Merchants"
+    },
+    {
+      "diff": 130975.0,
+      "topic": "Racism"
+    }
+  ]
+}

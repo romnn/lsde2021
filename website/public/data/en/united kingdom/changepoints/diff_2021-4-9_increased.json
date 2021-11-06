@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-04-09",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 656267.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": 416177.0,
+      "topic": "Australia"
+    },
+    {
+      "diff": 333554.0,
+      "topic": "Welsh people"
+    },
+    {
+      "diff": 308457.0,
+      "topic": "People"
+    },
+    {
+      "diff": 265106.0,
+      "topic": "Estates (social groups)"
+    },
+    {
+      "diff": 246367.0,
+      "topic": "History"
+    },
+    {
+      "diff": 231552.0,
+      "topic": "Northern european descent"
+    },
+    {
+      "diff": 224005.0,
+      "topic": "Sri lanka"
+    },
+    {
+      "diff": 223226.0,
+      "topic": "Politicians"
+    },
+    {
+      "diff": 219248.0,
+      "topic": "Former monarchies"
+    },
+    {
+      "diff": 215004.0,
+      "topic": "Nigeria"
+    },
+    {
+      "diff": 213701.0,
+      "topic": "Scottish people"
+    },
+    {
+      "diff": 187692.0,
+      "topic": "English descent"
+    },
+    {
+      "diff": 181610.0,
+      "topic": "House of schleswig-holstein-sonderburg-beck"
+    },
+    {
+      "diff": 172132.0,
+      "topic": "Human rights"
+    },
+    {
+      "diff": 163293.0,
+      "topic": "Civil rights"
+    },
+    {
+      "diff": 143899.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": 143587.0,
+      "topic": "New zealand politicians"
+    },
+    {
+      "diff": 137828.0,
+      "topic": "Sport"
+    },
+    {
+      "diff": 135091.0,
+      "topic": "Oldenburg"
+    }
+  ]
+}

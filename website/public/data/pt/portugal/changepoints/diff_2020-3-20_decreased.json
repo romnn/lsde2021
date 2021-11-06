@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -9175.0,
+      "topic": "Natural environment"
+    },
+    {
+      "diff": -9135.0,
+      "topic": "Chronology"
+    },
+    {
+      "diff": -7591.0,
+      "topic": "Social sciences"
+    },
+    {
+      "diff": -6292.0,
+      "topic": "Public policy"
+    },
+    {
+      "diff": -5730.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -3916.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -3009.0,
+      "topic": "Brazil"
+    },
+    {
+      "diff": -2903.0,
+      "topic": "First-level administrative divisions by country"
+    },
+    {
+      "diff": -2814.0,
+      "topic": "Scientists"
+    },
+    {
+      "diff": -2778.0,
+      "topic": "Organic compounds"
+    },
+    {
+      "diff": -2644.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -2469.0,
+      "topic": "Esotericists"
+    },
+    {
+      "diff": -2453.0,
+      "topic": "Astrologers"
+    },
+    {
+      "diff": -2271.0,
+      "topic": "Months"
+    },
+    {
+      "diff": -2022.0,
+      "topic": "Calendars"
+    },
+    {
+      "diff": -1836.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": -1826.0,
+      "topic": "Interstellar media"
+    },
+    {
+      "diff": -1785.0,
+      "topic": "Association football"
+    },
+    {
+      "diff": -1755.0,
+      "topic": "Year"
+    },
+    {
+      "diff": -1714.0,
+      "topic": "Subject"
+    }
+  ]
+}

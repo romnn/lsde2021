@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-07-23",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": -14723.0,
+      "topic": "Pakistan"
+    },
+    {
+      "diff": -13581.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -13560.0,
+      "topic": "Islam"
+    },
+    {
+      "diff": -13276.0,
+      "topic": "Terrorism"
+    },
+    {
+      "diff": -12857.0,
+      "topic": "Rights"
+    },
+    {
+      "diff": -12447.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -8582.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -8423.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -7927.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -7584.0,
+      "topic": "Injustice"
+    },
+    {
+      "diff": -7564.0,
+      "topic": "Revolutions"
+    },
+    {
+      "diff": -7500.0,
+      "topic": "Global politics"
+    },
+    {
+      "diff": -7384.0,
+      "topic": "Political culture"
+    },
+    {
+      "diff": -7319.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -6918.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -6260.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": -6104.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -5940.0,
+      "topic": "Russian musicians"
+    },
+    {
+      "diff": -5615.0,
+      "topic": "Historical regions"
+    },
+    {
+      "diff": -5580.0,
+      "topic": "Regions"
+    }
+  ]
+}

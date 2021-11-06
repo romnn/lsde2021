@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-25",
+  "country": {
+    "code": "NPL",
+    "group": "hi",
+    "name": "Nepal"
+  },
+  "topics": [
+    {
+      "diff": -6515.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -5278.0,
+      "topic": "South asia"
+    },
+    {
+      "diff": -4023.0,
+      "topic": "Hinduism"
+    },
+    {
+      "diff": -3694.0,
+      "topic": "Pakistani culture"
+    },
+    {
+      "diff": -3525.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -3500.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -2236.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -2059.0,
+      "topic": "India"
+    },
+    {
+      "diff": -1873.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -1696.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -1662.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -1636.0,
+      "topic": "Medium"
+    },
+    {
+      "diff": -1547.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -1519.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1484.0,
+      "topic": "Tourist attractions"
+    },
+    {
+      "diff": -1270.0,
+      "topic": "District"
+    },
+    {
+      "diff": -1225.0,
+      "topic": "Maharashtra"
+    },
+    {
+      "diff": -1223.0,
+      "topic": "Military history"
+    },
+    {
+      "diff": -1185.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1183.0,
+      "topic": "17th-century asian people by nationality"
+    }
+  ]
+}

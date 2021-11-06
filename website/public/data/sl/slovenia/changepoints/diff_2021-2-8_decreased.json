@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-02-08",
+  "country": {
+    "code": "SVN",
+    "group": "sl",
+    "name": "Slovenia"
+  },
+  "topics": [
+    {
+      "diff": -375.0,
+      "topic": "Ceramic art"
+    },
+    {
+      "diff": -361.0,
+      "topic": "Poets"
+    },
+    {
+      "diff": -316.0,
+      "topic": "Slavic culture"
+    },
+    {
+      "diff": -306.0,
+      "topic": "Kidnapping"
+    },
+    {
+      "diff": -293.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -285.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": -276.0,
+      "topic": "Greek mythology"
+    },
+    {
+      "diff": -275.0,
+      "topic": "Violent crime"
+    },
+    {
+      "diff": -237.0,
+      "topic": "Visual arts theory"
+    },
+    {
+      "diff": -222.0,
+      "topic": "Sculpture"
+    },
+    {
+      "diff": -205.0,
+      "topic": "Vocabulary"
+    },
+    {
+      "diff": -182.0,
+      "topic": "Interpretation (philosophy)"
+    },
+    {
+      "diff": -138.0,
+      "topic": "December observances"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Jesus christ"
+    },
+    {
+      "diff": -138.0,
+      "topic": "Feasts"
+    },
+    {
+      "diff": -134.0,
+      "topic": "Art"
+    },
+    {
+      "diff": -133.0,
+      "topic": "Hungary"
+    },
+    {
+      "diff": -132.0,
+      "topic": "Religious events"
+    },
+    {
+      "diff": -125.0,
+      "topic": "Nearctic realm"
+    },
+    {
+      "diff": -119.0,
+      "topic": "Deities"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-08-22",
+  "country": {
+    "code": "BLR",
+    "group": "ru",
+    "name": "Belarus"
+  },
+  "topics": [
+    {
+      "diff": 15063.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 10695.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 7810.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 7751.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 7582.0,
+      "topic": "Economies"
+    },
+    {
+      "diff": 7362.0,
+      "topic": "Ethnic groups"
+    },
+    {
+      "diff": 6920.0,
+      "topic": "Indigenous peoples"
+    },
+    {
+      "diff": 6727.0,
+      "topic": "Siberia"
+    },
+    {
+      "diff": 6422.0,
+      "topic": "Arctic"
+    },
+    {
+      "diff": 6419.0,
+      "topic": "North asia"
+    },
+    {
+      "diff": 6250.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 6179.0,
+      "topic": "Mental processes"
+    },
+    {
+      "diff": 5947.0,
+      "topic": "Entertainment"
+    },
+    {
+      "diff": 5706.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 4958.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": 4855.0,
+      "topic": "Human activities"
+    },
+    {
+      "diff": 4740.0,
+      "topic": "Academic discipline"
+    },
+    {
+      "diff": 4623.0,
+      "topic": "Life"
+    },
+    {
+      "diff": 4598.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 4581.0,
+      "topic": "Humanities"
+    }
+  ]
+}

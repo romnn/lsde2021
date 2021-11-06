@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": -1296765.0,
+      "topic": "India"
+    },
+    {
+      "diff": -831541.0,
+      "topic": "Decade"
+    },
+    {
+      "diff": -777539.0,
+      "topic": "State or union territory"
+    },
+    {
+      "diff": -770633.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -701222.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -672838.0,
+      "topic": "Genre"
+    },
+    {
+      "diff": -644061.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -615497.0,
+      "topic": "People"
+    },
+    {
+      "diff": -586135.0,
+      "topic": "Fiction"
+    },
+    {
+      "diff": -536772.0,
+      "topic": "Years"
+    },
+    {
+      "diff": -512707.0,
+      "topic": "Elections"
+    },
+    {
+      "diff": -487917.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -465864.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -437320.0,
+      "topic": "American literature"
+    },
+    {
+      "diff": -383096.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -382754.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -368936.0,
+      "topic": "21st century"
+    },
+    {
+      "diff": -350459.0,
+      "topic": "Religion"
+    },
+    {
+      "diff": -350102.0,
+      "topic": "Music"
+    },
+    {
+      "diff": -347858.0,
+      "topic": "State"
+    }
+  ]
+}

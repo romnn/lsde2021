@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-12-25",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -317511.0,
+      "topic": "British politics"
+    },
+    {
+      "diff": -246348.0,
+      "topic": "American folklore"
+    },
+    {
+      "diff": -190436.0,
+      "topic": "Space warfare"
+    },
+    {
+      "diff": -188915.0,
+      "topic": "Sportsmen"
+    },
+    {
+      "diff": -185061.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": -179232.0,
+      "topic": "Science"
+    },
+    {
+      "diff": -175503.0,
+      "topic": "Reasoning"
+    },
+    {
+      "diff": -168422.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": -159706.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -148997.0,
+      "topic": "Male martial artists"
+    },
+    {
+      "diff": -148954.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": -146144.0,
+      "topic": "Natural sciences"
+    },
+    {
+      "diff": -143396.0,
+      "topic": "Constituencies"
+    },
+    {
+      "diff": -140379.0,
+      "topic": "Government office region"
+    },
+    {
+      "diff": -139788.0,
+      "topic": "Mathematics"
+    },
+    {
+      "diff": -133437.0,
+      "topic": "Arguments"
+    },
+    {
+      "diff": -130523.0,
+      "topic": "British politicians"
+    },
+    {
+      "diff": -129763.0,
+      "topic": "Constitutions"
+    },
+    {
+      "diff": -128553.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -128331.0,
+      "topic": "International club association football competitions"
+    }
+  ]
+}

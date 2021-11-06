@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-14",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": 126421.0,
+      "topic": "American men"
+    },
+    {
+      "diff": 120053.0,
+      "topic": "Disasters"
+    },
+    {
+      "diff": 110168.0,
+      "topic": "2nd millennium in georgia (country)"
+    },
+    {
+      "diff": 108432.0,
+      "topic": "Asian political people"
+    },
+    {
+      "diff": 102681.0,
+      "topic": "Russian empire"
+    },
+    {
+      "diff": 99334.0,
+      "topic": "18th century"
+    },
+    {
+      "diff": 96512.0,
+      "topic": "Health disasters"
+    },
+    {
+      "diff": 76436.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": 73397.0,
+      "topic": "19th century"
+    },
+    {
+      "diff": 70912.0,
+      "topic": "Penal system"
+    },
+    {
+      "diff": 68515.0,
+      "topic": "Haitian descent"
+    },
+    {
+      "diff": 68015.0,
+      "topic": "Science fantasy"
+    },
+    {
+      "diff": 58924.0,
+      "topic": "American activists"
+    },
+    {
+      "diff": 57057.0,
+      "topic": "Role"
+    },
+    {
+      "diff": 56904.0,
+      "topic": "21st-century decades by country"
+    },
+    {
+      "diff": 55142.0,
+      "topic": "Corporate crime"
+    },
+    {
+      "diff": 51068.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": 49382.0,
+      "topic": "Installation art"
+    },
+    {
+      "diff": 46490.0,
+      "topic": "Male musicians"
+    },
+    {
+      "diff": 46395.0,
+      "topic": "Indonesian people"
+    }
+  ]
+}

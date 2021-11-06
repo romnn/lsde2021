@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-25",
+  "country": {
+    "code": "SAU",
+    "group": "ar",
+    "name": "Saudi Arabia"
+  },
+  "topics": [
+    {
+      "diff": -13907.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": -10676.0,
+      "topic": "Baltimore classification"
+    },
+    {
+      "diff": -10644.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": -10628.0,
+      "topic": "Rna viruses"
+    },
+    {
+      "diff": -10600.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": -6976.0,
+      "topic": "Animal health"
+    },
+    {
+      "diff": -3339.0,
+      "topic": "Riboviria"
+    },
+    {
+      "diff": -2734.0,
+      "topic": "Epidemiology"
+    },
+    {
+      "diff": -2653.0,
+      "topic": "Signs"
+    },
+    {
+      "diff": -2332.0,
+      "topic": "Prevention"
+    },
+    {
+      "diff": -2099.0,
+      "topic": "Iucn red list endangered species"
+    },
+    {
+      "diff": -2058.0,
+      "topic": "Kosovan culture"
+    },
+    {
+      "diff": -1923.0,
+      "topic": "Disease transmission"
+    },
+    {
+      "diff": -1822.0,
+      "topic": "Russian culture"
+    },
+    {
+      "diff": -1674.0,
+      "topic": "Military equipment"
+    },
+    {
+      "diff": -1510.0,
+      "topic": "Military"
+    },
+    {
+      "diff": -1502.0,
+      "topic": "Caucasus"
+    },
+    {
+      "diff": -1404.0,
+      "topic": "Health promotion"
+    },
+    {
+      "diff": -1386.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -1328.0,
+      "topic": "Environmental education"
+    }
+  ]
+}

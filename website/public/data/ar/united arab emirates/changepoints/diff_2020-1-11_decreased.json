@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "ARE",
+    "group": "ar",
+    "name": "United Arab Emirates"
+  },
+  "topics": [
+    {
+      "diff": -4080.0,
+      "topic": "Russia"
+    },
+    {
+      "diff": -4075.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -4073.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -3583.0,
+      "topic": "France"
+    },
+    {
+      "diff": -3479.0,
+      "topic": "United kingdom"
+    },
+    {
+      "diff": -2654.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -2488.0,
+      "topic": "Kurdistan"
+    },
+    {
+      "diff": -2104.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -1652.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -1575.0,
+      "topic": "Web development"
+    },
+    {
+      "diff": -1556.0,
+      "topic": "California"
+    },
+    {
+      "diff": -1550.0,
+      "topic": "Mobile computers"
+    },
+    {
+      "diff": -1284.0,
+      "topic": "Information age"
+    },
+    {
+      "diff": -1264.0,
+      "topic": "Past"
+    },
+    {
+      "diff": -1244.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": -1230.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": -1164.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": -1127.0,
+      "topic": "Asia"
+    },
+    {
+      "diff": -1036.0,
+      "topic": "Esotericism"
+    },
+    {
+      "diff": -1024.0,
+      "topic": "Consensus reality"
+    }
+  ]
+}

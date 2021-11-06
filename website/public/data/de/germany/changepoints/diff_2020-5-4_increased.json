@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "DEU",
+    "group": "de",
+    "name": "Germany"
+  },
+  "topics": [
+    {
+      "diff": 23675.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": 11671.0,
+      "topic": "Foreign relations"
+    },
+    {
+      "diff": 10817.0,
+      "topic": "Anti-capitalism"
+    },
+    {
+      "diff": 10783.0,
+      "topic": "Portuguese law"
+    },
+    {
+      "diff": 10636.0,
+      "topic": "Wars involving russia"
+    },
+    {
+      "diff": 9527.0,
+      "topic": "Hispanic"
+    },
+    {
+      "diff": 9450.0,
+      "topic": "Latino american"
+    },
+    {
+      "diff": 9446.0,
+      "topic": "21st-century controversies by country"
+    },
+    {
+      "diff": 9424.0,
+      "topic": "American people"
+    },
+    {
+      "diff": 9243.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": 9063.0,
+      "topic": "Musicians from the new york metropolitan area"
+    },
+    {
+      "diff": 8886.0,
+      "topic": "Middle eastern diaspora"
+    },
+    {
+      "diff": 8750.0,
+      "topic": "Arab diaspora"
+    },
+    {
+      "diff": 8420.0,
+      "topic": "Anarchism"
+    },
+    {
+      "diff": 8144.0,
+      "topic": "Sexual abuse"
+    },
+    {
+      "diff": 8039.0,
+      "topic": "Jurisprudence"
+    },
+    {
+      "diff": 7785.0,
+      "topic": "Human rights abuses"
+    },
+    {
+      "diff": 6026.0,
+      "topic": "Music companies"
+    },
+    {
+      "diff": 6025.0,
+      "topic": "Psychedelic music"
+    },
+    {
+      "diff": 5957.0,
+      "topic": "Applied ethics"
+    }
+  ]
+}

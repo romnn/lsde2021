@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-08-02",
+  "country": {
+    "code": "DNK",
+    "group": "da",
+    "name": "Denmark"
+  },
+  "topics": [
+    {
+      "diff": -4549.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -4523.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3081.0,
+      "topic": "Denmark"
+    },
+    {
+      "diff": -2767.0,
+      "topic": "Landforms"
+    },
+    {
+      "diff": -2409.0,
+      "topic": "Scandinavia"
+    },
+    {
+      "diff": -1842.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -1720.0,
+      "topic": "Country"
+    },
+    {
+      "diff": -1718.0,
+      "topic": "Place"
+    },
+    {
+      "diff": -1588.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -1540.0,
+      "topic": "Kingdom"
+    },
+    {
+      "diff": -1448.0,
+      "topic": "Places"
+    },
+    {
+      "diff": -1408.0,
+      "topic": "Internet culture"
+    },
+    {
+      "diff": -1377.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -1306.0,
+      "topic": "Buildings"
+    },
+    {
+      "diff": -1279.0,
+      "topic": "Germany"
+    },
+    {
+      "diff": -1256.0,
+      "topic": "People"
+    },
+    {
+      "diff": -1211.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -1132.0,
+      "topic": "Society"
+    },
+    {
+      "diff": -1060.0,
+      "topic": "Structures"
+    },
+    {
+      "diff": -1036.0,
+      "topic": "Decade"
+    }
+  ]
+}

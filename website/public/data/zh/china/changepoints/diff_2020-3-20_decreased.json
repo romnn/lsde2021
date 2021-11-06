@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-03-20",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -27231.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -17097.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -9976.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -9493.0,
+      "topic": "France"
+    },
+    {
+      "diff": -6170.0,
+      "topic": "Administrative divisions"
+    },
+    {
+      "diff": -4533.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -4376.0,
+      "topic": "Geography by first-level administrative country subdivision"
+    },
+    {
+      "diff": -4231.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": -3978.0,
+      "topic": "Nuts 3 statistical regions"
+    },
+    {
+      "diff": -3650.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -3545.0,
+      "topic": "Departments"
+    },
+    {
+      "diff": -3511.0,
+      "topic": "Medicine"
+    },
+    {
+      "diff": -3475.0,
+      "topic": "History"
+    },
+    {
+      "diff": -3095.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": -3017.0,
+      "topic": "Issues"
+    },
+    {
+      "diff": -2933.0,
+      "topic": "Culture-related controversies"
+    },
+    {
+      "diff": -2885.0,
+      "topic": "Software"
+    },
+    {
+      "diff": -2868.0,
+      "topic": "Ethics"
+    },
+    {
+      "diff": -2859.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -2821.0,
+      "topic": "Sovereignty"
+    }
+  ]
+}

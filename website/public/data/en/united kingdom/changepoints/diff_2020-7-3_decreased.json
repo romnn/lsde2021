@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-07-03",
+  "country": {
+    "code": "GBR",
+    "group": "en",
+    "name": "United Kingdom"
+  },
+  "topics": [
+    {
+      "diff": -325895.0,
+      "topic": "Indian actors"
+    },
+    {
+      "diff": -282838.0,
+      "topic": "American civil war"
+    },
+    {
+      "diff": -261313.0,
+      "topic": "British north america"
+    },
+    {
+      "diff": -254907.0,
+      "topic": "Colonization history"
+    },
+    {
+      "diff": -241985.0,
+      "topic": "Observances"
+    },
+    {
+      "diff": -181814.0,
+      "topic": "Fiction-writing mode"
+    },
+    {
+      "diff": -175955.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -152252.0,
+      "topic": "Games"
+    },
+    {
+      "diff": -150392.0,
+      "topic": "Ethnicity"
+    },
+    {
+      "diff": -145322.0,
+      "topic": "20th-century people"
+    },
+    {
+      "diff": -140347.0,
+      "topic": "Identity politics"
+    },
+    {
+      "diff": -133789.0,
+      "topic": "Science fiction"
+    },
+    {
+      "diff": -133045.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -129839.0,
+      "topic": "Hindi-language culture"
+    },
+    {
+      "diff": -126392.0,
+      "topic": "Discrimination"
+    },
+    {
+      "diff": -118864.0,
+      "topic": "Suicides"
+    },
+    {
+      "diff": -118223.0,
+      "topic": "Controversies"
+    },
+    {
+      "diff": -110306.0,
+      "topic": "Macos"
+    },
+    {
+      "diff": -107111.0,
+      "topic": "Alphabet inc."
+    },
+    {
+      "diff": -103123.0,
+      "topic": "Electronic games"
+    }
+  ]
+}

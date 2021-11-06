@@ -1,0 +1,90 @@
+{
+  "changepoint": "2021-05-14",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 6705.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 5976.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 5624.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": 5164.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 4987.0,
+      "topic": "History"
+    },
+    {
+      "diff": 4445.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 4372.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 4111.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 3582.0,
+      "topic": "Subfields"
+    },
+    {
+      "diff": 3557.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 3436.0,
+      "topic": "Public health"
+    },
+    {
+      "diff": 3327.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 3241.0,
+      "topic": "Zoology"
+    },
+    {
+      "diff": 3234.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 3059.0,
+      "topic": "Cold war"
+    },
+    {
+      "diff": 3031.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 2909.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2884.0,
+      "topic": "Physics"
+    },
+    {
+      "diff": 2846.0,
+      "topic": "Universe"
+    },
+    {
+      "diff": 2663.0,
+      "topic": "Language"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-06-03",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -9368.0,
+      "topic": "Chinese musical groups"
+    },
+    {
+      "diff": -9222.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5905.0,
+      "topic": "History"
+    },
+    {
+      "diff": -5814.0,
+      "topic": "China"
+    },
+    {
+      "diff": -5626.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": -4952.0,
+      "topic": "Industry"
+    },
+    {
+      "diff": -4011.0,
+      "topic": "20th century"
+    },
+    {
+      "diff": -3871.0,
+      "topic": "Multimedia"
+    },
+    {
+      "diff": -3745.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -3448.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": -3310.0,
+      "topic": "Dystopian fiction"
+    },
+    {
+      "diff": -3291.0,
+      "topic": "Works"
+    },
+    {
+      "diff": -3289.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": -2981.0,
+      "topic": "Television"
+    },
+    {
+      "diff": -2971.0,
+      "topic": "Government agencies"
+    },
+    {
+      "diff": -2946.0,
+      "topic": "Japan"
+    },
+    {
+      "diff": -2831.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": -2379.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": -2296.0,
+      "topic": "Integrated circuits"
+    },
+    {
+      "diff": -2228.0,
+      "topic": "Vehicle manufacturing companies"
+    }
+  ]
+}

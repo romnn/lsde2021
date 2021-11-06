@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-11-10",
+  "country": {
+    "code": "ROU",
+    "group": "ro",
+    "name": "Romania"
+  },
+  "topics": [
+    {
+      "diff": 4217.0,
+      "topic": "History"
+    },
+    {
+      "diff": 3998.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 3654.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": 3017.0,
+      "topic": "Molecules"
+    },
+    {
+      "diff": 2542.0,
+      "topic": "Taxonomy (biology)"
+    },
+    {
+      "diff": 2439.0,
+      "topic": "Artificial materials"
+    },
+    {
+      "diff": 2427.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": 2347.0,
+      "topic": "Territorial entities"
+    },
+    {
+      "diff": 2260.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 2230.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": 2186.0,
+      "topic": "Romania"
+    },
+    {
+      "diff": 2161.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": 2156.0,
+      "topic": "Systems biology"
+    },
+    {
+      "diff": 2144.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 2097.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 2053.0,
+      "topic": "Time"
+    },
+    {
+      "diff": 2049.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 2021.0,
+      "topic": "Topic"
+    },
+    {
+      "diff": 2015.0,
+      "topic": "Regions"
+    },
+    {
+      "diff": 1994.0,
+      "topic": "Century"
+    }
+  ]
+}

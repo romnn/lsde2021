@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-05-04",
+  "country": {
+    "code": "PRT",
+    "group": "pt",
+    "name": "Portugal"
+  },
+  "topics": [
+    {
+      "diff": -14608.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -12540.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -12377.0,
+      "topic": "South america"
+    },
+    {
+      "diff": -12335.0,
+      "topic": "People"
+    },
+    {
+      "diff": -10546.0,
+      "topic": "Football teams"
+    },
+    {
+      "diff": -9935.0,
+      "topic": "Health"
+    },
+    {
+      "diff": -9144.0,
+      "topic": "Italy"
+    },
+    {
+      "diff": -8181.0,
+      "topic": "Brazilian people"
+    },
+    {
+      "diff": -7006.0,
+      "topic": "Geography"
+    },
+    {
+      "diff": -5432.0,
+      "topic": "Sovereignty"
+    },
+    {
+      "diff": -5071.0,
+      "topic": "Nations at the men's olympic football tournament"
+    },
+    {
+      "diff": -3788.0,
+      "topic": "Europe"
+    },
+    {
+      "diff": -3594.0,
+      "topic": "Personality"
+    },
+    {
+      "diff": -3532.0,
+      "topic": "Populated places"
+    },
+    {
+      "diff": -3464.0,
+      "topic": "Truth"
+    },
+    {
+      "diff": -3341.0,
+      "topic": "Club"
+    },
+    {
+      "diff": -3299.0,
+      "topic": "Association football clubs"
+    },
+    {
+      "diff": -3276.0,
+      "topic": "Cognitive science"
+    },
+    {
+      "diff": -3171.0,
+      "topic": "Residence"
+    },
+    {
+      "diff": -3073.0,
+      "topic": "Regions"
+    }
+  ]
+}

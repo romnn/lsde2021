@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "USA",
+    "group": "en",
+    "name": "United States"
+  },
+  "topics": [
+    {
+      "diff": 1140183.0,
+      "topic": "Sportspeople"
+    },
+    {
+      "diff": 929666.0,
+      "topic": "Sports"
+    },
+    {
+      "diff": 823701.0,
+      "topic": "History"
+    },
+    {
+      "diff": 644913.0,
+      "topic": "English sport"
+    },
+    {
+      "diff": 621580.0,
+      "topic": "Christians"
+    },
+    {
+      "diff": 595768.0,
+      "topic": "National basketball association culture"
+    },
+    {
+      "diff": 589789.0,
+      "topic": "Men's national sports teams by country"
+    },
+    {
+      "diff": 490656.0,
+      "topic": "Criminals"
+    },
+    {
+      "diff": 382089.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 325343.0,
+      "topic": "Clinical medicine"
+    },
+    {
+      "diff": 313124.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": 306074.0,
+      "topic": "Microorganisms"
+    },
+    {
+      "diff": 300546.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 292231.0,
+      "topic": "Late modern period"
+    },
+    {
+      "diff": 282130.0,
+      "topic": "Companies"
+    },
+    {
+      "diff": 281367.0,
+      "topic": "National football league competitions"
+    },
+    {
+      "diff": 281129.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 280324.0,
+      "topic": "Viruses"
+    },
+    {
+      "diff": 280126.0,
+      "topic": "Baseball personnel"
+    },
+    {
+      "diff": 275630.0,
+      "topic": "Decades"
+    }
+  ]
+}

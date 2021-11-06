@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-30",
+  "country": {
+    "code": "ESP",
+    "group": "es",
+    "name": "Spain"
+  },
+  "topics": [
+    {
+      "diff": 37504.0,
+      "topic": "Humanities"
+    },
+    {
+      "diff": 37404.0,
+      "topic": "Science"
+    },
+    {
+      "diff": 28406.0,
+      "topic": "History"
+    },
+    {
+      "diff": 26897.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": 26348.0,
+      "topic": "Branches"
+    },
+    {
+      "diff": 25652.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": 23528.0,
+      "topic": "Philosophy"
+    },
+    {
+      "diff": 21959.0,
+      "topic": "Mass media"
+    },
+    {
+      "diff": 20173.0,
+      "topic": "Accountability"
+    },
+    {
+      "diff": 19011.0,
+      "topic": "Performing arts awards"
+    },
+    {
+      "diff": 18506.0,
+      "topic": "Language"
+    },
+    {
+      "diff": 17212.0,
+      "topic": "Colombian music"
+    },
+    {
+      "diff": 16449.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": 15809.0,
+      "topic": "Human behavior"
+    },
+    {
+      "diff": 15737.0,
+      "topic": "Biology"
+    },
+    {
+      "diff": 14584.0,
+      "topic": "Concepts"
+    },
+    {
+      "diff": 14456.0,
+      "topic": "Academic disciplines"
+    },
+    {
+      "diff": 13132.0,
+      "topic": "Economy"
+    },
+    {
+      "diff": 13078.0,
+      "topic": "People"
+    },
+    {
+      "diff": 12947.0,
+      "topic": "Topic"
+    }
+  ]
+}

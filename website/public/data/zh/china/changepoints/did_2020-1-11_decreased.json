@@ -1,0 +1,90 @@
+{
+  "changepoint": "2020-01-11",
+  "country": {
+    "code": "CHN",
+    "group": "zh",
+    "name": "China"
+  },
+  "topics": [
+    {
+      "diff": -23441.0,
+      "topic": "Nationality"
+    },
+    {
+      "diff": -20336.0,
+      "topic": "History"
+    },
+    {
+      "diff": -18116.0,
+      "topic": "Century"
+    },
+    {
+      "diff": -16646.0,
+      "topic": "Occupation"
+    },
+    {
+      "diff": -15263.0,
+      "topic": "Establishments"
+    },
+    {
+      "diff": -14334.0,
+      "topic": "Culture"
+    },
+    {
+      "diff": -12433.0,
+      "topic": "South korean musicians"
+    },
+    {
+      "diff": -11940.0,
+      "topic": "Politics"
+    },
+    {
+      "diff": -11778.0,
+      "topic": "Technology"
+    },
+    {
+      "diff": -10886.0,
+      "topic": "Language"
+    },
+    {
+      "diff": -10865.0,
+      "topic": "Musicians"
+    },
+    {
+      "diff": -10367.0,
+      "topic": "Iranian culture"
+    },
+    {
+      "diff": -9977.0,
+      "topic": "Establishment"
+    },
+    {
+      "diff": -9709.0,
+      "topic": "Ancient near east"
+    },
+    {
+      "diff": -9659.0,
+      "topic": "Former countries"
+    },
+    {
+      "diff": -9562.0,
+      "topic": "Categories"
+    },
+    {
+      "diff": -9066.0,
+      "topic": "Korea"
+    },
+    {
+      "diff": -8668.0,
+      "topic": "Chemical substances"
+    },
+    {
+      "diff": -8552.0,
+      "topic": "Marxist theory"
+    },
+    {
+      "diff": -8414.0,
+      "topic": "Mass media"
+    }
+  ]
+}
